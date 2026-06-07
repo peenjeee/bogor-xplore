@@ -1,0 +1,7218 @@
+-- Run schema.sql first. This seed keeps IDs starting from 1.
+truncate table public.places restart identity;
+
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (1, 'Curug Ciampea', 'Arena', 'Arena', 'Curug Ciampea Bogor, adalah salah – satu pesona alam yang berada di kaki Gunung Salak. Sebagai sebuah penegasan bahwa kawasan tersebut memiliki kandungan air yang melimpah, serta pesona alam air terjun yang banyak, dan layak untuk dikunjungi.
+Trekking Menuju Curug Ciampea Bogor
+Trekking menuju lokasi utama Curug Ciampea Bogor dari lokasi parkiran memang cukup jauh. Maka pastikan kondisi tubuh anda dalam keadaan prima.
+Namun, meskipun jauh, jalurnya tidak terlalu curam. Hanya di lokasi yang dekat dengan Curug Ciampea saja yang cukup curam.
+Jalurnya sangat lebar, leluasa bagi para pejalan kaki. Karena perjalanannya menyusuri hutan pohon pinus. Selain itu, udara sekitar juga sangat menyejukan
+Sebagian besar kondisi jalur menuju lokasi utama Curug Ciampea Bogor akan terus menanjak. Dan anak tangganya masih berupa tanah yang dipadatkan oleh kayu, atau batang pepohonan.
+Trekking awal akan melewati lokasi bumi perkemahan Curug Ciampea. Kaum milenial merupakan wisatawan yang mendominasi aktivitas wisata camping tersebut.
+Kondisi jalur yang menanjak akan segera berakhir saat sampai di lokasi yang banyak kantinnya. Dari lokasi tersebut, view Curug Ciampea Bogor sudah bisa terlihat dengan indah.
+Lanjutkan trekking dari lokasi tersebut dengan menyusuri jalur yang menurun. Para pengunjung diharapkan berhati-hati saat di jalur tersebut, terutama saat musim hujan.
+Tidak lama berselang, para pengunjung akan sampai di lokasi dengan beberapa kantin yang berjajar. Di kantin tersebut juga terdapat fasilitas mushola, dan itulah area utama tujuan traveler.
+Pesona Keindahan Curug Ciampea Bogor
+Saat sampai di area utama, traveler tidak hanya akan menikmati 1 spot keindahan air terjun saja, namun setidaknya terdapat 3 keindahan air terjun dalam satu kawasan sekaligus.
+1.Green Lagoon
+Ternyata, bukan hanya di Curug Ngumpet saja terdapat lokasi Green Lagoon. Tetapi di Curug Ciampea juga terdapat lokasi yang bernama sama Green Lagoon.
+2.Curug Cipatat
+Terdapat spot air terjun lainnya yang bernama Curug Cipatat. Curug atau air terjun tersebut cukup tinggi, arus air yang turun juga cukup deras, serta airnya dingin dan menyegarkan.
+Kolam utamanya cukup lebar, berpadu dengan kehadiran tebing batu, serta pepohonan, yang memberikan keteduhan selama beraktivitas di area tersebut.
+3.Curug Ciampea
+Selanjutnya, aitu Curug Ciampea Bogor. Kata curug, memiliki arti yang sama dengan air terjun. Dan Curug Ciampea Bogor memiliki ketinggian sekita 50 meter.
+Kolam utamanya cukup besar, serta kolam Curug Ciampea terkenal sangat jernih, dan lokasi yang nyaman untuk melakukan aaktivitas berenang, ataupun mandi.
+4.Pesona Alam Sekitar
+Daya tarik selanjutnya adalah view alam sekitar. Sebagaimana dibahas sebelumnya bahwa lokasi Curug Ciampea Bogor berada di kawasan Gunung Salak, maka view alam yang masih asri adalah sajian view alam sekitar.
+Ragam Aktivitas Wisata Di Curug Ciampea Bogor
+Ragam aktivitas wisata yang dapat dinikmati oleh pengunjung selama berada di objek wisata Curug Ciampea Tenjolaya Bogor, adalah sebagai berikut :
+1.Berenang
+Ragam aktivitas wisata Curug Ciampea Bogor yang pertama tentu saja berenang, mandi, atau bermain air. Dengan kondisi air yang jernih, dan menyegarkan, semakin menambah kenikmatan saat berwisata ke Curug Ciampea Tenjolaya Bogor.
+Spot terbaik untuk berenang adalah di lokasi Green Lagoon, dan spot terbaik untuk mandi adalah di lokasi Curug Ciampea.
+2.Hunting Foto
+Keindahan curug atau air terjun, yang berpadu dengan keindahan alam sekitar, menjadikan kawasan objek wisata Curug Ciampea Bogor menjadi spot foto yang sering dikunjungi oleh para wisatawan.
+Hal tersebut menjadi sebuah penegasan bahwa di objek wisata Curug Ciampea Bogor tersaji keindahan alam yang sangat instagrammable.
+3.Camping
+Seperti yang telah disinggung di awal pembahasan, bahwa lokasi perkemahan Curug Ciampea berada di jalur trekking, serta di tengah hutan pohon pinus.
+Letaknya berada di ketinggian, sehingga dapat menyajikan view yang sangat elok. Dan para pengunjung wajib membawa jaket, karena cuacanya akan sangat dingin saat hari mulai sore.
+Alamat
+Curug Ciampea Bogor berada di Tapos I, Kecamatan Tenjolaya, Kabupaten Bogor, Provinsi Jaawa Barat.
+Fasilitas
+Tempat Parkir
+Kamar Mandi
+camp ground
+Harga Tiket
+Rp.22.000 untuk masuk
+Rp.30.000 untuk camp
+Jam Operasional
+Curug Ciampea Bogor buka dari hari Senin sampai dengan hari Minggu dengan jam operasional yaitu 24 jam, karena terdapat aktivitas wisata berupa camping.
+Sumber
+https://www.nativeindonesia.com/curug-ciampea/
+Article Tags: Kabupaten Bogor · Tenjolaya
+Article Categories: Air Terjun · Alam · Arena · Camping Ground', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-18/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/07/1-8-250x250.jpg', null, 1131, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (2, 'Bukit Cirimpak', 'Arena', 'Arena', 'Bukit Cirimpak salah satu camping ground yang ada di kota Bogor, Jawa Barat. Akhir-akhir ini native sering membahas mengenai tempat camping hingga villa.
+Karena saat ini wisata seperti itu cukup diminati oleh wisatawan, bahkan bukan hanya untuk mereka yang datang dari luar daerah saja.
+Hal tersebut dikarenakan kebutuhan akan tempat healing saat ini cukup meningkat, wisatawan banyak mencari lokasi untuk hulang-healing nyaman plus memiliki view yang menakjubkan.
+Berikut ulasan Bukit Cirimpak sebagai referensi awal tempat berkemah di Bogor, untuk dikunjungi akhir pekan ini atau saat liburan nanti.
+Daya Tarik Bukit Cirimpak
+1.View Gunung Gede Pangrango
+Bukit Cirimpak atau bisa disebut pula Bukici, salah satu camping ground di Bogor yang memiliki view keren. Dimana kamu akan menikmati gagahnya dua buah gunung sekaligus, yakni Gunung Salak dan Gunung Gede Pangrango.
+Ketinggian Bukit Cirimpak yakni 1.022 mdpl, dengan memiliki beberapa spot untuk mendirikan tenda. Yang menjadi favorit para pengunjung ialah area camping yang bernama Mawar.
+Letaknya berada di bagian paling atas Bukici, meski butuh effort yang lebih view yang disajikan nggak diragukan lagi. Spot camping yang satu ini selalu penuh apalagi di akhir pekan.
+City light di malam hari akan diawali dengan pesona sunset yang menakjubkan. Banyak pengunjung yang mengabadikan momen tersebut.
+Menikmati keindahan alam merupakan salah satu cara healing terbaik, percaya atau tidak dengan melihat keajaiban tangan Tuhan tersebut membuat kita menjadi lebih bersemangat lagi.
+2.Camping Favorit Di Megamendung
+Bukit Cirimpak merupakan camping ground favorit di Megamendung, area campingnya yang luas dapat menampung beberapa puluh tenda dalam satu waktu.
+Untuk camping di Bukit Cirimpak, kamu dapat menyiapkan sendiri ataupun dengan menyewanya. Harga sewa tenda dome dengan double layer mulai dari Rp. 90.000,- hingga Rp. 120.000,- dan langsung dipasangkan oleh pihak pengelola.
+Disini juga tersedia penyewaan peralatan lainnya, mulai dari sleeping bag, matras, kompor, hingga alat BBQ. Harga sewanya ialah dari Rp. 5.000,- hingga Rp. 45.000,-
+Paling seru melakukan camping bareng kawan, dan menghabiskan malam dengan seru. Kemudian beristirahat diiringi nyanyian alam yang menenangkan, untuk menggapai esok dengan jiwa yang lebih baik lagi.
+Lokasi Cirimpak
+Lokasi Bukit Cirimpak berada di Jl. Curug Panjang, Kecamatan Megamendung, Kabupaten Bogor, Jawa Barat.
+Fasilitas Cirimpak
+Toilet
+Warung makanan dan minuman
+Camping ground yang cukup luas
+Penyewaan peralatan tenda
+Mushola
+Area parkir kendaraan
+Harga Tiket Cirimpak
+Tiket masuk Bukit Cirimpak sebesar Rp. 35.000,- per orang
+Tiket masuk tersebut sudah termasuk biaya parkir plus titip helm
+Jam Operasional Cirimpak
+Jam buka Bukit Cirimpak setiap hari Senin hingga Minggu
+Beroperasional selama 24 jam non stop
+Instagram
+https://www.instagram.com/bukit_cirimpak/
+Sumber
+https://www.nativeindonesia.com/bukit-cirimpak/
+Article Tags: Kabupaten Bogor · Megamendung
+Article Categories: Alam · Arena · Camping Ground · Gunung & Bukit', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-7/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/07/1-5-250x250.jpg', null, 1533, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (3, 'Lembah Tepus', 'Arena', 'Arena', 'Lembah Tepus adalah destinasi wisata berupa sungai dan air terjun bertingkat di Bogor. Lokasinya termasuk dalam kawasan Taman Nasional Gunung Halimun Salak (TNGHS). Air terjun bertingkat dengan air yang berwarna biru jernih jadi daya tarik utamanya. Berpagar panorama alam yang asri, Lembah Tepus sangat pas menjadi ‘pelarian’ singkat di akhir pekan.
+Wisata Sungai & Air Terjun Bertingkat Lembah Tepus
+Berwisata ke Bogor rasanya tidak akan pernah terasa membosankan. Daerah ini selalu memiliki hal baru yang bisa ditawarkan. Potensi alamnya selalu jadi favorit terutama bagi warga di kota tetangganya. Salah satu keindahan alam yang belakangan semakin populer yaitu Lembah Tepus.
+Lembah Tepus merupakan aliran sungai di hutan dengan curug alami. Karena posisinya yang berada di lembah, air terjunnya membentuk beberapa tingkat secara alami. Lokasinya berada di hutan yang masih terjaga kelestariannya.
+Kondisi ini membuat kawasan wisata ini jadi primadona wisata terbaru dari TNGHS. Airnya yang berwarna biru dan jernih membuat siapapun terpesona. Terlebih lokasinya dekat dari ibukota Jakarta. Bagi yang mencari suasana alam untuk berakhir pekan, Lembah Tepus adalah tempat yang layak sebagai tujuan rekreasi.
+Trekking Singkat
+Memasuki kawasan wisata, pengunjung akan mendapati area parkir yang luas. Ada berbagai warung dan kios yang berdiri di sini. Sebelum masuk, pengunjung bisa membeli perbekalan yang diperlukan.
+Setelah melewati loket, wisatawan harus berjalan kaki menuju lokasi curug. Waktu tempuh sekitar 10 menit. Namun tenang saja karena jalan setapak yang dilalui tidak se-ekstrem jalan masuk area wisata ini. Jalan ini juga berhiaskan bunga-bunga layaknya taman di tengah hutan.
+Jalan setapak yang tersedia sudah rapi dan memiliki pagar pengaman. Sedangkan konturnya cukup landai dengan permukaan berbatu. Anak-anak maupun lansia bisa melakukan trekking dengan nyaman di sini. Sepanjang perjalanan, bunga-bunga cantik dan hutan yang asri di kanan-kiri akan memanjakan mata.
+Sebelum mencapai lokasi curug, terdapat sebuah musala. Tidak jauh dari sini, ada deretan toilet dan kamar mandi. Fasilitas ini tidak ada di sekitar area curug. Jadi, wisatawan yang ingin beribadah bisa berhenti dahulu di sini.
+Wisata Alam Instagramable
+Sebelum tiba di curug, wisatawan akan menyeberangi jembatan bambu sederhana. Jembatan ini melintang di atas aliran sungai utama Lembah Tepus. Kemudian dari jembatan ini, pengunjung bisa melihat pemandangan curug bertingkatnya.
+Daya tarik utama objek wisata ini yaitu sungai dengan air terjun dan kolam-kolamnya. Aliran sungai alaminya terisi batuan berukuran kecil hingga sangat besar. Diantara bebatuan tersebut, terdapat aliran air terjun.
+Di berbagai sudutnya, pengunjung dapat menjumpai kolam-kolam berbagai ukuran. Ada kolam sedalam 1 meter hingga 4 meter. Yang paling menarik perhatian tentu saja kualitas airnya. Air dari mata air pegunungan ini tampak berwarna biru dan sangat jernih.
+Kejernihan air di Lembah Tepus memang mengundang untuk diselami. Dengan mata telanjang saja, dasar kolam dan sungainya sudah bisa terlihat. Selain itu, airnya sejuk akan menyegarkan tubuh. Wisatawan bisa berenang di kolam-kolam yang tersedia.
+Untuk anak-anak, disarankan untuk bermain di kolam dengan kedalaman 1 meter. Ada penyewaan pelampung bagi yang ingin bermain di kolam yang lebih dalam. Petugas jaga akan terus memantau keamanan dan keselamatan pengunjung dari sekitar curug.
+Di sekitar sungai, terdapat warung dan sejumlah shelter. Shelter untuk tempat beristirahat ini memiliki desain yang agak unik. Posisinya sedikit ‘mengapung’ dan menggunakan perpaduan kayu dan tali. Talinya terbuat dari jaring yang bisa menjadi tempat bersantai bagi wisatawan.
+Lokasi Lembah Tepus
+Lembah Tepus adalah bagian dari Taman Nasional Gunung Halimun Salak (TNGHS). Tepatnya di Kampung Pasir Reungit, Desa Gunung Sari, Kecamatan Pamijahan, Kabupaten Bogor. Jalan masuknya berada di samping Villa Kita di Jalan Gunung Picung.
+Fasilitas Lembah Tepus
+Lembah Tepus memiliki area parkir yang luas. Warung atau kios bisa dijumpai di area parkir dan sekitar air terjun. Mushola, kamar mandi, dan ruang ganti berada beberapa meter sebelum lokasi curug. Banyak juga tersedia gazebo dan saung untuk beristirahat.
+Harga Tiket Lembah Tepus
+Masuk wisata 10.000
+Masuk Camping 30.000
+Jam Operasional Lembah Tepus
+Setiap Hari 07:00-17:00
+Camping 24jam
+Telepon
+0858-8377-1927
+Sumber
+https://travelspromo.com/htm-wisata/lembah-tepus-bogor/
+Article Tags: Kabupaten Bogor · Pamijahan
+Article Categories: Air Terjun · Alam · Camping Ground', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-5/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/07/1-3-250x250.jpg', null, 856, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (4, 'Sun Water Park Kahuripan', 'Arena', 'Arena', 'Sun Water Park Kahuripan menawarkan kawasan wisata dengan fasilitas kolam renang lengkap. Kurang lebih ada sekitar 6 wahana populer yang tersedia. Di antaranya kolam arus, kolam anak-anak, dewasa, ember tumpah, waterslide, dan air mancur. Selain kegiatan berenang, ada juga live music yang menampilkan penyanyi lokal bersuara merdu.
+Desain water park ini mengusung tema taman rekreasi air outdoor. Lokasinya yang strategis membuatnya mudah dijangkau wisatawan. Banyak sekali transportasi umum yang mengarah ke wisata ini. Salah satunya ada angkutan bus terdekat di stasiun Bojong gede dan Pabuaran.
+Beragam Jenis Kolam Renang Untuk Segala Usia
+Selanjutnya bagian belakang terdapat 4 kolam renang berukuran besar. Posisi paling kanan dilengkapi wahana seluncur ukuran mini untuk anak-anak. Kemudian di sebelah kirinya ada kolam  utama dan dua kolam menyatu yang memiliki wahana seluncur. Selanjutnya di bagian belakang terdapat kolam lingkaran dan persegi panjang yang memiliki wahana ember tumpah.
+Keseruan Meluncur Di Wahana Waterslide
+Wahana waterslide di Sun Waterpar hanya tersedia 2 buah saja. Satunya ada di kolam renang utama dan lainnya lagi di kolam renang anak-anak. Masing-masing mempunyai bentuk dan warna  yang berbeda-beda.
+Merasakan Sensasi Kesegaran Air Ember Tumpah
+Salah satu ikon taman bermain Sun Water Park yaitu wahana ember tumpah. Di sini pengunjung bisa merasakan siraman air seperti tengah diguyur hujan deras. Pertama-tama airnya akan ditampung pada sebuah ember. Begitu sudah penuh ember tersebut akan menumpahkan airnya ke kolam renang.
+Lokasi
+Sun Water Park berlokasi di Jalan Kampung Duren Seribu, Tegal, Kecamatan Kemang, Kabupaten Bogor, Jawa Barat.  Kalau dari pusat kota jaraknya kurang lebih sekitar 17 Km. Dengan waktu tempuh kurang lebih 48 menit berkendara.
+Fasilitas
+toilet, tempat makan, parkir, musala, dan ruang bilas. Selesai dari aktivitas berenang, beristirahatlah sejenak dengan duduk santai di area tamannya. Semisal penuh, alternatifnya bisa bersantai di gazebo.
+Harga Tiket Masuk Sun Water Park Kahuripan
+Jenis Tiket Harga
+Tiket Masuk Senin – Kamis Rp25.000
+Tiket Masuk Sabtu – Minggu Rp35.000
+Jam Operasional
+Loket Tiket 08.30 – 15.00 WIB
+Kolam Renang 08.30 – 16.30 WIB
+Jumat Tutup
+Telepon
+0818-0724-6669
+Sumber
+https://travelspromo.com/htm-wisata/sun-water-park-kahuripan-bogor/
+Article Tags: Kabupaten Bogor · Kemang
+Article Categories: Arena · Kolam Renang', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-37/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/06/sasd-250x250.png', null, 28, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (5, 'Lembah Pinus Camp & Café', 'Arena', 'Arena', 'Lembah Pinus Camp & Cafe merupakan salah satu wisata yang terletak di Kabupaten Bogor, Jawa Barat, tepatnya beralamat di Desa Wargajaya, Kecamatan Sukamakmur, Kabupaten Bogor. Bumi perkemahan baru berdiri pada tahun 2020 dan menyediakan beragam fasilitas menarik bagi wisatawan. Lokasinya di ketinggian mencapai 1.030 meter di atas permukaan laut (mdpl) membuat suhu rata-rata relatif sejuk dan dingin.
+
+Akses Menuju Lembah Pinus Camp & Café  
+Meski terletak di dataran tinggi, wisata ini cukup mudah dijangkau. Kondisi jalan yang tersedia, menunjang akses menuju lokasi Lembah Pinus Camp & Cafe. “Dari Terminal Cibinong 42 kilometer (km) ke arah timur atau 18 km dari Jonggol atau 12 km dari Kota Bunga Cipanas,”. Akses jalan sepanjang jalur menuju ke sana juga sudah berupa aspal hingga menuju lokasi parkir.
+Aktivitas Seru di Lembah Pinus Camp & Cafe Bogor
+Selain berkemah, wisatawan juga bisa menikmati aktivitas lain seperti berenang, tracking, dan memanggang daging atau barbeque party. Wisatawan juga bisa menjumpai sejumlah air terjun atau curug yang terletak tak jauh dari lokasi Lembah Pinus. Ada pula persawahan terasering seperti di daerah Ubud, Bali. Keunggulan ditempat ini yaitu bisa langsung menyaksikan sunrise serta lokasi ini merupakan area pengembaraan Elang jawa.
+Alamat
+9266+4C9, Jl. Puncak Dua, Wargajaya, Kec. Sukamakmur, Kabupaten Bogor, Jawa Barat 16830
+Fasilitas
+Area camp-nya terbagi atas blok jambore, blok mini garden, blok mini jungle, blok tepi sawah, blok tepi kolam renang, blok air terjun atau blok rasamala, dan terakhir blok pinus,”
+api unggun,
+ alat pemanggang
+ penyewaan tenda
+kolam ikan koi.
+Tempat parkir
+Toilet
+Terdapat listrik
+Harga  tiket masuk dan harga makanan minuman di cafe
+Biaya sewa tenda di Lembah Pinus Camp & Cafe mulai dari Rp 50.000 per orang untuk satu
+malam. Wisatawan yang ingin menyewa jasa pemandu trekking bisa membayar Rp 10.000 per orang.
+Harga makanan dan minuman di cafe tersebut berkisar antara Rp 5.000 sampai dengan Rp 25.0000 per porsi.
+Jam operasional
+Buka 24 jam
+Telepon
+08567090007
+082110851347
+081902023998
+Sumber
+https://travel.kompas.com/read/2021/10/01/101712027/kemah-di-lembah-pinus-camp-cafe-bogor-lihat-sunrise-dan-air-terjun?page=all
+Article Tags: Kabupaten Bogor · Sukamakmur
+Article Categories: Alam · Arena · Cafe & Resto · Camping Ground · Gunung & Bukit · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-25__trashed/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/05/re-250x250.jpg', null, 45, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (6, 'Bukit Alas Bandawasa', 'Arena', 'Arena', 'Bukit Alas Bandawasa merupakan area berkemah di kaki Gunung Salak, Bogor. Objek wisata ini menempati sebuah bukit yang menyajikan pemandangan Gunung Gede-Pangrango nan eksotis. Objek wisata ini menjadi tempat kegiatan berkemah bersama keluarga atau teman-teman.
+Lokasinya berada di dataran tinggi ini diselimuti udara segar dengan panorama Bogor dan Gunung Gede-Pangrango yang semakin memanjakan mata.
+Kaki Gunung Salak
+Bukit Alas Bandawasa adalah salah satu objek wisata di bogor yang terbilang baru. Meski masih baru, namun namanya sudah mengundang perhatian banyak pecinta wisata. Foto-foto suasana alam sekitarnya yang memukau berhasil menarik wisatawan untuk datang berkemah atau sekadar mengambil foto.
+Medan jalan menuju lokasi terbilang cukup menanjak. Jalannya agak sempit meski cukup untuk dua mobil berukuran kecil. Meski sudah beralas beton, namun kemiringannya cuku ekstrim. Jadi, pastikan menggunakan kendaraan dalam kondisi baik.
+Bukit Arena Berkemah Ceria
+Bukit Alas Bandawasa merupakan lahan luas yang berada di puncak bukit. Bukit ini masih menjadi bagian dari kawasan kaki Gunung Salak. Lokasi bukit ini menghadap ke arah dataran Bogor dan Gunung Gede-Pangrango. Lahan ini berkontur landai dan berundak. Sehingga wisatawan bisa mendirikan tenda dengan nyaman di sini. Areanya pun sangat luas dan cukup untuk lebih dari 30 tenda. Tidak hanya cocok untuk acara camping keluarga, tetapi juga kegiatan rombongan dalam jumlah besar.
+Panorama Alam
+Daya tarik utama yang ditawarkan Bukit Alas Bandawasa adalah panorama alam sekitarnya. Pemandangannya tidak pernah membosankan untuk dinikmati kapan saja. Pagi hari adalah waktu yang tepat untuk menyaksikan matahari terbit. Biasanya ditambah dengan lautan awan yang menutupi dataran Kabupaten Bogor di bawahnya. Menjelang malam, langit senja yang cantik akan menghiasi kawasan ini. Namun, wisatawan memang tidak dapat menyaksikan sunset dengan sempurna karena bukit ini menghadap ke arah timur sehingga lebih cocok untuk berburu sunrise.
+Lokasi Bukit Alas Bandawasa
+Area bumi perkemahan ini terletak di kaki Gunung Salak, tepatnya di Desa Pasir Jaya, Kecamatan Cigombong, Kabupaten Bogor. Lokasinya hanya bisa dijangkau dengan kendaraan pribadi. Rute dari Kota Bogor menuju selatan ke arah Bogor Mini Zoo. Melalui Jalan Raya Cijeruk, kemudian belok ke arah barat dan lurus terus ke atas.
+Fasilitas Bukit Alas Bandawasa
+Fasilitas yang tersedia di bumi perkemahan Bukit Alas Bandawasa sangat lengkap dan memadai. Terdapat area parkir yang luas, toilet, musala, dan warung makan. Tempat ini juga menyediakan penyewaan peralatan camping seperti tenda, tikar, dan lain-lain.
+Jam operasional
+Selalu buka 24 jam
+Harga Tiket Masuk
+Harga Tiket Masuk Rp5.000/orang
+Tiket Camping Rp20.000/orang
+Parkir Rp5.000 – Rp10.000
+Instagram
+Bukit­­­­­_alasbandawasabogor
+Sumber
+https://travelspromo.com/htm-wisata/bukit-alas-bandawasa-bogor
+Article Tags: Cigombong · Kabupaten Bogor
+Article Categories: Alam · Arena · Camping Ground · Gunung & Bukit · Hiking / Tracking · Olahraga', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-23/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/05/5-250x250.jpg', null, 45, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (7, 'Nirwana Golden Park', 'Arena', 'Arena', 'Kolam Renang Nirwana Golden Park merupakan kolam renang yang berada didalam komplek perumahan Nirwana Golden Park Cibinong. Kolam renang ini awalnya dibuat sebagai fasilitas pelengkap untuk para member fitness di komplek perumahan ini, tetapi seiring berjalannya waktu kolam renang ini dibuka juga untuk umum.
+Kolam renang yang tersedia disini hanya ada 1 dengan luas kurang lebih 30 meter dengan kedalaman mulai dari ketinggian 0.5 meter sampai 1.5 meter.  Air kolamnya cukup bersih serta dilengkapi dengan 2 buah waterbom slider dan sebuah ember tumpah berukuran sedang.
+Alamat
+GR6J+7R3, Jl. Nirwana Golden Park, Pakansari, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16915
+Lokasi ini cukup mudah diakses dari berbagai arah, Patokan utamanya adalah Gerbang utama Jl. Tegar Beriman Kawasan Pemda Bogor (Cibinong City Mall) lalu masuk kurang lebih sekitar 1 KM hingga SPBU, lalu belok kiri kearah GOR Pakansari. sekitar 500 meter sebelum GOR belok kanan masuk keperumahan Nirwana Golden Park yang bisa ditanyakan langsung pada petugas security yang berjaga di gerbang masuk perumahan.
+Faslitas
+Tersedia ruang bilas yang cukup, air lancar dan bersih, terpisah pria dan wanita. Ada juga tempat bilas outdoor. Ada juga kantin yang menjual makanan dan minuman namun hanya buka pada saat weekend saja. Ada tenda tempat berteduh lengkap dengan meja dan kursi. 
+Jam operasional
+08.00-18.00
+Tiket Masuk
+Harga Tiket Kolam Renang Nirwana Golden Park
+Weekday Rp. 20.000/Orang
+Weekend Rp. 25.000/Orang
+High Season Rp. 30.000/Orang
+Telepon
+(021) 8753755
+Sumber
+https://pagguci.com/kolam-renang-nirwana-golden-park/
+Article Tags: Cibinong · Kabupaten Bogor · pakansari
+Article Categories: Arena · Kolam Renang · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-22/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/05/2-2-250x250.jpg', null, 38, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (8, 'Rumah Ibu Waterboom', 'Arena', 'Arena', 'Rumah Ibu Waterboom merupakan salah satu wahana waterboom yang terletak di Cobinong. Lokasinya memang masuk ke Kecamatan Bojonggede, tetapi sangat dekat dengan perbatasan Cibinong. Tepatnya berada di dekat jembatan sungai Ciliwung yang ke arah Bambu Kuning dari perempatan Pemda – Sukahati atau dekat dengan Excelso Ruko Graha Kartika Pratama.
+
+Wahana disini cukup lengkap jika untuk memanjakan anak bermain air, tidak kalah dengan Waterboom lainnya, hanya tempatnya tidak terlalu besar. Mungkin jika peminatnya semakin banyak, tidak menutup kemungkinan akan diperluas lagi.
+
+Tiket masuk ke Waterboom Rumah Ibu sangat terjangkau yaitu Rp. 35.000 untuk Weekdays (Senin-Jumat) dan Rp. 50.000 untuk Weekend (Sabtu & Minggu)
+Alamat
+Jl. Tegar Beriman, Bojong Baru, Kecamatan Bojonggede, Kabupaten Bogor, Jawa Barat 16920
+Fasilitas
+Tempat parkir yang luas
+Kolam ada 4
+Perosotan banyak
+Kamar mandi
+Penyewaan ban
+Tempat duduk
+Ada warung
+          Jam operasional
+08.00-17.00
+Harga tiket
+Weekday 35.000
+Weekend 50.000
+Telepon
+(021) 83711117
+Sumber
+https://www.cibinongonline.com/2019/01/waterboom-rumah-ibu-cibinong.html
+Article Tags: Bojonggede · Kabupaten Bogor
+Article Categories: Arena · Kolam Renang · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-21/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/05/555-250x250.jpg', null, 38, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (9, 'Gumati Waterpark', 'Arena', 'Arena', 'Faksi pengurus menyengaja pilih tempat di pedalaman supaya situasi asri dan jauh dari keramaian kota. Tempat taman bermain air ini mempunyai luas keseluruhan sejumlah 1,5 ha. Berada di pedalaman dusun Cikeas, Bogor jadikan situasi di kolam renang berasa sejuk dan asri.
+Info penting saat sebelum bertandang ke Gumati Waterpark:
+Tidak boleh membawa makanan dan minuman dalam tas jinjing, plastik, rantang, dalam bentuk apa pun.
+Tidak boleh membawa makanan nasi bungkus, mie cup, dan nasi kotak.
+Pengunjung hanya dapat membawa makanan dan minuman dalam ukuran kecil.
+Pengunjung yang mempunyai balita bisa bermain di kolam anak dengan kedalaman air sekitaran 30 cm sampai 50 cm. Ada beragam permainan di kolam anak yang bisa di nikmati. Ember yang menumpahkan air tiap 10 menit sekali Disamping itu, ada banyak jenis papan seluncur dengan ketinggian dan wujud melingkar atau lempeng ke kolam.
+Pengunjung dewasa tak perlu cemas tidak bisa nikmati rekreasi di Gumati Waterpark Bogor. Ada kolam Olympic untuk olahraga renang dengan kedalaman 135 cm.
+Untuk pengunjung yang menyukai rintangan harus coba sarana satu ini. Waterboom sebagai papan seluncur yang ke arah kolam dengan ketinggian yang bermacam untuk melawan adrenalin. Untuk naiki sarana ini bisa memakai ban, yang bisa di sewa. Dua tipe ban yang bisa di carter yakni Ban ban ganda dan singgel. Cicipi kesan melaju dari ketinggian dengan coba beragam jenis wujud papan seluncur waterboom yang di sediakan.
+Kolam arus jadi bintang setiap waterpark yang bisa dicicipi pengunjung anak-anak atau dewasa. Mempunyai panjang 250 mtr., kolam arus melingkari tempat Gumati Waterpark Bogor.
+Pengunjung bisa santai melingkari kolam dengan ban yang telah disewa. Arus air yang mengucur membuat anda tak perlu berenang tetapi tergerak sendirinya seperti pada sungai.
+Alamat 
+Jl. Babakan Tumas No.16, Cikeas, Kec. Sukaraja, Kabupaten Bogor, Jawa Barat 16710
+Fasilitas
+Sarana yang ada untuk mendukung service pengunjung benar-benar komplet yakni toilet, kamar mandi atau kamar kamar tukar, dan basuh. Ada persewaan loker untuk barang bawaan pengunjung pada harga Rp 10.000 per loker.
+Harga tiket
+Tiket Masuk Weekday Rp40.000
+Tiket Masuk Weekend Rp60.000
+Jam operasional
+Weekday 08.00-17.00
+Weekend 08.00-18.00
+Telepon
+0812-8817-2123
+Sumber
+https://liburanyuk.co.id/gumati-waterpark-bogor/
+Article Tags: Kabupaten Bogor · Sukaraja
+Article Categories: Arena · Kolam Renang · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-20/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/05/76-250x250.jpg', null, 34, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (10, 'Boash Waterpark', 'Arena', 'Arena', 'Boash Waterpark yang ada di Bogor merupakan wahana wisata air terbaru di Bogor. Lokasinya berada di tengah kota, sehingga mudah dijangkau dari mana saja. Di kolam ini sendiri, terdapat banyak kolam renang yang sangat menarik. Tak hanya dari kedalamannya, tiap kolam pun memiliki ciri khas tersendiri.
+Kolam renang ini tak hanya memiliki banyak macam, tapi juga luas. Bagi orang dewasa dan bertujuan berenang, tersedia kolam khusus. Memang tanpa permainan, dan kedalamannya juga tidak cukup bagi orang dewasa. Ukurannya pun luas, tiga kali bolak-balik kolam cukup membuat semua tubuh bergerak. Di kolam ini juga terkadang digunakan untuk latihan para atlet. Atau para orang tua yang sedang melatih anak mereka berenang.
+Selain itu, terdapat kolam favorit lainnya, di mana kolam tersebut berbentuk persegi. Namun, di tengahnya terdapat kolam, lengkap dengan gazebo dan seluncuran mini. Sehingga, aliran air mengelilingi taman ini, tampak seperti sungai. Kolam di sini pun terbilang dangkal, sehingga dapat menjadi wahana bermain air bagi anak-anak.
+Lokasi Boash Waterpark Bogor
+Kolam renang dan waterpak ini berada di Desa Bantarsari, Kecamatan Ranca Bungur, Kabupaten Bogor. Lokasinya berjarak sekitar 10 Kilometer dari kota Bogor. Bisa ditempuh dalam waktu kurang lebih 50 menit berkendara.
+Fasilitas Boash Waterpark Bogor
+Toilet
+kamar ganti
+tempat bilas
+loker
+gazebo
+mushola
+food court
+parkiran yang luas
+Jam operasional
+Selasa 08.00–16.00
+Rabu 08.00–16.00
+Kamis 08.00–16.00
+Jumat 08.00–16.00
+Sabtu 08.00–16.00
+Minggu 08.00–16.00
+Senin 08.00–16.00
+Telepon
+0813-9840-4384
+SUMBER
+https://travelspromo.com/htm-wisata/boash-waterpark-bogor/
+Article Tags: Kabupaten Bogor · Rancabungur
+Article Categories: Arena · Kolam Renang · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-16/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/05/00-250x250.jpg', null, 31, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (11, 'Puncak Lalana', 'Arena', 'Arena', 'Di Kabupaten Bogor terdapat destinasi wisata alama yang bernama Puncak Lalana. Puncak Lalana ini memili tinggi 385 mdpl. Puncak Lalana merupakan bagian dari Gunung Kapur Ciampea, bukit ini cocok untuk pendaki pemula karena durasi pendakiannya singkat. Pendakiannya dapat ditempuh hanya dalam waktu satu jam saja. Namun, meski durasinya singkat, jalurnya cukup menantang dengan medan terjal dan terus menanjak sampai puncak.  
+Permukaan jalan berupa tanah merah yang dapat menjadi sangat licin setelah diguyur hujan. Terdapat banyak batuan karang juga akan dilalui pendaki sebelum sampai di puncak. Untuk memudahkan pendaki, pengelola menyiapkan tali anyaman pada jalur pendakian. Untuk keselamatan saat mendaki disarankan untuk menggunakan alas kaki yang sesuai, terutama yang tidak licin saat digunakan di jalur tanah dan bebatuan. Selain itu, kenakan juga pakaian yang nyaman dan hindari bahan jeans yang ketat karena bisa membatasi ruang gerak. 
+Di Puncak Lalalan ini pendaki dapat menikmati pemandangan alam sekitar bukit maupun kota-kota kecil di kejauhan. Pemandangan tersebut akan terlihat indah terutama ketika malam hari saat lampu-lampu di kota tampak gemerlapan. Bagi pendaki yang ingin menikmati sunrise ditempat ini terdapat lahan yang dapat digunakan untuk mendirikan tenda. Tempatnya cukup luas yang bisa menampung sampai 10 tenda. Pengelola menyediakan tenda dan perlengkapannya.
+Untuk menuju ke destinasi wisata alam ini bisa tempuh dengan berkendara selama sekitar satu jam dari pusat kota Bogor. Mendekati lokasi, terdapat papan direktur Puncak Lalana. Dari situ, ikuti jalan hingga tiba di pos pendakian untuk memarkirkan kendaraan dan membayar tiket. 
+Alamat:
+CMWM+P9M, Cibadak, Kec. Ciampea, Kabupaten Bogor, Jawa Barat 16620
+Fasilitas
+Tempat parkir yang luas
+Toilet di pos pendakian
+Musholah di pos pendakian
+Hingga warung warung
+Harga tiket
+Biaya masuk Rp.10.000
+Biaya kemah Rp.10.000
+Parkir motor Rp.5.000
+Parkir mobil Rp.10.000
+Jam:24jam buka
+Telepon: 0857-1622-5566
+Sumber
+https://getlost.id/2021/03/09/trekking-ke-puncak-lalana-seru-dan-menantang
+Article Tags: cibadak · Kabupaten Bogor
+Article Categories: Alam · Arena · Camping Ground · Gunung & Bukit · Hiking / Tracking · Olahraga', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-13/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/05/0-250x250.jpg', null, 43, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (12, 'Ranggon Hills Bogor', 'Arena', 'Arena', 'Ranggon Hills Bogor adalah sebuah tempat wisata Bogor di kaki Gunung Salak dengan pemandangan alam yang luar biasa.
+Nah, pemandangan tersebut dipadukan dengan berbagai fasilitas berfoto yang tersedia di sini, membuat Ranggon Hills jadi salah satu tempat wisata instagramable di Bogor yang patut Moms datangi.
+Paket berkemahnya sudah termasuk trekking ke Curug Pangeran, dan juga layanan sarapan, makan siang, makan malam, snack, serta aktivitas api unggun.
+Paket berkemahnya sudah termasuk trekking ke Curug Pangeran, dan juga layanan sarapan, makan siang, makan malam, snack, serta aktivitas api unggun.
+Ranggon Hills merupakan tempat wisata yang terletak di Kawasan Taman Nasional Gunung Halimun Salak (TNGHS), tepatnya di Kecamatan Pamijahan, Bogor, Jawa Barat. Tempat wisata ini menghadirkan beberapa spot foto yang menarik dan instagramable, mulai dari ranggon, jembatan gantung, getek bambu, sarang burung, klasik, meja rentek, rumah pohon, balon udara, permadani terbang, ayunan, sepeda gantung, bunga matahari, dan masih banyak lagi. Bukan hanya itu, Ranggon Hills juga menyuguhkan.
+Alamat
+Gn. Picung, Kec. Pamijahan, Kabupaten Bogor, Jawa Barat 16810
+Fasilitas
+1. Area Parkir
+2. Toilet
+3. Spot Foto Selfie
+4. Bumi Perkemahan
+5. Kafe
+6. Gazebo/Pendopo untuk Santai
+Tiket Masuk
+Tiket masukRp 10.000
+Tiket masuk Gunung Salak EndahRp 30.000
+Jam Buka
+Pukul 08.00-17.00
+Instagram (wisataranggonhills)
+Sumber
+https://atourin.com/destination/bogor/ranggon-hills
+Article Tags: Kabupaten Bogor · Pamijahan
+Article Categories: Alam · Arena · Camping Ground · Gunung & Bukit · Seni Budaya · Wisata Religi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/ranggon-hills-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/05/p-250x250.png', null, 37, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (13, 'Puncak Palasari', 'Arena', 'Arena', 'Destinasi ini memang belum sepopuler tempat wisata lain di Bogor, namun pesona alam yang disuguhkan tak kalah menarik. Untuk mencapai base camp, kamu bisa menggunakan kendaraan pribadi dengan durasi perjalanan sekitar dua jam dari pusat kota Jakarta.
+Setelah itu, kamu bisa memulai pendakian untuk mencapai Puncak Palasari yang berada di ketinggian 1.029 mdpl. Jarak dari base camp menuju pos 1 relatif singkat dan mudah, yakni sekitar 10 menit dengan trek melalui area persawahan.
+Barulah selewat pos 1, jalurnya lebih terjal dan terus menanjak dengan perkebunan dan pepohonan di sekitarnya. Durasi perjalanan dari pos 1 ke pos 2 sekitar 30 menit. Bila lelah, kamu bisa beristirahat sebentar di pos 2 sebelum melanjutkan perjalanan ke puncak selama sekitar 10 menit.
+Disarankan melakukan hiking di sore hari ketika udaranya lebih sejuk, karena di sepanjang perjalanan tak banyak dijumpai pohon rindang. Selain itu, kamu tak perlu terburu-buru berjalan untuk menghindari cuaca terik dan bisa lebih menikmati pemandangan sekitar.
+Bila momennya pas dan cuaca sedang cerah, kamu bisa duduk-duduk santai di puncak sembari menyaksikan pemandangan matahari terbenam yang indah dengan langit yang berwarna biru dan kuning keemasan. Namun jangan keasyikan ya, segera cari spot untuk mendirikan tenda.
+Tak perlu khawatir kekurangan air, karena kamu bisa menemukan sumber air dengan berjalan kaki tak sampai 10 menit dari puncak. Karena dipakai pula oleh pendaki lain, jangan sampai mengotorinya ya. Jaga pula kebersihan lingkungan selama hiking maupun saat berkemah.
+Karena tak ada lokasi penyewaan tenda di lokasi, bawa sendiri perlengkapan yang kamu butuhkan untuk berkemah, termasuk peralatan masak dan perbekalan. Pastikan juga kendaraan dalam kondisi prima karena jalan menuju base camp masih belum diperbaiki dan cukup terjal.
+Alamat
+Sukamakmur, Kec. Sukamakmur, Kabupaten Bogor, Jawa Barat 16830
+Fasilitas
+Tempat parkir yang luas
+Camp ground yang luas
+Terdapat mata air
+Harga tiket masuk
+tiket masuk sebesar Rp15.000
+biaya parkir Rp10.000
+Jam operasional
+Selasa Buka 24 jam
+Rabu Buka 24 jam
+Kamis 05.00–15.30
+Jumat 13.00–00.00
+Sabtu Buka 24 jam
+Minggu Buka 24 jam
+Senin Buka 24 jam
+Telepon
+0857-8005-0213
+Sumber
+https://getlost.id/2021/11/09/hiking-tipis-tipis-ke-puncak-palasari
+Article Tags: Sukamakmur
+Article Categories: Alam · Arena · Camping Ground · Gunung & Bukit · Hiking / Tracking · Olahraga', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-9/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/05/4-250x250.jpg', null, 37, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (14, 'Bukit Cita-Cita', 'Arena', 'Arena', 'Sedang mencari lokasi camping baru yang dekat Jakarta dan sekitarnya? Bukit Cita-cita yang bisa diakses sekitar satu jam dari pusat kota Bogor bisa menjadi destinasimu berikutnya.
+Berada di Desa Tugu Utara, Kecamatan Cisarua, Kabupaten Bogor, camping ground satu ini terletak strategis, hanya berjarak 1,5 km dari Jalan Raya Puncak. Kamu juga bisa dengan mudah mencarinya di Google Maps dengan memasukkan “Bukit Cita-cita” di kolom pencarian.
+Mengusung slogan Effortless Adventure , Bukit Cita-cita dirancang untuk memanjakan wisatawan dengan menyediakan area berkemah yang dilengkapi beragam fasilitas, termasuk persewaan tenda. Dengan demikian, pengunjung bisa datang tanpa perlu membawa perlengkapan berkemah. Cukup bawa kebutuhan pribadi, seperti pakaian, perlengkapan, dan obat-obatan.
+Biayanya pun terjangkau. Tiket masuk camping ground sebesar Rp20.000 per orang, sementara biaya parkir kendaraan Rp5.000. Bila tak bawa tenda, kamu bisa menyewanya dengan biaya mulai Rp120.000 untuk kapasitas 4 orang. Fasilitas lain termasuk spot foto, toilet, musala, dan listrik.
+Menariknya, kalau membawa serta teman dan anggota keluarga, kamu bisa memesan paket camping mulai Rp150.000 per orang per malam (minimal 10 orang). Biaya tersebut sudah termasuk tenda, kasur, bantal, selimut, makan dua kali, snack satu kali, api kejayaan, tiket masuk, dan gratis parkir kendaraan.
+Selagi berkemah, kamu bisa menikmati pemandangan alam yang cantik dengan Gunung Gede, Gunung Pangrango, dan Gunung Salak sebagai latarnya. Karena berada di ketinggian 1.200 mdpl, udaranya pun sejuk, dan bisa semakin dingin di malam hari, sehingga pastikan membawa pakaian hangat.
+Alamat:
+Citamiang cisarua puncak, Bogor, Tugu Utara, Kec. Cisarua, Kabupaten Bogor, Jawa Barat 16750
+Fasilitas
+spot foto
+toilet
+ musolah
+ listrik
+camp ground
+tempat parkir
+Harga tiket
+Tiket masuk camping ground sebesar Rp25.000 per orang
+biaya parkir kendaraan Rp5.000
+kamu bisa memesan paket camping mulai Rp150.000 per orang per malam (minimal 10 orang). Biaya tersebut sudah termasuk tenda, kasur, bantal, selimut, makan dua kali, snack satu kali, api kejayaan, tiket masuk, dan gratis parkir kendaraan.
+Jam operasional
+24 jam buka
+Telepon:
+0877-7069-5353
+Sumber
+https://getlost.id/2021/08/24/bukit-cita-cita-destinasi-camping-baru-di-cisarua
+Article Tags: Cisarua · Kabupaten Bogor
+Article Categories: Alam · Arena · Camping Ground · Gunung & Bukit · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/bukit-cita-cita/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/05/e-250x250.jpg', null, 27, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (15, 'Rafting Bogor Cisadane', 'Arena', 'Arena', 'Lokasi Rafting Bogor kami terletak di Sungai cisadane Bogor, Tidak jauh dari tol caringing Bogor hanya 10 menit dari tol caringin Bogor. Kami telah melayani ribuan peserta rafting dengan moto kami Safety & Fun. Jadwalkan survey rafting ke lokasi kami.
+Outbound Training & Training Soft Skill, Dengan metode EXPERIENTAL LEARNING ( Belajar dari Pengalaman ) dikemas dengan kegiatan yang dinamis dan ceria.
+Program yang kami rancang bertujuan untuk mengakomodir berbagai tujuan akan pengembangan Sumber Daya Manusia agar lebih maju dan berkembang baik dari sisi Komunikasi, Kepemimpinan, Kerjasama, Prilaku, Problem Solving.
+Outbound Training & Training Soft Skill, Dengan metode EXPERIENTAL LEARNING ( Belajar dari Pengalaman ) dikemas dengan kegiatan yang dinamis dan ceria.
+Program yang kami rancang bertujuan untuk mengakomodir berbagai tujuan akan pengembangan Sumber Daya Manusia agar lebih maju dan berkembang baik dari sisi Komunikasi, Kepemimpinan, Kerjasama, Prilaku, Problem Solving.
+Alamat:
+ jl.Muara Jaya, Kec. Caringin, Kabupaten Bogor, Jawa Barat 16110
+Fasilitas
+Parkir
+Restaurant Sunda
+Ruang Ganti
+Toilet
+Shower
+Gazebo
+Foot Theraphy
+Free Wifi
+Outbound
+Paint Ball
+Archery
+Harga Tiket
+• Arung Jeram (Rafting) Rp. 180.000,- / Pax
+• Archery
+• War Game : Durasi -/+ 30 Menit Arrow 15 Rp. 80.000,-
+• Shooting Target : Durasi -/+ Menit Arrow 5 Rp. 30.000,-
+Jam Oprasional
+8.30 AM – 5.00 PM
+Sumber
+https://raftingcisadanebogor.com/
+Article Tags: Caringin
+Article Categories: Air Terjun · Alam · Arena · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/rafting-bogor-cisadane/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/05/hh-250x250.jpg', null, 24, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (16, 'Kolam Gunung Leutik Bolang Bogor', 'Arena', 'Arena', 'Berenang memang merupakan salah satu jenis olahraga yang seru untuk dilakukan. Termasuk berenang di Kolam renang Tirta Alam Gunung Leutik ini. Apalagi jika berenang di kolam yang airnya jernih, pasti sangat menyegarkan. Bagi sebagian besar orang, berenang juga menjadi aktifitas yang efektif untuk menghilangkan rasa penat.
+Kolam Renang Tirta Alam Gunung Leutik Bolang ini berada di kawasan yang memiliki pesona keindahan alam yang luar biasa. Suhu udaranya sejuk, dan juga dikelilingi alam yang sangat indah dan memanjakan mata.
+ALAMAT:
+Jl. Raya Kadaka Kp. Bolang No.34, Argapura, Kec. Cigudeg, Kabupaten Bogor, Jawa Barat 16660
+Fasilitas di Kolam Renang Tirta Alam Gunung Leutik
+tempat parkir
+gazebo sebagai tempat bersantai atau istirahat
+kamar mandi
+toilet
+musholla
+loker
+warung makan
+Harga Tiket Masuk
+Harga tiket masuk sebesar Rp 15.000 per orang pada hari biasa, dan sebesar Rp 20.000 pada hari libur.
+Jam Operasional
+07.00 – 17.00
+Telepon
+0812-1990-7068
+Sumber
+https://www.poinhome.id/info-area/kolam-renang-tirta-alam-gunung-leutik-bolang-bogor
+Article Tags: Cibungbulang
+Article Categories: Arena · Kolam Renang · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kolam-gunung-leutik-bolang-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/05/bb-1-250x250.jpg', null, 18, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (17, 'Sagoro Hills', 'Arena', 'Arena', 'Sagoro Hills merupakan obyek wisata yang berada di daerah Cisarua Bogor. Dengan kesejukan dan pemandangan alam yang menyejukan hati dan pikiran, tempat ini sangat cocok untuk anda yang ingin berakhir pekan bersama teman ataupun keluarga.
+Instagram : @sagorohills.campsite
+Berada di ketinggian 500 sampai 1200 m dari permukaan air laut membuat udara di Sagoro Hills, Puncak Bogor relatif lebih sejuk. Dengan 360º pemandangan dikelilingi oleh perbukitan dan langsung menghadak ke gunung gede- pangrango. Sagoro Hills banyak menyediakan kegiatan seperti Camping ground, Campervan, Glamcamp, Paintball, Off road. yang bisa dinikmati oleh para wisatawan.
+Lokasi
+Cilember, Kec. Cisarua, Kabupaten Bogor, Jawa Barat 16750
+Fasilitas
+Tempat Parkir
+Toilet
+Mushola
+Aula
+Campervan
+Off-road
+Resto & Cafe
+Lapangan Kegiatan
+Camping Area
+Spot Foto
+Jam Operasional
+Minggu – Jum’at : 09.00 – 22.00
+Sabtu : 09.00 – 21.00
+Media Sosial
+Instagram
+WhatsApp
+Article Tags: Cisarua
+Article Categories: Alam · Arena · Camping Ground · Gunung & Bukit', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/sagoro-hills/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/1667979177496-250x250.jpg', null, 24, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (18, 'Kawah Ratu', 'Arena', 'Arena', 'Kawah Ratu merupakan kawah yang terbentuk dari erupsi yang terjadi di Gunung Salak. Erupsinya begitu dahsyat sehingga membentuk kawah dengan kandungan belerang. kawasan ini memiliki pemandangan yang begitu memikat. Batu-batuan yang tak beraturan tersebar di berbagai tempat, membuatnya begitu artistik. Ditambah dengan air dari kawah yang berwarna biru tosca menjadi daya tarik tersendiri. 
+google map/Ursula P. Maker
+Di sini, wisatawan juga dapat menikmati sensasi berkemah,Telah tersedia area perkemahan yang dapat menampung banyak tenda. Dengan berkemah, wisatawan dapat menikmati sejuk dan indahnya kawasan Kawah Ratu.
+Di pagi hari, wisatawan dapat menyaksikan keindahan matahari terbit. Apalagi jika bisa mendaki ke puncak Gunung Salak yang tak jauh dari titik perkemahan. Menikmati keindahan alam sambil menanti munculnya matahari pagi. Tentu akan menjadi pengalaman tersendiri yang tak terlupakan.
+goole map/Hendi Yuda pratama
+goole map/ frederick rickytinq
+google map/Panca Eka Putra
+Lokasi
+Gunung Sari, Pamijahan, Bogor Regency, West Java 16810
+Jam Operasional
+08:00-17:00
+Tiket Masuk
+per orang Rp15.000
+Sumber
+https://travelspromo.com/htm-wisata/kawah-ratu-bogor/
+Article Tags: Pamijahan
+Article Categories: Alam · Camping Ground · Gunung & Bukit · Hutan Lindung', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kawah-ratu/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/2021-11-30-min-250x250.jpg', null, 19, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (19, 'Telaga Batu', 'Arena', 'Arena', 'Di kabupaten Bogor ada tempat wisata alam baru bernama Telaga Batu Bogor. Selain disugukan pemandangan alamnya yang indah, Telaga Batu juga menjadi pilihan yang sangat tepat untuk sejenak menghilangkan rasa penat. Dimana warna air dari Telaga ini yang sangat jernih berwarna kebiruan. Warna kebiruan ini memang alami bukan buatan. Hal ini dikarenakan airnya yang berasal dari mata air Gunung Salak.
+google map/ Telaga Batu
+Destinasi wisata ini sangat cocok bagi yang ingin berpetualang, berenang ataupun berkemah. Alam sekitarnya masih sangat asri dengan pepohonan tumbuh di sekelilingnya. Obyek wisata ini juga masih termasuk di dalam kawasan Taman nasional gunung salak. Areanya sangat tenang sehingga cocok untuk menyegarkan pikiran dari rutinitas harian.
+google map/
+ Muhamad Haikal
+google map/
+ Telaga Batu
+Jam Operasional
+senin-minggu 08:00-16:00
+Tiket Masuk
+tiket masuk Rp10.000
+Tiket Camping Weekdays (Senin-Jumat) Rp25.000
+Tiket Camping Weekend (Sabtu-Minggu) Rp35.000
+Sewa Sleeping Bag Rp25.000
+Sewa Flysheet Rp35.000
+Sewa Tenda Kapasitas 4-5 Rp130.000
+Sewa Tenda Kapasitas 8-10 Rp250.000
+Lokasi
+Jl. Curug Pangeran, Gn. Picung, Kec. Pamijahan, Kabupaten Bogor, Jawa Barat 16810
+Sumber
+https://travelspromo.com/htm-wisata/telaga-batu-bogor/
+Article Tags: Pamijahan
+Article Categories: Agrowisata · Alam · Camping Ground · Hutan Lindung · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/telaga-batu/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/2022-03-30-min-min-250x250.jpg', null, 24, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (20, 'Nangka Waterfall', 'Arena', 'Arena', 'curug yang satu ini dianggap tua dan telah diakui oleh penduduk setempat selama beberapa generasi. Tak heran, wisatawan luar juga tertarik untuk mengunjungi lokasi tersebut terutama untuk menikmati camping, eksplorasi, pramuka, fotografi, dan berbagai aktivitas menyenangkan lainnya. Itu berarti ia memiliki popularitas yang lebih baik daripada yang lain karena usia dan pemandangannya yang menakjubkan.
+google map/ Apriyanti
+Bagi wisatawan yang ingin menikmati petualangan di alam terbuka, Curug Nangka juga menyediakan fasilitas berkemah (camping). Lokasi camping berada tidak jauh dari lokasi Curug Nangka.
+google map/Rohimhood Rohimhood
+google map/ Agoes Sumaryanto
+google map/Ali Yawar
+Jam Operasional
+senin-jumat 08:00-16:30
+sabtu-minggu 08:00-18:00
+Harga Tiket Masuk
+senin-jumat                          Rp22.000
+sabtu-minggu Rp32.000
+camping pelajar Rp22.500
+camping mancanegara Rp105.000
+camping warga lokal Rp35.000
+parkir motor Rp5.000
+parkir mobil Rp10.000
+Alamat
+Sukajadi, Kec. Tamansari, Kabupaten Bogor, Jawa Barat 16370
+Article Tags: Tamansari
+Article Categories: Agrowisata · Air Terjun · Alam · Camping Ground', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/nangka-waterfall/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/2021-05-02-min-1-250x250.jpg', null, 20, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (21, 'Hademen Camp & Coffee', 'Arena', 'Arena', 'Hademen Camp adalah bumi perkemahan yang terletak di Desa Megamendung, Jl. Curug Panjang, Sirimpak, Megamendung, Kab. Bogor.
+Sumber Gambar: google map/fardiah nafisah oemar
+Mengusung konsep wisata alam dan kuliner lokal seperti kopi khas Megamendung serta salah satu bumi perkemahan yang mempunyai akses mudah, aman, dan nyaman untuk semua kalangan dari balita sampai lansia.
+Sumber Gambar: google map/msleeta st
+Berada diketinggian 800-900 MDPL sehingga memiliki udara yang sejuk dengan menyajikan pemandangan dua gunung yaitu disisi kiri Gunung Gede Pangrango dan disisi kanan Gunung Salak, tidak hanya bisa menikmati keindahan pegunungan Hademen Camp juga menyajikan pemandangan City Light dimalam hari.
+Sumber Gambar: google map/bagus prayudha putra
+Pemandangan nyaaaa mashaAllah indah bangettttttt
+Fasilitas
+Area Campground 1 dan 2
+Kedai Makanan dan Minuman
+Area Duduk Bersantai
+Toilet
+Lahan Parkir
+Mushola
+Stage Panggung
+Peralatan Lengkap Sewa Alat Camping
+Sumber Gambar: google map/riswanto prabowo
+Sumber Gambar: google map/osa krisna setiawan
+Sumber Video: youtube/wuland el ferdinand
+Lokasi
+Jl. Curug Panjang, Sirimpak, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770
+Harga
+Sumber Gambar: instagram/hademen.camp
+Sumber Gambar: instagram/hademen.camp
+Sumber Gambar: instagram/hademen.camp
+Sumber Gambar: instagram/hademen.camp
+Sumber Gambar: instagram/hademen.camp
+Sumber Gambar: instagram/hademen.camp
+Sumber Gambar: instagram/hademen.camp
+Kontak
+No Telp: 0813-8610-2385
+Whatsapp: https://wa.me/6282213822310
+Jam Operasional
+Setiap Hari: 24 Jam (Ditempat)
+Setiap Hari: 08.00 – 22.00 (Reservasi Online)
+Social Media
+Instagram
+Facebook
+Source
+https://profil.digitaldesa.id/megamendung-bogorkab/wisata/hademen-camp–coffee
+https://www.instagram.com/hademen.camp/
+https://www.youtube.com/watch?v=rfkvLmxvlbg
+Article Tags: Megamendung
+Article Categories: Alam · Cafe & Resto · Camping Ground', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/hademen-camp-coffee/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/google-map_dian-ardiansah-akhdian-250x250.jpg', null, 17, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (22, 'Puncak Langit Camping Ground', 'Arena', 'Arena', 'Camping Ground Puncak Langit merupakan salah satu tempat berkemah yang berada di komplek perkemahan Cipendawa. Terdapat lebih dari 15 tempat berkemah di Cipendawa, diantaranya yaitu 1. Panorama Pangrango camp, 2. Highland camp Megamendung yang berubah nama menjadi Pesona Highland Camp, lalu menjadi Pesona Bukit Damar, 3. Highland Villa Delpia, 4. Camp Hutan Organik, 5. Kampung Awan Camp and Adventure 6. Desa Hijau Camp, 7 Filemon camp, 8. Haur Geulis Camp, 9. Glamping Alinco, 10. Mega Indah camp, 11. Megamendung Fun Camp dls. Highland Camp Megamendung dan Kampung Awan merupakan Pioner (cikal Bakal) berkembangnya Cipendawa menjadi komplek perkemahan.
+Sumber Gambar: https://travelingyuk.com/puncak-langit-camping-ground/284916/
+Secara tofografi, Camping Ground Puncak Langit berada pada ketinggan 1000++ MDPL dengan kontur yang berbukit-bukit dan berlembah. Untuk mencapai Camping Ground Puncak Langit, para pekemping terlebih dahulu harus mendaki / menaiki anak tangga yang cukup banyak dari lapangan parkir menuju lapangan berkemah, karena posisi campiste / lapangan berkemah Puncak Langit berada di puncak tertimggi kawasan Cipendawa. Dahulunya lokasi yang sekarang di kenal dengan nama Puncak Langit Camping Ground, dahulunya bernama bukit kumpel.
+Sumber Gambar: google map/lutfi amrullah
+Fasilitas
+Lapangan Berkemah: lapangan berkemah atau campsite di Puncak Langit Camping ground dapat menampung sekitar 100++ orang, dengan dominasi pinus merkusii sebagai pohon tegakan yang berfungsi sebagai pohon peneduh ketika berkemah.
+Sumber Gambar: https://profil.digitaldesa.id/megamendung-bogorkab/wisata/puncak-langit-camping-ground
+Lapangan Parkir: Terdapat lapangan parkir yang tepat berada di tangga pintu masuk menuju campsite, disekitar lapangan parkir terdapat pos tiket, tempat reservasi dan kamar mandi umum.
+Sumber Gambar: google map/puncak langit camping ground
+Aula: ditengah lapangan berkemah terdapat aula berbentuk panggung, bermaterialkan kayu dan bambu dengan atap bondek. Aula ini dapat menampung sekitar 100++ orang. Terdapat pula sebuah dapur pengelola yang berada di ujung timur, tepat bersebelahan dengan aula.
+Sumber Gambar: google map/puncak langit camping ground
+Kamar mandi: Terdapat 2 unit kamar mandi umum yang terbuat dari kayu dengan tembokan setengah badan. Kamar mandi dengan 6 ruang ini memiliki toilet jongkok dengan ember sebagai tempat menampung air. Disebelah barat aula terdapat juga satu unit kamar mandi dengan 4 ruang yang mirip sama bangunannya dengan kamar mandi pertama.
+Sumber Gambar: google map/puncak langit camping ground
+Mushola : Bangunan dengan material kayu alam, beratapkan meterial asbes di fungsikan sebagai mushola, Mushola ini berada di barat daya aula.
+Cottage kerucut : bangunan kerucut yang menyebar disekitar tempat berkemah Puncak Langit merupakan unit-unit bangunan untuk menginap para pengunjung yang tidak membawa tenda.
+Sumber Gambar: google map/puncak langit camping ground
+Tempat camp favorite nyaman dan pemandangannya dpt bgt
+Sumber Video: youtube/muhamad r. indrabudi
+Lokasi
+Puncak Megamendung Cisarua, Jl. Cipendawa, Bojong Koneng, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770
+Aksebilitas menuju Camping Ground Puncak Langit
+Akses menuju tempat camping ground puncak langit dari pertigaan Megamendung (Masjid Nurul Huda) dapat ditempuh dengan kendaraan non jenis sedan. Perjalanan sepanjang 4.9 km akan melewati badan jalan belandaskan aspal, cor dan tanah ketika mendekati bumi perkemahan Puncak Langit, jalan bertanah dimulai disekitar Camp Desa Hijau / Kampung Awan Camp. Jalan yang kecil dengan jurang disebelah kiri atau kanan nya sangat memerlukan kehati-hatian dalam berkendara menuju camping ground Puncak Langit.
+Harga
+Tiket Masuk Rp. 15.000 Termasuk parkir
+Camping Rp. 60.000/orang + 1 malam
+Sewa Tenda Rp. 200.000/malam
+Sewa Pondok Glamping Rp. 400.000/malam
+Jam Operasional
+Setiap Hari: 24 Jam
+Kontak
+No Telp: 0838-9509-5959
+Social Media
+Instagram
+TikTok
+Facebook
+Twitter
+Source
+https://profil.digitaldesa.id/megamendung-bogorkab/wisata/puncak-langit-camping-ground
+https://napaktilas.net/tempat-camping/jawa-barat/bogor/puncak-langit/
+https://travelingyuk.com/puncak-langit-camping-ground/284916/
+https://www.youtube.com/watch?v=c_YVHy3HPNI
+Article Tags: Megamendung
+Article Categories: Alam · Camping Ground', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/puncak-langit-camping-ground/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/google-map_fernanda-250x250.jpg', null, 10, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (23, 'Wisata Alam Situ Udik', 'Arena', 'Arena', 'Situ Udik merupakan salah satu desa yang mampu mempertahankan keasriannya, Wisata Alam Situ Udik ini sudah berdiri sejak tahun 2006, didirikan oleh seorang mantan walikota Depok , yaitu Dr.H.Badrul Kamal.
+https://cimanggubogor.com/2018/12/10/profil-desa-wisata-situ-udik-cibungbulang/2802
+Terletak di kaki Gunung Salak, tempatnya dikampung Cigamea, Desa Situ Udik menjadikan udara di sana cukup dingin dan sejuk untuk jadikan tempat istirahat atau menghilangkan stres dari keramaian danjuga bisingnya aktifitas di kota. di Desa Situ Udik ini anda juga dapat menikmati keindahan dari tumbuhan yang ada di wilayah tersebut sudah jarang dan bahkan tidak bisa anda temui di perkotaan.
+Lokasi
+Kampung Cigamea, Kecamatan Cibungbulang, Kabupaten Bogor, Jawa Barat.
+Fasilitas
+Penginapan
+Toilet
+Area parkir
+Kolam renang
+Tempat berkemah dan bermain
+Katring
+Tiket Masuk
+Tiket masuk untuk perorangan akan dikenakan biaya Rp.10.000,- , sedangkan untuk rombongan yang ingin menginap harganya tergantung pada villa yang di pilih.
+Jam Operasional
+Senin – Minggu 24 jam
+Sumber
+https://cimanggubogor.com/2018/12/10/profil-desa-wisata-situ-udik-cibungbulang/2802
+Article Tags: Cibungbulang
+Article Categories: Alam · Arena · Hotel & Villa · Rekreasi · Seni Budaya · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/wisata-alam-situ-udik/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/wastu-5e5f13c3d541df0cd9496c22-250x250.jpeg', null, 20, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (24, 'Samara Camp', 'Arena', 'Arena', 'Highland Camp Samara adalah termpat camping yang berada di sebelah utara komplek air terjun Curug Naga. Tempat camping yang berbatasan dengan pos-1 tiket wisata curug Panjang ini diperuntukan sebagai destinasi camping keluarga dan Campervan ground dengan beragam aktivitas wisata minat khusus nya seperti wisata air terjun curug Panjang, jelajah curug Naga, hiking/treking hutan, susur sungai, body rafting, dan lainnnya.
+Aktivitas wisata yang dapat dilakukan ketika berkemah di Samara camping ground adalah kegiatan wisata berbasis air terjun dan wisata alam, yaitu jelajah curug Naga dan wisata air terjun. beberapa kegiatan lainnya adalah hiking, susur sungai, dll.
+Sumber Gambar: google map/samara camp
+Fasilitas
+Campsite: terdapat beberapa campsite (tempat/lapangan mendirikan tenda) yang berukuran kecil, sedang dan besar.
+Yang terbesar berada di tengah kawasan camping dengan kafasitas tampung sekitar 20 tenda jika untuk camping kelompok, dan kalau digunakan campervan, daya tampungnya sekitar 15 mobil lengkap dengan tenda yang berada di sampingnya. 
+Campsite berukuran sedang terletak di sebelah barat sampai utara, campsite ini dapat menampung sekitar 5-7 tenda atau 4-5 tenda dengan mobil berada disampingnya.
+Campsite berukuran kecil berada di sebelah sebelah timur lapangan utama, dengan lokasi yang berkontur, setiap undakan dapat menampung 3-5 tenda, lokasi ini sering digunakan sebagai campsite camping keluarga.
+Sumber Gambar: google map/samara camp
+Tempat parkir: Di Samara camp, mobil dapat diparkir disamping tenda, atau dipakir ditempat parkir khusus yang menyebar di sekitar area camp, tempat parkir yang tersedia dapat menampung sekitar 30 unit kendaraan.
+Sumber Gambar: google map/samara camp
+Toilet: terdapat 3 unit toilet yang menyebar di sekitar tempat berkemah.
+1 unit dengan 7 pintu berada di selatan camping ground, berbatasan dengan kawasan perhutani.
+Dua unit lagi menyebar di sekitar lokasi camp, masing masing unit memiliki 2 pintu.
+Sumber Gambar: google map/samara camp
+Warung: Disekitar camp samara terdapat warung-warung yang menyediakan kebutuhan selama berkemah seperti makanan, kopi, dls, warung-warung ini berada di timur laut camp, atau 50 meter sebelum pos 1 tiket curug panjang
+Pos: 50 meter setelah pintu gerbang Samara camp, terdapat sebuah base / pos sebagai pusat informasi.
+Sumber Gambar: google map/samara camp
+Asik banget tempat nya sejuk buat healing healing santai bareng keluarga / bareng temen-temen.
+Lokasi
+Jl. Curug Panjang, Kp. Citamiang, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770
+Aksesibilitas Menuju Camp Samara
+Untuk mencapai camping ground samara dari pertigaan megamendung atau mesjid Nurul Huda Megamendung dapat di tempuh dengan perjalanan dengan kendaraan roda 4 atau roda 2 sepanjang 6.5 km, melewati jalan Pusdik Serse Megamendung, lalu dilanjutkan menuju arah Bank Mega dengan mengambil arah menuju Curug Panjang pos 1.
+Dari Bank Mega, pekemping akan diperhadapkan pada jalanan dengan suasana hutan yang berada di kiri dan kanan jalan. disepanjang perjalanan terdapat beberapa komplek pervilaan. Banyak jalan berkelok menuju camping ground samara dengan lebar jalan sekitar 2,5 s.d 3,5 meter. Oleh karenanya diperlukan kehati-hatian ketika melintas jalan dari Bank Mega sampai Samara camp.
+Harga
+Parkir Motor Rp. 5.000
+Parkir Mobil Rp. 10.000
+Sewa Lahan Camping Rp. 45.000
+Sewa Tenda Full Set Rp. 250.000
+Sewa Matrass Rp. 10.000/pcs
+Sewa Sleeping Bag Rp. 15.000/pcs
+Kayu Bakar 1 Ikat Rp. 35.000
+Kabel Roll 10 Meter Rp. 25.000
+Jam Operasional
+Buka 24 Jam
+Kontak
+No Telp: 0831-5289-8503
+Social Media
+Instagram
+Sumber
+https://profil.digitaldesa.id/megamendung-bogorkab/wisata/samara-camp
+https://adventuraja.com/adventure/camping/samara-camp
+Article Tags: Megamendung
+Article Categories: Alam · Camping Ground', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/samara-camp/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/google-map_samara-camp-250x250.jpg', null, 12, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (25, 'Wisata Bakukung', 'Arena', 'Arena', 'Pemandangannya memanjakan mata
+Wisata Bakukung Menyajikan pemandangan dikelilingi kebun teh dan hutan pinus di area wisata. maka anda akan merasakan kesejukan udara dan keindahan alamnya yang masih natural. Selain itu anda juga dapat melihat kebun teh yang cukup luas serta bagus untuk dapat berfoto bersama teman dan keluarga. . Untuk penggemar camping Wisata bakukung menyediakan Camping ground yang luas disertai dengan fasilitas yg memadai.
+google map/sri mulyani
+Selain itu terdapat hal menarik yang sering di jadikan tempat foto dan terkenal di tempat ini yaitu adanya Lorong cinta bakukung dimana anda akan memasuki terowongan yang diselimuti oleh tumbuhan-tumbuhan serta instagramable keren banget gays.
+google map/Farrah Himawan
+Pesona panorama yang dimiliki jajaran pohon pinus, selalu saja mampu menyihir siapa pun. Ia seperti membentuk pola yang dramatis, menimbulkan kesan romantis. Di Cianten Bakukung. serta di lengkapi dengan kursi-kursi kayu yang sengaja disediakan menyebar di antara pepohon pinus, ia jadi spot foto yang paling instagramable.
+travelingyuk.com
+Lokasi
+Purasari, Kec.Leuwiliang, Kabupaten Bogor, Jawa Barat 16640
+Fasilitas
+mushalla
+toilet
+Tempat Parkir
+gazebo
+Harga Tiket Masuk
+tiket perorang Rp20.000
+Jam Operasional
+Setiap Hari: 07.00 – 17.00 WIB
+Sumber
+https://wisatamilenial.com/pesona-wisata-bakukung-bogor-beserta-htm-terbaru/
+https://www.google.com/maps/place/Wisata+Bakukung/
+Article Tags: Leuwiliang
+Article Categories: Alam · Camping Ground · Kebun Teh', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/wisata-bakukung/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/Anggi-Raditya-250x250.jpg', null, 19, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (26, 'Sawargiloka Waterland', 'Arena', 'Arena', 'Sawargiloka Waterland adalah tempat tamasya yang merupakan hutan – hutan kecil serta zona perkebunan masyarakat setempat, sehingga suasananya begitu indah nan asri dengan hawa yang lumayan dingin di waktu pagi hari yang segar.
+Sumber Gambar: google map/veer puspitasari
+Disini memiliki kolam renang yang airnya bening ke hijau hijaua, Airnya juga sejuk, Banyak Curug kecil dan tempat mandi juga cukup banyak. Setiap pagi and pas lagi dapat cuaca yang mendung menjadi sangat cocok sekali dipakai piknik.
+Sumber Gambar: google map/moch nasir
+Bukan hanya tempat piknik dan berenang, disini juga anda bisa mendirikan tenda untuk camping di lahan luas ini. tempatnya juga dekat dengan warung, hingga membuat pengalaman camping menjadi mudah.
+Sumber Gambar: google map/siska rosalinda
+Sumber Gambar: google map/cowok yang waktu itu
+Tempat ini juga biasa digunakan sebagai pelantikan atau camping bersama bagi anak sekolahan.
+Sumber Video: youtube/rayendra channel
+Adem asri dan sejuk cocok untuk refreshing keluarga markotop dah
+Lokasi
+Legok Akub, RT.5/RW.1, Sukaluyu, Kec. Tamansari, Kabupaten Bogor, Jawa Barat 16610
+Fasilitas
+2 Kolam (Orang Dewasa dan Anak Anak)
+Warung Dengan Harga Wajar
+Terapi Ikan
+6 Toilet Umum
+Tempat Parkir
+Lahan untuk mendirikan tenda
+Mushola
+Harga
+Anak-Anak (Weekday) Rp. 10.000
+Anak-Anak (Weekend) Rp. 15.000
+Dewasa (Weekday) Rp. 15.000
+Dewasa (Weekend) Rp. 20.000
+Sewa Karpet Rp. 10.000
+Terapi Ikan Rp. 5.000/30 menit
+Jam Operasional
+Setiap Hari Kecuali Jumat: 08.00–16.00
+Jumat: Tutup
+Kontak
+No Telp: 0856-9449-9718
+No Telp 2: 0859-2282-8181
+Social Media
+Instagram
+Sumber
+https://www.karogaul.com/2022/04/pemandian-sawargiloka-waterland-ciapus.html
+https://www.youtube.com/watch?v=bILt5QPyJ8M
+Article Tags: Tamansari
+Article Categories: Arena · Kolam Renang · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/sawargiloka-waterland/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/google-map_reno-wicaksono-min-1-250x250.jpg', null, 17, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (27, 'Kolam Renang Tirta Salaca (Aldepos)', 'Arena', 'Arena', 'Kolam Renang Aldepos Bogor kini menjadi salah satu tempat berlibur favorit bagi masyarakat Bogor. Tempat rekreasi ini menawarkan wahana air dan fasilitas yang komplit. Panorama alam sekitarnya juga sangat mendukung dan enak dipandang, misalnya saja seperti: pemandangan Gunung Salak, dan juga pepohonan hijau yang memanjakan mata. Ketika cuaca panas, maka tepat sekali menyegarkan badan dengan berenang di kolam renang ini.
+Kolam Renang ini cocok untuk orang dewasa dan anak-anak karena sudah tersedia wahana air khusus untuk orang dewasa dan untuk anak-anak. Tentunya kamu dapat mengajak anak-anak untuk liburan bersama di wisata ini. Secara umum suasana disana cukup nyaman, kondisi lingkungan sekitar juga bersih terawat. Jadi, tak perlu khawatir lagi akan hal itu.
+Wahana taman bermain anak
+Kolam Renang Dewasa
+Pemandangan Kolam renang
+Sumber : https://www.google.com/maps/KolamRenangAldepos
+Lokasi Kolam Renang Tirta Salaca (Aldepos)
+Tapos II, Kec. Tenjolaya, Kabupaten Bogor, Jawa Barat 16370
+Fasilitas Kolam Renang Tirta Salaca (Aldepos)
+Tempat parkir kendaraan
+Ruang ganti
+Toilet
+Shower
+Kantin
+Gazebo
+Musholla
+Peralatan renang
+Sewa ban
+Loker
+Kolam renang dewasa
+Kolam renang anak
+Kolam Wahana
+Kolam arus
+Seluncuran
+Air mancur
+Ember tumpah
+Playground
+Jam Operasional Kolam Renang Tirta Salaca (Aldepos)
+Hari Jam oprasional
+Senin – Minggu 09.00–17.00 WIB
+Sumber : Google Maps
+Tiket Masuk Kolam Renang Tirta Salaca (Aldepos)
+Hari Harga Tiket Masuk
+Senin – Jum’at Rp. 10.000/ orang
+Sabtu – Minggu Rp 15.000/ orang. 
+Parkir kendaraan roda 2  Rp 3.000
+Parkir kendaraan roda 4  Rp 4.000
+Sumber
+https://www.pinhome.id/info-area/kolam-renang-aldepos-bogor/
+Article Tags: Tenjolaya
+Article Categories: Arena · Kolam Renang · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kolam-renang-tirta-salaca-aldepos/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/KolamRenangAldepos_GoogleMaps-1-250x250.jpg', null, 18, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (28, 'Wisata Panorama Pabangbon', 'Arena', 'Arena', 'Rekreasi alam yang sejuk, cocok untuk keluarga dan pasangan muda
+Wisata Pabangbon menyediakan spot – spot untuk berfoto yang tentunya sangat instagramable. Di sini kita bisa berfoto di gardu kayu yang kelasik parah. Selain gardu kayu, terdapat juga rumah pohon Pabangbon yang juga sangat bagus untuk berfoto. Jadi siapkan hp atau camera dan pose terbaik kalian guys.
+ .jurnaland.com
+Merupakan sebuah jembatan kayu yang menjorok kearah tebing dan tepat diujungnya terdapat sebuah papan kayu berbentuk bunga matahari. Untuk dapat naik ke wahana ini kamu hanya diijinkan maksimal 4-5 orang saja. 
+google map/ hasan sadiq syahab
+Merupakan ayunan yang berada di pinggir tebing, bagi anda yang memiliki keberanian atau ingin menguji adrenalin sambil berfoto dengan pemandangan yang indah ini sangat cocok bagi anda.
+liburanyuk.co.id/
+liburanyuk.co.id/
+liburanyuk.co.id/
+Lokasi
+9HJV+GG4,Jl.Raya Leuwiliang-Bogor,Leuweung Kolot,Kec.Cibungbulang,KabupatenBogor,JawaBarat16630
+Harga Tiket Masuk
+tiket masuk Rp15.000
+tiket parkir motor Rp5000
+tiket parkir mobil Rp10.000
+tiket foto Rp10.000-30.000
+tiket fotografi per 5 orang Rp10.000
+Jam Operasional
+Wisata Panorama buka setiap hari pada pukul 07.00-17.00 WIB.
+
+Sumber
+https://liburanyuk.co.id/wisata-panorama-pabangbon-bogor/
+Article Tags: Cibungbulang · Leuwiliang
+Article Categories: Alam · Camping Ground · Hutan Lindung · Kebun Teh', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/wisata-panorama-pabangbon/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/pabangbon-abiedmm26-250x250.jpg', null, 30, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (29, 'Zam Zam Tirta', 'Arena', 'Arena', 'Tempat nya bagus dan cuaca yg sejuk karena deket di bawah kaki gunung salak
+Ketika anda berada di bogor dengan cuaca yang panas, anda bisa berkunjung ke taman air ini untuk melepaskan penat dan stress hingga membuat diri anda menjadi segar.
+Berdiri di atas lahan seluas 1 hektar, taman air ini menawarkan banyak sekali aktivitas yang tentunya cocok bagi segala usia.
+Taman rekreasi bertemakan air ini berlokasi di Ciomas, Bogor. Taman air ini sudah ada sejak tahun 1998, kurang lebih 24 tahun usianya. dari dahulu bukan hanya digemari oleh pengunjung, bahkan digemari oleh warga sekitar karena harganya yang relatif murah.
+Sumber Gambar: google map/reynaldi reynaldi
+
+Salah satu keunikan dari taman air ini adalah air disini berasal dari mata air pegunungan. tidak tercium bau kaporit atau zat kimia di kolam sama sekali! Oleh karena itu Jernih dan sejuknya air disini menjadi salah satu manfaat untuk menghilangkan stress pikiran dan menyegarkan tubuh.
+Sumber Gambar: https://www.zamzamtirta.com/
+Tidak hanya airnya yang sejuk, taman air ini memiliki wahana yang seru seperti ember tumpah yang menyegarkan seluruh tubuh dan perosotan yang melingkar lingkar membuat adrenalin menantang.
+Sumber Gambar: google map/nathalia w
+Sumber Gambar: https://www.zamzamtirta.com/
+Sumber Gambar: google map/detective ferry
+Sumber Gambar: google map/yuniar pertiwi unyu
+Sumber Gambar: https://www.zamzamtirta.com/
+Sumber Gambar: https://www.zamzamtirta.com/
+
+Lokasi
+Jl. Sukamaju Ciapus Kreteg No.2A, Pagelaran, Kec. Ciomas, Kabupaten Bogor, Jawa Barat 16610
+
+Fasilitas
+7 Kolam Renang (Kedalaman 35 – 185cm)
+Kamar Mandi
+Kamar Bilas
+Mushola
+Kafe
+Tempat Parkir Luas
+Harga Tiket Masuk
+Weekday Rp.20.000
+Weekend Rp.30.000
+Penyewaan
+Penititipan Barang Rp.5.000
+Sewa Ban Pelampung Rp.10.000
+Sewa Gazebo Rp.70.000
+Jam Operasional
+Setiap Hari: 08.00 – 16.30 WIB
+Kontak
+Telp: 0251-8637448
+E-mail: cs@zamzamtirta.com
+Sosial Media
+Instagram
+Facebook
+
+Sumber
+https://www.zamzamtirta.com/
+https://travelspromo.com/htm-wisata/zam-zam-tirta-bogor/
+https://dolanyok.com/zam-zam-tirta-bogor/
+Article Tags: Ciomas
+Article Categories: Arena · Kolam Renang · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/zam-zam-tirta/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/zamzamtirta.com2_-250x250.jpg', null, 16, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (30, 'Curug Pasir Reungit Endah', 'Arena', 'Arena', 'Curug Pasir Reungit Endah adalah salah satu curug yang berada di kawasan Taman Nasional Gunung Halimun Salak. Curug ini menyuguhkan pesona pesona alam yang asri dan alami, dimana air terjun yang dikelilingi dinding tebing dan air yang jernih.
+@affanstedy
+@dhenydenz
+Curug yang mempunyai warna hijau tosca
+Curug Pasir Rengit Endah memiliki ketinggian 40 meter, dengan dinding yang masih alami dan di tumbuhi beberapa jenis tanaman. Air terjun di kawasan ini sangat khas dengan warna hijau tosca, berkat kejernihannya yang masih terjaga, sebagian besar wisatawan menjadikan aktivitas berendam di sini sebagai terapi kesehatan.
+@b_kunsss
+https://udaindra.blogspot.com/
+
+
+
+
+
+
+@curugpasirreungit
+Kolam penampungan pada objek wisata curug ini mempunyai kedalaman sekitar 1 sampai 2 meter, cukup dalam dan berisiko bagi pengunjung yang tidak bisa berenang. Meski air pada kolam akan mengalami surut di sepanjang musim kemarau, hal tersebut tidak menghilangkan antusiasme wisatawan untuk menceburkan diri ke dalam kolam tersebut.
+Lokasi
+Jalan Gunung Bunder, Desa Gunung Sari, Kecamatan Pamijahan, Kabupaten Bogor, Jawa Barat 16810
+Fasilitas
+Mushola
+Area Parkir
+Toilet
+Warung
+Tiket Masuk
+Tiket Masuk Rp10.000
+Parkir Sepeda Motor Rp5.000
+Parkir mobil Rp10.000
+Jam Operasional
+Curug Pasir Reungit buka setiap hari pada pukul 07.00-17.00 WIB.
+Sumber
+https://salsawisata.com/curug-pasir-reungit/
+Article Tags: Pamijahan
+Article Categories: Air Terjun · Alam · Arena · Gunung & Bukit · Hiking / Tracking · Kolam Renang · Rekreasi · Suaka Marga Satwa · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-pasir-reungit-endah/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/Cuplikan-layar-2022-10-12-084033-250x250.png', null, 33, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (31, 'Gunung Peyek', 'Arena', 'Arena', 'Gunung Peyek terkenal dengan pemandian air panasnya yang memiliki kandungan belerang. Tempat wisata ini juga menawarkan keindahan alam dan banyak yang beranggapan berendam di air ini dapat meningkatkan kesehatan dan imunitas tubuh.
+Lokasi
+Jl. Pasar Ciseeng, Bojong Indah, Kec. Parung, Kabupaten Bogor, Jawa Barat 16330
+Fasilitas
+·        Toilet
+·        Warung
+·        Tempat parkir
+Jam Operasional
+Setiap hari 07.00 – 17.00 WIB
+Harga Tiket Masuk
+anak-anak dan dewasa          Rp5.000/Per Orang
+Harga Pemandian Air Panas
+Anak – Anak Rp 5.000/perOrang
+Dewasa Rp 10.000/perOrang
+sumber foto
+https://udaindra.blogspot.com/2016/09/menikmati-jacuzzi-alami-gunung-peyek.html
+Article Tags: Parung
+Article Categories: Alam · Arena · Hiking / Tracking · Kolam Renang · Olahraga · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/gunung-peyek/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/PY1_resized-250x250.jpg', null, 24, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (32, 'Kampung Wisata Djampang', 'Arena', 'Arena', 'Kampung Wisata Djampang merupakan kawasan desa pemberdayaan Dompet Dhuafa. Kampung Wisata Djampang mengelola wilayah seluas 25 km persegi yang mencakup 3 Kecamatan. Berbekal potensi sumber daya dan kearifan lokal yang berlimpah, Kampung Wisata Djampang menghadirkan lebih dari 50 titik wisata yang akan memberikan experience kepada para pengunjung setiap harinya. Kampung Wisata Djampang merupakan integrasi kampung wisata yang terluas di Indonesia.
+Dengan konsep Kreatif dan Unik, Kampung Wisata Jampang bukan hanya menyediakan beragam wisata unggulan untuk segala umur, tetapi juga menyediakan ribuan menu Kuliner dari berbagai Kafe dan Resto dengan sensasi kampung yang senantiasa memikat anda serta keluarga tercinta.
+Instagram : @wisatadjampang
+Wisata Djampang juga menyediakan tempat berlatih memanah, beladiri, memperkaya kemampuan bahasa inggris, bahkan ada juga titik- titik pemberdayaan masyarakat yang dilakukan oleh lembaga zakat Dompet Dhuafa, misalnya lokasi budidaya ikan hias, budidaya ikan cupang, budidaya ikan lele, pembuatan golok Jampang, budidaya jamur, dan sebagainya.
+Fasilitas
+Masjid
+ATM Center
+Penginapan
+Kantin
+Rumah Sakit
+Pusat Perbelanjaan dan lainnya.
+Jam Operasional
+Senin – Jum’at 10.00 – 17.00 WIB
+Sabtu – Minggu 09.00 – 22. 00 WIB
+Lokasi
+Jl. Raya Parung – Bogor km. 42 Ds. Jampang Kec. Kemang Kab. Bogor 16310.
+Instagram
+@wisatadjampang
+Sumber
+Kampung Wisata D’Jampang
+Article Tags: Kemang
+Article Categories: Agrowisata · Arena · Cafe & Resto · Camping Ground · Kampung Budaya · Rekreasi · Seni Budaya · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kampung-wisata-djampang/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/1663809525385-250x250.jpg', null, 34, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (33, 'Kolam Renang Toyo Lembah Hijau', 'Arena', 'Arena', 'Kolam renang Toyo Lembah Hijau terletak dikecamatan Cibungbulang Kabupaten Bogor, sangat cocok sebagai tempat rekreasi keluarga, tersedia kolam renang dengan menggunakan air alami dari mata air pegunungan sejuk dan terasa segar.
+Area taman bermain air anak
+Area seluncuran kolam renang
+Sumber toyolembahhijau.business.site
+Lokasi Kolam Renang Toyo Lembah Hijau
+Cibatok 1, Kec. Cibungbulang, Kabupaten Bogor, Jawa Barat 16630
+Fasilitas Kolam Renang Toyo Lembah Hijau
+Area Bermain Anak
+Area Seluncur
+Kolam Anak dan Dewasa
+Kamar Mandi
+Tempat Duduk
+Jam Operasional Kolam Renang Toyo Lembah Hijau
+Hari Jam oprasional
+Senin – Minggu 08.00 – 16.00 WIB
+Sumber : Instagram (@toyolembahhijau_official)
+Tiket Masuk Kolam Renang Toyo Lembah Hijau
+Hari Harga Tiket Masuk
+Senin – Jum’at Rp. 15.000
+Sabtu – Minggu Rp. 20.000
+Sumber : Instagram (@toyolembahhijau_official)
+Media Sosial Kolam Renang Toyo Lembah Hijau
+Instagram : @toyolembahhijau_official
+facebook : toyolembahhijau_official
+No Telpon : 082114144219
+Article Tags: Cibungbulang
+Article Categories: Arena · Kolam Renang · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kolam-renang-toyo-lembah-hijau/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/toyolembahhijau_business_site2021-10-18-e1663828085653-250x250.jpg', null, 17, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (34, 'Bumi Perkemahan Sukamantri', 'Arena', 'Arena', 'Bumi Perkemahan Sukamantri merupakan objek wisata alam yang berlokasi di Desa Sukamantri, berjarak kurang lebih 15 km dari Kota Bogor. Bumi Perkemahan Sukamantri memiliki luas sekitar 5 hektar, dengan pemandangan hutan pinus dan rasamala. namun kondisi jalur dari jalan raya menuju bumi perkemahan terbentang sejauh 2 km dengan kondisi jalan berbatu dan sebagian sudah sangat layak di lewati oleh roda 2 maupun 4.
+@gowesinajashay
+Sebelum memasuki kawasan tempat kemping kita akan melewati gapura Kujang Raider dengan jalan yang berkelok kelok dan disuguhkan dengan pemandangan pepohonan juga keindahan pemandangan kota dari atas gunung, terkadang pengunjung juga dapat berpapasan dengan beberapa ekor monyet yang sedang bergelantungan.
+@bumiperkemahansukamantri
+@bumiperkemahansukamantri
+@bumiperkemahansukamantri
+Banyak hal yang dapat dilakukan ketika camping di bumi perkemahan Sukamantri, yaitu jelajah hutan, memasak, bermain ke curug Suryakencana. Ketika malam menjelang , pekemping dapat menghangatkan badan di perapian api unggun, ditemani suara jangkrik dan gesekan dedaunan yang tertiup angin, begitu pagi menjelang, pekemping akan disambut oleh kicauan burung pagi dan matahari berwarna jingga yang terbit dari timur.
+Lokasi
+Taman Nasional Gunung Halimun Salak, Desa.Sukamantri, Kecamatan.Tamansari, Kabupaten Bogor, Jawa Barat 16610
+Fasilitas
+Aula yang dapat menampung s.d 40 orang;
+Toilet
+Masjid
+Area Parkir
+Lapangan parkir kendaraan roda 2 dan roda 4 dan kendaraan dengan jenis truk TNI
+1 unit bangunan warung bermaterialkan tembokan yang terisi oleh 8 warung /kios dan warung-warung lainnya yang menyebar di sekitar bumi perkemahan
+Jembatan penyebrangan bermaterialkan besi
+Kantor / pos tiket masuk.
+Harga Tiket Masuk
+Tiket masuk wisatawan lokal Rp 7.000
+Tiket berkemah Rp 5.000
+Kendaraan roda dua Rp 5.000
+Kendaraan roda empat Rp 10.000
+Sepeda Rp 2.000
+Jam Operasional
+24 jam
+Sumber
+https://highlandcamp.co.id/bumi-perkemahan-sukamantri-bogor
+Article Tags: Tamansari
+Article Categories: Alam · Arena · Cagar Budaya · Camping Ground · Gunung & Bukit · Hiking / Tracking · Suaka Marga Satwa', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/bumi-perkemahan-sukamantri/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/pintu-masuk-sukamantri-579e578ad47a61f21d1f83cf-1-250x250.jpg', null, 50, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (35, 'Wisata Alam Seureuh Hejo ( GeoPark Pongkor)', 'Arena', 'Arena', 'Wisata Alam Seureuh Hejo merupakan wisata alam yang menawarkan keindahan alam dari ketinggian kurang lebih 800 mpdl, diketinggian ini kita dapat merasakan sejuknya udara dan pemandangan Gunung Halimun Salak dan Gunung Gede Pangrango.
+Tempat Berkemah
+Kedai kopi Seureuh Hejo
+Instagram : @wisata_alam_seureuh_hejo
+Di Wisata Alam Seureuh Hejo juga menawarkan bumi perkemahan serta menyediakan tempat sewa peralatan kemah. Di wisata ini kita tidak hanya ditawarkan tempat untuk berkemah tetapi juga menawarkan tempat untuk bersatai berupa kedai kopi Seureuh Hejo yang menawrkan beberapa menu makanan dan minuman.
+Lokasi Wisata Alam Seureuh Hejo ( GeoPark Pongkor)
+Kp.Gn Seureuh, Sadeng, Kec. Leuwisadeng, Kabupaten Bogor, Jawa Barat 16640
+Tiket Masuk Wisata Alam Seureuh Hejo ( GeoPark Pongkor)
+Tiket Masuk Rp. 5000 – Rp. 10.000/ Malam
+Sewa tenda Rp. 70.000/ 4 Orang
+Berkuda anak anak Rp. 10.000/Orang
+Berkuda Dewasa Rp. 15.000/Orang
+Sumber : Publikbicara.com
+Fasilitas Wisata Alam Seureuh Hejo ( GeoPark Pongkor)
+Tempat parkir
+Toilet
+Musholla
+Saung untuk beristirahat
+Tenda berkemah (Sewa)
+Pacuan Kuda
+Warung tempat makan minum
+Jam Operasional Wisata Alam Seureuh Hejo ( GeoPark Pongkor)
+Hari Jam Operasional
+Senin – Rabu & Jum’at 09.00 – 23.30 WIB
+Kamis 09.00 – 17.00 WIB
+Sabtu & Minggu 24 Jam
+Sumber : Google.maps
+Media Sosial
+Instagram : @wisata_alam_seureuh_hejo
+No Telepon : 0878-8600-7246
+Sumber
+https://publikbicara.com/2022/03/01/wisata-alam-bogor-puncak-seureuh-hejo-melihat-keindahan-bogor-barat-dari-atas-ketinggian/
+Article Tags: Leuwisadeng
+Article Categories: Alam · Arena · Cafe & Resto · Camping Ground · Gunung & Bukit · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/wisata-alam-seureuh-hejo-geopark-pongkor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/Instagram-Wisata-Alam-Seureuh-Hejo-1-1-250x250.jpg', null, 24, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (36, 'Kebun Jati Pancawati', 'Arena', 'Arena', 'Picture by @herinafirdausii
+Kebun Jati pancawati memiliki tempat dengan suasana yang menyegarkan tentunya akan semakin nyaman berada di Kawasan wisata kebun jati tersebut. Kebun Jati juga bisa menjadi tempat untuk kamu yang ingin camping karena suasana Kebun Jati yang menyegarkan
+Terdapat juga cafe yang siap menemani waktu bersantai anda untuk menikmati suasana segarnya kebu jati dengan harga menu yang tentunya terjangkau.
+https://www.portalsiber.com/lifestyle/pr-293275806/wisata-kebun-jati-pancawati-bogor-nyamankan-mata-para-wisatawan
+Lokasi
+Pancawati, Kec. Caringin, Kabupaten Bogor, Jawa Barat 16730
+Fasilitas
+Area Parkir
+Toilet
+Spot Foto
+Akses Wifi
+Stop Kontak
+Area Playground
+Cafe atau Tempat Nongkrong
+Area Tikar
+Camping Area
+Fasilitas Protokol Kesehatan
+Jam Operasional
+        Setiap Hari                                        08.00 – 18.00 WIB
+Harga Tiket
+Tiket Masuk                                       Rp 5.000,- /orang
+Parkir Motor                                      Rp 5.000,- /motor
+Parkir Mobil                                        Rp 10.000,- /mobil
+Sewa Tenda                                        Rp 50.000,- /orang
+Nginap                                                  Rp 100.000,-/ orang
+Sewa Tikar                                           Rp 10.000,- / tikar
+Sewa Ayunan                                     Rp 15.000,-/ ayunan
+Kontak
+Instagram            @kebunjatipancawati
+Phone                  0817 5092 017
+Sumber Foto
+Foto Thumbnail instagram by @andi_vindyphotography
+Article Tags: Caringin
+Article Categories: Alam · Arena · Camping Ground · Hutan Lindung · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kebun-jati-pancawati/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/Wisata-Kebun-Jati-Pancawati-250x250.webp', null, 28, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (37, 'Wisata Alam Gunung Dago Parung Panjang Bogor', 'Arena', 'Arena', 'Selain terkenal dengan Puncak dan wisata air terjun, Bogor memiliki bukit yang indah. Salah satunya ialah keindahan panorama gunung dago parung panjang Bogor. Wisata gunung dago terletak di desa Dago, Cikuda Wanaherang, Parung Panjang, kota Bogor Jawa Barat.
+Tempat wisata ini bisa dibilang cukup baru di kota Bogor, sebab baru diresmikan kira-kira tahun 2019 kemarin. Sebenarnya kawasan wisata alam Gunung Dago ini berada di lahan milik Perhutani. Kemudian diserahkan kepada warga untuk dikelola lewat Lembaga Masyarakat Desa dan rimba (LMDH) sebagai kawasan wisata.
+Luas wilayahnya pun terhitung cukup besar yaitu kira-kira 10 hektar. Ekosistem di kawasan ini pun termasuk terjaga dengan baik oleh pihak pengelola kawasan wisata.
+Wahana Ayunan Pemacu Adrenalin
+Tempat wisata Gunung Dago ini sangat cocok bagi anda yang ingin datang bersama dengan keluarga dan teman. Tempat wisata ini memiliki banyak fasilitas diantaranya ada villa, saung, kampung adat, wahana ATV, spot foto yang indah, menyediakan sepeda ontel, tempat mainan anak anak dan lain-lain. Kemudian sangat direkomendasikan untuk mengambil foto di spot foto disana. Dengan latar belakang pegunungan yang hijau akan membuat foto anda lebih bagus lagi.
+Kampung Adat Wisata Alam Gunung Dago Parung Panjang
+Daya tarik lainnya dari objek wisata yang tersedia di Parung Panjang ini adalah adanya kampung adat yang bisa kalian kunjungi. Tentunya hal ini jadi destinasi wisata yang lain berasal dari pada yang lain karena mengusung juga konsep wisata budaya sekitar.
+Bagi anda yang menyukai alam dan ingin menghabiskan satu malam di alam, anda bisa juga camping di tempat ini. Tak perlu khawatir jika anda tidak memiliki peralatan Camping, karena di tempat ini menyediakan sewa alat-alat untuk camping.
+Anda bisa mengunjungi wisata alam Gunung Dago setiap hari pada jam 07:30-17:00.
+Lokasi wisata Gunung Dago ini bisa dilalui lewat akses jalan besar diantaranya yaitu melalui kota Tangerang atau kota Bogor. Kemudian anda bisa langsung menuju ke lokasi Parung Panjang dan selanjutnya menuju ke desa Dago.
+Pemandangan Indah dari Gardu Pandang
+Sesampainya di lokasi wisata Gunung Dago anda harus berjalan kaki untuk bisa sampai ke puncak Gunung Dago. Jaraknya pun cukup menguras tenaga yakni sekitar sejauh 1 kilometer.
+Namun, jika anda tidak ingin capek harus berjalan kaki untuk bisa sampai menuju ke lokasi. Anda bisa menyewa satu jeep yang siap mengantar anda untuk naik turun dari Gunung Dago.
+Biaya yang harus dikeluarkan untuk menyewa jasa ini sekitar 10 ribu rupiah per orangnya.
+Untuk harga tiket masuk ke Wisata Alam ini cukup murah, hanya dengan membayar Rp. 15.000/orang (diatas 8 tahun) anda bisa menikmati indahnya pemandangan dan udara yang cukup sejuk.
+Tak perlu khawatir jika anda merasa lapar disana, karna disana cukup banyak warung-warung yang makanannya cukup enak untuk kita coba, disana juga tersedia fasilitas toilet dan mushola yang cukup bersih.
+Jika anda betah berlama-lama disana, anda juga bisa menginap di rumah adat gunung Dago, harga mulai dari Rp. 300.000,- per malam
+Wisata alam gunung Dago terus berkembang, kini disana sudah tersedia kolam renang, yang pasti membuat liburan anda semakin mengasikan.
+Sumber
+https://kumparan.com/feliyawanti30/wisata-alam-gunung-dago-parung-panjang-bogor-1xXO15RZR0K/full
+https://www.instagram.com/wisatagunungdago/?hl=en
+Article Tags: Parung panjang
+Article Categories: Alam · Arena · Camping Ground · Gunung & Bukit · Hotel & Villa · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/wisata-alam-gunung-dago-parung-panjang-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/gunung-dago-250x250.jpg', null, 26, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (38, 'Legok Jamboe', 'Arena', 'Arena', 'The Real Adventure
+Mengusung slogan “The Real Adventure”, sebuah destinasi wisata baru bertajuk Legok Jamboe yang berada di Jalan Cariu Desa Karya Mekar, Kecamatan Cariu, Kabupaten Bogor, Jawa Barat.
+Objek wisata yang baru resmi dibuka untuk umum tepatnya pada 17 Mei 2018 merupakan area lembah dan bukit kecil dengan jalan yang berundak-undak. Karena wilayah yang cukup luas, maka disarankan untuk pengunjung benar-benar mencermati rambu petunjuk yang terpampang jelas di sekitar pintu masuk.
+Objek wisata disini mengandalkan suasana alam yang hijau, sejuk, dan asri. Lokasi yang tepat berada di kawasan perbukitan ini menyuguhkan pemandangan alam menjadi menu utama yang bikin pengunjung lebih kerasan.
+Foto Instagram : @legok_jamboe
+Foto Instagram : @legok_jamboe
+Selain itu tempat ini juga di dukung dengan beberapa kegiatan, yaitu :
+Area Berkemah
+Foto Instagram : @legok_jamboe
+Foto Instagram : @legok_jamboe
+Di taman wisata ini tidak hanya disuguhkan pemandangan yang indah dan alami. Pengunjung juga bisa berkemah dengan teman, dan keluarga bagi yang mau merasakan keseruan berkemah di Legok Jamboe.
+Penginapan
+Foto Instagram : @legok_jamboe
+Legok Jamboe juga menawarkan penginapan bertemakan Rumah Bambu, dengan ruangan yang nyaman dan bernuansa alami serta udara sejuk.
+Balon Air
+Foto Instagram : @legok_jamboe
+Permainan balon air yang sangat mengasyikan bagi anak-anak yang semakin membuat mereka merasa nyaman.
+Mobil Wisata
+Foto Instagram : @legok_jamboe
+Di Legok Jamboe juga menyediakan mobil wisata yang bisa mengajak para pengunjung untuk mengelilingi area sekitar.
+ATV
+Foto : travelspromo.com
+Untuk menjelajahi setiap sudut Legok Jamboe, jelas melelahkan jika harus berjalan kaki, oleh sebab itu pengelola sudah menyediakan atv yang bisa disewa oleh pengunjung. Harga sewanya pun tak mahal, pengunjung cukup membayar Rp5.000 per orang untuk bisa menggunakan atv tersebut.
+Tips
+Taman wisata alam ini berada di Kampung Legok Jambu, Desa Karyamekar, Kecamatan Cariu, Kabupaten Bogor, Jawa Barat.
+Jarak objek wisata ini dari Stasiun Bogor memang cukup jauh, sekitar 54 kilometer dengan waktu tempuh yang mencapai sekitar dua jam dalam kondisi jalan macet. Itulah sebabnya, demi kenyamanan, jika ingin berkunjung ke sini, disarankan membawa kendaraan pribadi.
+Lokasi
+Legok Jamboe 8, Jl. Cariu, Kp. Parung Jambu, Karya Mekar, Cariu, Bogor, Jawa Barat, Indonesia, 16840.
+Fasilitas
+Parkir roda dua
+parkir roda empat
+Musholla
+Toilet
+Tiket Masuk
+Tiket Masuk : Rp.25.000,-
+Jam Operasional
+Senin-Minggu : 08.00-17.00
+Kontak
+Ada dua nomor telepon yang tersedia :
+0813 8881 9088
+0878 8865 6009
+Article Tags: Cariu
+Article Categories: Alam · Camping Ground · Hotel & Villa · Kampung Budaya · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/legok-jamboe/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/jambu-250x250.jpeg', null, 30, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (39, 'Desa Wisata Malasari', 'Arena', 'Arena', 'Desa Wisata Malasari merupakan objek wisata di Kabupaten Bogor yang menawarkan kehidupan pedesaan asri dengan pemandangan alam yang indah. Desa malasari dikelilingi dengan berbagai macam keindahan alam seperti hamparan perkebunan teh yang luas, area persawahan, serta aliran sungai yang berasal dari air terjun.
+Sumber foto: travelosofi.blogspot.com
+Tidak hanya pemandangan alam sekitarnya saja yang indah, adat istiadat dan budaya warisan leluhur yang dijaga dan dilestarikan oleh masyarakat setempat membuat tempat wisata ini menjadi sebuah paket berlibur yang lengkap.
+Lokasi Desa Wisata Malasari
+Jl Karamat Banteng RT003/RW012, Desa Malasari Kp Karamat Banteng, Kecamatan, Nanggung, Kabupaten Bogor, Jawa Barat 16650
+Fasilitas Desa Wisata Malasari
+Penginapan
+Bumi Perkemahan
+Sewa peralatan kemah
+Harga Tiket Masuk Desa Wisata Malasari
+Harga Tiket Masuk Rp. 12.500/Orang
+Sewa Tenda Rp. 50.000
+Sewa Matras Rp. 15.000
+Makan Rp. 30.000 – Rp. 40.000/Orang
+Penginapan Mulai dari Rp.150.000/malam
+Sumber: travelspromo.com
+Jam Operasional Desa Wisata Malasar
+Senin – Minggu 24 Jam
+Sumber: travelspromo.com
+catatan: Desa Wisata Malasari terbuka untuk umum setiap hari selama 24 jam, Namun, akses jalan yang masih minim penerangan terutama di area hutan, sehingga pengunjung tidak disarankan untuk datang pada malam hari.
+Sumber
+https://travelspromo.com/htm-wisata/desa-wisata-malasari-bogor/
+Article Tags: Nanggung
+Article Categories: Alam · Arena · Camping Ground · Hotel & Villa · Kampung Budaya · Rekreasi · Seni Budaya', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/desa-wisata-malasari/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/google.mapsDesa-Wisata-Malasari-250x250.jpg', null, 25, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (40, 'Citra Indah Waterpark', 'Arena', 'Arena', 'Citra Indah Waterpark bisa menjadi destinasi wisata ramah anak dan keluarga di Bogor yang recomended untuk di kunjungi. Water park yang juga dikenal dengan Water Fun Adventure ini dilengkapi tidak hanya permainan tetapi juga kolam renang. Selain bisa bermain tentu pengunjung juga bisa berolahraga. Berenang Bersama keluarga di Citra Indah Water Park akan merelaksasi tubuh dan menghilangkan pikiran penat.
+sumber : https://www.instagram.com/citraindahcity_waterpark/
+Lokasi :
+Jl. Raya Jonggol – Cileungsi No.KM, RW.2, Sukamaju, Kec. Jonggol, Kabupaten Bogor, Jawa Barat 16830
+Fasilitas :
+Area Parkir Luas
+Toilet
+Mushola
+Cafetaria
+Mini Market
+Shopping Street
+Gazebo
+Bank dan ATM
+Harga Tiket         :
+Senin – Minggu : Rp.30.000/Orang
+Jam Operasional :
+Senin – Minggu   : 08.00 – 17.00 WIB
+Kontak :
+Phone : (021) 89931075
+Article Tags: Jonggol
+Article Categories: Arena · Kolam Renang · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/citra-indah-waterpark/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/Citra-Indah-Waterpark-Bogor-250x250.jpg', null, 17, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (41, 'Water Kingdom Mekarsari Cileungsi', 'Arena', 'Arena', 'Water Kingdom Mekarsari Cileungsi Bogor, salah satu tempat wisata di Bogor bertemakan permainan air. Tempat ini sangat direkomendasikan untuk menghilangkan penat dan jenuh dari rutinitas sehari-hari yang tidak ada habisnya. Banyak atraksi menarik serta kegiatan seru yang bisa dilakukan di Water Kingdom Mekarsari, tentu saja semua bertemakan kegiatan air dengan beragam wahana pasti bisa menghibur kamu dan keluarga ketika bermain di tempat wisata yang satu ini. Kolam renang ini memiliki wahana diantaranya, Boomerang Slide, Raft Slide, Racer Slide, Toddler Pool, serta wahana seru lainnya yang wajib untuk dicoba saat sedang berenang ditempat ini. Wisata air yang berlokasi di Cileungsi Bogor ini menyuguhkan wahana spektakuler dengan luas lahan 5,6 hektar. Water Kingdom Mekarsari menyediakan rekreasi yang edukatif, juga menyehatkan karena memiliki konsep olahraga. Wahana rekreasi yang tersedia di Water Kingdom Mekarsari dapat dinikmati segala umur.
+Foto : Facebook WaterKingdom Mekarsari Cileungsi
+Destinasi wisata ini sangat pas sebagai salah satu referensi wisata untuk keluarga, teman dan kerabat saat liburan untuk melepas penat dari kesibukan sehari-hari. Ada beberapa jenis kolam berbeda, seperti toddler pool, olympic pool, kiddy pool, wave pool dll. Terdapat juga leisure pool dan splash plaza dengan berbagai keistimewaan yang dapat dinikmati pengunjung. Terdapat setidaknya 12 wahana yang tersedia di Water Kingdom Mekarsari dengan keseruan berbeda. Selain menyediakan wahana spektakuler, Water Kingdom Mekarsari juga menyediakan fasilitas lengkap yang memanjakan pengunjung seperti, gerai makanan dari cafe, restaurant, food court, hingga juice bar tersebar di setiap sudut wisata. Dengan harga terbilang terjangkau, pengunjung dapat menikmati waktu liburan sepuasnya di Water Kingdom Mekarsari ini.
+Harga Tiket Masuk Water Kingdom Mekarsari Cileungsi
+Senin-Jumat             : Rp.45.000
+Sabtu-Minggu          : Rp.55.000
+Jam Buka WaterKingdom Mekarsari Cileungsi
+Jam Buka : 09:00 – 17:00 WIB
+Wahana WaterKingdom Mekarsari Cileungsi
+Boomerang Slide
+Wahana ini akan membawa pengunjung untuk berseluncur dari ketinggian 15,8 meter. Kemudian masuk ke dalam terowongan panjang yang meliuk-liuk sekitar 118 meter menukik ke bawah.
+2. Raft Slide
+Pengunjung dapat merasakan sensasi meluncur terpanjang dan terlama dari yang pernah pengunjung coba. Dengan panjang slide 229 meter, pengunjung dapat mencoba 2 jenis slide yaitu slide terbuka dan tertutup.
+3. Racer Slide
+Di wahana ini, pengunjung akan sangat seru menikmatinya bersama teman atau keluarga. Terdapat 4 jalur slide berdampingan, sehingga 4 pengunjung akan berseluncur secara bersamaan. Pengunjung dapat bertanding siapa yang akan lebih cepat sampai di ujung lintasan. Dengan panjang lintasan 50 meter dan jalur menukik dari ketinggian 8,3 meter, peluncuran akan lebih menantang. Bagi pengunjung yang berselancar, akan difasilitasi rubber board sebagai papan seluncur agar lebih cepat.
+4. Toodler Pool
+Wahana ini dirancang untuk pengunjung yang membawa anak atau balitanya untuk bermain air bersama. Dengan kolam air setinggi tumit hingga betis, serta wahana-wahana ringan sangat pas untuk balita. Pengunjung dapat bermain dan bercanda dengan buah hati, tentu saja dengan kenyamanan dan keselamatan yang terjamin. Pengunjung dapat menikmati kebersamaan dengan keluarga dan tempat yang pas untuk mengasah perkembangan motorik anak.
+5. Kiddy Pool
+Pengunjung dengan yang membawa anak-anak akan sangat menyukai wahana ini. Kolam ini dilengkapi dengan beraneka jenis permainan yang akan membuat anak-anak betah berada disini. Anak-anak akan dapat menikmati wahana peluncuran mini, terowongan, rumah balon, dll. Anak-anak juga akan merasakan siraman air dalam ember raksasa dari ketinggian 4 meter. Mengajak anak-anak ke wahana ini akan menjadi pengalaman seru yang tak terlupakan.
+6. Wave Pool
+Jika ingin tantangan terhempas ombak dan arus air seperti di laut, maka harus mencoba wahana Water Kingdom Mekarsari ini. Wahana yang di desain dengan adanya variasi ombak yang akan selalu menghantam. Pengunjung yang ingin mencobanya dapat merasakan kecepatan dan besarnya ombak di kolam seluas 1.318 m2 ini. Bagi yang membawa anak-anak, akan ada pemandu atau lifeguard yang selalu siaga membantu. Pengunjung akan merasakan sensasi seperti sedang berlibur di pantai.
+7. Octopus Splash Pool
+Jika membawa anak, pengunjung wajib mengunjungi wahana Octopus Splash Pool ini. Anak – anak akan merasa bersemangat untuk mengeksplorasi kastil Raja Gurita ini. Anak – anak dapat menelusuri lorong – lorong dalam wahana dan mencoba tiap seluncurannya akan sangat seru. Pengunjung juga akan merasakan semburan air dan juga tumpahan air dari ember raksasa setiap 5 menit. Wahana ini juga dapat menjadi spot berfoto yang instagramable karena desain kastil yang sungguh catchy.
+8. Lazy River
+Jika ingin berselancar atau mengarungi arus sungai buatan sepanjang 600 meter, maka di sinilah tempatnya. Pengunjung dapat merasakan sensasi mengarungi sungai tanpa harus mengayuh atau berenang. Cukup duduk di atas ban dan biarkan arus Lazy River ini membawa pengunjung hingga ke ujung. Dengan kedalaman kolam 1,2 meter dan luas 2.687,37 m2, pengunjung akan dibawa berkeliling wisata ini. Pengunjung dapat bermalas-malasan diatas ban karena arus air yang tenang hingga sampai ke ujung.
+9. Olympic Pool
+Wahana ini sangat pas untuk ajang rekreasi untuk keluarga dengan wahana yang seru dan menyenangkan. Kolam dengan luas 945 m2 ini memiliki bentuk oval yang dirancang seperti kolam renang standar internasional. Pengunjung dapat berenang dengan bebas atau bermain bersama keluarga di dalam kolam ini. Dilengkapi dengan wahana sunken bar dan body slides membuat berenang menjadi lebih mengasyikkan.
+10. Whirl Pool
+Wahana ini berbeda dengan dikolam lainnya, pengunjung dapat merasakan arus air dari dua arah berlawanan. Hempasan arus membuat badan terombang ambing, sehingga pengunjung lebih menikmatinya. Dengan luas kolam 91,96 m2, pengunjung dapat bersantai sekaligus merasakan ketegangan hempasan air. Pusaran air yang terhempas ke seluruh tubuh, akan membuat pengunjung merasa lebih betah berada dalam kolam.
+11. Leisure Pool
+Jika pengunjung ingin beristirahat dan berenang dengan tenang maka dapat mencoba wahana ini. Di Leisure Pool pengunjung dapat bersantai sambil menikmati pemandangan danau yang memukau mata. Pengunjung dapat berenang sambil bercengkerama dengan santai di kolam ini. Karena dirancang sebagai kolam yang tenang, sehingga kolam agak luang dari pengunjung. Jadi pengunjung yang mencobanya dapat berenang dengan bebas dan lebih damai.
+12. Futsal Fountain
+Disini pengunjung dapat menguji kebolehan dengan bermain futsal di lapangan futsal yang sudah tersedia. Dengan lantai berbahan rubber sehingga tidak mudah licin jika berlari. Pengunjung juga dapat merasakan sensasi terkena air mancur yang akan lebih membuat permainan lebih menantang. Pengunjung dapat mencobanya bersama teman, dan rombongan dan rasakan keseruan bermain diatas air yang tak terlupakan.
+Fasilitas Water Kingdom
+Musholla
+Area parkir yang luas
+Tempat belaja souvenir
+Pemandangan danau
+Gerai makanan & minuman
+Loker untuk menyimpan barang
+Cabana yang bisa disewa
+Alamat
+Jl. Raya Cileungsi-Jonggol KM.3, Cileungsi, Bogor-Indonesia 16820 Telp : (021) 29232923 (hunting), Fax (021) 29232922
+Rute Menggunakan Angkutan Umum
+Lokasi Water Kingdom Mekarsari cukup mudah dijangkau dengan kendaraan umum karena hanya 13 km dari tol Cibubur. Jika datang dari Jakarta, naik bus menuju terminal bus Kampung Rambutan, kemudian naik angkot biru (121). Kemudian turun di perempatan Ramayana Cileungsi, dan lanjut menggunakan angkot biru (64) ke arah Jonggol. Atau jika dari Tanjung Priuk dapat naik menggunakan bis Patas AC dan turun langsung di lokasi. Sedangkan dari Bogor, Depok, atau Bekasi, naik bus arah Cileungsi dari terminal, kemudian naik angkot 64.
+Sumber
+travelspromo.com
+lakupon.com/special/water-kingdom-mekarsari-bogor-1053
+Article Tags: Cileungsi
+Article Categories: Kolam Renang · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/water-kingdom-mekarsari-cileungsi/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/272197036_4871070812958905_8390129019977060484_n-250x250.jpg', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (42, 'Lingkung Gunung', 'Arena', 'Arena', 'Lingkung Gunung adalah destinasi camping dan penginapan yang berada di Kabupaten Bogor. Tempat wisata ini berada di kaki Gunung Gede Pangrango dengan ketinggian 850 mdpl. Dengan udara yang sejuk serta pemandangan yang mampu menyegarkan mata dan pikiran.
+Di samping menyediakan area berkemah dan menginap, terdapat beragam rekreasi yang ditawarkan. Beberapa di antaranya adalah berkuda dan outbond. Wisatawan juga bisa menikmati kopi dan makanan ataupun nongkrong asyik di Elji Cafe yang pastinya memiliki spot foto yang Instagramable.
+Instagram : @lingkunggunung
+Lokasi
+Jl. Akses Lingkung Gn. Cimande, Kec. Caringin, Kabupaten Bogor, Jawa Barat 16730
+Fasilitas
+Meeting Room
+Tempat Ibadah
+Parkiran
+Wifi
+Toilet
+Kolam Renang
+Jam Operasional
+Senin – Jumat : 08.00 – 20.00
+Sabtu – Minggu : 08.00 – 21.00
+Intagram
+@lingkunggunung
+Article Tags: Caringin
+Article Categories: Cafe & Resto · Camping Ground · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/lingkung-gunung/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/1662604191263-250x250.jpg', null, 21, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (43, 'Gunung Ciung', 'Arena', 'Arena', 'Gunung Ciung memiliki ketinggian 950 mdpl, dan memiliki waktu perjalanan kurang lebih 1 jam dengan jarak tempuh sekitar 1,5 kilometer berjalan kaki. Selama perjalanan, kita akan disuguhi dengan pemandangan yang sangat alami, pepohonan yang hijau dengan berbagai macam jenis pohon, Kopi dan Kakao (coklat) adalah tanaman yang banyak terdapat di sana. Camping Ground di Gunung Ciung bisa kita dapatkan di ketinggian 720 mdpl. Di tempat perkemahan pertama ini, kita bisa sekedar singgah untuk beristirahat sebelum meneruskan pendakian, ataupun bermalam dengan membuka tenda di sini.
+Instagram : @wisatagunungciung
+Di tempat perkemahan pertama ini, sudah dilengkapi dengan saung atau gazebo yang cukup besar untuk beristirahat. Selain itu, ada juga tenda untuk bermalam, kamar mandi, dan sebuah bangunan dikhususkan untuk pengunjung yang mungkin tedapat pengunjung dalam kondisi kurang fit saat melakukan pendakian. Ada aliran sungai Ciung yang airnya sangat jernih dengan arus yang tidak terlalu deras, sehingga kita bisa menikmati air sungai tersebut dengan aman dan nyaman.
+Lokasi
+Desa Bojong Koneng, kecamatan Babakan Madang, Kabupaten Bogor, Jawa Barat.
+Fasilitas
+Warung
+Gazebo
+Kamar mandi
+Tenda
+Listrik
+Tiket Masuk
+HTM Hiking : 15.000 / orang
+Leuwi Ciung : 5.000 / orang
+Berkemah Untuk Pelajar : 25.000 / orang
+Berkemah Untuk Regular : 30.000 / orang
+Berkemah Full Paket : 140.000 /orang (Minuman, Nasi Liwet Komplit, Tenda Share Kapasitas 3 Orang, Matras, Lampu, Sarapan Nasi Goreng, Leuwi Ciung)
+Anak – anak 1-10 tahun (gratis), 11-13 (Separuh Harga)
+Jam Operasional
+Senin – Minggu 24 Jam
+Sumber
+https://www.enampagi.id/travel/pr-1251559357/gunung-ciung-destinasi-wisata-alam-di-bogor-yang-bisa-dinikmati-bersama-keluarga
+Instagram
+@wisatagunungciung
+Article Tags: Babakan Madang
+Article Categories: Alam · Camping Ground · Gunung & Bukit · Hiking / Tracking', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/gunung-ciung/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/260246357_2963904377160846_5726309766475941182_n-250x250.jpg', null, 27, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (44, 'Teras Wangun', 'Arena', 'Arena', 'Teras Wangun adalah sebuah restoran di Kawasan Sentul yang berada di Wangun Landeuh, Karang Tengah, Sentul, Babakan Madang, Bogor, Jawa Barat.
+Selain restoran, Teras Wangun juga menyediakan tempat untuk rekreasi dengan konsep alam yang cukup kental. Jika ingin mencicipi menu di restoran ini bisa sekaligus merasakan sensasi wisata alam yang indah, Teras Wangun di buka setiap hari.
+Tanaman dan pohon-pohon rindang akan membuat para pengunjung merasa seperti berada di sebuah kebun atau taman yang luas.
+Lokasi :
+Wangun Landeuh RT.04/RW.08 Karang Tengah, Sentul, Kec. Babakan Madang, Kab. Bogor, Jawa Barat 16810
+Fasilitas :
+Tempat Training
+Tempat Rapat
+Camping Ground
+Pesta Kebun
+Foto untuk Prewedding
+Jam Operasional :
+Hari Biasa        : 08.00 – 17.00 WIB
+Hari Libur        : 07.00 – 17.00 WIB
+TIKET MASUK :
+Hari Biasa – Hari Libur :  RP.50.000,- /Per Orang
+(note : untuk Rp.25.000 dapat ditukarkan dengan makanan atau minuman di restoran)
+KONTAK          :
+  Whatsapp      : 08197898889
+  Instagram     : @teras_wangun
+SUMBER GAMBAR : https://www.margaapsari.com/2020/12/teras-wangun-sentul.html
+Article Tags: Babakan Madang
+Article Categories: Agrowisata · Alam · Camping Ground · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/teras-wangun/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/teras-wangun-sentul-03-1-250x250.webp', null, 18, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (45, 'Paradesa Park Cibinong', 'Arena', 'Arena', 'Sekilas Tentang Paradesa Park
+Paradesa Park merupakan tempat hangout ala desa yang didesign khusus untuk siapa saja yang butuh suasana alam tanpa perlu berpergian jauh ke area gunung.
+Paradesa Park yang terletak di Kawasan The Green Hill Residence Cibinong hadir dengan menawarkan konsep wisata kuliner indoor dan outdoor dengan menyuguhkan pesona alam sekitar yang menawan. Juga tersedia swimming pool anak yang cocok banget untuk hangout bersama keluarga.
+Daya Tarik Paradesa Park
+Sebelum mengunjungi tempat ini tak ada salahnya jika mengetahui daya tarik yang dimilikinya. Berikut daya tarik dari Panoramic Cafe & Family Resto Paradesa Park :
+River Area, Paradesa Park
+Menyajikan Pesona Alam yang Menawan
+Daya tarik utama yang dimiliki Paradesa Park yakni tempatnya menyajikan pesona alam yang menawan. Disana pengunjung akan disuguhkan pemandangan alam yang indah disertai suasana yang masih asri karena mengingat lokasinya yang dikelilingi oleh pepohonan rindang dan berdekatan dengan aliran sungai ciliwung.
+Fun Rafting di Paradesa Park (Sumber : IG @paradesapark)
+Paradesian, yang merupakan sebutan untuk pengunjung Paradesa Park, bisa menikmati keseruan rafting di sekitaran sungai dekat Paradesa Park. Cukup dengan Rp 130.000 paradesian bisa mendapatkan banyak pelayanan, yaitu :
+Paket Fun Rafting 1 orang
+Transportasi dari Paradesa Park ke titik pertama di sukahati
+Paket Nasi Ayam Bakar/Goreng *pilih satu
+Free Mineral Water/Ice Tea *pilih satu
+Guide profesional & Asuransi
+*Harga sudah termasuk pajak
+Memiliki Spot Instagramable
+Beanbag Area, Paradesa Park
+Paradesa Park dibangun dengan desain yang cukup instagramable, tempat ini menawarkan 2 pilihan area, indoor dan outdoor. Untuk indoornya, kalian akan menjumpai bangunan menyerupai joglo yang cocok sebagai tempat kumpul keluarga.
+Sedangkan untuk area outdoornya kini menjadi spot menarik. Disana kalian akan menempati area dengan konsep lesehan beralaskan rumput hijau yang menjadi spot favorit pengunjung lantaran menggunakan bean bag atau bantal warna-warni sebagai tempat duduknya.
+Uniknya lagi, Paradesa Park juga menyediakan fasilitas kolam renang dengan air yang bening. Disamping kolam renang terdapat juga banyak gazebo-gazebo yang bisa kalian gunakan untuk beristirahat.
+Pool Area, Paradesa Park
+Paradesian yang mau berenang di Paradesa Park tidak ada tiket masuk nya, hanya saja paradesian cukup transaksi Rp 50.000/orang untuk pemesanan makanan, dengan begitu paradesian sudah bisa berenang.
+Menu di Paradesa Park Lengkap dan Murah
+Layaknya cafe populer di Bogor, Paradesa Park The Green Hill Residence telah menawarkan beragam menu makanan dan minuman. Mulai dari aneka coffee, teh, makanan khas Indonesia, snack, pasta, salad, dessert, dan masih banyak yang lainnya. 
+Sedangkan untuk harga menu Paradesa Park Green Hil mulai dari Rp 10.000 – Rp 90.000 saja. Klik link berikut untuk mengetahui lokasi, menu dan info reservasi Paradise Park.
+Fasilitas Lengkap
+Berikut fasilitas lengkap di Paradesa Park Cibinong :
+Area Parkir
+Toilet
+Loker
+Mushola
+Akses Wifi
+Kolam Renang
+Gazebo
+Fasilitas Protokol Kesehatan
+Mengingat masih dalam pandemi, pengunjung diwajibkan untuk mematuhi protokol kesehatan yang telah ditetapkan oleh pengelola.
+Lokasi Paradesa Park
+Alamat Paradesa Park berada di daerah Paradesa Park, Pd. Rajeg, Cibinong, Bogor, Jawa Barat 16413. Tepatnya terletak di area perumahan The Green Hill Residence. Untuk aksesnya cukup mudah, karena lokasinya tak jauh dari pusat kota Bogor.
+Jam Operasional
+Mengenai Jam Operasional / Jam Buka, Paradesa Park dibuka mulai jam 10.00 – 22.00 pada hari Senin sampai Jumat, untuk hari Sabtu buka mulai jam 08.00 – 23.00 WIB, sedangkan hari Minggu buka mulai jam 08.00 – 22.00 WIB.
+Sumber
+https://www.wisatainfo.com/2021/05/paradesa-park-cibinong-review-harga.html
+https://www.instagram.com/paradesapark/?hl=en
+Article Tags: Cibinong · Kabupaten Bogor
+Article Categories: Cafe & Resto · Kolam Renang · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/paradesa-park-cibinong/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/paradesa-park-250x250.jpg', null, 17, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (46, 'Camp Hulu Cai Bogor', 'Arena', 'Arena', 'Camp Hulu Cai menjadi destinasi wisata favorit warga ibu kota menghabiskan hari liburnya di kawasan Puncak, Bogor. Jawa Barat memang terkenal dengan sajian destinasi wisata alamnya, khususnya di Bandung dan Bogor yang menjadi primadona nya. 
+  Objek wisata Camp Hulu Cai Resort menjadi tempat liburan yang asyik dan menyenangkan. Menjadi salah satu destinasi populer di Bogor dan ramai akan wisatawan untuk menghabiskan waktu libur. Akses jalan menuju Camp Hulu Cai sudah baik dan bisa anda kunjungi dengan mudah.
+Banyak spot wisata rekomended yang ada di Camp Hulu Cai ( seperti taman bunga indah, resort kece, outbond centre dan masih banyak lagi). Dijamin liburan anda dan keluarga di Camp Hulu Cai Resort akan seru dan menyenangkan.
+Lokasi
+di Jl. Veteran III, Cibedug, Kec. Ciawi, Bogor, Jawa Barat.
+Fasilitas
+Tempat parkir kendaraan yang luas
+Villa kece berbagai macam pilihan
+Camping area berbagai macam landscape
+Wahana permainan seru
+Spot foto anti mainstream
+Tempat ibadah
+Cafe kece
+Gazebo
+Klinik kesehatan
+Toilet
+Tiket Masuk
+Rp.20.000/orang
+Parkir kendaraan
+Motor : Rp.5.000
+Mobil : Rp.10.000
+Jam Buka
+Senin-Minggu 24 Jam
+Sumber
+sikidang.com
+Contact
+0822-1119-7775
+Article Tags: Ciawi
+Article Categories: Camping Ground · Hotel & Villa · Kolam Renang · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/camp-hulu-cai-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/Camp-Hulu-Cai-Resort-250x250.jpg', null, 16, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (47, 'Riverside Golf Club', 'Arena', 'Arena', 'Riverside Golf Club adalah golf Indonesia yang paling menakjubkan dan dramatis dengan lapangan kejuaraan 18-lubang par 72 yang terletak di sepanjang Sungai Cikeas di provinsi Bogor yang indah, Indonesia. Dirancang oleh legenda golf dan hiu putih besar Greg Norman, situs seluas 90 hektar ini menawarkan kepada para pemain dari semua tingkatan perjalanan yang diisi adrenalin dalam suasana tanaman hijau alami yang subur, tidak seperti klub golf lainnya. Bersantai setelah itu di clubhouse kami dan nikmati keramahan pemenang penghargaan.
+Lokasi
+Jl. Bukit Golf Riverside Cimanggis Bojong Nangka Gunung Putri, Bojong Nangka, Kec. Gn. Putri, Bogor, Jawa Barat 16965
+Fasilitas
+1. Locker Room
+2. Dining
+3. Swimming Pool
+4. Apsara Spa
+5. ProShop
+6. Add Thirty
+7. Meeting Room
+Tarif Booking
+WeekDay UNLIMITED Golf
+Rp. 1,200,000,-
+Weekday Golf + MEAL Package
+Rp. 950,000,-
+Profil Riverside Golf Club
+Website : https://www.riverside-golf.com/
+Phone: +62.21.8671533
+Fax: +62.21.8671535
+Hp: 0812 9424 9784
+Mobile: +62.813.1596.2952
+Email: fo@riverside-golf.com
+Instagram
+Facebook
+Riverside Golf Club
+Article Tags: Gunung Putri
+Article Categories: Arena · Lapangan Golf', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/riverside-golf-club/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/riverside-golf-course-250x250.jpg', null, 16, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (48, 'Sentul Highlands Golf Club', 'Arena', 'Arena', 'Dibuka secara resmi pada tahun 1997, lapangan golf kejuaraan 18-lubang dari Sentul Highlands Golf Club adalah karya asli yang dirancang oleh tidak kurang dari legenda golf Afrika Selatan dan beberapa PGA – dan pemenang utama, Gary Player.
+Terletak di kawasan perumahan Sentul City yang bergengsi dan terintegrasi penuh dan pasar.
+Dibatasi oleh beberapa gunung yang menghadap ke “Dataran Tinggi Sentul” yang menakjubkan, memainkan kursus yang menantang ini hadir dengan pemandangan luas di hampir setiap arah.
+Lokasi
+Cijayanti, Babakan Madang, Bogor, West Java 16810
+Fasilitas
+VIP ROOMS
+VIP ROOMS
+BATU JIMBAR RESTAURANT
+BATU JIMBAR RESTAURANT
+Tarif Booking
+Profil Sentul Highlands Golf Club
+Website : https://sentulhighlands.com/
+Email : reservation@sentulhighlands.com
+Phone & WA : (021) 87960266
+(021) 87960268
+08111157888
+Article Tags: Babakan Madang
+Article Categories: Arena · Lapangan Golf', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/sentul-highlands-golf-club/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/sentulhighlandsgolf-250x250.jpg', null, 16, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (49, 'Camping Sentul Adventure', 'Arena', 'Arena', 'Camping Ground di wilayah sentul sangat banyak digemari oleh pecinta alam, salah satu daya tarik Camping Ground Sentul adalah alamnya yang masih Asri, Hijau membuat mata memandang sangat nyaman serta Jarak Jakarta – Sentul Bogor ini hanya sekitar 35 Km yang dapat di jangkau 30 – 45 Menit perjalanan. Hal tersebut yang paling banyak dilih oleh Pecinta alam yang tidak mau kena macet dan berlama lama di perjalanan.
+Paket Camping Sentul Bogor yang dekat dengan Jakarta dan akses lokasi mudah di jangkau bebas macet namun berudara sejuk dan segar,pemandangan alam yang asri,aman dan nyaman gemericik suara air sungai yang menyejukan suasana hati,fasilitas lengkap dengan biaya yang sangat hemat.
+Explore Nature Camp
+Cocok untuk kegiatan outing anda baik pelajar maupun perusahaan seperti : Outbound Training, LDKS, Solo Camp, Jambore, Super Camp dan Agro Eco Tour.Ada harga ada rupa kata kata bijak yang sering kita dengar jika kita hendak membeli sesuatu barang maupun jasa,hal ini juga berlaku bila anda ingin berkegiatan  di  lokasi Pakaet Camping  Sentul Bogor, mau pilih yang murah tapi spesifikasi di kurangi atau yang lengkap dengan kegiatan harga lumayan tinggi sebanding dengan kenyamanan silahkan disesuaikan dengan kebutuhan dan kebijakan anda.
+Lokasi
+Hambalang, Citeureup, Bogor, West Java 16810
+Fasilitas
+Parking Area
+Lapangan Camping Dapat Menampung 300 orang dan 60 tenda dome charlie.
+Akses Yang Mudah
+Tiket Masuk
+Mengenai harga booking harus melihat ketersediaan tempat dahulu melalui website dibawah.
+Profil Camping Sentul Adventure
+Website : https://camping-sentul-adventure.business.site/
+Jam Buka
+Senin – Minggu 24 Jam
+Contact
+Tlp : 0812-8468-3295
+Article Tags: Citeureup
+Article Categories: Alam · Arena · Camping Ground', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/camping-sentul-adventure/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/sentulcamping-250x250.jpg', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (50, 'Jagorawi Golf & Country Club', 'Arena', 'Arena', 'Pada awal tahun 1970-an, pendiri Jagorawi Golf & Country Club, almarhum Zakir, bermimpi membangun lapangan golf era baru pertama di tempat yang sekarang dikenal sebagai area Jagorawi Toll. Pada tahun 1975, Zakir mulai menegosiasikan desain dan konstruksi lapangan golf standar internasional dengan tidak kurang dari 5 kali juara Inggris Terbuka, Peter Thomson.
+Dibantu oleh mitra desain Michael Wolveridge dan arsitek golf Ronald Fream, pada tahun 1976, Thomson memulai dengan merancang dan membangun “Kursus Taman”. Pada tahun 1979, ia membuka sembilan lubang pertama untuk bermain, hanya untuk membuka 9 lubang yang tersisa pada tahun 1981.
+Terletak di bekas hutan-tanah di Lembah Sungai Cikeas, hari ini Garden Course lebih dikenal sebagai “Kursus Tua”, dan merupakan bagian tak terpisahkan dari satu-satunya klub golf Indonesia yang merupakan rumah bagi 45 lubang golf kejuaraan.
+Satu tahun sebelum penyelesaian 9 lubang pertama dari Garden Course (Kursus Lama), pada 9 Maret 1978, jalan tol pertama Indonesia secara resmi dibuka, menghubungkan Jakarta dengan kota-kota Bogor dan Ciawi di selatan. Jalan raya sepanjang 45 km ini dinamai jalan tol Jagorawi, akronim yang dibentuk dari komponen nama tiga kota yang terhubung – Jakarta-Bogor-Ciawi. Dan dengan tepat, itu memberi nama ke Jagorawi Golf & Country Club.
+Lokasi
+Jl. Karanggan Raya Gn. Putri, Cimpaeun, Kec. Tapos, Kota Depok, Jawa Barat 16960
+Fasilitas
+Dining
+Pro Shop
+Swimming
+Spa
+Meetings
+Tarif Booking
+BOOKING 2 PERSON Rp. 500,000
+BOOKING 3 PERSON Rp. 400,000
+BOOKING 4 PERSON Rp. 350,000
+Profil Jagorawi Golf & Country Club
+Website : https://jagorawi.com/
+Contact
+Jagorawi Golf & Country Club
+Jalan Raya Karangan,
+Gunung Putri, Jawa Barat 16960
+Indonesia
+Phone : +62-21 875 3810
+Email : booking@jagorawi.com
+Article Tags: Gunung Putri
+Article Categories: Arena · Lapangan Golf', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/jagorawi-golf-country-club/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/jagorawigolf-250x250.jpg', null, 16, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (51, 'Camping Gayatri', 'Arena', 'Arena', 'Merasakan hangatnya api unggun dan sejuknya udara pegunungan
+Harga Tiket
+Tiket Masuk : Rp. 25.000/Orang
+Sewa Tenda: Rp. 80.000
+Penyewaan Peralatan Kemah : Rp. 20.000
+Tiket Family Camping : Rp. 135.000
+Tiket Group Camping : Rp. 250.000
+Penginapan Glamping : Rp. 350.000/malam
+Lokasi
+Jl. Citeko Panjang, RT.03/RW.09, Citeko, Kec. Cisarua, Bogor, Jawa Barat. Terletak di antara hutan Taman Nasional Gunung Gede Pangrango dan kawasan perkebunan teh
+Sumber :
+Website
+https://www.pinhome.id/blog/camping-gayatri-citeko-bogor/
+Social Media
+Instagram : https://www.instagram.com/campinggayatri/?hl=en
+Article Tags: Cisarua
+Article Categories: Alam · Arena · Camping Ground · Gunung & Bukit', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/camping-gayatri/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/gayatri-camp-cisarua-bogor-1024x701-1-250x250.jpg', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (52, 'Cakrawala Nuansa Nirwana', 'Arena', 'Arena', 'Tempat wisata keluarga ini menyajikan aneka wahana yang sangat cocok untuk liburan Anda dan keluarga.
+Bagi Anda warga Bogor dan sekitarnya, kini telah hadir kawasan wisata terpadu Cakrawala Nuansa Nirwana (CNN). Tempat wisata keluarga ini menyajikan aneka wahana yang sangat cocok untuk liburan Anda dan keluarga. Beberapa fasilitas yang disajikan mengusung konsep rekreasi dan edukasi. Jadi, tempat wisata yang baru dibuka di awal tahun 2017 ini sangat pas untuk wisata Anda dan anak-anak.
+Tempat wisata terpadu tersebut menjadi wahana terlengkap di wilayah Bogor Barat yang dilengkapi keamanan dan kenyamanan pengunjung. Meski memiliki fasilitas terlengkap, namun untuk tiket masuk tergolong ramah di kantong.
+Lokasi
+Jln. Abdul Fatah km. 5, Desa Cinangka, Kec. Ciampea, Kab. Bogor
+Fasilitas
+Fasilitas di Cakrawala Nuansa Nirwana (CNN):
+Kolam luncur dewasa
+Kolam renang anak
+Kolam renang semi olympic
+Kolam arus
+Track offroad
+Flying fox
+Sepeda air
+Panjang dinding
+Danau
+Perahu bebek
+Wahana outbond
+Penginapan, dll.
+Tarif
+Wahana air: Rp50.000
+Perahu: Rp10.000
+Sepeda air: Rp20.000
+Flying fox: Rp25.000
+Panjat dinding: Rp15.000
+Jam Operasional
+Everyday 08.00 – 05.00 WIB
+Kontak
+083811274287
+085810777119
+089649106693
+083805330626
+Article Tags: Ciampea
+Article Categories: Danau & Situ · Kolam Renang · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/cakrawala-nuansa-nirwana/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/cakrawala-nuansa-250x250.png', null, 20, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (53, 'Bukit Alesano', 'Arena', 'Arena', 'Pemandangan alam yang indah di Bukit Alesano menjadi daya tarik bagi wisatawan yang berkunjung. dengan suguhan pemandangan lampu kota pada malam hari serta gunung gede pangrango, perbukitan, dan sawah pada pagi hari.
+Lokasi camping yang instagramable
+Bukit Alesano merupakan destinasi wisata alam yang berada di Kabupaten Bogor, Menjadi obyek wisata terbaik untuk aktivitas camping di Bogor, Bukit Alesano belum lama ini viral di media sosial dengan sajian viewpoint mengagumkan. Apalagi panorama malam yang tersaji di Bukit Alesano, anda bisa menikmati citylight Bogor yang luar biasa. Jika anda berencana liburan di Bogor, jangan lewatkan destinasi pariwisata Bukit Alesano.
+Lokasi
+Desa Cipelang, Kecamatan Cijeruk, Kabupaten Bogor
+Fasilitas
+Tempat Parkir
+Penyewaan Tenda
+Warung
+Toilet
+Spot Foto
+Camping Area
+Harga Tiket Masuk
+Harga tiket masuk Rp 15.000
+Parkir roda dua Rp 10.000 & roda empat Rp 20.000
+Jam Operasional
+Buka setiap hari 24 jam
+Article Tags: Cijeruk
+Article Categories: Alam · Camping Ground · Gunung & Bukit', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/bukit-alesano/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/bukit-alisano-camping-ground-250x250.jpg', null, 12, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (54, 'Camping Ground dan Curug Ciputri', 'Arena', 'Arena', 'Curug Ciputri merupakan destinasi wisata alam yang cocok juga sebagai destinasi wisata Keluarga. 
+Lokasi Curug Ciputri
+Curug Ciputri adalah destinasi wisata alam yang berlokasi di kaki Gunung Salak lebih tepatnya di Desa Tapos, Kecamatan Tenjolaya, Kabupaten Bogor, serta suguhan utama dari lokasi wisata tersebut adalah pesona air terjun, pohon – pohon pinus, serta tempat camping yang mengasyikan.
+Lokasi :
+Desa Tapos, Kecamatan Tenjolaya, Kabupaten Bogor
+Fasilitas
+Area Parkir
+Mushola
+Toilet
+Warung
+Harga Tiket Masuk :
+Harga tiket masuk Curug Ciputri dan parkir : Rp. 15.000
+Biaya camping di Curug Ciputri sebesar : Rp. 25. 000 per orang sudah termasuk biaya parkir.
+Jam Operasional :
+Buka setiap hari 24 Jam
+Article Tags: Tenjolaya
+Article Categories: Air Terjun · Alam · Arena · Camping Ground', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/camping-ground-curug-ciputri/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/Ciputri-1-250x250.jpg', null, 17, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (55, 'Golden Futsal & Hall Center', 'Arena', 'Arena', 'Salah satu arena olahraga futsal lengkap dan nyaman.
+golden futsal hall & center merupakan lapangan futsal dan basket dengan standar nasional yang terletak di jl cagak lingkar rancabungur , kab bogor
+Lokasi
+Jl Cagak Lingkar No. 1 RT 02/04 Desa Rancabungur Kec. Rancabungur, Rancabungur, Ranca Bungur, Rancabungur, Kec. Ranca Bungur, Bogor, Jawa Barat 16310
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Harga & Jam Operasional
+Weekdays 
+08.00-16.00
+Non member : 75k per jam 
+Pelajar : 60 ribu per jam
+Member : 50 ribu per jam
+16.00-24.00
+Non member : 85k per jam
+Member : 50 ribu per jam
+Weekend 
+08.00-16.00
+Non Member : 75k per jam
+Pelajar : 70k per jam
+Member : 50 ribu per jam
+16.00-24.00
+Non Member : 85k per jam
+Member : 50 ribu per jam
+Kontak
+Website: https://golden-futsal-hall-center.business.site
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Rancabungur
+Article Categories: Arena · Sport Center', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/golden-futsal-hall-center/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/golden-futsal-250x250.png', null, 19, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (56, 'Camping Ground Sukamantri', 'Arena', 'Arena', 'Wisata menarik yang instagramable.
+Bumi perkemahan Sukamantri termasuk ke dalam wilayah pengelolaan RPTN Gunung Salak I, Taman Nasional Gunung Halimun Salak. Sedangkan secara administrasi, camping ground Sukamantri terletak di Desa Sukamantri Kecamatan Taman Sari, Kabupaten Bogor Jawa Barat. Yang menjadi objek daya tarik wisata utama di Sukamantri adalah keberadaan area berkemah yang cukup luas dan sejuk. Campinground Sukamantri merupakan tempat pendidikan dan pelatihan sumber daya manusia dalam konsep luar ruang (outdoor activities).
+Pengunjung yang datang ke bumi perkemahan sukamantri dalam rangka untuk melakukan kegiatan pelatihan dan pendidikan berasal dari tingkat pendidikan dasar, pendidikan menengah sampai dengan tingkat mahasiswa, datang dari berbagai perguruan tinggi di Banten, DKI Jakarta dan Jawa Barat, terutama dari daerah wilayah Jabotabek. Sementara itu, mereka yang berasal dari kelompok keluarga maupun sendiri-sendiri datang ke bumi perkemahan Sukamantri untuk menikmati wisata alam dan wisata berkemah.
+Lokasi
+Taman Nasional Gunung Halimun Salak, Tamansari, Kec. Tamansari, Bogor, Jawa Barat 16610
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Aula
+Lapangan
+Tiket Masuk
+Tiket masuk lokasi : Rp. 50.000,-
+Sewa Tenda (Cek Lokasi)
+Jam Operasional
+Setiap Hari
+Kontak
+web pengelola: https://highlandcamp.co.id/bumi-perkemahan-sukamantri-bogor
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Tamansari
+Article Categories: Arena · Camping Ground · Olahraga', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/camping-ground-sukamantri/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/bumi-perkemahan-highland-camp-250x250.jpg', null, 12, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (57, 'Lido Golf Club', 'Arena', 'Arena', 'Provinsi Jawa Barat terkenal memiliki deretan pegunungan dengan pemandangan alam yang menawan. Hal ini tentu menjadi daya tarik tersendiri bagi para wisatawan baik lokal maupun mancanegara termasuk para pencinta olahraga golf. Maka tidaklah mengherankan jika di Jawa Barat Anda bisa menemukan deretan lapangan golf bertaraf internasional yang menyuguhkan pemandangan pegunungan serta danau alami, salah satunya yakni Klub Golf Lido yang terletak di Bogor.
+Sebagai salah satu dari 21 lapangan golf yang terletak di Jawa Barat, Lido Golf menawarkan suasana padang golf yang asri dengan pemandangan yang menawan. Pada cuaca cerah, Anda bisa melihat dengan jelas pemandangan gunung Salak dan gunung Gede Pangrango yang mengapit padang golf ini.
+Lokasi
+Jl. Raya Bogor No.Km 21, Watesjaya, Cigombong, Bogor, Jawa Barat
+Fasilitas
+Hotel Bintang 4 dengan 105 Kamar
+Free Wifi
+Tv
+Spa
+Pijat
+Kolam Renang
+Karaoke
+Biliar
+Lapangan Tenis
+Taman Bermain
+Jalur Pendakian
+Restaurant
+Proshop
+Tarif
+Tarif green fee sebesar Rp. 375.000,-
+Weekend, dikenai tarif green fee sebesar Rp. 947.000,-
+Fasilitas hotel ini bisa Anda nikmati dengan membayar tarif sekitar Rp. 738.000 – Rp. 968.000,- / Malam
+Jam Operasional
+Weekday 5:30–4PM
+Weekend 5:30AM–6PM
+Contact
+Bogor 16740 – Indonesia
+Phone : +62 251 221008
+Fax : +62 251 221007
+Article Tags: Cigombong
+Article Categories: Arena · Lapangan Golf', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/lido-golf-club/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/lidoeuy3-250x250.jpg', null, 11, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (58, 'Permata Sentul Golf Club', 'Arena', 'Arena', 'Permata Sentul Golf adalah perusahaan yang bergerak dibidang jasa pariwisata dengan jenis usaha rekreasi dan hiburan umum, yang menyediakan fasilitas berupa lapangan Golf, Restoran & Proshop.
+Lapangan Golf Permata Sentul didirikan pada tanggal 30 Agustus 1997, lapangan golf ini berada dikawasan perbukitan Sentul dengan ketinggian sekitar 200 m diatas permukaan laut. Lapangan golf yang menarik ini sangat sesuai dengan kebutuhan para penggemar golf di wilayah Jakarta dan sekitarnya, bahkan para pegolf diseluruh Indonesia & luar negeri. Untuk dapat memenuhi kepuasan maksimum dari para pegolf, lapangan golf Permata Sentul dibangun 18 hole dengan 71 par.
+Lokasi
+Jl. Desa Leuwinutug, Tangkil, Kec. Citeureup, Bogor, Jawa Barat 16810
+Fasilitas
+1. Proshop
+2. Restaurant
+3. Vip & Function Room
+4. Sauna
+5. Guest House
+Harga Booking
+Monday (AM & PM) : Rp. 400.000,-
+Tuesday (AM & PM) : Rp. 500.000,-
+Wednesday to Friday AM : Rp. 600.000,- PM : Rp. 550.000,-
+Saturday AM : Rp. 1.800.000,- PM : Rp. 900.000,-
+Sunday & Public Holiday AM : Rp. 1.500.000,- PM : Rp. 800.000,-
+Website
+www.permatasentulgolf.net
+Contact
+WA : 0811-1125-955 / 0812-1252-555
+CS : 0811-1125-755 | 0811-833-265 | 0811-1146-955
+Article Tags: Citeureup
+Article Categories: Arena · Lapangan Golf', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/permata-sentul-golf-club/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/permata-250x250.jpg', null, 16, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (59, 'Rainbow Hills Golf', 'Arena', 'Arena', 'Rainbow Hills Golf Club adalah landscape lapangan gunung 27 lubang yang indah yang dirancang oleh J. Michael Poellot Golf Design Group (JMP) yang diakui secara internasional.
+Pada awal 2015, Robert Moore Jr., menyelesaikan 9 lubang ketiga bernama lapangan Stone Hills, sehingga memberikan pegolf dengan 27 lubang drama visual yang menakjubkan dan golf yang menantang di antara keindahan alam yang berlimpah dan udara segar. Terletak di daerah Sentul, Anda dapat mencapai Rainbow Hills melalui jalan Jagorawi Toll dengan mengambil jalan keluar Kota Sentul dan melanjutkan jalan berliku ke surga golf pegunungan yang spektakuler ini. Ditakdirkan untuk mengambil tempat di antara kursus-kursus besar dunia, Rainbow Hills Golf Club adalah salah satu yang terbaik di Indonesia.
+Lokasi
+Jl. Padang Golf Bukit Pelangi, Cijayanti, Kec. Babakan Madang, Bogor, Jawa Barat 16720
+Fasilitas
+Proshop
+Restaurant
+Terrace
+Practice Range
+The Pavilion
+Tarif / Booking
+1. Member
+Rp. 300.000,- Pagi – Siang Senin
+2. Tamu Member & Pegolf Reguler
+Rp. 439.000,- Pagi – Siang Senin
+3. Tamu Member
+Rp. 565.000,- Pagi Selasa – Jumat
+
+Rp. 440.000,- Siang Selasa – Jumat
+Rp. 1.680.000,- Pagi – Sabtu
+Rp. 1.110.000,- Siang – Sabtu
+Rp. 1.450.000,- Pagi – Minggu
+Rp. 970.000,- Siang – Minggu
+4. Reguler
+Rp. 715.000,- Pagi – Selasa – Jumat
+Rp. 590.000,- Siang – Selasa – Jumat
+Rp. 1.980.000,- Pagi – Sabtu
+Rp. 1.225.000 Siang – Sabtu
+Rp. 1.695.000 Pagi – Minggu
+Rp. 1.080.000 Siang – Minggu
+5. Pegolf Senior, Wanita, Junior
+Rp. 490.000,- Senin – Jumat
+Rp. 439.000,- Senin – Jumat
+Rp. 360.000,- Senin – Jumat
+(Libur Nasional)
+Website
+www.rainbowhillsgolf.com
+Jam Operasional
+Weekday 5:30–4PM
+Weekend 5:30AM–6PM
+Contact
+Phone:
++62 251 827 2111 ; +62 251 827 1212
+Fax :
++62 251 827 1210
+Mobile :
++62 811 1100 199 ; +62 812 1879 999
+Article Tags: Babakan Madang
+Article Categories: Arena · Lapangan Golf', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/rainbow-hills-golf/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/rainbow-250x250.jpg', null, 11, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (60, 'Sentul International circuit', 'Arena', 'Arena', 'Salah satu sirkuit yang pernah dipergunakan untuk ajang MotoGP
+Sirkuit Internasional Sentul adalah sebuah sirkuit balap yang terletak di desa Sentul, Babakan Mandang, Bogor Jawa Barat, Indonesia. Sirkuit ini pernah digunakan untuk menyelenggarakan balap motor, ajang Asian F3, ajang A1 Grand Prix, ajang GP2 Asia dan tercatat pernah menjadi penyelenggara MotoGP dari 1996 hingga 1997.
+Lokasi
+Sirkuit Internasional Sentul beralamat di Jl. Sentul International Circuit No.Km.42, Kadumangu, Kec. Babakan Madang, Bogor, Jawa Barat 16810
+Fasilitas
+Sentul International Sirkuit memiliki beberapa fasilitas yang dapat digunakan yaitu:
+Lintas Grand Prix
+Motocross, Autocross dan Sirkuit Go-Kart
+Penginapan
+Lapangan Golf
+Restoran
+Pusat Rekreasi
+Paddock
+Scrutineering
+Pusat Kesehatan
+Lahan Parkir
+Main Stand
+Sub Stand
+Victory Tower
+Gerbang Utama
+Gerbang Samping
+Lahan Parkir
+Water Storage
+Pos Penjagaan
+Sungai Cigede
+Pembangkit Listrik
+Hospitality Suites
+Cottage
+Tiket Masuk
+Untuk masuk sirkuit, pengunjung dikenakan biaya Rp. 300.000/orang untuk sirkuit besar dan Rp200.000/orang untuk sirkuit kecil
+Article Tags: Babakan Madang
+Article Categories: Arena · Sirkuit', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/sentul-international-sirkuit/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/sentul-250x250.jpg', null, 17, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (61, 'GOM Kecamatan Jonggol', 'Arena', 'Arena', 'GOM kebanggaan masyarakat Jonggol
+Gelanggang Olahraga Masyarakat (GOM) saat ini hadir di Jonggol, Kabupaten Bogor dan diresmikan pada Jumat (28/5). GOM ini dapat digunakan secara gratis untuk seluruh lapisan masyarakat
+Bupati Bogor Ade Munawaroh Yasin dalam sambutannya dengan diadanya GOM dapat bermanpaat untuk masyarakat Jonggol dan jangan sampai kosong serta tidak boleh di pungut bayaran karna pembangunan ini dibiyayai oleh Anggaran Pemerintah Daerah untuk masyarakat Desa yang ada di Kecamatan Jonggol.
+Lokasi
+Kp jeprah, Jonggol, Jonggol, Bogor, Jawa Barat 16830
+Harga Tiket Masuk
+Sampai saat ini GOM Kecamatan Jonggol masih tidak dipungut biaya untuk penggunaan olahraga, tetapi untuk acara seperti hajatan dikenakan uang kebersihan.
+Article Tags: Jonggol
+Article Categories: Arena · GOM', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/gom-ciampea/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/gom-jonggol-250x250.jpeg', null, 92, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (62, 'Palm Hill Golf Club', 'Arena', 'Arena', 'Bermain Golf di area hijau bogor
+Terletak di dataran tinggi Sentul dan dekat kota hijau Bogor, lapangan Palm Hill 18 hole yang bergelombang dengan lembut adalah tata letak yang sangat menarik. Dikelilingi oleh bukit-bukit yang mengarah ke Gunung Salak. Dirancang oleh Tom Matteson dan dikembangkan oleh Taisei Corporation Jepangn. Sungai yang kaya akan bebatuan memisahkan lubang 10, 11, 12, 13, 14 dan 15 dari lubang lainnya.
+Lokasi
+Palm Hill Golf Club berlokasi di Jl. Sentul Raya, Kadumangu, Kec. Babakan Madang, Bogor, Jawa Barat 16810
+Fasilitas
+Fasilitas yang terdapat di Palm Hill Golf Club diantaranya :
+SPA
+Loker
+Ruangan Serbaguna
+Peralatan Golf
+Tarif Booking
+BOOKING 1 PERSON Rp. 650,000
+BOOKING 2 PERSON Rp. 1,300,000
+BOOKING 3 PERSON Rp. 1,950,000
+BOOKING 4 PERSON Rp. 2,600,000
+Profil Palm Hill Golf Club
+Website : http://www.palmhillgolf.co.id/
+Contact : 021-87954307 & 08118003001
+Palm Hill Golf Club
+Article Tags: Babakan Madang
+Article Categories: Arena · Lapangan Golf', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/palm-hill-golf-club/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/palmhilgolf-250x250.jpg', null, 48, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (63, 'Bromelia Sport Center Cisarua', 'Arena', 'Arena', 'Salah satu lapangan Mini Soccer terbaik se – Jabodetabek
+Dengan kualitas standar nasional , Bromelia Sport Center menyediakan lapangan futsal yang refresentatif dan nyaman buat pemain.
+Dilengkapi dengan rumput sintetis standar nasional , Mini Soccer ini baru ada satu – satunya di Jabodetabek sehingga banyak pemain Liga 1 yang sering bermain mini socer di Bromelia Sport Center ini
+Tidak hanya lapangan futsal disini juga terdapat lapangan badminton dan basket
+Fasilitas
+Bromalia Sport Center ini dilengkapi dengan beberapa fasilitas pendukung diantaranya :
+Mushola
+Area Parkir
+Toilet
+Ruang Ganti Pemain
+Cafe
+Lokasi
+Jalan raya Hankam no 51 RT 01 RW 03 desa Leuwi Malang Kecamatan Cisarua kabupaten Bogor Jawa Barat .16750
+Harga
+Berikut adalah daftar harga sewa lapangan Mini Soccer:
+Pukul 08.00 – 11.00 WIB: IDR 300.000
+Pukul 11.00 – 14.00 WIB: IDR 250.000
+Pukul 04.00 – 16.00 WIB: IDR 300.000
+Pukul 16.00 – 23.00 WIB: IDR 350.000
+Jam Operasional
+Bromelia Sport Center buka dari jam 7 pagi sampai jam 11 malam
+Profil
+Instagram : https://www.instagram.com/bromeliasportcenter/
+Article Tags: Cisarua
+Article Categories: Arena · Sport Center', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/sport-center-cibinong/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/bromelia-sport-center-250x250.jpg', null, 52, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (64, 'Stadion Pakansari Cibinong', 'Arena', 'Arena', 'Stadion utama dan terbesar di Kabupaten Bogor
+Stadion Pakansari adalah sebuah stadion multi-fungsi di Pakansari, Cibinong, Bogor, Indonesia. Setelah selesai pada tahun 2014, akan digunakan terutama untuk pertandingan sepak bola dan menjadi stadion kandang baru dari Persikabo Kabupaten Bogor menggantikan kandang lamanya, Stadion Persikabo, juga klub Bogor FC. Stadion ini dapat menampung 30.000 penonton. Stadion ini juga akan digunakan untuk kompetisi atletik, drumben, dan sepak bola Pekan Olahraga Nasional XIX.
+Dilansir situs Stadiumdb, stadion Pakansari masuk dalam nomine stadion terbaik dunia 2016 bersaing 29 stadion lainnya dan pernah digunakan sebagai venue Piala AFF 2016 menggantikan Stadion Utama Gelora Bung Karno yang sedang direnovasi. Stadion ini digunakan sebagai venue sepak bola pria pada Pesta Olahraga Asia 2018, juga pada Kejuaraan Piala Asia U-19 yang digelar pada tahun yang sama.
+Lokasi
+Stadion Pakansari berada di Jl. Gor Pakansari No.26, Pakansari, Cibinong, Bogor, Jawa Barat 16915
+Fasilitas
+Stadion Pakansari memiliki beberapa fasilitas yang dapat digunakan diantaranya :
+Area Parkir
+Kamar Ganti
+Muhsola
+Sirkuit
+Toilet
+Wifi
+Jam Operasional
+Stadion Pakansari buka pada setiap hari mulai dari pukul 07.00 WIB sampai 09.00 WIB
+Tampilan dalam Stadion Pakansari
+Article Tags: Cibinong
+Article Categories: Arena · Stadion', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/stadion-pakansari-cibinong/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/pakansari-250x250.jpg', null, 62, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (65, 'Camping Dbunder View', 'Arena', 'Arena', 'Berkemah di tengah alam yang masih asri
+Destinasi ini memang tidak tergolong baru. Konon pembuatanya terinspirasi dari destinasi yang berada di Yordania. Disana banyak obyek wisata yang hanya mengandalkan tenda di tengah gurun. Kalau tenda di tengah gurun pasir saja banyak diminati, bagaimana dengan Indonesia yang dibekali oleh keindahan alam pegunungan yang memukau.
+Tempat camping d bunder view ini baru dibuka secara resmi pada bulan desember 2020. Pengunjung bisa bersantai di tengah alam terbuka yang diselimuti udara sejuk sembari disuguhkan view sawah hijau, perbukitan, gunung salak serta kota bogor dari atas ketinggian. Saat malam hari gemerlapnya kota bogor menjelma bak kunang kunang berterbangan. Kegiatan camping pun kian asik lewat BBQ Time.
+Lokasi
+Camping Dbunder View berada di gunung bunder 2, kecamatan Pamijahan, Bogor, Jawa Barat
+Fasilitas
+Beberapa fasilitas yang ada di Dbunder View yaitu :
+Penyewaan Tenda
+Toilet
+Area Parkir
+Stop Kontak
+Penyewaan Perlengkapan Masak
+Tiket Masuk Dan Biaya Lainya
+Ketika Camping di Dbunder View ada beberapa biaya yang bisa dikeluarkan, yaitu :
+Tiket Masuk Rp. 10.000
+Tiket Camping Rp. 20.000 (Membawa Peralatan Sendiri)
+Sewa Tenda Besar Rp. 350.000/malam (Kapasitas 7 orang Maksimum sudah termasuk matras, sleeping bag, lampu dan bantal)
+Sewa Tenda Sedang Rp. 250.000/malam (Kapasitas 5 orang Maksimum sudah termasuk matras, sleeping bag, lampu dan bantal)
+Sewa Tenda Kecil Rp. 150.000/malam (Kapasitas 3 orang Maksimum sudah termasuk matras, sleeping bag, lampu dan bantal)
+Sewa Peralatan Masak Rp. 15.000
+Sewa Alat BBQ Rp. 30.000
+Camping Dengan View Gunung
+Sangat Cocok Untuk Berlibur Dengan Keluarga
+Article Tags: Pamijahan
+Article Categories: Camping Ground · Olahraga', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/camping-ground-gunung-bunder/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/Camping-Dbunder-View-Jawa-Barat-250x250.jpg', null, 21, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (66, 'GOM Kecamatan Parung', 'Arena', 'Arena', 'GOM kebanggaan masyarakat Parung
+Gelanggang Olahraga Masyrakat Parung sudah dipakai beberapa kali untuk acara olahraga warga Parung, ada pertandingan Pencak Silat, Voli, futsal,dan basket.
+Gelanggang Olahraga Masyarakat ini memilki kualitas gedung dan lapangan yang baik, serta perawatannya pun dijaga oleh pengurus setempat
+Fasilitas
+Gelanggang Olahraga Masyarakat ini memiliki fasilitas penunjang untuk memudahkan pengunjung, diantaranya:
+Area Parkir
+Toilet
+Tribun Penonton
+Lokasi
+Jl. Tulang Kuning No.4, Waru, Kec. Parung, Bogor, Jawa Barat 16330
+Article Tags: Parung
+Article Categories: Arena · GOM', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/gom-kecamatan-parung/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/10/image_2021-11-16_093103-250x250.png', null, 14, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (67, 'GOM Kecamatan Gunung Sindur', 'Arena', 'Arena', 'Menyalurkan hobi bersama di Gelanggang Olahraga Masyarakat Gunung Sindur
+Kaum muda dari kawasan Gunung Sindur, oleh pemerintah setempat telah difasilitasi infrastruktur untuk dapat bersaing dan mengaktualisasikan potensinya di bidang olahraga. Dikatakan bahwa GOM ini menelan biaya sebesar Rp. 6 Miliar
+Melalui olahraga, terwujudlah “Mens sana dalam corpore sano” kaum muda dapat merajut masa depan yg lebih baik dan membentuk jiwa yg sehat dan bersifat positif.
+Lokasi
+Jalan Pendidikan, Cibadung, Gunung Sindur, Bogor, Jawa Barat 16340
+Article Tags: Gunung Sindur
+Article Categories: Arena · GOM', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/gom-kecamatan-gunung-sindur/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/10/GOM-Gunung-SIndur-250x250.png', null, 17, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (68, 'GOM Kecamatan Tanjungsari', 'Arena', 'Arena', 'GOM kebanggaan masyarakat Tanjungsari
+Kaum muda dari kawasan Tanjungsari, oleh pemerintah setempat telah difasilitasi infrastruktur untuk dapat bersaing dan mengaktualisasikan potensinya di bidang olahraga
+Fasilitas
+Beberapa fasilitas yang ada di sekitar GOM Tanjungsari yaitu :
+Area Parkir
+Tribun Penonton
+Lokasi
+Sirnarasa, Tanjungsari, Bogor, Jawa Barat 16840
+Jam Operasional
+GOM di Kecamatan Tanjungsari buka setiap hari mulai dari pukul 08.00 WIB sampai 14.00 WIB
+Article Tags: Tanjungsari
+Article Categories: Arena · GOM', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/gom-kecamatan-tanjungsari/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/10/GOR-tanjungsari-250x250.png', null, 18, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (69, 'GOM Kecamatan Cariu', 'Arena', 'Arena', 'GOM yang berada di perbatasan Bogor – Cianjur
+Gelanggang Olahraga Masyarakat di Cariu ini dibangun untuk memfasilitasi kebutuhan masyarakat untuk berolahraga, kini masyarakat Cariu bisa berolahraga di GOM tersebut
+GOM ini sering dijadikan arena pertandingan futsal oleh masyaraka Cariu karena memang kualitas lapangan yang bisa dibilang baik.
+Fasilitas
+GOM cariu memiliki beberapa fasilitas yaitu :
+Area Parkir
+Toilet
+Lokasi
+Cariu, Kec. Cariu, Bogor, Jawa Barat 16840
+Article Tags: Cariu
+Article Categories: Arena · GOM', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/gom-kecamatan-cariu/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/10/GOM-cariu-250x250.png', null, 20, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (70, 'GOM Kecamatan Cileungsi', 'Arena', 'Arena', 'Gelanggang Olahraga Masyarakat Kebanggaan Masyarakat Cileungsi
+Gelanggang Olahraga Masyarakat di Cileungsi ini sudah bisa digunakan, umum nya GOM ini digunakan untuk bermain olahraga Futsal. tak jarang juga GOM ini digunakan untuk turnamen antar club daerah
+Fasilitas
+Gelanggang Olahraga Masyarakat ini memiliki beberapa fasilitas penunjang, diantaranya :
+Area Parkir
+Tribun Penonton
+Lokasi
+Jl SMKN 1, Pasir Angin, Kec. Cileungsi, Bogor, Jawa Barat 16820
+Article Tags: Cileungsi
+Article Categories: Arena · GOM', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/gom-kecamatan-cileungsi/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/10/image_2021-11-16_095517-250x250.png', null, 17, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (71, 'GOM Kecamatan Jasinga', 'Arena', 'Arena', 'Gelanggang Olahraga Multi Fungsi di Jasinga
+Gelanggang Olahraga ini tak hanya dipergunakan untuk kegiatan olahraga saja, tetapi masyarakat sekitar sering menggunakan tempat ini untuk acara tertentu, salah satu contohnya yaitu acara pernikahan
+Fasilitas
+Ada beberapa fasilitas yang terdapat di sekitar GOM ini yaitu :
+Area Parkir
+Toilet
+Tribun Penonton
+Tempat Ibadah
+Lokasi
+Jl. Raya Jasinga No.28, Pamagersari, Jasinga, Bogor, Jawa Barat 16670
+Jam Operasional
+GOM di Jasinga ini buka setiap hari pada pukul 08.00 WIB – 22.00 WIB
+Article Tags: Jasinga
+Article Categories: Arena · GOM', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/gom-kecamatan-jasinga/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/10/image_2021-11-16_104804-250x250.png', null, 16, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (72, 'GOM Kecamatan Parung Panjang', 'Arena', 'Arena', 'Gedung multi fungsi pertama di wilayah Parungpanjang
+Gelanggang Olahraga Masyrakat Parung Panjang sudah dipakai beberapa kali untuk acara olahraga warga Parung Panjang, ada pertandingan futsal maupun untuk titik Start dan Finish Gerak jalan. Setiap sabtu juga ada latihan bulutangkis setiap minggunya.
+Memiliki Area Bermain Anak
+Lapangan Dan Tribun Yang Memadai
+Gelanggang olahraga bertempat didalam perumaha griya parung panjang. tak hanya digunakan masyarakat setempat untuk kegiatan olahraga terkadang digunakan juga sebagai aula pernikahan.
+Lokasi
+Kabasiran, Parung Panjang, Bogor, Jawa Barat 16360
+Fasilitas
+Tak hanya tempat olahraga GOM ini menyediakan fasilitas penunjang yaitu :
+Area Parkir
+Taman Bermain Anak
+Tribun Penonton
+Toilet
+Jam Operasional
+GOM Paraung Panjang buka setiap hari pada pukul 07.00 WIB – 23.59 WIB
+Article Tags: Parung panjang
+Article Categories: Arena · GOM', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/gom-kecamatan-parung-panjang/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/10/GOM-parung-panjang-250x250.png', null, 17, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (73, 'GOM Karadenan Cibinong', 'Arena', 'Arena', 'Gelanggang Olahraga Masyarakat Multifungsi di Cibinong
+Gelanggang Olahraga ini biasanya dipergunakan untuk kegiatan olahraga masyarakat sekitar, tetapi tak hanya untuk kegiatan olahraga GOM ini juga bisa digunakan untuk acara Seni Budaya
+Kegiatan Olahraga Bela Diri
+Kegiatan Olahraga Basket
+Fasilitas
+Area Parkir
+Tribun Penonton
+Lokasi
+Jl. Karadenan, Karadenan, Cibinong, Bogor, Jawa Barat 16913
+Jam Operasional
+GOM ini buka setiap hari dari pukul 08.00 WIB – 17.00 WIB
+Article Tags: Cibinong
+Article Categories: Arena · GOM', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/gom-karadenan-cibinong/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/10/image_2021-11-16_103420-250x250.png', null, 14, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (74, 'Stadion Mini Persikabo Cibinong', 'Arena', 'Arena', 'Salah satu stadion yang menjadi markas dari Persikabo
+Stadion Mini Persikabo adalah sebuah stadion sepak bola di Kabupaten Bogor, Jawa Barat, yang juga merupakan markas klub sepak bola Persikabo Bogor. Stadion ini mengalami renovasi pada tahun 2016. Stadion Persikabo memiliki kapasitas 15.000 tempat duduk.
+Lokasi
+Stadion Mini Persikabo berlokasi di Jl. Nyaman, Tengah, Cibinong, Bogor, West Java 16914
+Fasilitas
+Stadion Mini Persikabo menyediakan beberapa fasilitas yang dapat digunakan, yaitu :
+Area Parkir
+Mushola
+Kamar Ganti
+Toilet
+Tiket Masuk
+Harga tiket masuk ke Stadion Persikabo bisa berubah ubah tergantung Pertandingan yang dijalankan, tetapi jika tidak ada pertandingan maka tidak dipungut biaya
+Tampilan Dalam Stadion Mini Persikabo
+Article Tags: Cibinong
+Article Categories: Arena · Stadion', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/stadion-mini-persikabo-cibinong/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/10/Stadion-Persikabo-250x250.jpg', null, 17, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (75, 'Alun-Alun Kecamatan Jonggol', 'Arena', 'Arena', 'Alun Alun yang memiliki daya tarik dan sejarah tersendiri
+Alun alun yang berada di kecamatan Jonggol ini memang sudah tidak asing lagi bagi masyarakat sekitar, biasanya masyarakat datang ke alun alun untuk melepas penat, tak sedikit juga orang datang untuk menikmati kuliner yang ada di sekitar Alun Alun ini.
+Di alun alun ini juga terdapat suatu tugu yaitu Tugu Batu Tulis, keberadaan Tugu Batu Tulis Alun-Alun Jonggol yang berada di pusat alun-alun Jonggol, Kabupaten Bogor, merupakan sebuah bukti sejarah akan adanya perjuangan masyarakat Jonggol dalam merebut kemerdekaan.
+Fasilitas
+Beberapa fasilitas yang terdapat di sekita alun alun jonggol yaitu :
+Area Parkir
+Tempat Duduk
+Area Lapang
+Warung Makan dan Minum
+Lokasi
+Jonggol, Kec. Jonggol, Bogor, Jawa Barat 16830
+Article Tags: Jonggol
+Article Categories: Alun-Alun · Arena', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/alun-alun-jonggol/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/alun-alun-jonggol-250x250.jpg', null, 74, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (76, 'Katoomba Green Park', 'Arena', 'Arena', 'Salah satu kolam renang yang memiliki wahana bermain anak
+Katoomba Greenpark merupakan wisata permainan air yang juga memiliki area pemancingan dan kebun binatang mini. Permainan air yang memiliki nuansa hijau berdiri di atas tanah seluas 3 hektar. Memiliki dua kolam renang yang diperuntukkan untuk anak-anak dan dewasa.
+Selain bermain di area kolam, anak-anak juga bisa menikmati permainan di berbagai wahana non air. Ada beragam pilihan permainan, seperti ayunan, jungkat-jungkit, dan patung berukuran besar. Di area taman yang luas dan asri dengan pepohonan rindang, sehingga cocok untuk berteduh.
+Lokasi
+Katoomba Green Park berlokasi di Jl. Raya Bojong Nangka, Bojong Nangka, Gn. Putri, Bogor, Jawa Barat, Indonesia, 16963
+Fasilitas
+Fasilitas yang ada di sekitar Katoomba Greenpark yaitu:
+Phinisi Function Hall
+Kafe & Resto
+Mushola
+P3K
+Ruang Menyusui
+Kamar mandi
+Loker
+Area Parkir
+Ember Tumpah
+Seluncuran Air
+Jungkat Jungkit
+Ayunan
+Tiket Masuk
+Tarif yang dikenakan saat Berlibur di Katoomba Greenpark yaitu:
+Tiket Masuk Weekday Rp. 27.500
+Tiket Masuk Weekend Rp. 30.000
+Jam Operasional
+Untuk jam operasionalnya yaitu pukul 10.00 – 17.00
+Seluncuran Anak
+Ember Tumpah
+Article Tags: Gunung Putri
+Article Categories: Arena · Kolam Renang', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kolam-renang-katoomba-greenpark/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/Kolam-renang-dewasa-dan-wahana-250x250.jpg', null, 73, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (77, 'Stadion Mini Citra Buana Cibinong', 'Arena', 'Arena', 'Mengisi waktu sore dengan bermain bola di stadion mini citra buana
+Stadion Mini Citra Buana Ciriung adalah Stadion Mini yang memiliki kualitas lapangan yang bagus, Masyarkat sekitar pun sangat antusias bermain sepak bola di lapangan tersebut. Akses menuju lapangan ini sendiri memang tidak begitu nyaman, tetapi akan terbayar ketika sudah bermain di lapangan ini
+Fasilitas
+Stadion Mini ini memiliki beberapa tempat duduk untuk penonton, dan memiliki area parkir
+Lokasi
+Ciriung, Cibinong, Bogor, Jawa Barat 16918
+Article Tags: Cibinong
+Article Categories: Arena · Stadion', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/stadion-mini-ciriung-kecamatan-cibinong/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/09/image_2021-11-12_102653-250x250.png', null, 23, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (78, 'Stadion Mini Kecamatan Sukaraja', 'Arena', 'Arena', 'Stadion Mini yang memiliki kualitas rumput yang terbilang bagus
+Stadion Mini Kecamatan Sukaraja yang dibangun tahun 2017, memiliki kualitas rumput yang tidak bisa diremehkan. Namun setiap kelebihan juga mempunyai kekurangan, dimana jika hujan lapangan ini sering terjadi genangan air dilapangan. Stadion ini juga memliki kapasitas -/+ 100 Orang, Dan cocok untuk pertandingan bola
+Lokasi
+Stadion Mini Kecamatan Sukaraja terletak di Cikeas, Sukaraja, Bogor, Jawa Barat 16710
+Fasilitas
+Stadion Mini Kecamatan Sukaraja memiliki beberapa fasilitas yang bisa digunakan, yaitu :
+Area Parkir
+Mushola
+Toilet
+Article Tags: Sukaraja
+Article Categories: Arena · Stadion', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/stadion-mini-kecamatan-sukaraja/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/09/Stadion-sukaraja-250x250.jpg', null, 24, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (79, 'Stadion Mini Kecamatan Leuwiliang', 'Arena', 'Arena', 'Stadion Mini tersembunyi yang ada di kecamatan Leuwiliang
+Stadion Mini Kecamatan Leuwiliang yang menjadi tempat berolahraga bagi masyarakat sekitar, tidak jarang masyarakat dari kampung yang berbeda pun sering bertanding di lapangan tersebut, karena memang lapangan ini kualitasnya tidak bisa diremehkan juga
+Lokasi
+Jl. Gunung Tanggal No.21, Leuwimekar, Leuwiliang, Bogor, Jawa Barat 16640, Indonesia
+Article Tags: Leuwiliang
+Article Categories: Arena · Stadion', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/stadion-mini-kecamatan-leuwiliang/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/09/image_2021-11-12_095451-250x250.png', null, 23, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (80, 'Stadion Mini Kecamatan Rumpin', 'Arena', 'Arena', 'Salah satu stadion yang menjadi kebanggaan masyarakat rumpin
+Stadion Mini Kecamatan Rumpin yang dipergunakan untuk berolahraga oleh masyarakat sekitar maupun masyarakat luar daerah rumpin, baru baru ini pengelola melakukan pemeliharaan terhadap stadion mini ini, rumput disana memiliki gradasi garis yang jika dilihat dari atas nampak indah
+Fasilitas
+Stadion Mini di Kecamatan Rumpin ini memiliki tribun yang bisa menampung beberapa penonton
+Lokasi
+Jl. Prada. Samlawie, Desa Rumpin, Bogor, West Java 16350, Indonesia
+Article Tags: Rumpin
+Article Categories: Arena · Stadion', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/stadion-mini-kecamatan-rumpin/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/09/Rumpin-250x250.jpg', null, 23, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (81, 'Stadion Mini Koni Citeureup', 'Arena', 'Arena', 'Stadion Mini Markas dari Club Citereup Raya
+Stadion Mini Koni adalah stadion yang menjadi home base dari Club Citeureup Raya, tempat ini juga digunakan sebagai tempat mencari bibit muda persepakbolaan daerah Citerureup
+Fasilitas
+Stadion Mini Koni ini memiliki beberapa fasilitas sebagai berikut:
+Area Parkir
+Ruang panitia / pengelola
+Tribun Penonton
+Papan Skor
+Lokasi
+Jl. Kp. Bojong, Puspanegara, Kec. Citeureup, Bogor, Jawa Barat 16810
+Article Tags: Citeureup
+Article Categories: Arena · Stadion', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/stadion-mini-kecamatan-citeureup/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/09/image_2021-11-12_103804-250x250.png', null, 23, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (82, 'Stadion Mini Kecamatan Cileungsi', 'Arena', 'Arena', 'Menjalin persahabatan di Stadion Mini
+Stadion Mini Kecamatan Cileungsi sering digunakan oleh masyarakat sekitar sebagai sarana untuk mempererat tali persaudaraan. Stadion ini dulunya dibangun dengan anggaran mencapai milyaran rupiah
+Fasilitas
+Stadion Mini Kecamatan Cileungsi ini memiliki beberapa Fasilitas yang bisa digunakan yaitu :
+Tribun Penonton
+Papan Skor
+Lokasi
+Cileungsi, Jawa Barat, Indonesia 16829
+Article Tags: Cileungsi
+Article Categories: Arena · Stadion', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/stadion-mini-kecamatan-cileungsi/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/09/image_2021-11-12_101246-250x250.png', null, 23, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (83, 'Curug Cikawah', 'Olahraga', 'Olahraga', 'Bogor selalu menjadi tempat wisata favorit untuk warga jakarta dan sekitarnya, selain karena jaraknya yang tidak terlalu jauh Bogor memiliki keindahan alam yang luar biasa dan udara yang sangat sejuk.
+Trekking Menuju Curug Cikawah
+Untuk menuju Curug Cikawah, kamu harus melakukan perjalanan atau trekking yang tidak mudah. Karena memang lokasi Curug Cikawah berada di kaki Gunung Salak dan sangat terpencil sekali.
+Kamu akan mengawali trekking dengan berjalan diantara hamparan pesawahan milik warga, menapaki jalan setapak demi setapak diantara pematang sawah.
+Setelah itu kamu akan memasuki kawasan hutan yang masih sangat asri, hal itu ditandai dengan masih rindangnya pepohonan yang ada. Jalan setapak didalam hutan jauh lebih sulit, medan yang akan kamu lalui sangat kecil dan bisa saja licin jika basah.
+Setelah menyusuri jalan setapak tersebut, kamu akan menemukan sebuah air terjun yang tak terlalu tinggi. Namun air terjun tersebut memiliki dua aliran air yang berbeda, yang satu alirannya lebih lebar dan deras sedangkan yang satunya kecil.
+Namun air yang mengalir sangat jernih dan bersih, curug tersebut bernama Curug Gleweran. Yang memiliki ketinggian sekitar 6 meter, dengan kedalaman kolamnya 1 sampai 2 meter. Kamu bisa beristirahat sejenak disini sebelum melanjutkan perjalanan menuju Curug Cikawah.
+Aliran air yang mengalir di Curug Gleweran ini berasal dari Curug Cikawah yang berada di atasnya. Untuk melanjutkan perjalanan menuju Curug Cikawah, kamu harus menaiki sebuah tangga yang terbuat dari kayu yang berada di samping Curug Gleweran.
+Dari sini kamu harus memulai perjalanan dengan menyusuri sebuah sungai yang terdapat banyak sekali bebatuan yang cukup besar. Arah sungai ini akan membawamu semakin dekat menuju Curug Cikawah.
+Kamu harus sangat berhati-hati saat menapaki bebatuan, karena bisa saja licin. Menyebrangi aliran sungai selama beberapa kali akan kamu lakukan, kemudian berjalam diantara bebatuan yang cukup besar.
+Tak lama kemudian kamu akan melihat beberapa kepulan asap dari kejauhan, itu artinya lokasi Curug Cikawah sudah semakin dekat.
+Pesona Keindahan Curug Cikawah
+Air terjun atau curug ini diberi nama Curug Cikawah karena disekitar lokasi aliran air curugnya terdapat beberapa kawah kecil yang mengeluarkan air panas dan mengandung belerang.
+Jadi kamu akan menikmati kesegaran air Curug Cikawah yang menyejukkan serta aliran air panas alami. Menikmati air terjun yang menyegarkan sekaligus menikmati air panas alami dalam satu lokasi merupakan hal yang tidak akan kamu temukan dimanapun.
+Debit air yang dicurahkan cukup deras sehingga kamu tidak disarankan untuk berada tepat dibawah aliran airnya secara langsung.
+Airnya mengalir diantara lebatnya pepohonan yang sangat rindang, serta banyaknya asap atau uap yang berasal dari kawah disekitar curug merupakan pemandangan yang sangat jarang kamu saksikan.
+Ragam wisata di Curug Cikawah
+Ragam wisata yang dapat kamu lakukan saat berada di Curug Cikawah yakni:
+1.Bermain Air
+2.Menikmati Hamparan Keindahan Alamnya
+3.Berfoto Selfie
+
+Lokasi Dan Alamat Curug Cikawah
+Lokasi dan Alamat Curug Cikawah berada di Desa Ciasmara, Kecamatan Pamijahan, Kabupaten Bogor, Provinsi Jawa Barat.
+Tiket Masuk Curug Cikawah
+Tiket masuk Curug Cikawah cukup murah yakni kamu hanya perlu membayar tiket sebesar Rp. 10.000,- per orangnya.
+Jam Operasional Curug Cikawah
+Jam operasional Curug Cikawah dibuka selama 7 hari dalam seminggu dan 24 jam sehari. Namun, mengingat trekkingnya yang sangat membutuhkan cahaya yang cukup maka lebih baik datanglah sewaktu matahari masih bersinar dengan terang.
+Fasilitas Curug Cikawah
+Fasilitas yang ada disekitar Curug Cikawah tidak ada fasilitas apa-apa. Semua fasilitas yang seperti toilet, warung-warung makanan, dan mushola keberadaannya tak jauh dari area parkir.
+Telepon
+0857-7734-9546
+Sumber
+https://www.nativeindonesia.com/curug-cikawah/
+Article Tags: Kabupaten Bogor · Pamijahan
+Article Categories: Air Terjun · Alam · Hiking / Tracking', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-4/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/07/1-2-250x250.jpg', null, 46, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (84, 'Gunung Kencana', 'Olahraga', 'Olahraga', 'Gunung Kencana merupakan salah satu destinasi wisata menarik di Kabupaten Bogor. Titik tertingginya yang hanya 1.802 mdpl menawarkan lintasan hiking yang cukup pendek. Sehingga, pendakian aman untuk kalangan pemula.
+Jalur Ciburial Vs Telaga Warna
+Telaga Warna adalah rute yang paling ramai. Ini karena akses jalannya cenderung mudah. Kekurangannya, pengunjung harus membayar tiket masuk tambahan ke area wisata Telaga Warna. Sedangkan untuk rute Ciburial memiliki akses jalan yang agak sulit. Medannya berupa makadam yang menanjak dan berkelok-kelok. Namun, sepanjang perjalanan wisatawan akan terhibur dengan pemandangan perkebunan teh yang asri. Rute ini bisa menjadi pilihan bagi yang ingin menghindari biaya tambahan.
+Baik rute Ciburial maupun Telaga Warna tidak terdapat kendaraan umum apapun yang melintas. Kendaraan pribadi seperti motor atau mobil yang kuat menanjak menjadi satu-satunya pilihan. Kendaraan pribadi dapat parkir di Kampung LC yang menjadi gerbang masuk Gunung Kencana.
+Tanjakan Super ‘Pedas
+Gunung Kencana memang terkenal dengan julukan ‘kecil-kecil cabe rawit’. Meski tingginya tak seberapa, namun tantangan jalurnya tidak bisa disepelekan. Pendaki akan langsung menemui tanjakan terjal ketika melewati gerbang. Saking terjalnya, pendaki harus melewati rangkaian tangga dari kayu dan bambu yang tersedia. Rangkaian tangga ini biasa disebut sebagai tanjakan sambalado. Kemiringannya hampir tegak lurus dengan tangga yang ada tersusun dari undakan dengan jarak tak menentu. Meski agak menyeramkan, namun tangga ini cukup kokoh dengan pegangan di kedua sisi.
+Pendakian Ramah Anak
+Jalur pendakian akan banyak terdapat akar pepohonan. Tidak terlalu sulit, terutama ketika musim sedang kemarau. Pendaki tidak akan repot dengan jalan yang licin. Rute pendakian gunung ini memang cukup pendek karenanya, anak-anak bisa ikut untuk mencoba pengalaman hiking di sini. Jalur hiking yang singkat ini juga cocok menjadi alternatif rekreasi akhir pekan.
+Panorama Dari Puncak
+Pemandangan yang bisa didapatkan dari Puncak Kencana akan jadi hadiah tak terlupakan. Gunung kecil ini dikeliling alam Bogor yang asri. Di sebelah selatan, tampak Puncak Gunung Pangrango yang menjulang tinggi. Gunung ini memiliki panorama sekitarnya mengundang decak kagum. Puncak Kencana adalah salah satu spot terbaik untuk menyaksikan matahari terbit atau terbenam. Banyak yang sengaja berkemah di puncak demi mendapatkan pengalaman ini.
+Lokasi Gunung Kencana
+Gunung Kencana terletak di Rawa Gede, Desa Tugu Utara, Kecamatan Cisarua, Kabupaten Bogor
+Fasilitas Gunung Kencana
+Fasilitas pendukung terdapat di pos simaksi. Beberapa diantaranya yaitu area parkir untuk motor dan mobil, toilet, musala, dan warung makan. 
+Tiket Masuk Gunung Kencana
+Pengunjung yang melalui jalur Ciburial hanya perlu membayar biaya Simaksi di loket pendaftaran. Sementara yang melalui Telaga Warna akan membayar tarif tiket masuk tambahan. Biaya ini belum termasuk tarif parkir kendaraan dan camping.
+Tiket Masuk
+Tiket Masuk Kebun Teh Rp25.000
+Tiket Simaksi Rp20.000
+Jam Buka
+Pendakian di Gunung Kencana terbuka setiap hari.
+Jam Operasional
+Setiap Hari  24 Jam
+Instagram
+@gunungkencana
+Sumber
+https://travelspromo.com/htm-wisata/gunung-kencana-bogor/
+Article Tags: Cisarua · Kabupaten Bogor
+Article Categories: Alam · Gunung & Bukit · Hiking / Tracking', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-31/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/06/9-250x250.jpg', null, 35, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (85, 'Telaga Melimping', 'Olahraga', 'Olahraga', 'Telaga Malimping adalah salah satu destinasi wisata yang berlokasi di kota Bogor Jawa Barat. Telaga Malimping merupakan tempat wisata yang termasuk murah meriah, destinasi wisata bernuasa alam yang indah, udaranya yang bersih dan sejuk ini sangat cocok untuk liburan bersama keluaga atau bersama dengan teman-teman. Telaga Malimping terletak di Kampung Malimping, Desa Ciadeg, Kecamatan Cigombong, Kab bogor, Bogor, Jawa Barat.
+Destinasi wisata ini menyediakan berbagai fasilitas dan wahana bermain bagi para pengunjung yang ingin menikmati berwisata di Telaga Malimping. Fasilitas tersebut diantaranya, ATV, mandi bola, istana balon, kebun binatang mini, banana boat, flying fox, perahu, kolam renang, canopy street, paintball, rafting,  jet ski, mini trail, arung jeram, karaoke, tempat pemancingan, digital studio recording, penyewaan studio musik, tenda, gazebo, ruang pertemuan, pondok kuliner, penginapan, dll.
+Dengan pemandangan alam yang indah serta udara yang sejuk dan berbagai fasilitas lengkap yang disediakan, wisata telaga ini cocok dijadikan sebagai tempat untu menikmati liburan yang seru dan menyenangkan dengan keluarga. Selain itu, destinasi wisata ini juga cocok sebagai tempat mendidik anak-anak untuk berani dan melatih percaya diri.
+Jika ingin menikmati wahana yang ada di Telaga Malimping ini, biaya yang dikenakan berbeda-beda sesuai jenis wahana yang dipilih. Contohnya untuk wahana flying fox dikenakan tarif sebesar Rp 15.000 untuk satu orang, banana boat sebesar Rp 10.000 untuk satu orang, dan lainnya. Dengan terdapat berbagai fasilitas ini akan memanjakan waktu berlibur bersama keluarga. Terdapat pula tempat penginapan yang disewakan bagi wisatawan yang ingin menginap.
+Alamat
+Jalan Telaga Malimping, Desa Lengis, Ciadeg, Kec. Cigombong, Kabupaten Bogor, Jawa Barat 16110
+Fasilitas
+ATV, Mandi Bola, istana balon, kebun binatang mini, Banana Boat, Flying Fox, Perahu, Kolam Renang, Canopy Street, Paintball, Rafting,  jet ski, mini trail, arung jeram, karaoke, tempat pemancingan, Digital Studio Recording, Penyewaan Studio Musik, Tenda, Gazebo, Ruang Pertemuan, Pondok Kuliner dan Penginapan, dll.
+Harga tiket
+2.500 per orang
+10.000-15.000 per orang untuk menaiki wahana
+Jam operasional
+Kamis 08.00–16.00
+Jumat Tutup
+Sabtu Tutup
+Minggu Tutup
+Senin 08.00–16.00
+Selasa 08.00–16.00
+Rabu 08.00–16.00
+Telepon
+085270236184
+Sumber
+https://ksmtour.com/informasi/tempat-wisata/jawa-barat/telaga-malimping-tempat-wisata-bogor-yang-murah-meriah.html
+Article Tags: ciadeg · Cigombong · Kabupaten Bogor
+Article Categories: Arung Jeram · Olahraga · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-14/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/05/44-250x250.jpg', null, 42, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (86, 'Goa Agung Garunggang', 'Olahraga', 'Olahraga', 'Goa ini bukanlah gua biasa, melainkan goa unik karena goa ini ternyata tidak berada di atas tanah seperti biasa. Melainkan berada di bawah tanah, sehingga kita harus turun dengan tangga untuk mencapainya.
+Selain terdapat objek wisata lain yang tak jauh dari keindahan bebatuan. Dimana terdapat batuan alam yang membentuk labirin, dengan kikisan dari aliran air. Seperti Grand Canyon, namun dengan versi mini.
+Ketika keluar dari kawasan goa selanjutnya para wisatawan bisa mencoba jalan lagi menuju aliran sungai dengan air yang sangat jernih terdapat di bagian kawasan bawah goa
+( sumber : https://travelspromo.com/htm-wisata/goa-garunggang-bogor/ )
+Jika berencana untuk masuk ke dalam goa, sebaiknya persiapkan fisik dan kesehatan yang baik. Karena selain berjalan sejauh 3 kilometer, serta bila diperlukan membawa senter sendiri meskipun pemandu telah membawa senter yang terang, gunakan juga alas kaki yang nyaman
+Lokasi :
+Jl. Ptp Terusan, Karang Tengah, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810
+Fasilitas            :
+Tempat Parkir
+Toilet
+Bermain di sungai
+Warung
+Harga Tiket :
+Tiket masuk              : Gratis
+Jasa pemandu          : Sukarela
+Jam Operasional     :
+Setiap hari                : 08.00 – 16.00 WIB
+Kontak     :
+Phone                        : (021) 84200234
+Sumber Gambar : https://www.kompasiana.com/rena_rena/6035da2c6e383346db62eb42/goa-garunggang
+Article Tags: Babakan Madang
+Article Categories: Air Terjun · Alam · Goa · Hiking / Tracking', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/goa-agung-garunggang/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/20200911-091611-6035db586e38335673596d42-250x250.jpg', null, 27, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (87, 'Pesona Tracking Sentul', 'Olahraga', 'Olahraga', 'Memanjakan mata dan kaki sekaligus menikmati indahnya berbagai macam destinasi wisata alam bersama teman dan kerabat
+Pesona Tracking Sentul merupakan jasa penyedia fasilitas trackking untuk kawasan sentul terdapat berbagai paket berdasarkan jarak tempuh, waktu tempuh dan tempat wisata yang dipilih. Pesona tracking sentul juga menyediakan paket untuk kegiatan perusahaan, edukasi dan umum. Ada berbagai jenis tempat wisata salah satunya curug lewi hejo air terjun lewi liek. Untuk dapat menikmati serunya tracking dikawasan sentul ini bisa dipesan melalui nomor Whatsapp yang terhubung dengan website pesona tracking sentul
+Lokasi
+Lokasi untuk memulai tracking akan bertemu dititik kumpul yaitu tempat wisata rekreasi jungle land , dari titik temu akan dikaawal menuju ketempat trackking.
+Alamat titik kumpul : Kawasan Sentul Nirwana, Jl. Jungle Land No.1, Karang Tengah, Kec. Babakan Madang, Bogor, Jawa Barat 16810
+Fasilitas
+Tiket Tempat Wisata
+Air Mineral
+Jalur Trackking
+Jas Hujan
+Guiede Lokal
+P3K Trackking Pole
+Tiket Parkir
+Pengawalan
+Dokumentasi
+Harga Paket Tracking
+Harga  trekking Edutaiment Easy : Rp. 155.000 – Rp. 175.000
+Harga treckking sentul corporation Medium :  Rp. 165.000 – Rp.190.000
+Harga Treckking Sentul Private Extreme : (Rp. 250.000 – Rp. 400.000 ) disarankan sewa mobil pick up seharga Rp. 400.000
+Harga Treckking Sentul Private Easy : Rp. 155.000 – Rp. 175.000
+Disetiap paket tracking terdapat paket untuk memilih tempat wisata yang ingin dituju.
+Tips
+Menggunakan pakaian yang nyaman untuk berolahraga.
+Menggunakan sepatu olahraga.
+Membawa obat-obatan jikan memiliki penyakit khusus.
+Membaca baju ganti.
+Menggunakan tas ransel agar mudah dibawa.
+Sumber :
+https://pesonatrekkingsentul.com/
+Article Tags: Babakan Madang
+Article Categories: Hiking / Tracking · Olahraga', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/pesona-tracking-sentul/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/pesona-service43871-11-05-202104_12_42.jpeg-250x250.jpg', null, 11, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (88, 'Alamanda', 'Olahraga', 'Olahraga', 'Berawal pada tahun 1999 dengan nama MITRA KARYA INTERWISATA dengan merk dagang FUN RAFTING bergerak di bidang ARUNG JERAM, dan pada tahun 2003 mitra karya interwisata berubah nama menjadi ALAMANDA INDONESIA serta melebarkan sayapnya menjadi perusahaan yang bergerak di bidang jasa wisata
+Outbound Training & Training Soft Skill, Dengan metode EXPERIENTAL LEARNING ( Belajar dari Pengalaman ) dikemas dengan kegiatan yang dinamis dan ceria.
+Program yang kami rancang bertujuan untuk mengakomodir berbagai tujuan akan pengembangan Sumber Daya Manusia agar lebih maju dan berkembang baik dari sisi Komunikasi, Kepemimpinan, Kerjasama, Prilaku, Problem Solving.
+Lokasi
+Jl. Kolonel Bustomi No.16, Cimande Hilir, Kec. Caringin, Bogor, Jawa Barat 16730
+Fasilitas
+Parkir
+Restaurant Sunda
+Ruang Ganti
+Toilet
+Shower
+Gazebo
+Foot Theraphy
+Free Wifi
+Outbound
+Paint Ball
+Archery
+Tarif Tiket
+• Arung Jeram (Rafting) Rp. 180.000,- / Pax
+• Archery
+• War Game : Durasi -/+ 30 Menit Arrow 15 Rp. 80.000,-
+• Shooting Target : Durasi -/+ Menit Arrow 5 Rp. 30.000,-
+Website
+https://alamanda-indo.com/
+Jam Operasional
+ALL DAY : 8.30 AM – 5.00 PM
+Contact
+Wa : JSO Office : 021- 76683652.
+Yuni : 0815 8888 3973.
+Sarah : 0819 444 2 77774.
+I’is : 0858 9219 75145.
+Iman : 0813 15251 3086.
+Taufan : 0815 8131 050
+Article Tags: Caringin
+Article Categories: Arung Jeram · Olahraga', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/alamanda/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/alamanda-250x250.jpg', null, 24, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (89, 'SIRKUIT OFF ROAD (JEEP STATION INDONESIA RESORT)', 'Olahraga', 'Olahraga', 'Bagi penggemar off-road seputar Jakarta dan Jawa Barat, sekarang gak perlu lagi bingung mencari tempat offroad all in one. Jeep Station Indonesia (JSI) di kawasan Mega Mendung Ciawi, yang jadi lokasi Jip Day Out 2014, menawarkan konsep lengkap, dari beragam trek permanen hingga camping ground, restoran, hingga kolam renang, dan tentu saja akomodasi.
+Sebagai lokasi off-road, tentu saja kelebihan utama JSI adalah fasilitas tracknya yang beragam, dan permanen. Bahkan, JSI sudah tercatat di MURI sebagai track permanen pertama di Indonesia. Trek yang permanen seperti ini, menguntungkan dari sisi penyelenggaraan event, dan mengasah kemampuan off-road, sebab tingkat kesulitannya tak akan berubah karena pengaruh alamiah.
+Lokasi
+Jl. Raya Pasir Muncang No.218, Sukamanah, Kec. Megamendung, Bogor, Jawa Barat 16770
+Fasilitas
+1. Aktivitas Pendidikan
+2. Petualangan Jeep
+3. Fotografi
+4. Rekreasi Hiburan
+5. Menunggang
+6. Petualangan Jejak
+7. Area Bermain Anak
+8. Area Parkir
+9. Guide
+10. Interpretasi Atraksi
+11. Kamar Ganti
+12. Loket Karcis
+13. Lounge
+14. Mushola
+15. Penginapan
+16. Penitipan Barang
+17. Pos Jaga
+18. Shelter
+19. Sirkuit
+20. Tempat Makan
+21. Toilet
+22. Transportasi
+23. Wifi
+Tiket Masuk
+Rp. 25.000 – 5.000.000.-
+Website
+https://jeepstationindonesia.wordpress.com
+Jam Operasional
+Setiap Hari Jam 07.00 – 12.00 WIB Siang
+Selama Kegiatan Event 24 Jam
+Contact
+WA : 085881523801
+Article Tags: Megamendung
+Article Categories: Motosport · Olahraga', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/sirkuit-off-road-jeep-station-indonesia-resort/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/jeep-250x250.jpg', null, 14, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (90, 'Paralayang Puncak', 'Olahraga', 'Olahraga', 'Berolahraga sambil menikmati panorama kebun teh yang indah
+Paralayang Bukit Gantole Puncak merupakan salah satu tempat wisata sekaligus olahraga yang ada di Bogor. Wisata ini akan menyajikan Anda sensasi berlayang untuk melihat luasnya kebun teh yang ada di Bogor. Lokasi bukit ini berada di Bukit Gantole Paralayang Puncak yang tidak jauh dengan Masjid At- Ta’awun yaitu sekitar 300 meter. Anda akan mendapatkan berbagai pengalaman yang menegangkan sekaligus menyenangkan ketika mencoba salah satu wisata di Bogor ini
+Daya tarik yang akan Anda dapatkan ketika mencoba wisata Paralayang Bukit Gantole Puncak adalah, Anda dapat dengan mudah menemukan dan mendapatkan berbagai keindahan bukit teh yang tersebar luas. Anda juga dapat mengambil foto selfie ketika Anda melakukan paralayang
+Harga Tiket Masuk
+Untuk bisa menikmati sensasi melayang di Puncak, Anda harus membayar tarif paralayang mulai Rp538.200 hingga Rp575.000, sudah termasuk peralatan tetapi harga sewaktu waktu dapat berubah
+Lokasi
+Jl. Venue Paralayang, Tugu Sel., Kec. Cisarua, Bogor, Jawa Barat 16750
+Jam Operasional
+Tempat Paralayang Puncak buka 24 jam setiap hari tetapi untuk terbang itu hanya sampai jam 17.00
+Article Tags: Cisarua
+Article Categories: Olahraga · Paralayang', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/paralayang-puncak/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/WhatsApp-Image-2022-02-14-at-1.49.50-PM-250x250.jpeg', null, 23, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (91, 'Rafting Kalibaru Sentul', 'Olahraga', 'Olahraga', 'Mengarungi jeram-jeram sungai yang sangat menantang di Sentul
+Rafting yang terkenal di Sentul adalah Rafting kalibaru, anda bisa mencobanya dengan kolega anda karena kegiatan ini memiliki banyak manfaat seperti Menguji ketahanan fisik dan mental, Melatih kekompakan dan kerjasama dengan teman satu tim, Menguji adrenalin, Meningkatkan relaksasi, mereset tubuh dari stres akibat kepenatan sehari hari, Dapat meningkatkan kemampuan atau kapasitas jantung dan paru – paru, kekuatan dan daya tahan otot, serta fleksibilitas sendi bahu dan pinggang
+Wisata di Sentul Bogor dengan ber rafting ria di kalibaru sentul akan sangat berkesan dimana arus yang cukup menantang, namun relatif lebih aman dan anda akan ditemani oleh pemandu yang paham akan keselamatan dan menguasai jalur. Jarak sepanjang 8 KM akan ditempuh dalam waktu 2 jam
+Lokasi
+Jl. Sukaraja No.15, Sukaraja, Kec. Sukaraja, Bogor, Jawa Barat 16710
+Harga dan Fasilitas
+Fasilitas di Rafting Kalibaru Sentul ditentukan sesuai dengan paket yang diambil, berikut beberapa daftar paket yang tersedia:
+ADRENALINE ADVENTURE EXITING FUNTASTIC
+Rp. 225.000/pax Rp. 125.000/pax Rp. 175.000/pax Rp. 250.000/pax
+Minimal 5 pax Minimal 15 pax Minimal 30 pax Minimal 30 pax
+Rafting 8 Km Tubing 3 Km Outbound 1/2 Hari Outbound 1 Hari
+Transportasi Transportasi Game Hiburan Game Hiburan
+Asuransi Asuransi Team Building Team Building
+Tour Guide Tour Guide Game Master Game Master
+Helm & Jaket Keselamatan Helm & Jaket Keselamatan Design Program Design Program
+Perahu & Dayung Dekker,Tube,Fin Outbound Ground Outbound Ground
+Rescue Rescue & Coaching Sound System Sound System
+Makan Siang & Air Mineral Makan Siang & Air Mineral Peralatan Bermain Peralatan Bermain
+Shower & Toilet Shower & Toilet Makan Siang & Air Mineral Makan Siang & Air Mineral
+Article Tags: Babakan Madang
+Article Categories: Arung Jeram · Olahraga', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/rafting-kalibaru-sukaraja/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/rafting-kalibaru-sentul-250x250.jpg', null, 24, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (92, 'Hiking Gunung Batu Jonggol', 'Olahraga', 'Olahraga', 'Salah satu Gunung yang menawarkan panorama alam yang indah di Bogor
+Mendaki gunung menjadi alternatif wisata bagi pecinta alam, bagi yang berada di Jabodetabek bisa melirik Gunung Batu Jonggol. Beberapa orang menyebut tempat ini sebagai bukit, bukan gunung. Karena tingginya tidak mencapai 1.000 mdpl, serta puncaknya yang tidak meruncing. Melainkan mendatar bahkan terlihat memanjang di salah satu sisi.
+Meski demikian, jalur menuju puncak tidak bisa diremehkan begitu saja. Wisatawan harus mendaki jalur yang cukup terjal bahkan memanjat batu-batuan. Walaupun cukup berat tetap banyak wisatawan yang datang untuk menghabiskan hari liburnya di sini. Berbagai aktivitas menarik ada di sini, mulai dari melihat pemandangan indah hingga berkemah.
+Lokasi
+Sukaharja, Sukamakmur, Bogor, Jawa Barat, Indonesia
+Fasilitas
+Fasilitas yang ada di Gunung Batu Jonggol yaitu :
+Area parkir
+Warung makan dan minum
+Rute pendakian
+Tali
+Camping ground
+Spot foto
+Harga Tiket Masuk dan Biaya Lainnya
+Harga untuk tiap tiap kegiatan yang ada :
+Tiket masuk Rp. 15.000
+Mendaki Rp. 5.000
+Berkemah Rp. 5.000
+Parkir Rp. 15.000
+Jam Operasinal
+Untuk jam operasionalnya yaitu 24jam
+Article Tags: Jonggol
+Article Categories: Alam · Gunung & Bukit · Hiking / Tracking · Olahraga', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/permainan-engrang/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/hiking-gunung-batu-250x250.png', null, 24, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (93, 'Festival Silat Kabupaten Bogor', 'Olahraga', 'Olahraga', null, null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/category/olahraga/evenolahraga/', 'https://secure.gravatar.com/avatar/34194b48de6a36a35e75913ce81cd6625ea66562744b461a4404229fed099639?s=18&d=mm&r=g', null, 27, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (94, 'Curug Kiara', 'Alam', 'Alam', 'Namanya sangat indah sesuai dengan keindahan yang akan kamu dapatkan ketika berkunjung ke Curug Kiara. Berikut ulasan lengkap mengenai Curug Kiara, check this out!
+Trekking Menuju Curug Kiara
+Perjalanan menuju Curug Kiara sungguh sangat mengagumkan, kamu dapat melihat hamparan pemandangan yang menyejukkan.
+Jalan yang akan dilalui pun sudah bagus dan mudah untuk dilewati, jika menggunakan kendaraan roda empat harus berhati-hati karena jalannya yang hanya cukup dilalui oleh satu kendaraan saja.
+Setelah sampai ditempat parkir kamu akan melanjutkan perjalanan dengan berjalan kaki, menyusuri jalan setapak ditengah hamparan pesawahan milik warga.
+Kemudian kamu akan melanjutkannya dengan menaiki jalanan menanjak yang masih terbuat dari bebatuan, tanjakannya lumayan curam jadi kamu harus berhati-hati ketika melangkah.
+Setelahnya kamu akan menyusuri jalan drainase atau saluran air, dimana air yang mengalirnya sangat bersih juga jernih. Disisi kiri kamu merupakan sebuah jurang, fokus dan waspadalah ketika melangkah.
+Kemudian kamu akan menapaki jalanan menurun yang terbuat dari bebatuan, lanjutkan perjalananmu dengan menapaki jalan tersebut. Di sepanjang perjalanan kamu akan menemukan beberapa warung yang bisa kamu gunakan untuk beristirahat.
+Selanjutnya kamu akan menemukan jalur trekking yang menurun sangat tajam, tidak ada pegangan sama sekali jalurnya pun masih sangat alami.
+Tak berselang lama kamu akan menemukan sebuah jembatan bambu yang warna warni yang akan membawamu lebih dekat dengan Curug Kiara.
+Namun ternyata jembatan tersebut bukanlah akhir dari trekking yang kamu lakukan, kamu masih harus menuruni sebuah tangga sederhana yang sangat curam.
+Curug Kiara berada di belakang tangga terhalangi oleh tebing yang cukup tinggi.
+Pesona Keindahan Curug Kiara
+Curug ini memiliki nama yang indah, entah apa yang melatarbelakangi pemberian nama Kiara. Nama indah tersebut bukanlah isapan jempol belaka, karena Curug Kiara memiliki keindahan yang luar biasa.
+Curug Kiara terletak seperti disembunyikan diantara tebing yang cukup tinggi serta dilindungi pepohonan yang lebat. Air yang dialirkan Curug Kiara sangat deras apalagi jika musim hujan tiba.
+Air yang dialirkan sangat jernih dan bersih, lokasinya yang jarang dikunjungi membuat area Curug Kiara seakan air terjun pribadi.
+Ragam Wisata Di Curug Kiara
+Ketika kamu berada di Curug Kiara, kamu dapat melakukan beberapa ragam wisata seperti berikut ini:
+1.Berenang
+2.Berfoto
+3.Menikmati 3 Curug Yang Lainnya
+Alamat
+Kampung Raina, Desa Ciasihan, Kecamatan Pamijahan,Kab Bogor, Jawa Barat.
+Fasilitas
+Di area Curug Kiara belum ada fasilitas apa-apa karena lokasinya yang berada di tengah hutan. Namun di sekitar Curug Kiara terdapat beberapa warung makanan dan minuman, saung sederhana untuk kamu beristirahat sejenak. Serta terdapat area parkir yang cukup untuk menampung beberapa motor.
+Harga Tiket
+Di awal masuk kamu harus membayar sebesar Rp. 25.000,- per motor dua orang. Atau Rp. 10.000,- per orang dan untuk parkir mobil Rp. 10.000,-
+Jam Operasional
+24 jam
+Sumber
+https://www.nativeindonesia.com/curug-kiara/
+Article Tags: Kabupaten Bogor · Pamijahan
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-25/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/07/1-10-250x250.jpg', null, 1116, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (95, 'Leuwi Pangaduan', 'Alam', 'Alam', 'Leuwi Pangaduan memang cocok menjadi tujuan rekreasi keluarga di Sentul Bogor. Menawarkan suasana pedesaan lereng gunung lengkap dengan sawah dan air terjun. Ditambah dengan berbagai wahana permainan seru.
+Berada di lereng Gunung Pancar, Leuwi Pangaduan menawarkan keindahan alam yang luar biasa. Ada cerita tersendiri kenapa tempat ini mendapat nama Leuwi Pangaduan. Hal itu karena di tempat ini ada dua arus air yang bertemu (beradu) dan membentuk sebuah muara. Arus air tersebut berasal dari Curug Cibimbin dan Sungai Citereup.
+Areanya sendiri merupakan sebuah taman dengan pondok-pondok jerami untuk bersantai. Dengan suguhan pemandangan gunung, bukit dan sawah, wisatawan akan merasa betah berada di tempat ini. Selain itu terdapat sebuah kolam dengan aliran air alami yang jernih. Berpadu dengan berbagai wahana permainan yang ada. Tersedia flying fox, naik kuda, naik perahu, outbond hingga camping ground.
+Asiknya Berenang Di Leuwi Pangaduan
+Salah satu daya tarik yang ada di Leuwi Pangaduan yaitu sebuah kolam dengan air yang jernih. Ini bukanlah kolam buatan melainkan terbentuk secara alami. Aliran airnya berasal langsung dari Sungai Citereup dan Curug Cibimbin. Sudah pasti airnya pun sangat jernih dan menyegarkan. Kolamnya sendiri tidak terlalu dalam sehingga cocok untuk semua kalangan umur.
+Dari kolam renang wisatawan bisa menikmati pemandangan alam yang memukau. Di tepi-tepi kolam terhampar sawah hijau yang sangat menyegarkan mata. Di belakangnya barisan bukit seakan menampilkan pesonanya. Kemudian di area kolam juga terdapat air terjun kecil dengan tinggi sekitar 2 meter. Biasanya wisatawan duduk di bawahnya dan merasakan kesegaran air jatuh membasahi tubuh.
+Taman Yang Teduh Dan Asri
+Di dalam kawasan wisata ini juga terdapat sebuah taman yang cukup luas. Suasana taman yang teduh dengan barisan pepohonan tinggi dan bunga warna-warni. Area taman ini sangat cocok sebagai spot untuk bersantai. Wisatawan dapat duduk di atas rerumputan ataupun dengan menggelar tikar. Berkumpul dan bercengkerama di area ini bersama keluarga pastinya sangat menyenangkan.
+Kemudian di area taman dilengkapi pula dengan beragam arena bermain anak-anak. Terdapat jembatan goyang ataupun jembatan tali untuk melatih keberanian si kecil.
+Memancing
+Bagi penggemr aktivitas memancing tempat ini jelas sangatlah menarik perhatian. Terdapat sebuah kolam empang yang cukup luas untuk memanjakan para mancing mania. Di tepian empang tersedia saung bambu yang sangat nyaman.
+Alamat
+Jl. Kp. Muhara No.Ds, Bojong Koneng, Kecamatan Babakan Madang, Kabupaten Bogor, Jawa Barat.
+Fasilitas
+Area parkir
+Toilet
+Kamar mandi
+Mushola
+Saung dan gazebo
+Spot kuliner
+Camping ground.
+Harga Tiket
+Dewasa Rp.30.000
+Anak-anak Rp.20.000
+Parkir Motor Rp.5.000
+Parkir Mobil Rp.10.000
+Jam Operasional
+Setiap hari Jam 08.00-17.000
+Telepon
+0858-9172-8858
+Sumber
+https://travelspromo.com/htm-wisata/leuwi-pangaduan-bogor/#google_vignette
+Article Tags: Babakan Madang · Kabupaten Bogor
+Article Categories: Air Terjun · Alam · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-24/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/07/1-9-250x250.jpg', null, 1139, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (96, 'Curug Cikoneng', 'Alam', 'Alam', 'Namanya adalah Curug Cikoneng, berikut ulasan lengkap mengenai curug tersebut, check this out!
+Pesona Keindahan Curug Cikoneng
+Curug atau air terjun ini diberi nama Cikoneng karena lokasinya yang berada di Kampung Cikoneng, serta berada di kawasan Geopark Pongkor.
+Curug Cikoneng memiliki dua buah tingkatan air terjun atau curug. Dimana ketinggian dari masing-masing curug berbeda, aliran Curug Cikoneng yang berada dibawah lebih kecil daripada Curug Cikoneng di bagian atas.
+Aliran air yang diturunkan sangat jernih juga bersih, airnya merambat turun melalui tebing batu hitam. Sehingga tidak menimbulkan arus yang kuat. Kolam tempat penampungan air curug dibagian atas berwarna hijau toska.
+Bahkan karena adanya kepedulian dari warga sekitar akhirnya potensi alam yang dimiliki dapat dimanfaatkan semaksimal mungkin.
+Ragam wisata Di Curug Cikoneng
+Ragam wisata yang dapat kamu lakukan ketika berada di Curug Cikoneng diantaranya:
+1.Berenang
+Ragam wisata berikut merupakan hal wajib yang harus kamu lakukan ketika mengunjungi tempat wisata air. Tiada lain dan tiada bukan ialah mandi atau berenang di kolam alaminya.
+Kamu dapat berenang di kolam bagian atas Curug Cikoneng, di bagian atas inilah tempat yang selalu ramai dikunjungi wisatawan yang ingin mengekplor kolamnya.
+Kedalaman kolam alaminya pun tidak terlalu dalam hanya sekitar 1 meter saja, dengan arus yang tidak terlalu deras juga.
+2.Bermain Air
+Bermain air merupakan ragam wisata yang cocok dilakukan untuk kamu yang membawa anak-anak. Biarkan mereka bermain air dan merasakan kesegaran alami aliran air yang berasal dari aliran Curug Cikoneng.
+3.Body Jumping
+Untuk kamu para pecinta adrenalin, kamu harus coba ragam wisata yang satu ini. Yakni body jumping atau melompat dari atas tebing dengan ketinggian yang bisa kamu tentukan sendiri.
+Sebelum memulai lompatan kamu harus mencari spot lompatan yang kamu inginkan, dengan cara memanjat tebing Curug Cikoneng.
+Setelah menemukan spot yang kamu inginkan, jatuhkan dirimu dengan cantik menuju kolam alami yang berada di bawahnya.
+Kegiatan body jumping hanya boleh dilakukan di area Curug Cikoneng yang di atas, karena kedalaman kolam Curug Cikoneng yang dibawah sangat dangkal.
+4.Mengunjungi Spot Foto Menarik
+Pengelola setempat sudah menyiapkan tempat untuk kamu para pecinta selfie berfoto, namanya ialah Taman Selfie Bukit Rusi.
+Banyak spot foto yang harus dieksplor ketika berada di taman selfie tersebut, untuk dapat memasuki wilayah tersebut kamu harus membayar tiket masuk sebesar Rp. 5.000,- saja.
+Di Bukit Rusi ini kamu bisa memandangi keindahan alam Curug Cikoneng. Banyak tempat-tempat untuk kamu duduk santai dengan latar curug ketika berada di Bukit Rusi ini.
+Selain itu di Bukit Rusi banyak ditanami pepohonan yang warna warni menambah eloknya tempat tersebut. Spot selfie yang paling banyak dicari pengunjung ialah salah satu spot yang menyerupai love.
+Alamat
+Lokasi dan alamat Curug Cikoneng terletak di Kampung Cikoneng, Desa Puraseda, Kecamatan Leuwiliang, Kab Bogor, Jawa Barat.
+Fasilitas
+Area parkir motor yang cukup luas
+Kamar mandi umum
+Gazebo dan tempat duduk
+Warung-warung makanan dan minuman
+Spot selfie yang menarik
+Harga Tiket
+Tiket masuk memasuki area Curug Cikoneng sangat murah, kamu hanya perlu membayarnya sebesar Rp. 7.000,- saja per orangnya.
+Jam Operasional
+dibuka selama 24 jam sehari dan 7 hari seminggu.
+Sumber
+https://www.nativeindonesia.com/curug-cikoneng/
+Article Tags: Kabupaten Bogor · Leuwiliang
+Article Categories: Air Terjun · Alam · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-8/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/07/1-250x250.jpeg', null, 56, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (97, 'Curug Walet', 'Alam', 'Alam', 'Curug Walet Bogor merupakan salah satu obyek wisata alam yang menawan. Tempat wisata ini masih begitu alami, namun sudah ditata sedemikian rupa sehingga bisa dikunjungi oleh wisatawan.
+Tempat yang tersembunyi dengan track yang menantang menjadi bonus tersendiri.
+Bahkan sebelum sampai ke air terjun, kamu pun akan disuguhkan dengan hamparan sawah hingga perbukitan.
+Selain jalanya yang mendaki, kamu pun juga harus menuruni anak tangga hingga jalan setapak dibibir tebing samping bantaran sungai.
+Namun semuanya akan terbayar dengan keasrian dan kesegaran airnya. Tak salah apabila, kamu mengagendakan untuk datang kemari ramai-ramai.
+Tujuan utama ke Curug Walet Pamijahan pasti ingin melihat pesonanya secara langsung maupun ambil gambar disana. Namun lebih dari itu, kamu pun juga bisa berenang juga lho. Bagaimana asiknya yuk kita ulas.
+Swafoto di Curug Walet
+Tak pelak lagi kalau air terjun ini memang indah. Suasananya pun begitu sangat asri dengan tebing yang tinggi dan rerumputan di sekelilingnya.
+Aliran airnya pun juga deras dan jernih. Dengan demikian sangat cocok untuk berswafoto maupun difoto secara langsung.
+Berenang di Curug Walet
+Kamu juga bisa menikmati kesegaran airnya dengan berenang di Curug Walet ini.
+Hal ini sangat dimungkinkan karena memang ada kedung atau bagian sungai yang dalam dengan areal yang cukup luas dekat air terjun sama halnya di Curug Cikuluwung dan obyek sejenis.
+Namun sangat dianjurkan tidak berenang terlalu dekat dengan air yang jatuh dari curug.
+Hal ini untuk menghindari tekanan air dan menghindari kalau-kalau ada benda yang jatuh dari atas.
+Kamu yang tidak bisa berenang pun juga bisa bermain air disana.
+Ada banyak bebatuan yang cukup besar di aliran sungai. Tak salah jika sambil swafoto di lokasi ini.
+Lokasi
+Desa Ciasihan, Kecamatan Pamijahan, Kabupten Bogor, Jawa Barat.
+Fasilitas
+Area parkir
+Warung
+Kamar mandi
+Harga tiket
+Tiket Masuk : 10.000
+Parkir : 5.000
+Jam operasional
+Rabu 07.00–16.00
+Kamis 07.00–05.00
+Jumat 07.00–01.00
+Sabtu 07.00–15.00
+Minggu 07.00–16.30
+Senin 07.00–16.00
+Selasa 07.00–16.00
+Telepon
+–
+Sumber
+https://seringjalan.com/curug-walet/
+Article Tags: Kabupaten Bogor · Pamijahan
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-15/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/07/1-7-250x250.jpg', null, 51, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (98, 'Curug Rahong', 'Alam', 'Alam', 'Berwisata ke objek wisata berupa air terjun memang menyenangkan, namun tidak sedikit yang membutuhkan tenaga ekstra untuk menjangkaunya. Seperti halnya Curug Rahong yang berada di kedalaman hutan di Cigudeg, Kabupaten Bogor.
+Kawasan wisata alam ini populer karena menyajikan pemandangan air terjun yang unik. Namun, untuk menikmati pemandangan tersebut, wisatawan harus berbekal niat serta stamina yang kuat. Selain jalur trekking-nya yang cukup panjang, jalan menuju air terjun juga penuh dengan berbagai rintangan.
+Pesona Curug Rahong
+Curug Rahong, juga terkenal sebagai Curug Rahong, merupakan objek wisata alam berupa air terjun yang berada di Cigudeg, Bogor. Air terjun ini berada di tengah hutan liar yang masih alami. Hal ini menjadikan air terjun ini sebagai destinasi wisata yang cukup menantang karena rute yang dimilikinya.
+Aliran airnya berasal dari Sungai Cibodas yang berada di atas tebing bebatuan. Bentuk alirannya unik dan airnya dalam kondisi bersih. Dengan ketinggian kurang lebih 15 meter, air terjun Rahong menampilkan pemandangan alam yang memukau.
+Petualangan Menuju Lokasi
+Perjalanan menuju air terjun bisa dikategorikan sebagai sebuah petualangan yang menarik. Berada jauh dari keramaian Kota Bogor, air terjun ini berada di sebuah Kampung bernama Kedaung yang termasuk dalam Kecamatan Cigudeg.
+Jika berangkat dari Kota Bogor, rute melewati kawasan tambang pasir akan menghiasi perjalanan. Pemandangan hijau akan berubah menjadi jalanan berdebu dan gersang. Kendaraan berupa truk pengangkut pasir berukuran besar lalu-lalang. Konsentrasi dalam menyetir jadi hal yang mutlak di sini.
+Setelah melewati area tambang, pemandangan akan kembali sejuk seiring dengan memasuki kawasan permukiman berupa desa yang masih asri. Dengan dominasi jalanan sempit, lahan sawah, perbukitan, serta aliran sungai yang jernih dan berbatu-batu. Di desa inilah Curug Rahong berada.
+Rute Trekking Menantang
+Perjalanan dengan kendaraan harus berhenti karena rute selanjutnya hanya bisa dilalui dengan berjalan kaki. Kendaraan bisa di parkir di halaman rumah warga dan membayar tarif pada pemilik lahan yang bersangkutan.
+Dari sini, bersiaplah untuk melalui jalur trekking yang sesungguhnya. Rute melalui hutan ini mengharuskan wisatawan siap dengan alas kaki yang cocok, seperti sandal gunung atau sepatu olahraga.
+Dengan mengikuti petunjuk jalan ala kadarnya buatan warga sekitar, pengunjung bisa sampai ke lokasi air terjun. Jalan setapak tanah yang dilalui akan membawa pengunjung menyusuri kawasan hutan yang masih menjadi habitat beragam hewan liar. Kemunculan hewan seperti ular sewaktu-waktu perlu di waspadai.
+Panorama Air Terjun Unik
+Setelah melalui jalur trekking selama kurang lebih 30 menit berjalan kaki, menyusuri sungai berbatu-batu, serta hutan liar, pengunjung akan tiba di lokasi curug. Pemandangan air yang mengalir deras di atas tebing batu setinggi 15 meter akan menyambut wisatawan.
+Aktivitas Di Curug Rahong
+Telaganya tidak terlalu dalam dan tidak terlalu dangkal, sehingga sangat cocok untuk berenang atau menyelam. Bagi penyuka aktivitas ekstrem, melompat dari bebatuan di sekitar air terjun bisa jadi tantangan tersendiri.
+Rasakan sensasi melompat dari ketinggian 3 meter langsung ke kolam dengan air yang menyegarkan. Setelah bermain air, beristirahatlah di bebatuan sungai sambil berjemur menikmati hangat sinar matahari.
+Alamat
+Objek wisata air terjun ini berada di Kampung Kedaung, Desa Rengasjajar, Kecamatan Cigudeg, Kabupaten Bogor, Jawa Barat. Lokasinya tidak jauh dari Situs Gunung Munara dan Danau Quarry Jayamix. Dari arah Tangerang, air terjun ini bisa dicapai melalui rute Parung Panjang. Sedangkan dari arah Bogor Kota bisa melalui rute Leuwiliang atau Rumpin.
+Fasilitas
+toilet, kamar bilas, serta warung makan dengan bangku-bangku dan saung. Sayangnya, kebutuhan parkir masih terbatas pada lahan rumah warga.
+Harga tiket
+Rp.10.000
+Jam operasional
+Setiap hari 07:00-17:30
+Instagram
+https://www.instagram.com/curugrahongkadaung/
+Sumber
+https://travelspromo.com/htm-wisata/curug-rahong-cigudeg-bogor/
+Article Tags: Cigudeg · Kabupaten Bogor
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-10/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/07/1-6-250x250.jpg', null, 37, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (99, 'Curug Bungsu', 'Alam', 'Alam', 'Ada banyak curug yang terkenal di Bogor. Salah satunya adalah Curug Bungsu Bogor. Tempat ini menawarkan keindahan alam yang pastinya tidak akan kamu lupakan.
+Setiap hari selalu ada wisatawan yang berlibur ke sini, baik di hari biasa maupun hari libur. Ketika musim libur tiba, air terjun Bungsu ini semakin dipadati para wisatawan.
+Aktivitas yang Bisa Kamu Lakukan di Curug Bungsu Bogor
+Apa saja kegiatan yang bisa kamu lakukan ketika berlibur ke Curug Bungsu Bogor? Ada beberapa aktivitas yang bisa kamu lakukan, antara lain:
+1.Mandi di Kolam Curug Bungsu
+Seperti yang sudah kami jelaskan bahwa terdapat kolam yang ada di bawah Air Terjun Bungsu. Setiap orang yang mengunjungi Curug Bungsu tidak pernah melewatkan kesempatan untuk mandi di kolam.
+Airnya sangat jernih dan ditambah dengan alunan musik alam gratis yaitu suara air terjun. Suasana seperti inilah yang membuat kamu merasa nyaman dan menambah keseruan dan kenyamanan berendam di kolam.
+2.Berfoto di Curug Bungsu
+Aktivitas kedua yang juga bisa kamu lakukan adalah berfoto. Kamu bisa berfoto dengan memanfaatkan latar belakang Curug Bungsu.
+Lokasi di sekitar Air Terjun Bungsu juga sangat mendukung untuk mengabadikan momen liburanmu di sini karena pemandangannya sangat indah.
+Lokasi curug bungsu
+Curug ini berada di daerah hutan lindung Gunung Halimun Salak Bogor tepatnya berada di Desa Gn. Picung, Kec. Pamijahan, Kabupaten Bogor, Jawa Barat 
+Fasilitas curug bungsu
+Area parkir
+Kamar mandi
+Toilet
+Harga tiket curug bungsu
+Rp. 10.000 setiap orang.
+Jam operasional curug bungsu
+Tidak diketahui, bisa langsung mengunjunginya saja di jam 08:00-17:00
+Sumber
+https://kataomed.com/air-terjun/lokasi-curug-bungsu-bogor-dan-harga-tiketnya
+Article Tags: Kabupaten Bogor · Pamijahan
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-6/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/07/1-4-250x250.jpg', null, 35, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (100, 'Telaga Saat', 'Alam', 'Alam', 'Telaga Saat sering kali disebut sebagai keindahan tersembunyi di Puncak, Bogor. Telaga wisata ini memang belum terlalu populer di kalangan wisatawan. Kebanyakan lebih mengenal Telaga Warna sebagai tujuan rekreasi danau di kawasan Puncak.
+Padahal, danau seluas 1,5 hektar ini merupakan titik 0 Sungai Ciliwung. Dari sinilah sumber aliran sungai itu berasal. Lokasinya berada di kaki Gunung Kencana yang sejuk dan asri. Perkebunan teh yang mengelilinginya semakin menambah pesona danau alami ini.
+Keelokan Bentang Alam Telaga Saat
+Jika ingin mencari suasana yang berbeda dari biasanya, spot wisata alam di puncak selalu jadi incaran. Salah satu tempat yang belum banyak diketahui yaitu Telaga Saat. Danau ini berada di Desa Tugu Utara, Cisarua.
+Telaga ini menawarkan suasana danau alami di tengah perkebunan teh. Telaga ini juga dikelilingi perbukitan yang menyegarkan mata. Berwisata di sini memang pas untuk yang sedang mencari ketenangan alam.
+Perkebunan Teh Telaga Saat
+Lokasi danau ini sebenarnya tidak terlalu tersembunyi. Hanya saja tempat wisata ini memang baru terbuka untuk umum pada tahun 2018. Situasinya masih relatif lebih sepi dibandingkan tetangga jauhnya, Telaga Warna. Meskipun begitu sajian panoramanya tak kalah indahnya.
+Telaga ini berada di tengah area perkebunan teh milik Perhutani. Untuk mengunjunginya, wisatawan perlu melintasi jalan makadam yang berbatu di antara kebun teh. Sedangkan jalan beraspal baru ada ketika memasuki area danau.
+Pesona Telaga Saat
+Telaga Saat adalah danau alami dengan luas setidaknya 1,5 hektar. Danau dangkal ini merupakan titik 0 kilometer Ciliwung alias hulu sungai. Dari danau ini, air mengalir ke kali-kali yang nantinya bertemu di sebuah sungai. Sungai inilah yang mengalir terus hingga ke Jakarta.
+Sebagai hulu sungai, kondisinya tentu jauh berbeda dari hilirnya. Jika Ciliwung punya pamor sebagai tempat sampah raksasa maka danau ini adalah kebalikannya. Airnya jernih, dingin, dan bersih. Pemandangan yang sungguh menyegarkan mata maupun pikiran.
+Ragam Aktivitas Rekreasi
+Selama berada di kawasan telaga berbagai aktivitas tersedia bagi wisatawan. Salah satunya tracking keliling danau. Wisatawan juga bisa memanfaatkannya sebagai arena lari atau bersepeda santai.
+Piknik adalah kegiatan rekreasi lainnya yang bisa dilakukan di tempat ini. Pengunjung boleh membawa perlengkapan pikniknya sendiri dari rumah. Jika kurang makanan, di sini sudah tersedia warung makan. Menunya sederhana, seperti mi instan hangat dan gorengan.
+Camping Telaga Saat
+Di sekitar danau, terdapat sarana gazebo untuk istirahat. Sehingga wisatawan bisa berlama-lama menikmati panorama danau di sini. Pemandangan sunset di sini adalah momen yang terlalu sayang jika terlewat.
+Sayangnya, tidak ada penginapan di dekat sini. Kegiatan berkemah pun tidak diizinkan. Namun jangan khawatir, wisatawan tetap bisa bermalam di dekat danau.
+Lokasi Telaga Saat
+Danau dengan panorama memukau ini terletak di kawasan Desa Tugu Utara, Kecamatan Cisarua, Kabupaten Bogor. Gerbang masuknya berada dekat tempat wisata Melrimba Garden. Dari gerbang, pilih jalan ke kiri dan lurus terus ke utara. Lokasinya tidak terlalu jauh dari Kampung Agrowisata Kopi Cibulao.
+Fasilitas
+Sarana pendukung yang tersedia di Telaga Saat adalah area parkir, toilet, gazebo, dan warung makan. Tempat wisata ini tidak memiliki sarana musala. Fasilitas lainnya yaitu sewa rakit dan jasa foto. Campground tersedia di Wisata Javana Sehat dan terpisah dari area danau.
+Jam Buka
+Setiap hari jam 07:30-18:00
+Tiket Masuk
+Tiket masuk kebun teh Rp.25.000
+Tiket masuk telaga saat Rp.10.000
+Tiket masuk kebun teh dan telaga saat Rp.35.000
+Instagram
+https://www.instagram.com/telagasaatpuncak/
+Sumber
+https://travelspromo.com/htm-wisata/telaga-saat-puncak-bogor/
+Article Tags: Cisarua · Kabupaten Bogor
+Article Categories: Alam · Danau & Situ · Kebun Teh', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-3/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/07/1-1-250x250.jpg', null, 28, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (101, 'Curug Macan', 'Alam', 'Alam', 'Mungkin dari Anda ada yang familiar dengan nama tempat wisata air terjun Curug Macan, sebuah destinasi wisata alam yang juga anti mainstream. Tempat wisata ini memang cukup populer dikalangan wisatawan pecinta alam, karena tampilannya yang cukup menarik untuk disinggahi.
+Tempat wisata alam dengan fokus utama pada sebuah air terjun biasanya akan mampu menarik banyak orang untuk datang. Bahkan, banyak sekali curug yang memang berada di sekitar Bogor dimana curug merupakan air terjun di sebuah sungai
+Daya Tarik di Air Terjun Curug Macan
+Berdasarkan konsep sebuah curug atau seperti air terjun Curug Macan, ada daya tarik yang memang sudah sangat diketahui banyak orang. Hal tersebut adalah:
+1.Panorama Alam yang Asri
+Orang-orang yang memang sengaja mencari suasana baru dan lain selain udara kota yang panas, tentunya akan setuju dan sengaja mencari tempat yang masih sangat alami. Salah satunya adalah Curug Macan ini, selain panorama alamnya yang sangat indah bahkan udaranya masih sangat sejuk dan asri.
+Di luar dari kelebihan lainnya yang bisa dinikmati seperti curug ataupun wahana lainnya, panorama alam sudah cukup mewakili alasan Anda mendatangi tempat ini.
+2.Keindahan Curug
+Inilah yang menjadi tujuan utama untuk mendatangi kawasan wisata Curug Macan, yaitu berfokus pada curug itu sendiri. Curug adalah air terjun yang bisa dijadikan tempat wisata alam dan wisata air. Curug Macan sendiri merupakan curug yang memiliki sejarah tempat minumnya beberapa macan Halimun yang pernah ada.
+Karena, dulunya tempat tersebut memang banyak dihuni macan Halimun yang sekarang sudah banyak punah.
+3.Goa Macan
+Disamping air terjun, ternyata juga terdapat goa macan yang bisa dijadikan dan memang sudah banyak dikunjungi oleh beberapa wisatawan yang sudah pernah mendatangi tempat ini. Karena, awal sejarahnya memang banyak macan yang hidup di tempat tersebut dan goa itu yang menjadi tempat tinggalnya.
+Jika ada yang mau melakukan perbaikan dan pengembangan pada tempat ini, pastinya semua itu bisa diolah dan dirapikan menjadi wahana yang bisa ditonjolkan. Di sekitar air terjun juga terdapat banyak tanaman menarik layaknya taman, dan juga batu-batuan yang bisa dimanfaatkan untuk bermain.
+4.Wahana Air
+Ada beberapa wahana air yang secara tidak sengaja justru mendukung terciptanya wisata air Curug Macan ini. Diantaranya ada jembatan di atas air dari bambu, dan ini bisa dijadikan sebagai tempat bermain air di sekitaran air terjun. Selain itu, ada juga sendang atau lubuk yang juga bisa dijadikan tempat untuk bermain air.
+Masih ada satu hal lagi, yaitu hammock adalah sebuah tempat tidur gantungan yang ternyata bisa dinikmati oleh setiap pengunjung.
+5.Berswafoto
+Sudah bisa dipastikan, sebuah curug akan menjadi tempat berswafot yang sangat menarik. Serunya berfoto di bawah air terjun tentu akan menjadi sangat menarik. Tapi tidak hanya itu, masih ada beberapa spot yang juga menarik untuk melakukan swafoto. 
+Lokasi
+7G3Q+6FM, Taman Nasional Gunung Halimun Salak, Malasari, Kec. Nanggung, Kabupaten Bogor, Jawa Barat 16650
+Fasilitas di Air Terjun Curug Macan
+Air terjun Curug Macan juga pastinya didukung dengan beberapa fasilitas menarik dan juga bisa memperkuat kawasan wisatanya. Meskipun belum banyak fasilitasnya, tapi cukup memadai untuk sebuah wisata air terjun seperti::
+⦁ Wisma
+⦁ Warung makan
+⦁ Area parkir
+Harga Tiket
+Harga tiket pada tempat seperti air terjun Curug Macan ini sebenarnya belum dikelola dengan baik, sehingga tidak dibutuhkan pembayaran biaya tiket masuk kecuali biaya parkir.
+Jam Buka
+Karena daya tariknya yang cukup membawa banyak pengunjung untuk datang, maka perlu diketahui mengenai jam buka dari air terjun Curug Macan ini. Dimana jam bukanya adalah 24 jam tanpa henti, dan bisa dikunjungi setiap hari.
+Sumber
+https://www.wisatakemanabesok.com/2022/12/air-terjun-curug-macan.html?m=1
+Article Tags: Kabupaten Bogor · Nanggung
+Article Categories: Air Terjun · Alam · Goa', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-2/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/07/ya-1-250x250.jpg', null, 26, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (102, 'Curug Mariuk', 'Alam', 'Alam', 'Bogor memiliki banyak sekali lokasi Curug atau air terjun dengan ciri khas dan keindahan yang berbeda. Kali ini saya akan mengulas mengenai Curug Mariuk.
+Iya, namanya memang terdengar aneh dan sangat asing. Karena memang Curug Mariuk masih belum banyak dikunjungi. Namun menyimpan keindahan yang luar biasa. Curug Mariuk ini pernah dikunjungi artis cantik Aurelie Moeremans loh.
+Trekking Menuju Curug Mariuk
+Setelah kamu memarkirkan kendaraan di area yang sudah disediakan, kamu harus melanjutkan perjalanan dengan berjalan kaki. Oh iya, jika kamu ingin mengunjungi Curug Mariuk lebih baik menggunakan kendaran bermotor saja.
+Karena kamu akan melalui tanjakan yang berbatu dan sangat tidak mudah untuk dilalui. Kalau menggunakan mobil cukup berbahaya dan tidak savety, karena jalurnya sangat sempit dan tidak terlalu mulus. Trekking yang akan kamu lalui kurang lebih memakan waktu sekitar 20-30 menit tergantung pada kondisi fisik kamu. Karena trekking yang akan kamu lalui cukup menguras tenaga.
+Dihiasi batu-batu yang cukup lumayan membuat kaki kamu pegal. Namun pemandangan yang tersaji merupakan hamparan keindahan yang menyejukkan. Semakin mendekati area Curug Mariuk kamu akan semakin mendengar deburan air terjunnya.
+Pada saat di perjalanan menuju Curug Mariuk kamu akan bertemu sebuah persimpangan yang menunjukkan Curug Mariuk dan Curug romantis.
+Pesona Keindahan Curug Mariuk
+Curug Mariuk memiliki keindahan alam yang luar biasa, meskipun air yang mengalir di Curug Mariuk tidak terlalu tinggi namun airnya sangat jernih dan bersih.
+Curug Mariuk berada di Perbukitan Masigit, maka tak heran jika udara yang kamu rasakan sangat sejuk dan asri. Terlebih curug ini belum banyak dikunjungi para wisatawan.
+Ya, Curug Mariuk belum banyak dikunjungi para wisatawan, jadi kamu bisa menenangkan diri dan merefresh tenaga untuk kembali beraktifitas dikemudian hari.
+Di sekitar area Curug Mariuk sendiri belum ada tempat penyewaan pelampung, maka kamu harus membawanya sendiri.
+Ragam wisata yang dapat kamu nikmati saat berada di Curug Mariuk antara lain:
+Berenang
+Lompat Dari Ketinggian
+Spot Selfie
+Lokasi Dan Alamat Curug Mariuk
+Lokasi Curug Mariuk berada di Bogor, tak jauh dari Curug Hordeng. Tepatnya berada di Desa Sukamulya, Kecamatan Sukamakmur, Kab Bogor, Jawa Barat.
+Fasilitas Curug Mariuk
+Meskipun berada di lokasi yang sulit dituju, fasilitas yang tersedia di Curug Mariuk sudah dibilang lengkap. Kamu ngga perlu khawatir perutmu keroncongan, karena ada warung-warung makanan berderet di atas Curug Mariuk.
+Namun jika kamu datangnya disaat weekday, banyak warung yang tutup.  Jadi baiknya kamu membawa perbekalan makanan dan minuman sendiri. Selain itu kamar mandi pun tersedia di area Curug Cileat.
+Jam operasional Curug Mariuk
+Jam operasional Curug Mariuk dibuka selama 24 jam dari hari Senin sampai dengan hari Minggu.
+Tiket Curug Mariuk
+Untuk menikmati keindahan Curug Mariuk kamu harus membayarkan uang sebesar Rp. 35.000,- per motor untuk dua orang. Itu sudah termasuk tiket parkir.
+Instagram
+https://www.instagram.com/curugmariukofficial/
+Sumber
+https://www.nativeindonesia.com/curug-mariuk/
+Article Tags: Kabupaten Bogor · Sukamakmur
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/06/21-250x250.jpg', null, 17, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (103, 'Wisata Kebun Pasir Mukti', 'Alam', 'Alam', 'Kebun Wisata Pasir Mukti Bogor bisa menjadi pilihan tempat wisata yang tidak jauh dari kota Jakarta. Sangat cocok sebagai taman rekreasi untuk keluarga yang membawa anak-anak. Menawarkan konsep edupark, selain bermain anak-anak juga bisa belajar.
+Terlihat dari berbagai wahana dan aktivitas yang disediakan taman rekreasi ini. Aktivitas seperti membajak sawah, menanam padi, dan aktivitas lain terkait alam dan lingkungan. Hal ini sengaja dikembangkan obyek wisata ini menambah wawasan lingkungan bagi anak maupun orang dewasa.
+Aktivitas Di Kebun Wisata Pasir Mukti
+Karena mengusung tema kebun yang mengedukasi, tempat wisata ini memiliki wahana-wahana bermain plus wahana edukasi tetapi tetap sambil bermain. Untuk pengunjung yang datang secara rombongan dan ingin menikmati semua wahana yang ada.
+Pihak pengelola menyediakan dua paket utama. Yaitu Paket Agropintar dan Agrojunior. Selain dua paket utama tersebut masih ada juga paket Anak tani, Paket Kemping dan Agro adventure.  Penasaran apa saja wahana nya? Silahkan cek beberapa wahana berikut.
+1. Kolam Lumpur
+Kalau aktivitas yang ini dijamin seru dan berlumpur. Pengunjung bisa bermain pada kolam lumpur atau bermain perang bantal diatas bambu di kolam lumpur. Jika ingin bermain disini pastikan membawa baju ganti, Karena pasti pulang-pulang akan penuh lumpur.
+2. Memancing Ikan
+Kalau wahana yang satu ini pengunjung akan berinteraksi dengan ikan-ikan kecil untuk ditangkap. Tentu ikan hasil tangkapannya boleh dibawa pulang. Metode untuk menangkap ikan disini ada beragam. Mulai dari memancing dengan alat pancing biasa. Atau, menggunakan jaring ketika menangkap ikannya.
+3. Melukis Caping
+Wahana yang ini benar-benar mengedukasi pengunjungnya bagaimana melakukan aktivitas di sawah sebelum menanam padi. Jika melakukan aktivitas ini pengunjung akan diajak untuk langsung terlibat untuk melukis diatas media berupa caping. Topi yang biasa digunakan ketika beraktivitas di sawah.
+4.Bajak Sawah
+Kalau wahana yang satu ini, pengunjung akan berinteraksi bukan hanya dengan alam tetapi dengan hewan. Aktivitas bajak sawah biasanya dilakukan dengan bantuan hewan seperti kerbau. Biasanya pengunjung akan dibantu membajak sawah oleh kerbau dengan menaikinya.
+Sayangnya, aktivitas ini hanya rutin dilaksanakan pada akhir pekan atau ketika pengunjung datang secara rombongan. Jadi kalau berkunjung bersama keluarga pada hari biasa kemungkinan tidak mendapat kesempatan melakukan aktivitas ini.
+5.Menanam Padi
+Aktivitas yang satu ini pengunjung akan diajak untuk menanam padi di ladang sawah yang sebenarnya. Pengunjung akan melakukan aktivitas ini secara bersama-sama layaknya para petani ketika menanami sawahnya dengan padi. Nantinya, pengunjung akan diberikan bibit padi kemudian dibariskan untuk menanam padi tersebut secara bersama-sama.
+Penginapan Di Kebun Wisata Pasir Mukti
+Selain fasilitas yang lengkap berupa tempat penginapan, fasilitas ibadah, parkir dan restoran. Pengunjung juga dapat melakukan aktivitas berupa camping di Kebun Wisata Pasir Mukti ini. Walaupun tidak langsung tinggal di alam terbuka, camping di area ini bisa menjadi pengalaman yang menyenangkan dan mengedukasi pengunjungnya.
+Alamat
+JL. Alfred Turangan, Pasir Mukti, Kec. Citeureup, Kabupaten Bogor, Jawa Barat 16811
+Fasilitas
+Sudah lelah beraktivitas disini tetapi belum puas dan masih betah? Jangan khawatir, lokasi wisata ini juga menyediakan cottage untuk menginap. Tentu dengan pemandangan dan suasana alam yang asri disini. Pasti membuat pengunjungnya betah berlama-lama bahkan enggan untuk pulang.
+Lokasi parkir, toilet dan mushola tersedia lengkap disini. Bagaimana kalau lapar? Tenang, lokasi wisata ini juga bekerja sama dengan masyarakat sekitar untuk menyediakan makanan-makanan terbaik di restoran mereka. Mulai dari camilan hingga makanan berat ketika pengunjung lapar tersedia lengkap disini.
+Jam operasional
+Pukul 08:00-16:00
+Harga tiket
+Rp.25.000
+Telepon
+021-87943864
+081311188606
+Sumber
+https://travelspromo.com/htm-wisata/kebun-wisata-pasir-mukti/
+Article Tags: Citeureup · Kabupaten Bogor
+Article Categories: Agrowisata · Alam · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-36/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/06/das-250x250.jpg', null, 31, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (104, 'Taman Wisata Sigantang', 'Alam', 'Alam', 'Taman Wisata Sigantang | Kabupaten Bogor merupakan sebuah wilayah yang sangat kaya akan tempat wisata alam yang menyajikan pemandangan alam nan sejuk dan damai. Tidak heran jika sangat banyak masyarakat yang berasal dari Bandung, Bekasi, Jakarta, dan sekitarnya mendatangi kawasan ini untuk berlibur.
+Daya tarik
+Terdapat beberapa hal yang menjadi daya tarik utama dari tempat wisata alam ini, yaitu:
+1) Pemandangan Alam Indah dan Asri
+Wilayah yang ada di dalam lokasi wisata ini ditumbuhi dengan pepohonan yang sangat rindang dan menjulang tinggi. Hal ini menjadikan udara disekitarnya menjadi sangat sejuk dan bersih. Jika anda mencari tempat wisata dengan kesejukan udara dan pemandangan alam yang indah, maka tempat ini adalah jawabannya.
+Tempat wisata ini tergolong sangat dekat untuk anda yang berada di kawasan Jakarta, Depok, Tangerang, dan juga Bekasi. Tempat ini sangat direkomendasikan untuk anda yang ingin menikmati kesejukan dan kejernihan udara khas hutan asri.
+2) Udara Sejuk dan Bersih
+Tempat wisata ini terkenal dengan sajian udaranya yang sangat sejuk dan bersih khas hutan dengan pepohonan yang sangat tinggi. Jika anda mencari tempat untuk menenangkan diri dari kesibukan kantor dan pekerjaan lainnya, anda bisa mendapatkannya di tempat wisata ini.
+Jika anda tinggal di wilayah perkotaan yang sangat padat penduduk dan dengan polusi udara yang sangat tinggi, maka berwisata ke tempat ini merupakan sesuatu yang perlu anda lakukan pada waktu liburan anda. Akan lebih baik lagi jika anda datang bersama keluarga, karena tempat ini juga sangat bagus untuk menjadi tujuan wisata keluarga anda.
+3) Tenang dan Damai
+Suasana sekitar tempat ini terkenal juga sangat tenang dan damai khas hutan yang sangat cocok untuk refreshing dan menenangkan pikiran. Tempat ini sangat cocok untuk anda datangi saat anda butuh ketenangan pikiran dan kedamaian perasaan.
+Untuk anda yang beraktivitas tinggi dengan kesibukan yang sangat padat pada hari-hari kerja, anda bisa melakukan refreshing di tempat ini. Sejenak anda akan merasakan sensasi sejuk,tenang, dan damai yang sangat jauh dari bisingnya perkotaan di wilayah ini.
+Lokasi
+Kampung Nambo lebak Rt 14/7, Desa Nambo induk, Nambo, Kec. Klapanunggal, Kabupaten Bogor, Jawa Barat 16710
+Fasilitas
+ Ada sangat banyak fasilitas yang ada di tempat ini, misalnya yaitu warung jajanan, pondok atau saung lesehan, gazebo, dan juga spot foto menarik.
+Selain itu, terdapat juga fasilitas umum seperti kamar mandi dan toilet, serta parkiran untuk kendaraan.
+Harga tiket
+Rp.5.000
+Jam operasional
+Tempat wisata ini terbuka setiap harinya pada pukul 09.00 WIB hingga pukul 17.00 WIB.
+Instagram
+@tamanwisatasigantang
+@taman_wisata_sigantang
+Sumber
+https://www.wisatakemanabesok.com/2023/01/taman-wisata-sigantang.html
+Article Tags: Kabupaten Bogor · Klapanunggal
+Article Categories: Alam · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-35/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/06/66-250x250.png', null, 28, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (105, 'Curug Ciparay', 'Alam', 'Alam', 'Curug Ciparay Muara Herang merupakan air terjun asli dengan ketinggian 72 meter di kaki Gunung Salak. Air yang mengalir deras dari tebing setinggi 50 meter menciptakan pemandangan yang sangat menakjubkan di tempat ini. Suasana di sekitarnya pun masih sangat asri, dipenuhi oleh batu-batu besar dan tumbuhan liar.
+   Pada musim kemarau, volume air terjun berkurang sehingga bebatuan tinggi yang dilalui air akan terlihat jelas lekukannya. Selain air terjun, di sini juga ada sungai dengan aliran air yang cukup deras. Menariknya, air sungai masih sangat jernih hingga bagian dasarnya terlihat jelas dari permukaan.
+   Seakan belum cukup, Anda juga akan dimanjakan oleh sebuah telaga di dekat curug. Telaga ini dihiasi air bernuansa biru kehijauan, sementara di bagian yang datar air cenderung berwarna merah kecoklatan. Yang tidak kalah menarik dari petualangan di Curug Ciparay Muara Herang adalah perjalanan untuk sampai ke air terjun.
+Diperlukan sedikit perjuangan jika ingin menyaksikan keindahan air terjun ini. Namun tentu saja hal itu tidak menyurutkan minat pada pengunjung untuk datang.
+Lokasi dan Rute
+Curug Ciparay Muara Herang terletak di Desa Ciasihan, Kecamatan Pamijahan, Kabupaten Bogor. Dari pusat kota, jaraknya sekitar 38 kilometer atau setara dengan 1 jam 30 menit perjalanan. Karena curug ini merupakan tempat wisata alam asli, maka butuh sedikit perjuangan untuk mencapainya.
+Pengunjung akan diajak melewati persawahan, perkebunan sayur, dan hutan agroforestry yang berada dalam satu area. Perjalanan ini memakan waktu 15 menit dari pos gerbang tiket, melewati lintasan dengan kemiringan 20 sampai 60 meter. Setelah itu, pengunjung harus melalui jalan setapak untuk bisa mencapai curug. Jalanan ini tidak bisa dilalui kendaraan, sehingga pilihan satu-satunya adalah dengan trekking. 
+Fasilitas
+kamar mandi, musholla, tempat parkir yang luas, serta penginapan di sekitar rumah warga jika Anda ingin bermalam di sana.
+Tiket Masuk dan Jam Buka
+Pertama adalah tiket masuk ke trek menuju curug seharga Rp 15 ribu. Kemudian tiket untuk masuk ke area curug seharga Rp 10 ribu per orang. Jika Anda membawa kendaraan pribadi, akan ada biaya parkir yang harus dibayar.
+Kawasan wisata ini buka setiap hari mulai jam 7 pagi sampai 4 empat sore. Di akhir pekan, jam operasionalnya ditambah 30 menit.
+Telepon
+0857-7310-7428
+Sumber
+https://lapisbogor.co.id/artikel/curug-ciparay-muara-herang-tiket-masuk-daya-tarik-jam-buka/
+Article Tags: Kabupaten Bogor · Pamijahan
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-34/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/06/v-250x250.png', null, 20, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (106, 'Curug Panjang Megamendung', 'Alam', 'Alam', 'Curug panjang merupakan salah satu curug yang berada di Kabupaten Bogor, Curug ini memiliki banyak pesona yang mengaggumkan sehingga memikat para wisatawan untuk datang ke tempat ini. Curug ini tergolong unik dan berbeda dibandingkan dengan curug lainnya. Curug ini mengalir secara memanjang dan pada hilir curug menggenang sebuah kolam sebagai tempat penampungan airnya. Hal tersebutlah yang menyebabkan curug ini di namai dengan nama Curug Panjang.
+Tumpahan air terjun ini rupanya membentuk kolam yang cukup indah. Dimana, nampak warna tosca pada bagian tengah kolam. Sementara pada bagian pinggir memiliki warna jernih. Bahkan, para pengunjung dapat melihat apa yang ada dibawah pinggir kolam tersebut.
+Suasana Curug Panjang
+Curug ini memiliki suasana yang tenang, asri, sejuk, dan nyaman sehingga tempat wisata ini cocok dijadikan sebagai tempat merenung ataupu melepaskan penat setelah melakukan rutinitas sehari-hari.
+Fasilitas Curug Panjang
+Banyak aktivitas yang dapat dilakukan di air terjun ini, seperti berenang, merendam kaki ataupun menyelami dasar curug. Namun, penting untuk selalu berhati-hati karena curug cenderung cukup dalam.
+Bagi pengunjung yang tidak bisa berenang, telah disediakan beberapa tempat penyewaan pelampung. Jadi, tidak perlu khawatir atau takut tenggelam saat menghabiskan waktu di tempat ini.
+Untuk pengunjung yang sudah lelah bermain air, dapat melengkapi wisata dengan mencoba aneka kuliner yang tersaji. Karena di sekitar perjalanan menuju air terjun, telah disediakan warung-warung tempat makan ataupun sekedar minum kopi.
+Bila ingin menginap, pihak pengelola pun menyediakan beberapa villa ataupun tempat untuk berkemah. Jadi, fasilitas yang ada ditempat ini sudah tergolong mumpuni untuk dijadikan tempat berwisata bersama keluarga.
+Lokasi dan Rute
+Lokasi dari tempat wisata ini adalah Desa Citamiang, Kecamatan Mega Mendung, Kabupaten Bogor, Jawa Barat, Indonesia, 16770.
+Bagi pengunjung yang berasal dari Jakarta, Depok dan sekitarnya, diharapkan mengambil arah ke Kabupaten Bogor. Setelahnya, pengunjung masih harus menempuh 1,5 jam perjalanan untuk menuju Curug Panjang.
+Pilihlah rute menuju Mega Mendung, setelahnya pengunjung akan menemukan jalan yang sempit dan berbatu. Hingga akhirnya mencapai gapura selamat datang di Curug Panjang. Jika kesulitan, jangan ragu menggunakan layanan dari google maps untuk membantu.
+Harga Tiket Masuk
+Karena sudah dikelola oleh pemerintah dengan baik, maka harga tiket untuk wisatawan mancanegara dan domestik berbeda.
+Dimana, harga tiket untuk wisatawan mancanegara adalah Rp 50.000/orang. Sedangkan untuk wisatawan domestik adalah Rp 10.000/orang. Biaya ini belum termasuk biaya parkir kendaraan.
+Sumber
+https://www.pinhome.id/info-area/curug-panjang-bogor/
+Article Tags: Kabupaten Bogor · Megamendung
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-33/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/06/w-250x250.jpg', null, 20, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (107, 'Kebun Raya Cibinong', 'Alam', 'Alam', 'Bogor dikenal sebagai salah satu tempat di Indonesia yang memiliki banyak wisata. Tempat wisata di Bogor ini pun beragam ada taman kota, curug, hingga museum. Salah satu wisata di Bogor yang terkenal yaitu Kebun Raya Cibinong tak kalah populer dengan Kebun Raya Bogor.
+Kebun Raya Cibinong adalah salah satu wisata edukasi yang berada di Kompleks Cibinong Science Center – Botanical Garden di Kabupaten Bogor, Jawa Barat. Ini merupakan pusat konservasi flora yang memiliki beragam tanaman dari banyak tempat di Indonesia. Tempat ini juga dilengkapi dengan sarana rekreasi yang bisa dinikmati oleh masyarakat umum.
+Kebun raya ini memiliki sekitar 1.147 spesies tanaman yang terdiri dari 86 famili, 328 marga, dan 733 jenis tanaman. Selain wisata edukasi, pengunjung dapat menikmati pemandangan danau buatan yang diberi nama Danau Dora. Pada area ini, terdapat tanaman air dengan bunga berwarna putih dan bentuk bintang. Danau Dora ini memiliki panjang 700 meter ke arah utara dengan lebar antara 10-50 meter. Selain Danau Dora, terdapat juga Danau Walini yang debit airnya cukup melimpah. Selain itu, di kebun raya ini terdapat mata air.
+Kebun Raya Cibinong berada di kawasan Cibinong Science Center BRIN, tepatnya di Jalan Raya Bogor KM 46, Kabupaten Bogor, Jawa Barat. Untuk dapat sampai ke tempat ini, pengunjung dapat naik kendaraan roda dua maupun empat. Untuk pengunjung yang menggunakan motor dan datang dari arah Jakarta, ikuti saja Jalan Raya Jakarta-Bogor hingga Cibinong City Mall. Kemudian, lurus dan ikuti lagi Jalan Raya Jakarta-Bogor, sampai ke Komplek LIPI. Sementara, jika pengunjung datang dari arah Bogor, maka ikuti Jalan Raya Jakarat-Bogor sampai lampu merah Sentul. Kemudian, akan tiba di lampu merah LIPI.
+Jika pengunjung menggunakan roda empat dapat melalui jalur Tol Jagorawi. Selanjutnya, keluar di pintu tol Cibinong lalu ambil ke arah Jalan Mayar Oking sampai tiba di Jalan Raya Jakarta-Bogor. Selanjutnya cukup ikuti arah seperti naik sepeda motor.
+Alamat
+ Jl. Raya Jakarta-Bogor No.Km. 46, Cibinong, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16911
+Fasilitas
+Lahan parkir
+Toilet
+bangku taman
+musala
+Harga tiket
+Harga tiket masuk ke Kebun Raya Cibinong terbilang terjangkau. Pada hari biasa, kamu cukup membayar Rp15.000 saja. Sementara, pada akhir pekan, kamu perlu mengeluarkan uang lebih banyak, sekitar Rp25.0000. Selain biaya masuk ini, sebaiknya siapkan pula ongkor parkir Rp5.000
+Jam operasional
+Kebun Raya Cibinong buka setiap hari dengan waktu kunjungan yang dibatasi, yakni pada pukul 07.00-17.00 WIB.
+Instagram
+kebunrayacibinongofficial
+Sumber
+https://www.pinhome.id/info-area/kebun-raya-cibinong/
+Article Tags: Cibinong · Kabupaten Bogor
+Article Categories: Alam · Danau & Situ · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-19/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/05/09-250x250.jpg', null, 31, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (108, 'Curug Leuwi Lieuk, Bogor', 'Alam', 'Alam', 'Curug Leuwi Lieuk adalah destinasi wisata alam yang recommended untuk dikunjungi oleh para traveler. Lokasinya terletak di kawasan Sentul Bogor.Dalam satu kawasan terdapat dua lokasi wisata, yaitu Curug Leuwi Lieuk serta Curug Leuwi Hejo, dan lokasinya juga berdekatan dengan objek wisata lain.
+Tracking Atau Jalur Menuju Curug Leuwi Lieuk
+Tracking atau jalur menuju Curug Leuwi Lieuk masih berupa tanah dan sebagian sudah berupa tangga. Namun masih belum banyak pagar pembatas atau pagar keamanan. Jarak dari pos pertama sekitar 500 meter, dengan jalur yang menanjak dan berkelok. Sehingga menuntut para pengunjung yang datang ke lokasi tersebut dalam kondisi prima. Berdasarkan hal tersebut, wajar saja jika tersedia tempat penjualan atau penyewaan tongkat. Karena akan menyusuri jalur yang menanjak, berkelok, dan turunan, maka tongkat adalah alat untuk mempermudah tracking. Perjalanan pertama dilalui dengan jalur yang menanjak. Dan di setiap jalur sudah tersedia banyak warung untuk melepas dahaga para traveler.
+Sebagian jalan sudah berupa tangga, namun bukan tangga berbentuk plesteran atau tembok. Dan kondisinya masih berupa tanah. Di sisi kanan masih berupa jurang, dan kebanyakan masih belum terdapat pagar pembatas. Jadi, untuk melewati jalan menuju curug ini diharapkan untuk berhati-hati.
+Pesona Keindahan Di Curug Leuwi Lieuk
+Pesona keindahan curug ini terletak di keindahan airnya yang menyerupai Green Canyon Pangandaran, sehingga lokasi ini selalu ramai dikunjungi wisatawan. Curug Leuwi Lieuk berbeda dengan curug, coban, atau air terjun lainnya yang memiliki ketinggian serta arus yang kuat, serta kondisi aliran air Curug Leuwi Lieuk tidak deras. Curug Leuwi Lieuk memiliki kondisi air terjun yang tidak tinggi dan tersembunyi di balik bebatuan atau tebing. Sehingga pengunjung yang baru pertama kali datang tidak akan menyangka di lokasi tersebut terdapat air terjun. Selain itu, pesona keindahan lainnya yaitu airnya yang jernih, agak kehijau-hijauan serta dikelilingi tebing yang tidak terlalu tinggi sehingga menyajikan suasana yang nyaman dan rindang.
+Kedalaman Curug Leuwi Lieuk berbeda beda. Di lokasi yang jauh dari tebing tidak terlalu dalam sehingga anak-anak dapat bermain air di tempat itu. Sedangkan, kedalaman Curug Leuwi Lieuk di tengah-tengah tebing yaitu sekitar 4 meter. Bagi wisatawan yang sudah bisa berenang, lokasi Curug Leuwi Lieuk menjadi spot yang sangat memanjakan. Cliff Jumping dari atas tebing adalah puncak keseruan saat berada di curug ini.
+Tips Wisata Menuju Curug Leuwi Lieuk
+Bagi yang mempunyai rencana menghabiskan waktu liburan di Curug Leuwi Lieuk, maka berikut merupakan tips wisatanya :
+Berwisata ke sana sebaiknya di saat cuaca sedang cerah, karena saat musim hujan jalurnya akan licin, dan debit airnya menjadi tinggi.
+Gunakan alas kaki yang tepat digunakan menyusuri tanah dan bebatuan.
+Membawa baju ganti
+Pastikan kondisi tubuh kalian sedang dalam kondisi prima.
+Jangan merusak lingkungan sekitar, dan jangan membuang sampah sebarangan.
+Selalu patuhi protokol keamanan dan kesehatan yang telah ditetapkan oleh pemerintah dan pihak pengelola.
+Lokasi curug leuwi lieuk
+Lokasi dan alamat Curug Leuwi Lieuk berada di Jalan Gunungwangun, Kampung Cibeureum, Desa Cibadak, Kecamatan Sukamakmur, Kabupaten Bogor, Provinsi Jawa Barat- Indonesia.
+Fasitlitas curug leuwi lieuk
+Area parkir kendaraan wisata.
+Warung wisata.
+Gazebo.
+Spot foto instagenic.
+Camping ground.
+Toilet & Kamar mandi.
+Harga tiket masuk curug leuwi lieuk
+Rp 15.000- Rp25.000
+Jam operasional
+Weekday 07.00-1500
+Weekend 07.00-17.00
+Sumber
+https://www.nativeindonesia.com/curug-leuwi-lieuk/
+Article Tags: cibadak · cibereum · Kabupaten Bogor · Sukamakmur
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-17/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/05/777-250x250.jpg', null, 30, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (109, 'Curug Goa Lumut Endah', 'Alam', 'Alam', 'Curug Goa Lumut adalah salah satu objek wisata di Gunung Bunder, TNGHS. Pesona curug ini terletak pada keunikan air terjun yang berkeliling tebing batu berlumut. Di samping itu, aksesnya sangat mudah jika dibandingkan dengan curug lainnya. Tidak butuh trekking berlama-lama kemari, sehingga objek wisata ini cocok untuk semua kalangan usia.
+Selain memiliki panorama yang indah, Curug Goa Lumut Endah juga menawarkan kesegaran air yang menggoda. Air yang jatuh akan membentuk kolam alami di bawahnya yang bertepikan bebatuan. Kolam ini begitu jernih dan akan berwarna hijau kebiruan saat terkena ainar matahari. Beningnya air kolam ini bahkan bisa membuatmu melihat bebatuan di dasarnya.
+Alamat: Jl. Curug Cigamea, Gn. Sari, Kec. Pamijahan, Kabupaten Bogor, Jawa Barat 16810
+Fasilitas
+area parkir
+toilet
+musala
+camping ground
+warung-warung makan.
+Harga tiket
+Tiket masuk 10.000/orang
+Parkir motor 5.000
+Parkir mobil 10.000
+     Jam
+Hari biasa 06:00-17:00
+Hari libur 07:00-17:00
+Telepon: 0821-3527-8035
+Sumber
+https://travelspromo.com/htm-wisata/curug-goa-lumut-bogor
+Article Tags: Kabupaten Bogor · Pamijahan
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-12/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/05/22-250x250.jpg', null, 16, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (110, 'Curug Jengkol', 'Alam', 'Alam', 'Curug jengkol berada di Desa Cileuksa Kecamatan Sukajaya Kabupaten Bogor. curug ini berbatasan langsung dengan Lebak-Banten. Curug Jengkol ini jarang sekali banyak yang mengatahui karena jalur yang kurang begitu baik.
+Jelajahilah wisata alam yang belum ramai dikunjungi.
+@ramonsidik
+@kamana_ih
+Dalam perjalanan menuju Curug Jengkol kita akan di manjakan dengan suasana alam yang asri dan juga udara sejuk, namun sesekali kita harus menyuri sungai dari aliran Curug Jengkol dan jalan sedikit licin. Curug Jengkol ini berdekatan dengan Curug Peuteuy dan Curug Lobang hanya saja medan yang berbeda.
+Sumber Yutube :Rafiki Umar
+Lokasi
+Kampung Ciparengpeng, Desa Cileksa, kecamatan sukajaya, Kabupaten Bogor
+Fasilitas
+Fasilitas yang tersedia di Curug Jengkol hanya tempat bermain air saja
+Tiket Masuk
+Untuk tiket masuk saat ini mash geratis dikarnakan tidak adanya pengelola
+Jam Operasional
+Buka setiap hari 24 jam
+Sumber
+https://sukajayaweb.wordpress.com/2016/10/27/curug-jengkol-cileuksa/
+Article Tags: Sukajaya
+Article Categories: Air Terjun · Alam · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-jengkol/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/Cuplikan-layar-2022-10-13-080917-250x250.png', null, 19, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (111, 'Curug Leuwi Asih', 'Alam', 'Alam', 'Curug Leuwi Asih Sentul menjadi salah satu destinasi wisata menarik yang rekomended untuk traveler saat liburan ke Bogor. Ketika anda hendak liburan ke Bogor, nikmati aktivitas seru dengan explore keindahan alam Curug Leuwi Asih bersama keluarga. Ragam spot dan keindahan alam akan menghipnotis siapa saja yang datang explore pesona terbaik dari Air terjun Leuwi Asih.
+google map/Danih Rocky
+Air terjun ini terkenal dengan sungainya yang lebar dan memiliki kolam alami ramah anak. Selain itu kawasannya juga populer sebagai destinasi trekking Sentul yang menantang. Bagi yang menyukai aktivitas trekking, wisata ke curug ini bisa menjadi pilihan.
+google map/Danih Rocky
+google map/ Yan Alfi Tupen
+google map/Danih Rocky
+Lokasi
+Jl. Kp. Wangun landeuh, Karang Tengah, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Area Parkir Mobil Maupun Motor
+Warung – warung Makan & Minum
+Kamar Mandi Umum
+Mushola
+Tiket Masuk
+Tiket masuk lokasi : Rp20.000
+Jam Operasional
+Senin – Minggu Pukul 08.00 WIB – 17.00 WIB
+Sumber
+https://travelspromo.com/htm-wisata/curug-leuwi-asih-bogor/
+Article Tags: Babakan Madang
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-leuwi-asih/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/2022-07-26-min-250x250.jpg', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (112, 'Air Terjun Curug Kawung', 'Alam', 'Alam', 'curug kawung termasuk dalam tempat wisata yang begitu indah dan sejuk,jalan yang di lewati masih sangat natural dengan bebatuan di setiap sisinya. anda yang ingin naik sebaiknya hati-hati karena jalan licin banyak lumut yang menempel. tapi usaha anda akan terbayarkan sesudah sampai di tujuan.
+google map/ Indrawan Saputra
+Diberi nama Kawung karena bila musim hujan tiba, saat debit air tinggi, sentuhan air dan bebatuan itu akan mengeluarkan suara wung wung. Jadi Kawung. Tinggi curug ini sekitar 25 m. Airnya pun lebih cenderung mengalir di bebatuan. Saat menikmatinya, ada mitos yang menyarankan kita mencuci muka dan meminum airnya.
+google map/Bella Chintya 1820seratustiga
+google map/ Agus Pakih Setiawan
+google map/ Jem Sentiago
+Lokasi
+Sukajadi, Kec. Tamansari, Kabupaten Bogor, Jawa Barat 16370
+Jam operasional
+senin – minggu          08.00 – 17.00
+Harga tiket masuk
+per orang Rp5.000
+kendaraan Rp5.000
+Sumber
+https://catatanpringadi.com/tiga-curug-di-bogor-curug-nangka-curug-daun-dan-curug-kawung/
+Article Tags: Tamansari
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/air-terjun-curug-kawung/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/2021-01-02-min-1-250x250.jpg', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (113, 'Taman Sampora Legok', 'Alam', 'Alam', 'Bagi Anda yang ingin mencari tempat wisata yang sangat dekat dengan ibu kota, Taman Sampora Legok di Cibinong bisa menjadi pilihan. dengan Konsep nuansa pedesaan yang masih asri diusung menjadi konsep unggulan Taman Sempora Legok untuk tujuan kenyamanan bagi pengunjung. Keindahan Taman Sampora Legok dapat dirasakan dari pemandangan alam disekitar yang luar biasa karena masih banyaknya pesawahan yang sudah jarang ditemukan di pusat Kabupaten Bogor.
+google map/Heru Bakmal
+Taman Sampora juga memiliki kekhasan tersendiri yang membuat tempat wisata ini berbeda dari yang lain. Bedanya, taman ini banyak menggunakan barang bekas yang juga menghiasi tempat wisata unik ini.
+google map/Eva Lestari
+google map/ Trianto Alfarisi
+google map/Abdul Rohmat
+Jam Operasional
+senin-minggu 06:00-18:00
+Tiket Masuk
+per orang Rp3.000
+Lokasi
+Lingkungan Sampora, RT.03/RW.03, Cibinong, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16912
+Instagram
+Sumber
+https://wartakota.tribunnews.com/2020/11/05/taman-sampora-legok-cibinong-kabupaten-bogor-tawarkan-keindahan-alam-yang-asri
+https://bogordaily.net/2022/09/taman-sampora-legok-wisata-pedesaan-yang-unik-di-cibinong/
+Article Tags: Cibinong
+Article Categories: Agrowisata · Alam · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/taman-sampora-legok/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/2021-02-10-min-250x250.jpg', null, 18, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (114, 'Teras Gadog', 'Alam', 'Alam', 'Teras Gadog adalah sebuah restoran yang suasanya nya sangat baik dan nyaman dikunjungi, sangat bagus untuk menghilangkan penat, stress dengan dijamu makanan dan minuman yang diolah cukup baik.
+Sumber Gambar: google map/leo kim
+Tempat yang didekorasi sangat baik dengan pendopo utama yang cukup besar dan opsi tempat makan lainnya (cafe, pinggir sungai, kebun). Suasana kebun, taman, dan sungai benar benar memrelaksasi hari anda. Parkiran cukup luas serta akses jalan yang tidak terlalu sulit.
+Sumber Gambar: google map/chandra kartika
+Staffnya cekatan dan helpful, mereka cepat merespon saat dipanggil utk memesan atau menambah pesanan walaupun naik turun. Masukan utk para staff mgkn pengunjung bisa diarahkan menunya utk mencoba makamam yg rekomen
+Sumber Gambar: google map/pauline taruwijaya
+Tempatnya bagus buat acara makan2 kantor dan keluarga
+Sumber Video: youtube/jeJo family
+Lokasi
+Jl. Cikopo Sel. No.19A, Sukamanah, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770
+Harga
+Sumber Gambar: instagram/terasgadog
+Sumber Gambar: instagram/terasgadog
+Sumber Gambar: instagram/terasgadog
+Sumber Gambar: instagram/terasgadog
+Fasilitas
+Semi outdoor & outdoor seating
+Gazebo & Joglo
+Garden
+Mushola
+Area Parkir
+Toilet
+Spot Foto
+Sarana protokol kesehatan
+Dan beberapa fasilitas lainnya.
+Kontak
+No Telp: (0251) 8262189
+No Telp 2: 0857-1645-0181
+Jam Operasional
+Senin – Kamis: 10.00 – 20.00 Wib
+Jumat: 10.00 – 21.00 Wib
+Sabtu – Minggu: 08.00 – 21.00 Wib
+Social Media
+Instagram
+Facebook
+Source
+https://www.instagram.com/terasgadog/
+https://madhang.com/teras-gadog-bogor/
+Article Tags: Megamendung
+Article Categories: Alam · Cafe & Resto · Kuliner', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/teras-gadog/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/google-map_teras-gadog-min-250x250.png', null, 20, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (115, 'Kampung Kuliner Kali Cibarengkok', 'Alam', 'Alam', 'Baru-baru ini di Bogor diramaikan dengan salah satu tempat kulineran yang menarik, namanya Kampung Kuliner Kali Cibarengkok
+Foto Instagram : @ibuawaliyah8080
+Kampung Kuliner Kali Cibarengkok ini viral karena Menteri Pariwisata yaitu Bapak Sadiaga Uno pernah berkunjung ke tempat ini dan juga ikut mempromosikan karena mengusung pariwisata berkelanjutan, berbasis masyarakat dan kelestarian alam.
+Foto : maps.com
+Sesuai dengan namanya, terdapat sungai dengan nama Cibarengkok ini dimanfaatkan sebagai ikon utama wisata tersebut. Jernih dan segarnya air sungai ini menjadi daya tarik utama para wisatawan yang ingin menceburkan diri ke aliran sungai.
+Selain itu disini juga menyediakan beberapa tempat foto yang sangat instagramable. Spot foto itu diantaranya jembatan kayu, payung yang menggantung, taman dengan lampu yang indah. Bahkan disini para wisatawan disuguhkan wahana menarik yaitu perahu dayung dan sewa sepeda untuk berkeliling sekitar tempat wisata ini.
+Foto : travelingyuk.com
+Nah sebagai tujuan kuliner, Wisata Kuliner Kali Cibarengkok ini menyuguhkan beberapa saung yang mengarah ke sungai sembari menikmati kulineran yang telah di sediakan ditempat ini.
+Tiket Masuk
+Menariknya ditempat wisata ini tidak dikenakan biaya tiket masuk sepeserpun namun hanya perlu membayar biaya parkir.
+Tiket Parkir
+Mobil Motor
+Rp.5.000.- Rp.2.000.-
+Jam Operasional
+08.00-18.00
+Alamat
+Kp. Cibarengkok Rt.04/02, desa, Cipeucang, Kabupaten Bogor, Jawa Barat 16820
+Article Categories: Alam · Kuliner · Makanan Khas · Produk Olahan · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kampung-kuliner-kali-cibarengkok/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/cibarengkok-250x250.jpg', null, 16, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (116, 'Bukit Sella Bogor', 'Alam', 'Alam', 'Bukit Sella Bogor merupakan destinasi alam yang berada di Kabupaten Bogor. Tempat ini masih belum banyak yang mengetahuinya, biasanya hanya pesepeda yang kesana, tempat ini sangat cocok untuk anda yang suka bermain di alam dan tidak ingin mengeluarkan banyak biaya, karena tempat ini gratis untuk dikunjungi.
+Instagram : @bukit_sella
+Tempatnya yang berada diatas bukit membuat pengunjung harus berjalan kaki atau menaiki sepeda agar sampai kesana. Diatas bukit kita bisa menikmati pemandangan yang ada diatas sana dan ada view yang menarik seperti Gunung Salak dan Gunung Pancar dan lainnya, tentunya kita juga bisa menginap di atas bukit tersebut.
+Lokasi
+Cibanon, Kec. Sukaraja, Kabupaten Bogor, Jawa Barat 16710
+Jam Operasional
+Senin -Minggu 24 Jam
+Media Sosial
+Instagram
+Article Tags: Sukaraja
+Article Categories: Alam · Gunung & Bukit', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/bukit-sella-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/210210012_227710019020751_220494878255196546_n-250x250.jpg', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (117, 'Taman Astor', 'Alam', 'Alam', 'Taman Astor adalah sebuah lahan perhutani yang di ubah menjadi tempat wisata yang diberinama Taman Astor TPN Tenjo. Menurut Pemerintah Desa Babakan diubah nya lahan perhutani menjadi tempat wisata ini untuk memberdayakan UMKM serta menarik para wisatawan untuk berkunjung dan menenangkan pikiran dari keramaian kota.
+Foto by Faridah Fida
+Foto by maryati Kasiro
+foto by Uwii Ajjah Ajjah
+Sumber: Goggle Maps
+Wlaupun wisata alam yang baru diresmikan pada tahun 2019 tetapi tidak dipungkiri taman astor memiliki keindahan alam yang masih sangat alami dan memilki tempat berfoto yang cukup menarik namun untuk mencapai lokasi kita akan melalui jalan yang kurang bagus sehingga dapat menghambat perjalanan, di perjalanan menuju taman astor kita akan disuguhkan dengan pemandangan alam yang cukup indah.
+Lokasi
+Jl. Raya Manunggal XIX No.45, Babakan, Kecamatan Tenjo, Kabupaten Bogor, Jawa Barat 16370
+Fasilitas
+Aula
+Mushola
+Toilet
+Area parkir
+Tiket Masuk
+Rp.10.000/Orang
+Jam Operasional
+Wisata Taman Astor buka setiap hari pada pukul 08.00-17.00 WIB.
+Sumber
+https://www.kompasiana.com/alvrizas123/5e5f0909097f3648d13177d4/taman-astor-wisata-baru-di-tenjo-yang-kurang-tereksplorasi
+Article Tags: Tenjo
+Article Categories: Alam · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/taman-astor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/Cuplikan-layar-2022-10-21-141941-250x250.png', null, 11, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (118, 'Waduk Gunung Bubut Karacakonje', 'Alam', 'Alam', 'Waduk Gunung Bubut dikelilingi oleh  pepohonan dan sistem pemandangan dengan arsitektur bangunan seperti penggerak turbin air ala Eropa. Tempat ini sudah dibangun sejak 1926 oleh  pemerintah kolonial Hindia Belanda.
+google map/ Irfan Lutfiansyah
+Waduk ini memang sering jadi lokasi wisata atau sekedar piknik bagi peribumi dan pendatang di waduk tersebut. Kawasan waduk ini sangat asyik sekali dan juga terasa nyaman untuk dijadikan sebagai tempat bersantai.
+google map/Ilhamkputra19
+Obyek wisata gratis & punya nilai sejarah
+Lokasi
+Karacak, Kec. Leuwiliang, Kabupaten Bogor, Jawa Barat 16640
+Tiket Masuk
+Gratis
+Jam Operasional
+08:00-16:00
+Source
+https://www.halamanbogor.com/2019/07/spot-foto-waduk-gunung-bubut-leuwiliang.html
+Article Tags: Leuwiliang
+Article Categories: Alam · Danau & Situ', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/waduk-gunung-bubut-karacakonje/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/2022-05-05-250x250.jpg', null, 18, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (119, 'Green Canyon Citamiang', 'Alam', 'Alam', 'Ingin menjelajah di alam? Tidak perlu jauh-jauh untuk bisa menemukan wisata alam yang memulai di Bogor. Salah satu wisata alam yang tersedia adalah curug atau air terjun.
+Sumber Gambar: google map/green canyon citamiang
+Kota Bogor dikenal juga dengan julukan seribu curug, lho. Tak heran sebab lokasinya berada di kaki Gunung Salak. Terdapat banyak air terjun yang jernih ditambah keindahan alamnya yang cocok dijadikan tempat melepas penat.
+Sumber Gambar: google map/green canyon citamiang
+Ajibbb rekomendasi bngt deh buat kamu yg mau wisata alam
+Sumber Video: youtube/wkwktraveler
+Tips Wisata
+Perlu menyiapkan fisik yang prima untuk memasuki kawasan Green Canyon Gunung Bunder. Selain itu, wisatawan yang merencanakan untuk melakukan water track di Green Canyon Gunung Bunder harus melakukan pemesanan atau reservasi terlebih dahulu.
+Pemesanan harus dilakukan karena untuk berwisata tracking water membutuhkan pendamping beserta peralatan-peralatan keamanan. Umumnya pengelola memberikan syarat untuk peserta harus minimal 10 orang.
+Usahakan agar sampai ke Green Canyon Gunung Bunder sebelum jam 12 siang karena reservasi akan ditutup dan tidak menerima wisatawan yang akan mengadakan water track lagi. Hal ini juga dimaksudkan untuk menghindari cuaca hujan dan kabut yang biasanya terjadi di sore hari.
+Sumber Gambar: https://profil.digitaldesa.id/megamendung-bogorkab/wisata/green-canyon-citamiang
+Taati peraturan yang diberikan oleh pengelola dan pendamping selama melakukan water track. Peraturan yang diberikan dimaksudkan untuk keselamatan pengunjung saat menyusuri sungai dan melakukan aktivitas di Green Canyon Gunung Bunder.
+Apabila pengunjung mengadakan acara perkemahan di area Green Canyon dan melakukan aktivitas api unggun di malam hari, maka harus dipastikan agar api unggun telah benar-benar padam sebelum meninggalkan area camping.
+Pengunjung harus menjaga kebersihan selama berada di kawasan wisata Green Canyon Water Track Gunung Bunder. Buanglah sampah pada tempatnya dan sediakan kantung plastik khusus untuk membuang sampah sementara sebelum menemukan tempat sampah
+Lokasi
+Kp. Citamiang Desa Megamendung, Megamendung, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770
+Harga
+Paket Naga 1 Rp. 85.000/orang
+Paket Naga 2 Rp. 75.000/orang
+Paket Naga 3 Rp. 115.000/orang
+Paket Camp Rimba C Rp. 230.000/orang
+Sumber Gambar: instagram/green canyon citamiang
+Sumber Gambar: instagram/green canyon citamiang
+Sumber Gambar: instagram/green canyon citamiang
+Sumber Gambar: instagram/green canyon citamiang
+Jam Operasional
+24 Jam
+Kontak
+No Telp: 0812-9294-7300
+Whatsapp: 0821-2448-3536
+Social Media
+Facebook
+Instagram
+Sumber
+https://www.youtube.com/watch?v=H22twGybTGM
+https://profil.digitaldesa.id/megamendung-bogorkab/wisata/green-canyon-citamiang
+Article Tags: Megamendung
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/green-canyon-citamiang/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/google-map_green-canyon-citamiang-250x250.jpg', null, 9, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (120, 'De Saung', 'Alam', 'Alam', 'Berjarak sekitar 8 – 9 km dari Kota Bogor, dengan ketinguian kurang lebih 500 meter diatas permukaan Laut, dengan posisi 6.64077°LS – 106.7173°BT, dengan udara yang sejuk menambah kenikmatan tersendiri. Kepenatan akibat Rutinitas kerja sehari-hari hilang dengan sendirinya.
+Sumber Gambar: google map/mast moey
+Dengan tersedianya Resto anda tidak perlu khawatir, tersedia berbagai masakan Sunda dengan aneka minuman Juice Segar. Ditambah pemandangan Gunung Salak menambah ketenangan tersendiri. Luang waktu anda untuk berkunjung ke De’ Saung.
+Sumber Gambar: google map/rizki ekananda
+Sumber Video: youtube/delvi yenty
+Makanan nya enakk.. ayam goreng kampung dan tempe mendoan nya enak pake banget.
+Gambar Menu
+Sumber Gambar: google map/lukman nul hakim
+Sumber Gambar: google map/lukman nul hakim
+Sumber Gambar: google map/lukman nul hakim
+Sumber Gambar: google map/lukman nul hakim
+Lokasi
+Sisi Ampera, Jl. Raya Gadog, Sukajadi, Tamansari, Bogor Regency, West Java 16610
+Fasilitas
+Saung
+Taman yang luas
+Sawah
+Musholla
+Jam Operasional
+Setiap Hari: 10.00–18.00
+Kontak
+No Telp: 0889-7600-6200
+Social Media
+Instagram
+Facebook
+Sumber
+https://www.tripadvisor.co.id/Restaurant_Review-g297706-d8563759-Reviews-De_Saung-Bogor_West_Java_Java.html dedeiboy2008
+Article Tags: Tamansari
+Article Categories: Alam · Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/de-saung/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/google-map_de-saung-250x250.jpg', null, 12, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (121, 'Curug Country Cariu', 'Alam', 'Alam', 'Terdapat destinasi wisata di Bogor yang layak dikunjungi para Wisatawan. Salah satunya adalah Curug Country Bogor. Terlihat keindahan Curug Country ini cukup asri, Bagi kalian yang tinggal di Jabodetabek dan sedang mencari destinasi liburan alternatif di akhir pekan, ada baiknya kalian coba mengunjungi Curug ini
+Berfoto dengan latar bebatuan dan aliran air terjun akan menjadi foto yang menarik dan instagramable.
+Lokasi
+Desa Tanjungrasa, Kecamatan Tanjungsari, Kabupaten Bogor, Jawa Barat.
+Harga tiket masuk
+Tiket Masuk                Rp.10.000
+Parkirr                          Rp.5.000
+Jam operasional
+senin – minggu          08.00 – 17.00
+Article Tags: Tanjungsari
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-country-cariu/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/Curug-Country-Jonggol-4-250x250.jpg', null, 12, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (122, 'Danau Ciomas Permai', 'Alam', 'Alam', 'Danau ciomas permai adalah sebuah taman lokal yang dibuat untuk warga ciomas permai. namun tidak hanya warga ciomas permai yang boleh kesini, warga tempat lain juga bebas masuk kesini untuk menikmati pemandangan dan taman yang asri.
+Sumber Gambar: google map/miryawan mir-min
+Anda bisa melihat banyak orang yang mampir kesini setiap paginya untuk lari pagi ataupun duduk bersantai di taman.
+Sumber Gambar: google map/nova widyanto
+Di danaunya juga ada ikan koi dan gurame, anda bisa memberi makan mereka dangan pakan ikan yang bisa dibeli di abang abang jualan pakan ikan disekitar danau ini.
+Sumber Gambar: google map/kiano
+Disini juga ada banyak tempat jualan, jika anda lapar setelah lari pagi atau ingin sarapan bisa mampir ke stand stand jualannya.
+Sumber Gambar: google map/nova widyanto
+Tempat yg nyaman untuk refreshing bersama anak sambil memberi makan ikan dikolam
+Lokasi
+CQ23+2X8, Ciapus, Kec. Ciomas, Kabupaten Bogor, Jawa Barat 16610
+Fasilitas
+Stand Tukang Jualan
+Arena Bermain Anak
+Jembatan Taman
+Tempat Duduk Alam Seperti Bebatuan
+Tiket Masuk
+Gratis
+Jam Operasional
+24 Jam
+Kontak
+–
+Source
+https://id.foursquare.com/v/danau-ciomas-permai/4e0fb1bc52b1b27c1b9365fd
+Article Tags: Ciomas
+Article Categories: Alam · Danau & Situ · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/danau-ciomas-permai/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/google-map_natalia-w-min-250x250.jpg', null, 24, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (123, 'Pemandian Mata Air Sodong', 'Alam', 'Alam', 'Pemandian Mata Air Sodong adalah sebuah hulu sungai, dimana airnya keluar dari dalam tanah yang terdapat di bawah sebuah bukit kapur. meski awalnya tempat ini hanya di jadikan tempat mencuci baju dan hanya sebagai aliran irigasi kini sudah menjadi tempat wisata bermain air bagi warga sekitar.
+https://www.cendananews.com/
+Kolam Pemandian Air Sodong terdiri dari dua kolam yakni kolam utama yang letaknya berada di pinggir jalan, sedangkan kolam kedua yaitu kolam berenang buatan yang sumber air nya dari Kolam Air Sodong, menurut masyarakat sekitar Kolam Air Sodong tidak pernah surut walaupun sedang musim kemarau dan juga tidak pernah kotor walaupun banyak masyrakat dan wisatawan berenang.
+Lokasi
+Jalan Raya Ligarmukti, Kecamatan Klapanunggal, Kabupaten Bogor, Jawa Barat 16710
+Fasilitas
+Toilet
+Tempat Parkir
+Warung
+Pelampung (sewa)
+Tiket Masuk
+Kendaraan roda 2 Rp.10.000
+Kendaraan roda 4 Rp.20.000
+Harga sewa pelampung Rp.10.000/Orang
+Jam Operasional
+Buka setiap hari pukul 08.00 – 17.00 WIB
+Sumber
+https://www.suara.com/lifestyle/2018/05/08/070000/menikmati-segar-dan-beningnya-pemandian-mata-air-sodong?page=all
+Article Tags: Klapanunggal
+Article Categories: Alam · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/pemandian-mata-air-sodong/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/56808-pemandian-mata-air-sodong-250x250.jpg', null, 12, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (124, 'Curug Cidurian', 'Alam', 'Alam', 'Berwisata alam tak perlu jauh-jauh. Cukup datang ke Bogor, pasalnya di Bogor ada destinasi wisata yang indah namanya Curug Cidurian. Wisata alam jadi pilihan utama untuk berlibur di era Covid-19.
+Memiliki alam terbuka dan kesegaran alami menjadi alasan wisatawan kini mencari destinasi wisata yang aman dari Covid-19. Salah satu wisata air yang patut dikunjungi adalah Curug Cidurian Bogor. Terletak di Kiarasari, Sukajaya, Kabupaten Bogor, Curug Cidurian menawarkan keindahan bebatuan alami dan flora-flora khas kota hujan ini.
+Dulunya, Curug Cidurian merupakan kawasan wisata tersembunyi yang tak banyak diketahui orang. Namun, seiring berkembangnya penyebaran informasi, curug ini menjadi salah satu destinasi wisata air terjun yang banyak diminati oleh wisatawan, terutama yang berasal dari Jabodetabek.
+Mengutip dari berbagai sumber, perjalanan menuju Curug Cidurian dari pintu masuk menyediakan pemandangan yang sangat indah. Dari persawahan bertingkat, pegunungan nun jauh di sana, sampai beberapa spot selfie berupa jembatan gantung warna-warni pun akan memanjakan mata sebelum para wisatawan dibawa melihat bintang utama kawasan wisata ini.
+Air terjun Curug Cidurian memiliki ketinggian 35 meter. Di bawah guyuran air yang deras, para wisatawan bisa berenang di beberapa kolam alami yang tersedia berbagai kedalaman, dari sebatas kepala hingga sebatas pinggang saja.
+Air yang bening dan segar pun menjadi elemen yang tak disia-siakan pengunjung. Curug Cidurian ini merupakan bagian dari kawasan Gunung Halimun. Tak hanya bisa menikmati pemandangan curug yang indah dan air yang segar, kawasan Gunung Halimun ini juga memiliki obyek wisata arung jeram di Desa Kiarasari yang tak jauh dari Curug Cidurian.
+Curug ini dibuka setiap hari mulai pukul 07.00 WIB hingga 17.00 WIB. Bagi yang tertarik, Curug Cidurian bisa dikunjungi dengan merogoh kocek sebesar Rp10 ribu untuk memasuki pos pertama dan Rp5 ribu untuk memasuki pos kedua.
+Sumber
+https://www.celebrities.id/read/curug-cidurian-wisata-air-terjun-yang-indah-di-bogor-BM361G
+Article Tags: Sukajaya
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-cidurian/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/curug-cidurian-250x250.jpg', null, 18, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (125, 'Kinasih Resort and Conference', 'Alam', 'Alam', 'https://foursquare.com/v/wisma-kinasih–kinasih-resort/4c5084f79426c928c41d3d72
+Kinasih Resort and conference merupakan penginapan dan lokasi Outbound yang memiliki konsep MICE dan Resort. Lokasi Outbound ini menawarkan satu tempat pertemuan dan rekreasi yang sangat menarik untuk menikmati waktu luang mereka di luar kesibukan sehari hari. Untuk area kegiatan Outbound Kinasih memberikan banyak sekali lapangan yang dapat di jadikan tempat untuk berkegiatan dengan beberapa Kawasan hutan pinus di dalam Resort.
+Lokasi   
+Jl. Raya Sukabumi KM.17, Caringin
+Kab Bogor, Jawa Barat 16730
+Indonesia
+Fasilitas
+Kolam renang
+Restoran
+Lintasan jogging
+Laundry
+Keamanan 24 jam
+Petugas tamu 24 jam
+Saung aki
+Lapangan berkemah
+Area pendakian
+Lapangan berkuda
+Kebun (tersedia untuk menyelenggarakan pernikahan)
+Kids club
+Harga kamar
+Standar                                Rp. 750.000,-
+Superior                               Rp.1.000.000,-
+Deluxe                                  Rp.1.200.000,-
+Executive                            Rp.1.500.000,-
+Ekaprana cottage             Rp.1.500.000,-
+Dwitya cottage                  Rp.1.500.000,-
+Tridatu cottage                 Rp.1.500.000,-
+Masawangan cottage     Rp.1.800.000,-
+Maesaan cottage             Rp.2.500.000,-
+Maleoleosan cottage      Rp.2.500.000,-
+VIP trikaya                           Rp.1.500.000,-
+Yosephine                           Rp.2.100.000,-
+Tulip                                      Rp.2.100.000,-
+Jam Check in   
+Check in               : 14.00 WIB
+Check out            : 12.00 WIB
+Kontak
+Phone : 0251 – 8222111
+Email : sales@kinasihbogor.com
+Article Tags: Caringin
+Article Categories: Alam · Hotel & Villa · Hutan Lindung · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kinasih-resort-and-conference/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/papan-namanya-terang-250x250.jpg', null, 25, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (126, 'Curug Cibaliung', 'Alam', 'Alam', 'Curug Cibaliung merupakan tempat wisata alam yang memiliki air terjun indah, dengan bebatuan dan pepohonan yang masih alami, kejernihan curug ini menjadikan lingkungan yang sejuk. Untuk menikmati keindahan Curug Cibaliung pengunjung harus berjuang melewati jalur yang menantang sebelum sampai di lokasi curug nya. Dalam perjalanan menuju curug, pengunjung akan melewati beberapa curug lain yaitu Curug Leuwi Lieuk dan Leuwi Cepet.
+Sumber Foto: tempawisata.pro
+Tips berlibur di Curug Cibaliung, jika ingin berkunjung ke wisata ini pengunjung bisa membawa segala persiapan kebutuhan mulai dari makanan, minuman, baju ganti, kamera dan lainnya. Jika ingin berkunjung ke Curug Cibaliung alangkah baiknya menggunakan kendaraan roda dua (motor) karena jalur yang dilalui belum terlalu mendukung untuk jalur mobil. Jaga fisik dan selalu berhati-hati jika ingin melakukan perjalanan ke wisata ini.
+Lokasi Curug Cibaliung
+Cibadak, Kec. Sukamakmur, Kabupaten Bogor, Jawa Barat 16810
+Fasilitas Curug Cibaliung
+Dikarenakan wisata ini masih baru dikelola, fasilitasnya masih sangat minim. Namun, sudah cukup membantu. Beberapa fasilitas yang ditawarkan untuk pengunjung diantaranya, yaitu :
+Area parkir
+Warung makan dan minum
+Spot foto
+Petunjuk jalan
+Tempat penitipan barang
+Ruang ganti
+Kamar mandi
+Jam Operasional Curug Cibaliung
+Senin – Minggu : 08.00 – 17.00 WIB
+Tiket Masuk Curug Cibaliung
+Tiket masuk lokasi : Rp. 20.000,-/orang (biaya masuk Rp. 15.000,-/orang dan biaya retribusi Rp. 5.000,-/ orang)
+Parkir : Rp. 5.000
+Toilet : Rp. 2.500
+Penitipan barang : Rp. 2.500
+Sumber
+https://sikidang.com/curug-cibaliung/
+Article Tags: Sukamakmur
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-cibaliung/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/curug-cibaliung-1-250x250.jpg', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (127, 'Pemandian Air Panas Mbah Kemplung', 'Alam', 'Alam', 'Pemandian Air Panas Mbah Kemplung merupakan salah satu objek wisata yang berada di kaki Gunung Salak. Jika anda warga Ciapus ingin memanjakan diri dengan menghangatkan tubuh karena cuaca dingin kini tidak perlu jauh-jauh saat ini sudah ada kolam Pemandian Air Panas Mbah Kemplung.
+Pemandian air panas ini berjarak sekitar 7 meter dari area parkir, kolam pemandian air panas yang sudah ada sekitar 5 tahun ini, keberadaannya menjadi tempat alternatif pilihan yang tepat bagi warga Ciapus untuk berwisata dan menenangkan pikiran.
+https://www.infociapus.com/2019/01/tak-perlu-pergi-jauh-di-ciapus-juga-ada.html
+Jika berencana ingin melakukan perjalanan menuju Pemandian Air Panas Mbah Kemplung sebaiknya gunakan alas kaki yang tidak licin agar tidak tergelincir karena jalur menuju lokasi pemandian cukup licin dan sedikit berlumpur
+Kolam Pemandian Air Panas Mbah Kemplung ini letak nya berjarak sekitar 200 meter dari jalan Curug Luhur Desa Gunung Malang, kolam Pemandian Air Panas Mbah Kemplung ini berasal dari sumber mata air asli pegunungan, dalam perjalanan menuju pemandian air panas kita disuguhkan dengan pemandangan sungai, sawah dan berbagai pepohonan, Kolam Pemandian Air Panas Mbah Kemplung ini berukuran kurang lebih 3×5 meter.
+Lokasi :
+Kampung Tarikolot, Desa Gunung Malang, Kecamatan Tenjolaya, Kabupaten Bogor
+Fasilitas :
+Area Parkir
+Toilet
+Mushola
+Warung
+Tiket Masuk :
+Anak/Dewasa : RP.7.500/Orang
+Parkir : Rp.5000/Kendaraan
+Jam Operasional :
+Senin-Minggu 24 jam
+Sumber
+https://www.infociapus.com/2019/01/tak-perlu-pergi-jauh-di-ciapus-juga-ada.html
+Article Tags: Tenjolaya
+Article Categories: Agrowisata · Alam · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/pemandian-air-panas-mbah-kemplung/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/8e0b815b-34aa-4e58-9db8-a2a0975a9986-250x250.jpg', null, 20, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (128, 'Wisata Alam Sungai Cipamingkis', 'Alam', 'Alam', 'Sungai Cipamingkis merupakan anak sungai dari Sungai Cibeet yang terletak di Desa Sukanagara, Kecamatan Jonggol, Kabupaten Bogor, Provinsi Jawa Barat. Sungai Cipamingkis menjadi tempat favorit untuk liburan bersama keluarga karena murah, salah satu daya tarik Sungai Cipamingkis adalah lokasinya yang membelah persawahan dan memiliki dasar sungai batu sehingga banyak sekali anak-anak yang bisa bermain air.
+Untuk menuju Sungai Cipamingkis bisa melewati Jl.Raya Cileungsi-Jonggol, kemudian saat Tugu Bogor Tegar Beriman yang berada di pertigaan Jonggol, ambil jalan kekanan dan mengikuti jalan sampai ke Desa Sukanegara, Sungai Cipamangkis berada di sebelah kiri jalan. Setiap hari Sungai Cipamingkis ramai di kunjungi pengunjung dari Jabodetabek. Untuk masuk ke Sungai Cipamingkis pengunjung tidak harus mengeluarkan uang banyak, cukup membayar parkir Rp5 ribu dan biaya masuk Rp2 ribu per orang. Karena Sungai Cipamingkis ini dikelola oleh masyarakat sekitar.
+Lokasi :
+Sukaresmi, Kec. Sukamakmur, Kabupaten Bogor, Jawa Barat 16830
+Fasilitas :
+Bermain disungai
+Warung
+Toilet
+Tempat Parkir
+Harga Tiket :
+Hari Biasa : 2.000
+Hari Libur : 5.000
+Sumber Gambar :
+Gambar Pertama : https://www.radarbogor.id/2020/12/02/sungai-cipamingkis-wisata-murah-hingga-sosok-wanita-cantik-berbaju-hijau/
+Gambar Kedua : https://arahkata.pikiran-rakyat.com/wisata/pr-1281680236/liburan-di-curug-cipamingkis-bogor-bisa-dapat-jodoh
+Article Tags: Jonggol
+Article Categories: Alam · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/wisata-alam-curug-cipamingkis/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/Sungai-Cipamingkis-250x250.jpg', null, 17, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (129, 'Penangkaran Rusa Cariu', 'Alam', 'Alam', 'Penangkaran Rusa Cariu Bogor bisa dikatakan taman rekreasi yang cukup unik. Di sini pengunjung tidak hanya bisa melihat puluhan rusa tetapi juga bisa berinteraksi langsung. Di tengah suasana alam yang masih asri. Sangat cocok sebagai tempat rekreasi keluarga.
+Taman yang juga terkenal sebagai Taman Rusa Tanjungsari dan Taman Rusa Giri Jaya ini menawarkan pengalaman berinteraksi dengan rusa-rusa jinak. Sambil menikmati keasrian alam, wisatawan bisa mendapatkan pengalaman memberi makan rusa secara langsung.
+Lokasi
+Buanajaya, Tanjungsari, Buanajaya, Kec. Tanjungsari, Bogor, Jawa Barat 16840
+Fasilitas
+Lahan Parkir
+Toilet
+Mushola
+Aneka Warung
+Kolam Renang
+Area Bermain Anak
+Area Swafoto
+Bumi Perkemahan
+Harga Tiket Masuk
+Mulai Dari Rp5.000-Rp10.000
+Profil Social Media Penangkaran Rusa Cariu
+https://www.instagram.com/wanawisatarusa/
+Facebook
+Contact
+Hp/WA: 081240009295
+E-mail: wanawisatarusa@gmail.com
+Article Tags: Cariu
+Article Categories: Agrowisata · Alam · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/penangkaran-rusa-cariu/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/cariu2-250x250.jpg', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (130, 'Curug Barong', 'Alam', 'Alam', 'Keindahan air terjun tersembunyi di daerah sukamakmur
+Curug Barong merupakan salah satu air terjun yang berada di kawasan Babakan Madang, Bogor. Air terjun ini mengalir dari sungai yang sama dengan Curug Leuwi Hejo, yaitu sungai Cirangrang. Posisinya setelah Curug Leuwi Lieuk dan sebelum Curug Leuwi Hejo.
+Kebanyakan orang mungkin lebih mengenal Curug Leuwi Hejo atau Curug Leuwi Lieuk. Nama Curug Barong lebih populer di kalangan pelancong yang sudah berpengalaman menjelajahi hutan, alias pecinta alam. Ini karena jalur trekking menuju air terjun tersebut cukup menantang dan kurang bersahabat untuk pengunjung anak-anak.
+Lokasi
+Air terjun ini berada di Pabuaran, Sukamakmur, Bogor, Jawa Barat 16810
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Area Parkir
+Tiket Masuk
+Untuk tiket masuk dibandrol dengan harga Rp.25.000
+Jam Operasional
+Buka setiap hari pada pukul 07.00 – 18.00 WIB
+Article Tags: Sukamakmur
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-barong/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/Curug-Barong-sign-250x250.jpg', null, 29, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (131, 'Curug Ciburial', 'Alam', 'Alam', 'Memanjakan mata di salah satu curug yang indah di ciburial
+Curug Ciburial adalah air terjun pada tingkatan pertama, dari tiga air terjun dua diantaranya adalah Curug Kembar dan Hordeng. Air terjun ini berada di kawasan Sentul Bogor. Yang menjadi tempat tepat bagi wisatawan yang menyukai suasana keheningan alam. Meskipun tidak terlalu tinggi, hanya sekitar 5 meter saja namun tempat ini begitu indah. Apalagi airnya yang masih sangat jernih.
+Curug Ciburial ada karena tidak disengaja, yang ditemukan oleh seorang warga desa yang mencari kayu. Dimana, warga tersebut mendengar gemericik air yang deras dari balik semak tinggi.
+Ditelusurilah suara gemericik tersebut yang ternyata mengarah ke sebuah air terjun tanpa nama. Hingga akhirnya, warga setempat mengusulkan nama “Ciburial” untuk air terjun tersebut. Yang mana artinya dalam bahasa Indonesia adalah “air yang keluar dari bawah”.
+Lokasi
+Kawasan Jonggol, Cibadak, Sukamakmur, Bogor, Jawa Barat 16810
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Tempat parkir
+Toilet
+Penitipan Helm
+Warung – Warung
+Tiket Masuk
+Untuk tiket masuk dibandrol dengan harga Rp.35.000
+Jam Operasional
+Buka setiap hari pada pukul 06.00 – 18.00 WIB
+Article Tags: Jonggol
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-ciburial/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/Curug-Ciburial-250x250.jpg', null, 18, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (132, 'Curug Cipamingkis', 'Alam', 'Alam', 'Menyegarkan fikiran di salah satu curug yang instagramable
+Curug Cipamingkis merupakan air terjun yang terbentuk dari pertemuan dua sungai, yaitu Sungai Cipamingkis dan Sungai Cisarua. Salah satunya kemudian menjadi asal-usul penamaan air terjun ini. Curug Cipamingkis menjadi tujuan wisata dengan memanfaatkan lahan di sekitarnya seluas kurang-lebih 16,5 hektar.
+Curug Cipamingkis terletak di Desa Wargajaya, Kecamatan Sukamakmur, Kabupaten Bogor. Lokasinya yang tidak terlalu jauh dari kota-kota besar seperti Jakarta, Depok, dan sekitarnya, membuat air terjun ini jadi primadona baru. Pengelolaannya pun bisa dibilang sangat tertata rapi, menjadikan tempat ini selalu ramai sebagai alternatif dari kawasan Puncak sebagai tujuan berlibur.
+Lokasi
+Desa Wargajaya, Kecamatan Sukamakmur, Kabupaten Bogor – Jawa Barat 16830.
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Tempat parkir
+Toilet
+Mushola
+Area swafoto
+Penginapan
+Bumi perkemahan
+Taman
+Kolam renang
+Kolam terapi ikan
+Tiket Masuk
+Untuk tiket masuk dibandrol dengan harga Rp.35.000 – Rp.40.000
+Jam Operasional
+Buka setiap hari pada pukul 07.00 – 16.00 WIB
+Kontak
+(021) 8794-3662 / (021) 8794-4243
+Article Tags: Sukamakmur
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-cipamingkis/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/curug-cipamingkis-sign-250x250.jpg', null, 18, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (133, 'Curug Putri Kencana', 'Alam', 'Alam', 'Curug yang memiliki kolam hijau nan menyenangkan
+Curug Putri Kencana merupakan satu di antara curug-curug yang ada di Bogor. Air terjun ini sempat tayang di salah satu stasiun televisi swasta sebagai destinasi wisata alam yang menarik. Tidak salah, karena objek wisata ini memang menawarkan keindahan alam sekaligus berbagai aktivitas luar ruangan yang menantang.
+Curug Putri Kencana adalah air terjun dengan tinggi lebih-kurang 7 meter. Air terjun ini dikelilingi dinding bebatuan tinggi serta hutan liar. Airnya terkenal berwarna biru-kehijauan dan sangat jernih. Suara berbagai hewan liar seperti kicau burung menghiasi kawasan ini, membuat siapapun yang datang merasa menyatu dengan alam.
+Lokasi
+Karang Tengah, Kec. Babakan Madang, Bogor, Jawa Barat 16810
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Tempat parkir
+Toilet
+Kios Makanan
+Mushola
+Tempat penyewaan pelampung
+Tiket Masuk
+Untuk tiket masuk dibandrol dengan harga Rp.25.000
+Jam Operasional
+Buka setiap hari pada pukul 07.00 – 17.00 WIB
+Article Tags: Babakan Madang
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-putri-kencana/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/curug-putri-kencana-250x250.jpeg', null, 18, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (134, 'Kampoeng Wisata Cinangneng', 'Alam', 'Alam', 'tempat wisata yang akan memberikan kamu wisata edukasi dengan diiringi nilai budaya. Dimana disini kamu akan banyak belajar dan berinteraksi dengan alam.
+Kampoeng Wisata Cinangneng ini berfokus pada wisata edukasi dalam memperkenalkan kebudayaan dan kesenian Jawa Barat seolah berada di kampoeng.
+Kegiatan yang ditawarkan dalam wisata ini diantaranya menanam padi, bermain dan memandikan kerbau, melukis caping, serta dalam pemanduan wisata dilakukan langsung oleh masyarakat atau warga sekitar sehingga wisata ini juga dapat membantu dalam pemberdayaan penduduk sekitar “terang Risa, Manager Kampoeng Wisata Cinangneng.
+Lokasi
+Jl. Babakan Kemang, RT.1/RW.2, Cihideung Udik, Kec. Ciampea, Bogor, Jawa Barat 16620
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Area parkir
+Kamar mandi
+Mushola
+Tempat makan atau Cafe
+Saung atau Gazebo tempat kamu bersantai Toko souvenir atau oleh-oleh
+Penginapan yang berada di 2 buah gedung dengan memiliki 8 kamar disetiap gedungnya. Jadi untuk kamu yang berasal dari luar kota ngga perlu jauh-jauh lagi mencari tempat untuk bermalam.
+Kegiatan di Kampung Wisata Cinangneng
+Bermain Alat Musik Dan Lagu Tradisional
+Belajar Tarian Tradisional
+Belajar Membuat Kue Dan Jamu
+Menanam Padi
+Memandikan Kerbau Dan Bermain Di Sungai
+Menggambar Caping
+Keliling Kampung
+Tiket Masuk
+Tiket yang tersedia di Kampung Wisata Cinangneng terdiri dari beberapa paket, dengan rincian sebagai berikut:
+Tiket Masuk Rp 12.500
+Package A – Poelang Kampoeng – One Day Package (Minimum 20 Persons) Rp 145.000
+Package B – I Am Also From The Kampoeng (Minimum 10 Persons) Rp 125.000
+Package C – Survey Package/Person Rp 20.000
+Package D – Ronda/Person Rp 100.000 Overnight Package Rp 525.000
+Jam Operasional
+Everyday 08.00 – 05.00 WIB
+Kontak
+(0251) 8621895
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Ciampea
+Article Categories: Alam · Rekreasi · Seni Budaya · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kampoeng-wisata-cinangneng/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/cinangneng-250x250.png', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (135, 'Setu Cigudeg', 'Alam', 'Alam', 'Danau peninggalan sejarah dengan potensi wisata yang layak dikembangkan.
+Setu Cigudeg merupakan salah satu setu peninggalan zaman pemerintahan Kolonial Belanda. Setu ini berada persis di pinggir jalan raya provinsi yang menghubungkan Kabupaten Bogor dengan Kabupaten Lebak, Banten. Dengan luas 1.5 ha, setu ini diperkirakan dibangun sekitar pertengahan abad ke 19 setelah Pemerintahan Gubernur Jenderal Herman Willem Deandels selesai membangun Jalan Raya Pos (de groote Postweg) Anyer-Panarukan pada tahun 1808. Setu ini terbentuk karena adanya pembangunan tanggul sepanjang 300 meter yang di atasnya dibuat jalan raya.
+Lokasi
+Jl. Raya Cigudeg – Jasinga Kabupaten Bogor
+Fasilitas
+Lokasi ini belum sepenuhnya dikembangkan menjadi tujuan wisata, beberapa fasilitas yang tersedia, diantaranya:
+Tempat Jajanan Kaki Lima
+Parkir Roda Dua
+Parkir Roda Empat
+Toilet
+Tiket Masuk
+Gratis.
+Jam Operasional
+Setiap hari
+Kontak
+Tidak Ada.
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Cigudeg
+Article Categories: Alam · Danau & Situ', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/setu-cigudeg/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/setu-cigudeg-250x250.jpg', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (136, 'Setu Lebak Wangi', 'Alam', 'Alam', 'Pengembangan situ sebagai destinasi wisata baru di Kecamatan Parung.
+Setu Lebak Wangi yang terletak di Desa Pamegarsari resmi jadi destinasi wisata baru di Kecamatan Parung, Kabupaten Bogor. Setu Lebak Wangi diproyeksikan menjadi desa wisata. Pemerintah pusat dan daerah pun turut memberikan perhatian dalam upaya pengembangan wilayah tersebut.
+Sejumlah masyarakat di Desa Pamagersari bergotong-royong memanfaatkan sejumlah potensi alam di wilayahnya sehingga menjadi Desa Wisata yang mampu menarik banyak para wisatawan.
+Lokasi
+Kp. Lebak Wangi. Jl.Masjid Sabilal Muhtadin. Rt 02 rw 02 no 148. Parung, Kec. Parung, Jawa Barat
+Fasilitas
+Fasilitas yang tersedia sementara untuk saat ini adalah wahana air yaitu seperti, sepeda air sebanyak 15 unit, perahu kano 5 unit dan satu perahu odong-odong dengan kapasitas penumpang 15 orang. selain itu juga fasilitas area pemancingan.
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Tiket Masuk
+Tiket masuk lokasi : Rp. 5.000,-
+Parkir Roda Dua : Rp. 5.000,-
+Parkir Roda Empat : Rp. 10.000,-
+Jam Operasional
+Jam operasional sementara ini buka jam 9 pagi hingga 8 malam dan untuk cafe sampai jam 10.
+Kontak
+Tidak tersedia.
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Parung
+Article Categories: Alam · Danau & Situ', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/setu-lebak-wangi/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/situ-lebak-wangi-250x250.jpg', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (137, 'Curug Cigamea', 'Alam', 'Alam', 'Dua air terjun dalam satu lokasi!
+Curug Cigamea memiliki dua air terjun yang berdampingan pada satu tempat yang sama. Ketinggian dua air terjunnya berbeda, masing-masing 30 meter dan 50 meter. Lokasinya paling dekat dengan pintu masuk belakang kawasan wisata Gunung Salak Endah (GSE).
+Lokasi
+Desa Gunung Sari, Kecamatan Pamijahan, Kabupaten Bogor.
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Tempat Makan (Warung)
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Tiket Masuk
+Tiket masuk curug : Rp. 5.000,-
+Tiket masuk kawasan : Rp. 7.500,-
+Parkir Roda Dua : Rp. 5.000,-
+Parkir Roda Empat : Rp. 10.000,-
+Jam Operasional
+Setiap hari (jam 06.30-17.00)
+Kontak
+Tidak Tersedia.
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Pamijahan
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-cigamea/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/curug-cigamea2-250x250.png', null, 11, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (138, 'Curug Cilember', 'Alam', 'Alam', 'Airt terjun alami dan segar dengan jalur traking yang tertata.
+Curug Cilember adalah kawasan wisata yang berada di ketinggian kurang lebih 800 hingga 900 mdpl, dengan begitu banyak vegetasi hutan hujan tropis yang alami. Curug ini mulai dikelola oleh Perum Perhutani pada tahun 1990. Dengan luas kurang lebih 5,9 Ha, kawasan wisata ini didominasi oleh tanaman pinus merkuri.
+Lokasi
+Jl. Raya Puncak Gadog, Cilember, Kec. Megamendung, Bogor, Jawa Barat 16750
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Camping Ground
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Tiket Masuk
+Tiket masuk lokasi : Rp. 6.000,-
+Parkir Roda Dua : Rp. 5.000,-
+Parkir Roda Empat : Rp. 10.000,-
+Jam Operasional
+Setiap hari.
+Kontak
+Tidak tersedia.
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Megamendung
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-cilember/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/curug-cilember-250x250.jpg', null, 9, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (139, 'Pemandian Air Panas Ciparay', 'Alam', 'Alam', 'Pemandian Air Panas Ciparay : Bagi kalian yang menginginkan suatu tempat wisata dengan kegiatan yang dapat memberikan relaksasi serta penyegeran terhadap fisik ditengah rutinitas keseharian yang menyita waktu,
+So natural. Along the way we walk to this site, we will see a beautiful scenery from Salak mountain. For those who need privacy, there are several bathtubs. By 7 thousands rupiah, you can enjoy the bathtub with natural warm water.
+Natural Place
+Pikiran dan tenaga maka kalian harus mencoba wisata yang satu ini, karena di wisata ini para wisatawan dapat merasakan kenikmatan berendam di air panas yang memberikan relaksasi pada tubuh anda. Wisata yang satu ini dikenal dengan Pemandian Air Panas Ciparay. Pemandian air panas ini cukup terkenal di kalangan wisatawan dengan kolam pemandiannya yang bagus dan pemandangan alamnya yang begitu indah.
+Seru banget pemandangan disini amat menyenangkan sejuk segar hawa pegunungan asli alami
+Alam Yang Indah
+Lokasi pemandian Air Panas Ciparay terletak di Kawasan Taman Nasional Gunung Halimun Salak. Tepatnya berada di Kampung Ciparai Desa Gunung Sari Kecamatan Pamijahan Kabupaten Bogor dengan jarak 5 kilometer dari Gunung Salak Endah. Jika kalian berkunjung ke sini, kalian akan mendapati suasana yang tenang dengan gemericik air dari sungai Cikuluwung. Hal ini tentu membuat tempat ini sangat cocok bila dijadikan salah satu destinasi wisata yang akan kalian kunjungi. Selain untuk mengisi waktu akhir pekan, dengan berendam di air panas kalian juga bisa menenangkan diri dari segala rutinitas yang membuat penat selama hari kerja
+Lokasi
+Gn. Sari, Gn. Sari, Kec. Pamijahan, Bogor, Jawa Barat 16810
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Kolam Pemandian Air Panas
+Kolam Privat
+Area parkir
+Saung
+Penginapan
+Warung Makan
+Spot Foto
+Toko Souvenir
+Tiket Masuk
+Keterangan Harga
+Gerbang Air Panas Ciparay Rp.4.000/Orang
+Kolam Rendam Rp.3.000/Orang
+Parkir Roda Dua Rp.10.000
+Parkir Roda Empat Rp.30.000
+Tiket Masuk
+Jam Operasional
+24 Jam All Day (Masa PPKM Mungkin Berubah)
+Kontak
+–
+Tips
+Tidak ingin susah dan rumit dengan angkutan umum, dapat menyewa mobil agar mempermudah perjalanan.
+Selalu waspada dan hati-hati terhadap barang bawaan pribadi.
+Jangan lupa membawa kamera lengkap dengan lensa wide-nya untuk berfoto dari atas jembatan.
+Ikuti dan patuhi semua peraturan yang sudah ditetapkan oleh pihak pengelola pemandian air panas Ciparay.
+Hindari untuk turun di sungai saat cuaca sedang hujan atau mendung karena bisa saja banjir datang tiba-tiba.
+Jagalah kebersihan dengan selalu membuang sampah pada tempat yang sudah disediakan.
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Pamijahan
+Article Categories: Alam · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/pemandian-air-panas-ciparay/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/ciparay0-250x250.jpg', null, 10, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (140, 'Gunung Pancar', 'Alam', 'Alam', 'Gunung Pancar terletak di Desa Karang Tengah, Babakan Madang, Bogor, Jawa Barat. Biasanya lokasi ini lebih familiar dengan sebutan Sentul. Lokasi Gunung Pancar dapat ditempuh melalui Sentul City. Dengan ketinggian 300 – 800 mdpl, maka suhu di Gunung Pancar tidak terlalu berbeda dengan suhu di kota Bogor, terutama Sentul yang berdekatan Gunung Pancar. Mayoritas Gunung Pancar adalah pohon Pinus. Di sekitar hutan pinus Gunung Pancar juga tumbuh Rasamala, Puspa, Beringin, dan lainnya.
+Tempat yang sejuk asri tempat wisata alam yag cocok untuk keluarga,yag di kelilingi hutan pinus.
+Review Kesejukan Alam Yang Nikmat
+Perjalanan menuju Gunung Pancar dari Bogor biasanya memakan waktu 35 menit saja. Dari Kebun Raya Bogor, masuklah ke Jalan Raya Pajajaran di Tegallega. Kemudian, ambil jalur menuju Jalan Tol Jagorawi. Selanjutnya, keluarlah di pintu tol yang menuju Jalan MH. Thamrin. Ikuti jalan sampai masuk ke Jalan Siliwangi dan Jalan Bali Raya di Sumur Batu. Jika sudah melewati Sentul Nirwana, segera belok ke kiri menuju Jalan Jungle Land yang nantinya akan dilanjutkan ke Jalan Gunung Pancar. Ikuti jalannya sampai masuk ke Jalan Cimandala di Karang Tengah, wisata Gunung Pancar berada di kanan jalan.
+Tempatnya lumayan sejuk dan gak terlalu jauh dari Jakarta,bisa foto2 cantik dan instagramable disini,tiket masuknya lumayan murah,tapi di dalam sering kehabisan tempat parkir.
+Spot Yang Bagus Untuk Berswafoto.
+Lokasi
+Karang Tengah, Kec. Babakan Madang, Bogor, Jawa Barat
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Camping
+Prewedding
+Glamping
+Trekking
+Tiket Masuk
+Hari Kerja
+Rp 5.000 / Orang
+Rp 10.000 / Mobil
+Rp 5.000 / Motor
+Rp 100.000 / Warga Negara Asing
+Hari Libur Akhir Pekan / Libur Nasional
+Rp 7.500 / Orang
+Rp 15.000 / Mobil
+Rp 7.500 / Motor
+Rp 150.000 / Warga Negara Asing
+Buku Tahunan Sekolah
+Rp 1.500.000 / sesi
+*Belum termasuk tiket masuk orang dan kendaraan
+Jam Operasional
+Senin – Minggu 24 Jam
+Kontak
+Tlp : 081312710797
+Email : GunungPancarOrganizer@Gmail.com
+Website : https://www.gunungpancar.com/
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Babakan Madang
+Article Categories: Alam · Gunung & Bukit', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/gunung-pancar/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/gunung-pancar-250x250.jpg', null, 11, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (141, 'Danau Quarry', 'Alam', 'Alam', 'Danau Quarry – Bogor merupakan kota terbaik untuk menikmati alam bagi warga yang berada didaerah Jabodetabek. Jarak dekat dan pesona alam indah banyak ditemukan di sana menjadi alasan tersendiri bagi para wisatawan. Kini di Bogor ada destinasi baru yang tengah hangat diperbincangkan oleh para pecinta wisata Tanah Air, salah satunya yaitu Danau Quarry.
+keindahan danau ini merupakan harga yang pantas terbayarkan dari lelahnya perjalanan menuju danau ini.
+Sangat Memukau Untuk Foto – foto
+Tempat Keren di Bogor, Danau Quarry
+Namun kegiatan tambang itu banyak diprotes oleh masyarakat setempat, sehingga kegiatan pertambangan pun berhenti pada pertengahan jalan. Setelah lama tak digunakan, bekas tambang itu pun digenangi oleh air hujan selama bertahun-tahun lamanya sehingga terbentuk lah danau buatan secara tak sengaja. Dulu danau di Bogor itu bernama danau Jayamix Rumpin.
+Air danau di sini sangat hijau serta terdapat tebing-tebing bekas penambangan yang cocok untuk dijadikan latar cantik di media sosial. Hanya saja masih kurang penataan dan keamanan karena masih dikelola oleh penduduk lokal.
+Lokasi
+Talaga, Kec. Cikupa, Tangerang, Banten
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Toilet
+Tiket Masuk
+Free
+Jika Ingin Naik Perahu Bebek Dikenakan Biaya Sebesar : Rp. 10.000,- / Orang
+Parkir Kendaraan Motor Rp. 2000
+Parkir Kendaraan Motor Rp. 5000
+Jam Operasional
+24 Jam
+Kontak
+–
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Cigudeg
+Article Categories: Alam · Danau & Situ', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/danau-jayamix/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/danau-quarry-250x250.jpg', null, 14, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (142, 'Curug Saderi', 'Alam', 'Alam', 'Air terjun dengan air yang jernih & segar yang belum banyak di-explore.
+Lokasinya yang tersembunyi dan tidak mudah untuk dicapai, menjadi satu tantangan dan kepuasan tersendiri untuk dijelajah. Air terjun ini hanya dapat diakses melalui kendaraan roda 2 dan atau berjalan kaki menyusuri pematang sawah, perkampungan dan aliran sungai. Di lokasi ini juga anda dapat melakukan aktifitas olahraga ekstrim seperti Climbing dan Rafling menyusuri air terjun yang indah ini!
+Lokasi
+Kp Cibeureum, Desa Ciasmara, Kecamatan Pamijahan, Bogor, Jawa Barat 16810
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Toilet
+Tiket Masuk
+Tiket masuk lokasi : Rp. 10.000,-
+Parkir Roda Dua : Rp. 5.000,-
+Parkir Roda Empat : Tidak tersedia.
+Jam Operasional
+Setiap hari.
+Kontak
+Tidak tersedia.
+Tips
+Jangan lupa juga untuk mempersiapkan diri dan stamina, karena untuk menuju air terjun ini anda harus melakukan treking menyusuri sungai. Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Pamijahan
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-saderi/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/curug-saderi-250x250.jpg', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (143, 'Curug Putri Pelangi', 'Alam', 'Alam', 'Air Terjun dengan kolam berenang yang jernih dan segar
+Air terjun ini berada di kaki Gunung Salak, perbatasan antara Desa Palasari dan Desa Tajurhalang, Kecamatan Cijeruk, Kabupaten Bogor. Masyarakat Desa Tajurhalang, Kecamatan Cijeruk mengenal curug itu bernama Curug Banban atau Curug Palasari. Curug Putri Pelangi cocok dikunjungi baik perseorangan maupun dengan keluarga karena lokasinya yang mudah dijangkau. Dengan akses jalan yang sudah baik dan infrastruktur yang memadai.
+Terdapat dua sumber air terjun yang terpisah, namun masih berdekatan dengan ketinggian kurang lebih 7 meter dan aliran air jernih yang tak terlalu deras. Kedua air terjun mengalir ke sebuah kolam cukup luas untuk berendam. Selain berenang atau bermain air, anda juga dapat bersantai saja di area kolam. Di tepian kolam banyak bebatuan yang bisa digunakan sebagai tempat duduk. Wisatawan dapat duduk santai di batu-batuan tersebut. Sambil menceburkan kaki ke kolam, seolah menikmati refleksi di jacuzzi.
+Di area air terjun, pengunjung bisa berkemah dengan membawa tenda atau di saung yang disediakan warga. Namun jika menginap di sini, pengunjung harus tetap berhati-hati karena masih ada hewan liar seperti monyet, ular, hingga kucing hutan.
+Lokasi
+Desa Tajur Halang, Kecamatan Cijeruk, Bogor, Jawa barat16740
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Tiket Masuk
+Tiket masuk lokasi : Rp. 20.000,-
+Tiket berkemah : Rp. 30.000,-
+Parkir Roda Dua : Rp. 5.000,-
+Parkir Roda Empat : Rp. 10.000,-
+Jam Operasional
+Setiap hari.
+Kontak
+Tidak tersedia.
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Cijeruk
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-putri-pelangi/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/curug-putripelangi-4-250x250.jpg', null, 10, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (144, 'Curug Ngumpet', 'Alam', 'Alam', 'Taman Nasional Gunung Halimun Salak merupakan kawasan konservasi seluas 113.357 hektar dengan lingkup wilayah yang bergunung-gunung. Ternyata di kawasan tersebut bukan hanya terdapat flora dan fauna saja, tetapi terdapat juga destinasi wisata alam yang sangat layak untuk dikunjungi. Salah-satunya Curug Ngumpet.
+Curug Ngumpet terdapat di dua lokasi namun masih dalam satu kawasan yang sama. Orang – orang sering menyebutnya dengan Curug Ngumpet 1, dan Curug Ngumpet 2. Dan Curug Ngumpet 2 disebut juga dengan Curug Kondang.
+Tempat nya sejuk bngt suasana nya juga nyaman banget perma kali main ke sini sekalian nge camp mantep banget ga begitu rame juga atw sumpek” an
+Review Terbaik Saat Ini
+Curug Tersembunyi Yang Sangat Memukau
+Curug berarti air terjun, sedangkan ‘ngumpet’ berarti tersembunyi. Sesuai namanya, menuju objek wisata ini memerlukan sedikit perjuangan lebih. Air terjun dengan ketinggian 45 meter tersebut layaknya permata yang dilindungi hutan belantara.
+Lokasi
+Gn. Picung, Kec. Pamijahan, Bogor, Jawa Barat 16810
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Penginapan
+Toilet
+Tiket Masuk
+Harga tiket masuk gerbang utama            : Rp. 15.000 / Orang
+Harga tiket masuk Curug Ngumpet 1       : Rp. 10.000 / Orang
+Harga tiket masuk Curug Ngumpet 2       : Rp. 10.000 / Orang
+Jam Operasional
+Senin – Minggu Pukul 07.00 – 16.00 WIB (Masa PPKM Mungkin Saja Ada Perubahan)
+Kontak
+Tlp : +6285882111822
+Tips Wisata
+Berwisatalah saat kondisi cuaca mendukung. Karena jika di musim hujan, tentu saja sulit menikmati seluruh spot yang tersaji di sana.
+Bawalah baju ganti, karena di sana kalian akan tergoda untuk bermain air.
+Jangan melanggar batas keamanan yang sudah ditentukan, baik di Curug Ngumpet 1, dan Curug Ngumpet 2. Terutama dilarang berenang mendekati palung tepat air terjun jatuh ke dasar kolam.
+Segera naik dari kolam jika hujan lebat atau jika ada petir.
+Jangan membuang sampah sembarangan, dan jangan merusak ekosistem, serta fasilitas yang sudah ada di sana.
+Selalu patuhi protokol keamanan dan kesehatan yang sudah ditetapkan oleh pihak pengelola dan pihak pemerintah.
+Dilarang berbuat asusila
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Pamijahan
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-ngumpet/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/curug-Ngumpet2-250x250.jpg', null, 9, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (145, 'Curug Nangka', 'Alam', 'Alam', 'Air terjun alami dengan jalur treking yang menarik.
+Curug Nangka adalah salah satu air terjun di kaki Gunung Salak yang masuk dalam kawasan Taman Nasional Halimun Salak. Berada di ketinggian 750 mdpl dan dikelilingi hutan pinus membuat hawanya sangat sejuk. Wana wisata seluas 17 hektar ini dibuka untuk umum sejak 1991 oleh Perhutani. Suhu area wisata ini berkisar 20 – 22ºC. Lokasinya berada di Desa Sukajadi, Kecamatan Tamansari, Kabupaten Bogor dengan rute yang juga dapat dijangkau menggunakan kendaraan umum. Dari pintu gerbang menuju curug berjarak tempuh sekitar 700 meter. Lokasi air terjun berada di ketinggian dengan jalur berliku dan menanjak. Namun sudah terdapat jalan setapak dengan medan yang sudah dibuat senyaman mungkin.
+Lokasi
+Desa Sukajadi, Kecamatan Tamansari, Bogor, Jawa Barat 16370
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Camping Ground
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Tiket Masuk
+Tiket Masuk Wisatawan Domestik Weekday Rp. 22.000
+Tiket Masuk Wisatawan Domestik Weekend Rp. 32.000
+Tiket Masuk Wisatawan Mancanegara Weekday Rp.305.000
+Tiket Masuk Wisatawan Mancanegara Weekend Rp.450.000
+Tiket Rombongan Pelajar Domestik Weekday Rp. 20.000
+Tiket Rombongan Pelajar Domestik Weekend Rp. 22.000
+Tiket Rombongan Pelajar Mancanegara Weekday Rp.105.000
+Tiket Rombongan Pelajar Mancanegara Weekend Rp.305.000
+Jam Operasional
+Setiap hari.
+Kontak
+Tidak tersedia.
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Tamansari
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-nagka/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/Curug-Nangka-250x250.jpg', null, 9, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (146, 'Curug Luhur', 'Alam', 'Alam', 'Curug Luhur memiliki sajian bermain air yang berbeda dibandingkan dengan curug-curug yang ada di Bogor. Lokasinya didesain sedemikian rupa, sehingga terciptalah sebuah waterboom dengan hiasan air terjun yang cukup deras. Konsep air terjun plus waterboom memang tidak banyak dipakai oleh beberapa pengelola, sehingga menjadi daya tarik tersendiri ketika kamu mengunjungi Curug Luhur Bogor ini. Lokasinya berada di Desa Ciapus, Kecamatan Ciomas, dan berada di bawah kaki Gunung Salak. Sehingga aliran air yang ada di kolam renangnya sangat menyegarkan, jernih, dan bebas bau kaporit tentunya.
+Pada saat saya ke lokasi curug luhur tempatnya sejuk banyak kolam renang nya dan seluncuran air seperti water boom,cuman harus ada perbaikan fasilitas dan di rapihkan lokasih rekreasi airnya
+Wisata menarik yang instagramable.
+Curug Luhur Keindahan Alam Luar Biasa
+Suasana curug luhur sangat sejuk, sangat cocok untuk liburan bersama keluarga. Akses ke lokasi cukup bagus, ada beberapa ruas jalan yang perlu perbaikan. Saat liburan panjang biasanya curug luhur ramai pengunjung dari bogor dan luar bogor. Fasilitas penunjang lainnya cukup baik.
+Review Saat Ini
+Jalan menuju Curug Luhur Bogor, dapat dilalui oleh kendaraan jenis apapun baik itu roda dua maupun roda empat. Dari pusat kota Bogor jarak yang akan ditempuh sekitar 18 km. Untuk menuju Curug Luhur dapat menggunakan kendaraan pribadi ataupun angkutan umum. Untuk kamu yang berasal dari Jakarta ataupun Tangerang, dapat menggunakan kereta api dan turun di Stasiun Bogor.
+Lokasi
+Jl. Hegarmanah, Pamijahan, Tapos I, Tenjolaya, Tapos I, Tenjolaya, Bogor, Jawa Barat 16370
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Area Parkir Kendaraan
+Toilet
+Warung Makanan & Minuman
+Seluncuran air yang beragam
+Tiket Masuk
+Tiket masuk lokasi : Rp. 45.000,- / Orang
+Parkir Roda Dua : Rp. 10.000,-
+Parkir Roda Empat : Rp. 30.000,-
+Jam Operasional
+Senin – Minggu 08.00 – 18.00 WIB (Masa PPKM Mungkin Saja Ada Perubahan)
+Kontak
+–
+Tips
+Hal yang perlu diperhatikan saat berkunjung kemari tentunya badan yang fit karena jika tidak dalam kondisi fit pasti tidak bisa menikmati liburan dengan maksimal dan juga, Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Pamijahan
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-luhur/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/Curug_Luhur-250x250.jpg', null, 9, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (147, 'Situ Tamansari', 'Alam', 'Alam', 'Tamansari merupakan nama salah satu nama Desa yang ada di Kecamatan Tamansari, daerah perluasan kecamatan Ciomas, Kabupaten Bogor, Provinsi Jawa Barat. Karena lokasi yang berdekatan dengan Gunung Salak, maka tidak heran kalau udara di desa ini masih sejuk. Selain itu juga, desa ini memiliki beberapa objek destinasi yang bisa di kunjungi seperti Bumi Perkemahan Sukamantri, villa suharto, Citiis. Namun, bukan hanya objek wisata itu saja yang sudah dikenal banyak orang, akan tetapi terdapat satu lokasi yang sebetulnya dapat dikembangkan potensi wisatanya, sehingga nantinya menjadi daya tarik tambahan bagi pengunjung untuk datang ke Desa Tamansari. Lokasi yang dimaksud tersebut adalah Situ Tamansari.
+Pemandangan lumayan, bisa mancing, bisa naik perahu, ada spot untuk foto juga.. sayang penanganan sampahnya belum optimal.
+Wisata menarik yang instagramable.
+Sebetulnya informasi tentang danau ini sangatlah minim, begitu pula jika Anda mencoba mencarinya di Internet. Karena danau ini memiliki beberapa nama, yang tentunya berbeda-beda. Ada yang menyebutnya Setu Lama, Situ Taman, dan juga Situ Tamansari. Selain itu juga, papan Jalan  yang ada di sepanjang Jalan Raya Ciapus tidak mencantumkan arah ke Situ Tamansari, intinya menuju ke Situ Tamansari ini sangat minim akan informasi.
+Lokasi
+Tamansari, Kec. Tamansari, Bogor, Jawa Barat 16610
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Perahu Bebek
+Tiket Masuk
+Tiket masuk lokasi : Gratis
+Naik Perahu Bebek : Rp. 10,000 / Orang
+Jam Operasional
+Senin – Minggu 24 Jam
+Kontak
+–
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Tamansari
+Article Categories: Alam · Danau & Situ', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/situ-tamansari/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/situ-tamansari-250x250.jpg', null, 18, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (148, 'Situ Burung', 'Alam', 'Alam', 'Bersantai di tepi danau yang tenang dan sejuk
+Situ Burung merupakan kawasan resapan air yang berada di belakang kampus IPB Dramaga. Nama Situ Burung sendiri diambil lantaran sering disinggahi berbagai jenis burung. Oleh karenanya keindahan yang ditawarkan semakin terasa dengan kehadiran burung-burung tersebut.
+Situ Burung juga kerap dikunjungi para pemancing untuk melakukan hobinya di sana. Tak hanya itu terdapat warung warung di pinggir danau yang menambah susana nyaman saat berkunjung ke Situ Burung
+Lokasi
+Jalan Carang Pulang, Cikarawang, Dramaga, Kabupaten Bogor.
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Area Parkir
+Warung Makan
+Tiket Masuk
+Tiket masuk Lokasi masih gratis
+Jam Operasional
+Situ Burung buka 24 jam setiap harinya
+Kontak
+Tidak Tersedia
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Dramaga
+Article Categories: Alam · Danau & Situ', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/situ-burung/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/Situ-Burung-Dramaga-250x250.jpg', null, 20, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (149, 'Curug Love', 'Alam', 'Alam', 'Air terjun dengan landscape bagaikan miniatur green canyon.
+Air terjun yang berlokasi di Desa Bantar Karet, Kecamatan Nanggung, Kabupaten Bogor adalah salah satu air terjun dengan pemandangan cukup unik karena menawarkan pemandangan bebatuan dengan kontour seperti green canyon mini. Jika biasanya air terjun ada di gunung atau hutan, air terjun ini berada di tengah pesawahan yang dikelilingi dengan perbukitan dan persawahan hijau nan asri. Sebutan Curug Love muncul karena bentuknya yang seperti hati, masyarakat setempat lebih mengenal tempat ini dengan nama Curug Catang atau Curug Leuwi Cateng.
+Curug Love tidak terlalu tinggi, sekitar lima hingga tujuh meter, air yang mengalir jernih dengan cukup deras, langsung memenuhi kolam yang ada di bawahnya. Pada musim yan tepat, airnya begitu jernih dan bersih, menggenangi kolam yang juga jernih di bawahnya, kemudian dari kolam ini mengalir ke area sungai yang kanan kirinya bebatuan.
+Lokasi
+Desa Bantar Karet, Kecamatan Nanggung, Kabupaten Bogor
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua (pekarangan rumah warga)
+Parkir Roda Empat (pekarangan rumah warga)
+Warung Jajanan (sederhana)
+Toilet
+Tiket Masuk
+Tiket masuk lokasi : Rp. 10.000,-
+Parkir Roda Dua : Rp. 5.000,-
+Parkir Roda Empat : Rp. 10.000,-
+Jam Operasional
+Setiap hari.
+Kontak
+Tidak tersedia.
+Tips
+Datang di pagi hari di hari yang cerah agar aliran airnya terlihat jernih. Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Nanggung
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-love/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/curug-love1-1-250x250.jpg', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (150, 'Curug Lontar', 'Alam', 'Alam', 'Air terjun yang megah dan eksotis.
+Curug Lontar terletak di Desa Kracak, Kecamatan Leuwiliang, Kabupaten Bogor berada dialiran sungai Cianten yang berasal dari pegunungan Halimun – Salak. air terjun dengan tinggi sekitar 35 meter tersebut memiliki debit air yang cukup deras, sehingga aliran air ini juga dimanfaatkan sebagai sumber pembangkit listrik tenaga air (PLTA) Kracak.
+Curug Lontar menyuguhkan keindahan alam yang menawan dengan air jernih dan alirannya yang cukup deras. Keunikan lain dari Curug Lontar yaitu memiliki kubangan luas kurang lebih seluas  7.000 meter persegi dengan kedalaman sekitar 26 meter (sangat tidak disarankan bagi wisatawan untuk berenang ataupun sekedar berendam dikolam tersebut).
+Lokasi
+Desa Karyasari, Kecamatan Leuwiliang, Kabupaten Bogor, 16640
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Toilet
+Tiket Masuk
+Tiket masuk lokasi : Rp. 5.000,-
+Parkir Roda Dua : Rp. 5.000,-
+Parkir Roda Empat : Rp. 10.000,- (pekarangan rumah warga)
+Jam Operasional
+Setiap hari.
+Kontak
+Tidak tersedia.
+Tips
+Air terjun ini cukup dalam dan berbahaya untuk berenang. Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Leuwiliang
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-lontar/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/curug-lontar-250x250.jpg', null, 14, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (151, 'Gunung Munara', 'Alam', 'Alam', 'Gunung Munara, belakangan ini menjadi salah satu tujuan bagi para pendaki pemula, selain karena biaya yang dikeluarkan untuk mendaki gunungini bisa dikatakan cukup murah, waktu yang dibutuhkan untuk sampai ke puncak Gunung ini pun hanya dibutuhkan 1-1.5 jam saja. Memang cukup singkat namun track yang menanjak membuat tantangan tersendiri bagi mereka yang menyukai pendakian. Untuk mendaki gunung ini tak perlu menginap atau mendirikan tenda, namun bagi kalian yang ingin camping dan mendirikan tenda, terdapat banyak spot bagus dan menarik yang bisa dijadikan lokasi camping.
+Best places to go for short trekking around Jabodetabek. Only takes 1.5 hours to the top. The view is good and refreshing.
+Cocok Untuk Wisata Hiking Untuk Pemula
+Pemandangan Indah
+Saat ini di kaki Gunung Munara telah dikelola oleh warga sekitar semenjak boomingnya gunung ini beberapa bulan terakhir. Tempat parkir, mushola, toilet, dan warung telah tersedia di kampung terakhir sebelum kita mendaki. Di sepanjang jalurpun ada sekitar 3 warung yang bisa kita jadikan tempat untuk melepas lelah saat pendakian. Kita pun diwajibkan untuk di data sebelum mendaki gunung ini dan wajib lapor ketika sudah turun dari gunung ini. Terbayang sudah zaman melek informasi ini sangat mudah mempopulerkan sebuah tempat yang sebelumnya bahkan tak pernah terpikir untuk di kelola sedemikian rupa. Tapi dengan semua itu semoga masyarakat sekitar makin tergerak kegiatan ekonominya dan yang terpenting adalah tetap melestarikan Gunung Munara.
+Pemandangan indah dari atas, biaya masuk 10.000 sudah trmasuk parkir,udara sejuk.
+Review Terbaik Saat Ini
+Lokasi
+Kp. Sawah, Kec. Rumpin, Bogor, Jawa Barat
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Area
+Tiket Masuk
+Untuk parkir Motor Rp. 5.000 /Motor
+Untuk parkir Mobil Rp. 10.000 /Mobil
+Dan biaya perorangnya Rp. 10.000 /Orang
+Jam Operasional
+Senin – Minggu 24 Jam
+Kontak
+–
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Rumpin
+Article Categories: Alam · Gunung & Bukit', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/gunung-munara/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/gunung-munara-250x250.jpg', null, 17, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (152, 'Curug Leuwi Hejo', 'Alam', 'Alam', 'Air terjun dengan air jernih berwarna kehijauan.
+Curug Leuwi Hejo adalah air terjun yang berada di wilayah Sentul Kabupaten Bogor. Nama Leuwi Hejo konon karena saat terkena sinar matahari pancaran airnya berwarna hijau. Wisata ini semakin populer di kalangan wisatawan sejak awal tahun 2015. Curug ini berada di Kawasan Hutan RPH Babakan Madang BKPH Bogor. Daya tarik utama Curug Leuwi Hejo yaitu warna airnya. Telaga di bawah air terjun memberikan pantulan warna biru kehijauan jernih. Airnya sejuk dan dingin khas alami air dari pegunungan.
+Lokasi
+Desa Karang Tengah, Kecamatan Babakan Madang, Bogor, Jawa Barat 16830
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Toilet
+Tiket Masuk
+Tiket masuk lokasi : Rp. 25.000,-
+Parkir Roda Dua : Rp. 10.000,-
+Parkir Roda Empat : Rp. 15.000,-
+Jam Operasional
+Setiap hari. (Jam 8.00 – 17.00)
+Kontak
+Lembaga Masyarakat Desa Hutan Wana Sejahtera, Desa Karang Tengah
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Babakan Madang
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-leuwi-hejo/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/leuwihejo-sign-250x250.png', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (153, 'Curug Hordeng', 'Alam', 'Alam', 'Penyuka wisata sekaligus petualangan sepertinya akan tertarik dengan destinasi wisata alam yang satu ini: Curug Hordeng. Curug yang terletak di Bogor ini berada di Kampung Cibeureum, Sentul, Bogor. Air terjun ini tidak hanya menawarkan keindahan air terjun, tetapi juga tantangan bagi siapapun yang ingin mengunjunginya.
+“Trekking yang sangat panjang dan cukup melelahkan. Namun sepanjang perjalanan kita akan melihat pemandangan yang sangat Indah. jalan kaki selama kurang lebih 60 menit sampai ke curug.”
+Sangat Cocok Melepas Penat
+Pemandangan Indah Dan Air Yang Sejuk
+Curug Hordeng adalah bagian dari rangkaian air terjun yang berada di kawasan Sentul. Tempat wisata alam air terjun ini banyak diminati wisatawan karena lokasinya tidak terlalu jauh dari kota-kota besar seperti Jakarta, Bekasi, maupun Depok. Tapi jangan salah, perjalanan menuju objek wisata air terjun ini populer sebagai rute yang menguji adrenalin. Selain itu, ada dua curug lainnya yang bisa dinikmati di kawasan curug ini.
+“Tempatnya keren banget. Bahkan sebelum sampe curugnya pun kita udh disuguhi pemandangan pengunungan yang sangat indah. Hanya saja jalan di perkampungan menuju curug ini msh kurang bagus, apalagi klo musim hujan licin jalanannya”
+Sangat Nyaman Tempatnya.
+Lokasi
+Jl. Gunungwangun, Cibadak, Sukamakmur, Bogor, Jawa Barat 16830
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Area Parkir
+Toilet
+Mushola
+Warung Makanan
+Tiket Masuk
+Tiket masuk lokasi : Rp. 35,000,-
+Jam Operasional
+Senin – Minggu 07.00 – 15.00 WIB
+Kontak
+Tlp : 0821-1212-0639
+Website : https://curug-hordeng.business.site
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Sukamakmur
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-hordeng/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/Curug-Hordeng-250x250.jpg', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (154, 'Curug Cimanglid', 'Alam', 'Alam', 'Air terjun tersebunyi dengan jalur trekking yang menarik.
+Berada satu kawasan dengan Curug Saderi, Curug Cimanglid adalah salah satu curug menarik yang dapat anda kunjungi di sekitar wisata Gunung Salak Endah Kecamatan Pamijahan, Kabupaten Bogor. Curug ini sangat cocok bagi anda yang menyukai aktivitas trekking ataupun Camping. Di area curug ini juga tersedia satu spot sumber mata air panas.
+Terdapat satu kawasan pengelola tempat wisatawan beristirahat maupun tempat makan-makan bersama keluarga bernama Cipanas Karang Endah, yang juga menawarkan kolam renang dengan pemandian air panas. Sayangnya jalur ke lokasi ini belum bisa dilalui dengan roda empat, karena jalan yang masih rusak berbatu dan melalui pematang sawah & perkampungan.
+Lokasi
+Desa Ciasmara, Kecamatan Pamijahan Kabupaten Bogor
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Mushola
+Toilet
+Tiket Masuk
+Tiket masuk lokasi : Rp. 5.000,-
+Parkir Roda Dua : Rp. 5.000,-
+Jam Operasional
+Setiap hari.
+Kontak
+Tidak tersedia.
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Pamijahan
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-cimanglid/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/cat-cimanglid-0-250x250.jpg', null, 11, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (155, 'Curug Cibulao', 'Alam', 'Alam', 'Menghabiskan akhir pekan di tempat yang jauh dari hiruk-pikuk kota seperti tempat wisata alam terdengar tidak mungkin. Rekreasi alam biasanya terletak terlalu jauh dari pusat kota dan butuh waktu yang tidak sebentar untuk mencapainya. Namun, tidak berlaku untuk Curug Cibulao yang berada di Bogor.
+Kampung yang terletak agak dalam di lingkungan perkebunan teh, berdekatan dengan telaga warna. Karena dikelilingi oleh perkebunan teh, suasanya dingin dan sejuk.
+Wisata menarik yang instagramable.
+Cibulao Air Dingin Suasana Sejuk
+Tenang saja, curugnya tidak mengecewakan, sama persis seperti foto2 yg orang2 posting. Air nya bener2 seger bgt, dingin bersih, apalagi yg bagian atas. Saran saya di new normal lebih baik kalau kesini usahakan sampai dicurug pas jam mereka baru buka, krna sepi agar tetap bisa jaga jarak.
+Di antara 300 air terjun yang terdapat di Bogor, Curug Cibulao adalah salah satunya. Air terjun ini berada di daerah Megamendung, Puncak, Bogor. Tempat wisata ini seringkali menjadi pilihan untuk menjadi pelarian singkat bagi warga kota besar di sekitar Bogor. Objek wisata yang menawarkan beragam pesona alam yang masih terjaga keasliannya.
+Lokasi
+Megamendung, Kec. Megamendung, Bogor, Jawa Barat 16770
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Ruang Bilas & Ganti
+Kios Makanan & Minuman
+Sewa Pelampung
+Tiket Masuk
+Tiket masuk lokasi : Rp. 12.000, – Rp. 60.000,-
+Parkir Roda Dua : Rp. 2.000,-
+Parkir Roda Empat : Rp. 4.000,-
+Jam Operasional
+ Senin – Minggu 07.00 – 17.00 WIB
+Kontak
+Tlp : +62 852-9544-703
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Megamendung
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-cibulao/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/curug-cibulao-250x250.jpg', null, 9, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (156, 'Curug Bidadari', 'Alam', 'Alam', 'Curug Bidadari adalah sebuah objek wisata yang berada di kawasan Sentul Paradise Park. Curug berarti air terjun, lokasinya di kota Bogor dengan akses mudah dari Jakarta. Air terjun Bidadari menawarkan keindahan alami air terjun di daerah perbukitan yang asri.
+tempat nya bagus, perpaduan curug dan alam sekitar tmbh sejuk..tp sayang akses jalan kurang bagus .
+Wisata menarik yang instagramable.
+Menarik utk trekking… Akan lebih menarik dan baik bila ada pengelolaan yang baik karena Curug ini punya potensi wisata yg menarik.
+Curug Bidadari
+Air terjun ini memiliki ketinggian sekitar 40 – 75 meter dengan lebar 7 meter. Dahulu, dikenal sebagai Curug Bojong Koneng, sesuai nama desa tempat air terjun ini berada. Airnya bersumber dari kumpulan mata air alami hutan lindung di daerah tersebut.
+Lokasi
+Jl. Sentul Paradise Park, Bojong Koneng, Kec. Babakan Madang, Bogor, Jawa Barat 16810
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Flying Fox
+Tiket Masuk
+Tiket masuk lokasi : Rp. 5.000,-
+Parkir Roda Dua : Rp. 2.000,-
+Parkir Roda Empat : Rp. 4.000,-
+Jam Operasional
+Setiap Hari 08.00 – 17.00 WIB
+Kontak
+Tlp : 0857-1524-7467
+Website : https://airterjunbidadarisentul.wordpress.com
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Babakan Madang
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-bidadari/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/curug-bdadari-250x250.jpg', null, 9, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (157, 'Kebun Teh Cirangsad', 'Alam', 'Alam', 'Kebun teh yang indah nan eksotis
+tempat ini menyimpan banyak sekali keberagaman tempat berpose dan berekspresi. Perbukitan yang elok dengan beribu-ribu bahkan berjuta-juta daun hijau yang terhampar luas di tanah yang luasnya hingga ratusan hektar
+Saat anda mengunjungi wisata yang satu ini anda mungkin harus menempuh perjalanan dengan sedikit terjal dan menanjak. Sesampainya di titik lokasi anda akan menjumpai hamparan perkebunan teh yang sayangat luas nan hijau.
+Lokasi
+Banyu Wangi, Kec. Cigudeg, Bogor, Jawa Barat
+Fasilitas
+Beberapa fasilitas yang tersedia di sekitar, diantaranya:
+Area Parkir
+Warung Makan
+Tiket Masuk
+Tiket masuk dibandrol dengan Rp. 5.000
+Jam Operasional
+Kebun Teh Cirangsad ini buka 24 jam
+Kontak
+Tidak Tersedia
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Cigudeg
+Article Categories: Alam · Kebun Teh', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kebun-teh-cirangsad/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/kebun-teh-cirangsad-250x250.jpg', null, 14, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (158, 'Curug Deng Deng', 'Alam', 'Alam', 'Air terjun tersembunyi yang belum banyak dikunjungi.
+Curug Dengdeng berada di Kampung Cikarawang, Desa Leuwibatu, Kecamatan Rumpin, Kabupaten Bogor. Letaknya yang tersebunyi memang tidak mudah untuk dijangkau karena berada di balik bukit. Walaupun menyajikan panorama alam yang menarik, namun air terjun belum dikelola sebagai objek wisata secara profesional. Terkadang anda akan melihat monyet-monyet berkeliaran karena air terjun ini juga berada ditengah hutan lebat belantara.
+Karenakan air terjun masih belum diresmikan sebagai lokasi wisata. Tempat ini juga tidak memiliki satuan pengelola resmi dan hanya dijaga oleh warga setempat. Terkadang anda akan ditemani oleh seorang kuncen atau penjaga air terjun yang merangkap sebagai pemandu jalan bagi wisatawan. Disarankan memberi tips seikhlasnya saja kepada yang bersangkutan.
+Terdapat jalur trekking yang cukup menantang, sehingga membuat air terjun ini cukup populer di kalangan traveler yang berpengalaman hiking. Wisata ini juga cocok bagi para pesepeda yang tertarik untuk mencoba jalur ekstrim menuju lokasi air terjun.
+Lokasi
+Leuwibatu, Rumpin, Bogor, Jawa Barat 16350
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Warung Jajan (sederhana)
+Tiket Masuk
+Tiket masuk lokasi : Rp. 5.000,-
+Parkir Roda Dua : Rp. 5.000,-
+Jam Operasional
+Setiap hari (Jam 8.00 – 15.00)
+Kontak
+Tidak tersedia.
+Tips
+Disarankan untuk menggunakan roda dua, karena tempat parkir roda empat belum tersedia (masih seadanya). Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Parung
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-deng-deng/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/curug-dengdeng-img1-250x250.jpg', null, 12, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (159, 'Curug Ciherang', 'Alam', 'Alam', 'Kawasan Wisata yang lengkap untuk keluarga.
+Curug Ciherang adalah salah satu wisata air terjun yang sedang hits di kalangan wisatawan. Kawasan wisata ini tidak hanya menyajikan air terjun yang menawan dengan tiga tingkatan, tetapi juga Kawasannya yang telah lengkap dengan fasilitas-fasilitas wisata modern. Beberapa diantaranya seperti kolam renang dengan tematik unik dan aneka wahana menarik termasuk rumah pohon.
+Air Terjun ini berada di area kawasan hutan Desa Wargajaya, Kecamatan Sukamakmur. Seiring terus dibangunnya jalur puncak 2, Objek wisata alam ini diprediksi akan terus berkembang . Dari tempat ini, wisatawan dapat menikmati sajian pemandangan keindahan alam Bogor.
+Lokasi
+Desa Wargajaya, Kecamatan Sukamakmur, Kabupaten Bogor 16830
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Retorant/Cafe
+Penginapan
+Angkutan dalam Kawasan
+Kolam Renang
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Tiket Masuk
+Tiket masuk lokasi : Rp. 40.000,-
+Anak usia 10 tahun ke atas sudah membayar tiket masuk.
+Harga tiket sudah mendapat semua wahana.
+Tidak ada batasan usia untuk berkunjung ke Curug Ciherang.
+Parkir Roda Dua : Rp. 5.000,-
+Parkir Roda Empat : Rp. 10.000,-
+Jam Operasional
+Setiap hari (Jam 07.00 – 18.00)
+Kontak
+Tidak tersedia.
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Sukamakmur
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-ciherang/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/curug-ciherang-250x250.jpg', null, 9, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (160, 'Curug Balong Endah', 'Alam', 'Alam', 'Jawa Barat mempunyai banyak lokasi wisata alam yang dapat dinikmati. Mulai dari Bandung yang terkenal dengan Paris Van Java, Bogor yang dikenal sebagai Kota Hujan, Sumedang yang terkenal dengan tahunya, Garut yang biasa disebut juga Swiss Van Java, dan masih banyak lagi yang lainnya. Di Bogor terutama yang notabene letaknya tidak jauh dari Ibukota, sering dikunjungi oleh para pelancong yang datang dari Jakarta untuk merefresh tenaga dan fikiran mereka. Tempat favorit yang selalu ramai dikunjungi ialah kawasan Puncak Bogor.
+salah satu air terjun yang unik dan indah di Bogor, rutenya cukup dekat dari tempat parkir sehingga tidak menghabiskan energi Anda untuk berjalan-jalan lagi.
+Wisata menarik yang instagramable.
+Di Bogor terdapat tempat wisata yang baru dibuka sekitar tahun 2016 lalu, yang bernama Curug Balong Endah atau Leuwi Balong Endah yang terletak di kawasan Taman Nasional Gunung Halimun-Salak. Lokasi yang masih terbilang baru tersebut, mulai ramai belakangan ini dikunjungi para wisatawan karena menghadirkan sensasi air terjun yang berbeda.
+Curug Balong Endah
+Curug aman untuk yg suka berenang. Karena ga terlalu dalam, bening jernih banget wow airnya super dingin. Cek cuaca sbelum ksini suka ujan , untuk sampe kelokasi cukup Nanjak yah tapi jalannya bagus bgt. Pelan2 aja naik nanjaknya. Cukup bayar 10k. Tapi males bgt karena masuk Curug kondang. Kita harus bayar duoble tiket. Cukup Taulah ya… Lewat dari jalan bawah aja yah…kalo dari atas jelek banget … Masuk pintu utama jalan taman halimun salak bayar akses masuk 20k an.
+Sangat Nyaman Tempatnya
+Lokasi
+Jl. Curug Pangeran, Gn. Picung, Kec. Pamijahan, Bogor, Jawa Barat 16810
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Area Parkir Mobil Maupun Motor
+Warung – warung Makan & Minum
+Kamar Mandi Umum
+Mushola
+Penginapan
+Kuliner
+Tiket Masuk
+Tiket masuk lokasi : Rp. 7,500,-
+Parkir Roda Dua : Rp. 5000,-
+Parkir Roda Empat : Rp. 10,000,-
+Jam Operasional
+Hanya DiBuka WeekEnd Sabtu – Minggu Pukul 08.00 WIB – 15.00 WIB
+Kontak
+Tlp :+6285777557474
+Tips Wisata
+Jangan lupa untuk membawa baju ganti atau peralatan lainnya.
+Jika kamu membawa anak-anak selalu perhatikan saat mereka bermain air.
+Pastikan kondisi cuaca sedang cerah, tidak mendung apalagi hujan.
+Jagalah selalu kebersihan dan keasrian lingkungan Curug Balong Endah.
+Siapkan gadget kamu untuk mengabadikan setiap momen yang tercipta di Curug Balong Endah.
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Pamijahan
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-balong-endah/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/balong-endah-250x250.jpg', null, 9, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (161, 'Curug Cikuluwung', 'Alam', 'Alam', 'Air terjun dengan keindahan landscape bebatuan yang luar biasa.
+Curug Cikuluwung merupakan wisata air terjun yang cukup unik dan menarik karena Air terjun ini berada di tengah lembah berbatu. Disekitarnya terdapat tebing bebatuan alami yang membuatnya terlihat sangat eksotis. Terdapat dua air terjun di lokasi ini dengan karakteristik yang cukup berbeda dengan ketinggian 20-30 meter. Untuk sampai ke lokasi curug anda akan melalui jalur treking yang curam. Meski demikian, jalan yang ditempuh untuk sampai ke curugnya tidak terlalu jauh dengan berjalan kaki.
+Lokasi
+Kampung Suka Asih, Desa Cibitung Wetan, Pamijahan, Kabupaten Bogor Barat
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Tiket Masuk
+Tiket masuk lokasi : Rp. 20.000,-
+Parkir Roda Dua : Rp. 5.000,-
+Parkir Roda Empat : Rp. 10.000,-
+Jam Operasional
+Setiap hari jam 08.00-17.00 WIB
+Kontak
+Tidak tersedia.
+Tips
+Ada beberapa lokasi yang cukup curam dan berbahaya. Sehingga, harap berhati-hati jika ingin berkunjung ke lokasi ini.
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Pamijahan
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-cikuluwung/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/cikuluwung-9-250x250.jpg', null, 9, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (162, 'Puncak Batu Roti', 'Alam', 'Alam', 'Salah satu puncak gunung yang menawarkan pemandangan indah di siang dan malam hari
+Puncak Batu Roti adalah spot yang lagi hits dan jadi jujugan anak muda Bogor untuk melihat kota dari ketinggian. Puncak ini merupakan satu dari dua puncak di pegunungan Kapur Ciampea
+Pemandangan alam yang cantik dengan view lampu kota dan pegunungan di sekitarnya, termasuk Gunung Salak. Kalau kamu suka mendaki dan camping cocok banget sih buat camping di akhir pekan. Nongkrong sambil ngopi sekaligus disuguhi pemandangan kerlip lampu kota di malam hari tentu jadi pengalaman yang menyenangkan di tengah padatnya aktivitas harian.
+Nggak cuma kerlip lampu kota yang bisa kamu saksikan dari Puncak Batu Roti. Kamu juga bisa menyaksikan keindahan matahari terbit di sini. Hal itu makin syahdu ketika daratan masih terselimuti kabut dan mulai terangkat ke atas. Bersamaan dengan itu nampak Gunung Salak yang gagah di ujung sana
+Lokasi
+Cibadak, Ciampea, Bogor, Jawa Barat 16620
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Area Parkir
+Penyewaan Peralatan Camping
+Tiket Masuk
+Tiket masuk lokasi : Rp.5.000
+Parkir : Rp. 5.000
+Jam Operasional
+Buka 24 jam setiap hari
+Kontak
+Tidak Tersedia
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Ciampea
+Article Categories: Alam · Gunung & Bukit', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/puncak-batu-roti/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/batu-roti-250x250.jpg', null, 12, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (163, 'Curug Cikaracak, Caringin', 'Alam', 'Alam', 'Jalan menuju air terjun Cikaracak memiliki pemandangan sangat indah melewati pesawahan selama perjalanan menuju lokasi.
+Kabupaten Bogor merupakan surganya wisata alam yang menjadi tempat persinggahan bagi penduduk Jadetabek (Jakarta, Depok, Bekasi dan sekitarnya ) khususnya, salah satu wisata alam di Bogor ini yang paling banyak dikunjungi adalah air terjun. Dari Sekian banyak air terjun yang ada di Bogor memiliki pemandangan yang mengagumkan salah satunya adalah air terjun Cikaracak.
+Ketika menyusuri jalan dijamin kamu tidak akan merasa bosan, pemandangan pesawahan yang ciamik diiringi beberapa bukit kiri dan kanan selama perjalanan dilengkapi dengan sungai mengalir dibawahnya begitu terasa semliwir suara-suara rintik air jernih yang memanjakan telinga, selang beberapa ratus meter kamu akan dimanjakan beberapa pohon rimbun dan suasana yang tenang.
+Fasilitas
+Parkir Roda Dua
+Parkir Roda Empat
+Tiket Masuk
+Tiket masuk lokasi : Rp. 10.000,-
+Tiket Parkir Motor : Rp. 10.000,-
+Tiket Parkir Mobil : Rp. 20.000,-
+Lokasi
+Kaki Gunung Pangrango, Dusun Cibeling, Desa Cinagara, Kecamatan Caringin.
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Berhati-hati karena di lokasi air terjun jalan berbatu licin
+Article Tags: Caringin
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-cikaracak-salah-satu-pesona-air-terjun-di-kabupaten-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/IMG_20211111_101156-250x250.jpg', null, 14, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (164, 'Wisata Wana Griya', 'Alam', 'Alam', 'Salah satu tempat wisata yang indah yang menyajikan pemandangan alami dengan pantai buatan yang akan memanjakan para pengunjung.
+Wisata Wana Griya memberikan sensasi baru bagi pengunjungnya, menikmati pantai buatan dan suasana alam dikelilingi pohon yang rimbun.
+Disana pengunjung akan disajikan pemandangan eksotis dengan aneka wahana permainan berbayar seperti perahu bebek, taman kurcaci, kolam renang dan wahana lainnya. Selain wahana yang berbayar para pengunjung juga dapat bermain sepuasnya di taman yang sudah di sediakan oleh pengelola tempat wisata.
+Lokasi
+Jalan Raya Pahlawan RT05 RW07 Cogreg, Parung, Bogor, Jawa Barat 16330
+Fasilitas
+Wisata Wana Griya memiliki beberapa fasilitas yang ditawarkan, yaitu :
+Toilet
+Mushola
+Lahan parkir
+Kolam Pemancingan
+Rumah Kurcaci
+Arena Bermain
+Bermain Scooter dan Terapi Ikan
+Spot Foto
+Tiket Masuk
+Tiket Masuk Rp7.500
+Tiket Kolam Renang Weekday (Include Mandi Busa, Bioskop 3D & Taman Korea) Rp25.000
+Tiket Kolam Renang Weekend (Include Mandi Busa, Bioskop 3D & Taman Korea) Rp30.000
+Tiket Kendaraan
+Parkir Motor Rp5.000
+Parkir Mobil Rp10.000
+Parkir Bus Rp20.000
+Jam Operasional
+Wisata ini dibuka setiap hari dari mulai jam 08.30 dan tutup jam 16.00
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Parung
+Article Categories: Alam · Danau & Situ · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/wisata-wana-griya/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/wana-wana-250x250.png', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (165, 'Kebun Teh Cianten', 'Alam', 'Alam', 'Menikmati suasana pagi dan sore hari perkebunan teh di Leuwiliang
+Wisata Perkebunan Teh Cianten ini merupakan aset dari perusahaan perkebunan milik negara yang membawahi unit usaha serta pertanian serta telah memiliki banyak lahan di Bogor dan daerah perkebunan lainnya di Indonesia. Di sini, akan dimanjakan dengan hamparan hijau kebun teh yang dikelola oleh PT Perkebunan Nusantara (PTPN) VIII. Suasana asri dan udara sejuk bisa kamu temukan di kawasan wisata yang berada di kaki Gunung Halimun Salak ini
+Lokasi
+Kebun Teh Cianten berada di Jalan Karacak, Leuwiliang, Puraseda, Purasari, Kec. Leuwiliang, Bogor, Jawa Barat 16640
+Tiket Masuk
+Sampai saat ini Kebun Teh Cianten tidak dikenakan biaya pungut
+Tips
+Waktu terbaik untuk menikmati Kebun Teh Cianten ini adalah pada pagi dan sore hari, dimana cuaca dan udara pada saat itu masih segar dan tidak terlalu panas
+Article Tags: Leuwiliang
+Article Categories: Alam · Kebun Teh', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kebun-teh-cianten/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/Kebun-teh-Cianten-250x250.png', null, 14, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (166, 'Goa Pocong Klapanunggal', 'Alam', 'Alam', 'Menikmati stalaktit dan stalakmit yang menghiasi dinding dan langit goa yang indah di Klapanunggal
+Tidak jauh dari Ibu Kota Jakarta ternyata ada sebuah objek wisata alami yang menawan hati. Destinasi wisata tersebut adalah Goa Pocong, yang terletak di Klapanungga, Bogor Jawa Barat.
+Goa Pocong terletak di dekat area ekplorasi gunung kapur sebuah pabrik semen.Di dalam goa yang lumayan lebar dan cukup tinggi tersebut dihiasi stalaktit dan stalakmit yang membuat indah dipadang, serta cocok untukber foto.Goa alam tersebut selain menawarkan keindahan juga menjadi salah satu tempat olahraga panjat tebing bagi pegiat olahraga ekstrem
+Lokasi
+Goa Pocong ini berada di Klapanunggal, Bogor, Jawa Barat 16710
+Fasilitas
+Bagi wisatawan yang berkunjung menunggunakan kendaraan jangan khawatir, di sekitar Goa Pocong ini terdapat area parkir untuk kendaraan kalian
+Tiket Masuk
+Biasa masuk yang dikenakan untuk berkunjung ke Goa Pocong sebesar Rp. 10.000
+Jam Operasional
+Goa Pocong ini buka pada pukul 08.00 – 16.00
+Article Tags: Klapanunggal
+Article Categories: Alam · Goa', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/goa-pocong-klapanunggal/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/Goa-Pocong-Klapanunggal-250x250.png', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (167, 'Curug Pangeran', 'Alam', 'Alam', 'Salah satu curug yang memiliki air berwarna hijau kebiruan di Pamijahan
+Curug Pangeran, nama ‘Pangeran’ yang disematkan pada air terjun ini sekaligus menjadi keunikan tersendiri. Dengan keindahan dan suasananya, wisatawan dapat merasakan sensasi mandi layaknya anak raja.
+
+Air terjun dengan ketinggian sekitar 6 meter ini berada di bagian hulu mata air Gunung Salak. Airnya sangat jernih dengan pantulan cahaya hijau kebiruan. Akses menuju lokasi air terjun yang bersahabat dengan jarak dekat juga menjadi nilai tambah
+Lokasi
+Curug Pangeran berada di kawasan TNGHS tepatnya di Gunung Sari, Kecamatan Pamijahan, Bogor, Jawa Barat 16810
+Fasilitas
+Untuk kenyamanan pengunjung Curug Pangeran memiliki beberapa fasilitas yang dapat digunakan, daintaranya :
+Toilet
+Mushola
+Kantin
+Tiket Masuk
+Tarif yang dikenakan ketika berlibur di Curug Pangeran yaitu :
+Tiket Masuk Kawasan TNGHS Rp. 15.000 / orang
+Tiket masuk Curug Pangeran Rp. 10.000
+Biaya Parkir Rp. 5.000
+Jam Operasional
+Curug buka setiap hari pada pukul 06.00 – 18.00 WIB
+Tips
+Jika kalian berlibur ke Curug Pangeran disarankan agar berkunjung saat cuaca cerah, jika tidak bisa berenang maka hindari berenang melewati pembatas yang disediakan, naiklah ketika dirasa debit air mulai meningkat dan selalu perhatikan cuaca di sekitar
+Article Tags: Pamijahan
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-pangeran/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/image_2021-11-10_110102-250x250.png', null, 7, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (168, 'Curug Lembah Pelangi', 'Alam', 'Alam', 'Air terjun tersembunyi tapi mudah diakses yang cukup indah dikawasan Bogor Barat.
+Curug ini berada di wilayah dataran rendah sehingga udaranya cukup panas dan lembab. Curug Lembah Pelangi memiliki ketinggian sekitar 60 meter. Hal ini menyebabkan adanya bias cahaya matahari yang jatuh sesekali membentuk pelangi yang indah. Dari angle yang pas, pemandangan pelangi di air terjun ini memang terlihat sangat memukau.
+Jika Anda melihatnya dari atas akan terlihat seperti lembah sempit atau jurang. Pada bagian atas bayak sekali terdapat bebatuan, sebaiknya Anda jangan terlalu ke tepi karena sangat berbahaya jika tidak menggunakan pengaman.
+Lokasi
+Jatake, Cimanggu, Cibungbulang, Cimanggu 1, Kec. Cibungbulang, Bogor, Jawa Barat 16630
+Fasilitas
+Beberapa fasilitas yang ada di lokasi curug lembah pelangi, sebagai berikut:
+Tempat Parkir Roda Dua / Empat
+Mushola
+Toilet
+Tiket Masuk
+Tiket masuk sudah termasuk parkir Rp. 10.000,-
+Jam Operasional
+Dibuka tiap hari jam 8 pagi sampai 5 sore.
+Kontak
+Belum tersedia.
+Tips
+Dengan karakteristik air terjun di aliran hilir sungai ciaruteun, maka hindari untuk berkunjung di musim penghujan karena menyebabkan air terjun yang deras dan membawa banyak sampah. Akses lokasi lebih baik pakai motor (mobil bisa masuk cuma jalan kecil), bawa makanan dan minuman sendiri.
+Curug Kecil Sebelah Curug Utama
+Cocok untuk Posting IG
+Article Tags: Cibungbulang
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-lembah-pelangi/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/PSX_20180225_165111-250x250.jpg', null, 11, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (169, 'Goa Gudawang', 'Alam', 'Alam', 'Goa yang memiliki keindahan dan sejarah yang kuat di Cigudeg
+Nama Gudawang berasal dari kata “Kuda Lawang” yang artinya buntut atau ekor kuda yang dikepang. Terdapat kurang lebih 12 goa di kawasan goa ini, namun sayangnya hanya tiga goa yang sudah dikelola dan dibuka untuk umum yaitu Goa Simenteng, Goa Simasigit, dan Goa Sipahang. Goa yang terletak di daerah ini merupakan goa alami yang terbentuk dari proses sedimentasi yang terjadi selama ratusan tahun yang lalu.
+Air di dalam goa juga bisa dipakai untuk bermacam-macam ritual tergantung kepercayaan. Menurut kuncen di Goa Gudawang, Edo, goa yang belum dibuka untuk umum belum memiliki fasilitas yang memadai sehingga tingkat keamanannya kesembilan goa tersebut juga tidak bisa dijamin. Konon, Goa Gudawang ini merupakan tempat bertapa Pendekar Pasundan.
+Goa ini telah dibuka dari tahun 1990 dan dikelola oleh Pemda Cibinong. Pintu masuk tiap goa berbentuk kepala harimau, konon hingga saat ini penjaga goa percaya bahwa kawasan ini masih dijaga seekor harimau yang bukan harimau biasa. Untuk masuk ke dalam goa yang telah dibuka untuk umum kita diperbolehkan untuk turun sendiri, tetapi bisa juga meminta dipandu oleh penjaga goa karena goa yang telah dibuka untuk umum sudah dijamin aman
+Lokasi
+Goa Gudawang berada di Argapura, Cigudeg, Bogor, Jawa Barat 16660
+Tiket Masuk
+Biaya masuk ke dalam Goa Gudawang dikenakan Rp. 4.000
+Jam Operasional
+Goa Gudawang buka setiap hari pada pukul 08.00 – 17.00
+Article Tags: Cigudeg
+Article Categories: Alam · Cagar Budaya · Goa · Seni Budaya', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/goa-gudawang/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/goa-gudawan1-250x250.jpeg', null, 20, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (170, 'Curug Seribu', 'Alam', 'Alam', 'Pesona air terjun menakjubkan yang menyimpan rahasia mistis
+Curug Seribu memiliki tinggi sekitar 100 meter dan berada di ketinggian 1.050 mdpl. Salah satu curug di Gunung Salak ini menjadi favorit karena memiliki pemandangan yang cantik dan cukup menantang untuk kegiatan trekking
+Berada di Kecamatan Pamijahan akses menuju ke curug ini memang cukup sulit. Wisatawan harus menempuh jarak kurang lebih 5 km dengan trek menanjak yang cukup tinggi
+Wisatawan bisa bermain di bagian sungai yang dangkal sambil berfoto-foto. Bebatuan yang berada di Curug Seribu memiliki bentuk unik, sehingga cocok dijadikan latar berswafoto
+Lokasi
+Curug Seribu berada di Gn. Sari, Kec. Pamijahan, Bogor, Jawa Barat 16810
+Fasilitas
+Beberapa fasilitas yang ada di sekitar Curug Seribu yaitu :
+Area Parkir
+Toilet
+Shelter
+Tempat Makan
+Tiket Masuk
+Harga tiket masuk ke Curug Seribu dibandrol sekitar Rp. 10.000
+Jam Operasional
+Curug Seribu ini buka setiap hari mulai dari pukul 08.00 WIB hingga 16.00 WIB
+Article Tags: Pamijahan
+Article Categories: Air Terjun · Alam', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/curug-seribu/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/curug-seribu-250x250.jpg', null, 179, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (171, 'Situ Rawa Gede', 'Alam', 'Alam', 'Danau tersembunyi di Bogor yang cantiknya membuat hati tenang
+Situ Rawa Gede merupakan kawasan rawa yang pengelolaannya dilakukan secara gotong-royong oleh organisasi pemuda dan warga setempat dengan dibantu oleh pemerintah. Hingga saat ini kawasan wisata danau ini masih terus dikembangkan agar potensinya sebagai tujuan wisata semakin maksimal. Meski begitu, sudah ada beragam aktivitas yang bisa dilakukan di sini, di antaranya wisata danau, berkemah, hingga berendam di bawah air terjun alami
+Situ Rawa Gede terletak tepat di balik perbukitan Puncak. Ketika sampai di sana, pengunjung akan langsung mendapat pemandangan indah dari danau dengan latar bukit, sawah, dan beberapa air terjun kecil di sana-sini. Suara-suara alam akan memanjakan telinga kicauan burung, berbagai jenis serangga, dan embusan angin yang membuat dedaunan di pohon saling gemerisik.
+Setelah meresapi keindahan alamnya, pengunjung bisa memilih kegiatan yang cocok untuk menikmati danau secara langsung. Terdapat pilihan perahu atau sepeda air bagi yang ingin mengarungi danau dan merasakan semilir angin sejuk Situ Rawa Gede langsung di atas airnya. Perahu cocok untuk yang berkunjung beramai-ramai, sementara sepeda air adalah pilihan pas bagi mereka yang datang sendiri, berpasangan, atau bersama keluarga kecil.
+Lokasi
+Situ Rawa Gede terletak di Sirnajaya, Sukamakmur, Bogor, Jawa Barat, Indonesia, 16830
+Fasilitas
+Situ Rawa Gede memiliki beberapa fasilitas yang ditawarkan, yaitu :
+Lahan Parkir
+Toilet
+Mushola
+Bale Bale Istirahat
+Kios Kios makan
+Kendaraan Air
+Area Berkemah
+Kolam Renang
+Kolam Terapi
+Taman
+Tiket Masuk
+Berikut adalah beberapa harga yang dikenakan ketika berlibur di Situ Rawa Gede :
+Tiket Masuk Rp. 20.000
+Tiket Camping Rp. 10.000
+Tiket Kendaraan Motor Rp. 5.000
+Tiket Kendaraan Mobil Rp. 10.000
+Jam Operasional
+Situ Rawa Gede buka 24 setiap harinya. Jadi untuk pengunjung bisa menikmati keindahan situ rawa gede ini kapanpun yang diinginkan
+Article Tags: Sukamakmur
+Article Categories: Alam · Danau & Situ', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/situ-rawa-gede/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/situ-rawa-gede-250x250.jpg', null, 149, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (172, 'Gunung Kapur Ciampea', 'Alam', 'Alam', 'Menikmati keindahan Bogor dari ketinggian
+Gunung Kapur Ciampea, terletak di Bogor dengan ketinggian 385 mdpl. Gunung Kapur Ciampea belakangan mulai ramai dikunjungi wisatawan. Tempat ini bukan cuma menyuguhkan panorama memukau bagi pecinta alam, tetapi juga menyimpan sejarah peradaban manusia. Bahkan, jejak Kerajaan Tarumanegara juga ditemui di kawasan Gunung Kapur yang terbentuk dari lautan dangkal. Beberapa arca masih ditemui di gunung ini, termasuk gua-gua yang diduga jadi persembunyian para raja tempo dulu.
+Di puncak Gunung Kapur, punggungan hingga kaki terhampar benda-benda bernilai sejarah sebagai warisan peradaban purba Sunda. Salah satunya warisan Kerajaan Tarumanegara abad ke-5 Masehi. Ini ditandai pene¬muan arca peninggalan Prabu Purnawarman yang tersebar di Gunung Kapur pada 1971.
+Tokoh masyarakat setempat, Abdul Rojak (59), menceritakan bahwa Gunung Kapur merupakan salah satu peninggalan Kerajaan Purnawarman dan sering disebut Gunung Panenjoan, yakni tempat melihat suatu wilayah. Konon, tempat itu dijadikan bukit pengintai yang bisa melihat keadaan di wilayah sekeliling.
+Lokasi
+Gunung Kapur berada di Jalan Raya Cikampek Bojong Rangkas Ciampea, Ciaruteun Ilir, Kec. Cibungbulang, Bogor, Jawa Barat 16620
+Fasilitas
+Fasilitas yang ada di sekitar Gunung Kapur Ciampea yaitu :
+Area Parkir
+Mushola
+Toilet
+Warung
+Tempat Sewa Tenda
+Tiket Masuk
+Harga yang dikenakan ketika berkunjung ke Gunung Kapur Ciampea yaitu :
+Tiket Masuk Kawasan Rp. 5.000
+Parkir Motor Rp. 5.000
+Parkir Mobil Rp.10.000
+Jam Operasional
+Gunung Kapur Ciampea buka 24 jam setiap hari
+Article Tags: Ciampea
+Article Categories: Alam · Gunung & Bukit', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/gunung-kapur-ciampe/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/bukitkapur-250x250.jpg', null, 75, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (173, 'Taman Nasional Gunung Gede Pangrango', 'Alam', 'Alam', 'Taman Nasional yang memiliki tempat konservasi Owa Jawa dan tumbuhan unik
+Secara geografis Taman Nasional Gunung Gede Pangrango (TNGGP) terletak antara 106º51-107º02BT dan 6º41-6º51 LS. Secara administrastif Taman Nasional ini termasuk dalam wilayah tiga Kabupaten di Provinsi Jawa Barat, yaitu Kabupaten Bogor, Kabupaten Sukabumi dan Kabupaten Cianjur dengan total luasan 24.270,80 Ha.
+Di samping keunikan tumbuhannya, kawasan TNGGP merupakan habitat berbagai jenis satwa liar, seperti kepik raksasa, sejenis kumbang, lebih dari 100 jenis mamalia seperti kijang, pelanduk, anjing hutan, macan tutul, sigung, dan lain-lain, serta 250 jenis burung. Kawasan ini juga merupakan habitat owa Jawa, surili, lutung dan elang Jawa yang populasinya hampir mendekati punah. 
+Lokasi
+Beberapa Area Taman Nasional Gunung Gede Pangrango berada di Caringin, Bogor, Jawa Barat
+Tiket Masuk
+Untuk masuk ke kawasan Taman Nasional Gunung Gede Pangrango dikenakan biaya sebagai berikut :
+Weekday Rp. 27.000
+Weekend Rp. 32.000
+Jam Operasional
+Kawasan Konservasi dan Hutan Lindung dibuka pada pukul 08.00 WIB hingga 16.00 WIB
+Anggrek, Flora Endemik Pulau Jawa
+Owa Jawa
+Article Tags: Caringin
+Article Categories: Alam · Hutan Lindung', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/hutan-lindung-gunung-pangrango/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/gunung-pangrango-250x250.jpg', null, 58, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (174, 'Kebun Teh Nirmala', 'Alam', 'Alam', 'Menikmati keindahan matahari terbit dan udara segar pagi hari di perkebunan teh
+Perkebunan Teh Nirmala memiliki luas lebih lebih dari 900 Ha atau sekitar dari 11% dari total luas Desa Wisata Malasari, berada pada ketinggian 1200 s.d 1900 mdpl.
+Berbeda dengan kebun teh yang ada di puncak yang telah banyak dikepung oleh berbagai jenis bangunan. Disini kita tidak menemukan hal tersebut sehingga benar – benar masih sangat asri, udaranya pun begitu sejuk. Tidak ada riuh ramai suara kendaraan atau asap kendaraan yang mengepul
+Perkebunan Teh Nirmala dibangun pada masa kolonial Belanda, jauh sebelum Taman Nasional Gunung Halimun Salak dikukuhkan pada 1992. Sehingga keberadaan perkebunan milik pemerintah dan dikelola swasta lewat hak guna usaha itu menjadi enklave dalam kawasan taman nasional.
+Perlu diketahui bahwa daun – daun teh yang dipetik di perkebunan ini merupakan bahan baku untuk memproduksi merek teh terkenal
+Lokasi
+Kebun Teh Nirmala berlokasi di Jl. Prabu Muyassar, Malasari, Nanggung, Bogor, Jawa Barat 16650
+Tiket Masuk
+Tiket masuk Desa Wisata Malasari dikenakan biaya sebesar Rp. 12.500 sudah termasuk berwisata ke Perkebunan Teh Nirmala
+Jam Operasional
+Kebun Teh Nirmala buka 24 jam setiap hari
+Udara Segar Menyelimuti Perkebunan
+Menikmati Matahari Terbit
+Article Tags: Nanggung
+Article Categories: Alam · Kebun Teh', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kebun-teh-malasari/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/kebun-teh-nirmala-desa-malasari-250x250.jpg', null, 143, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (175, 'Kebun Teh Gunung Mas', 'Alam', 'Alam', 'Salah satu perkebunan teh yang menawarkan udara yang sejuk dan pemandangan yang indah di Cisarua
+Bicara tentang Puncak-Bogor, selalu terbayang tentang tempat wisata alam nan sejuk. Itulah sebabnya kawasan ini ramai dikunjungi warga metropolitan kala liburan. Kebun Teh Puncak Agrowisata Gunung Mas Cisarua bisa menjadi pilihan destinasi wisata
+Agrowisata yang dikelola pemerintah ini berada pada ketinggian 800-1.200 m dpl. Suhu rata-rata di sana antara 12-22 derajat celcius. Itulah sebabnya area ini sangat cocok digunakan sebagai pelepas kejenuhan rutinitas.
+Lokasi
+Kebun Teh Gunung Mas berada di Jl.Puncak No.KM. 87, Tugu Selatan, Cisarua, Bogor, Jawa Barat, Indonesia, 16750
+Fasilitas
+Fasilitas yang ada disekitar Kebun Teh Gunung Mas yaitu :
+Penginapan
+Aula Serbaguna
+Lapangan Sepakbola
+Tiket Masuk
+Biaya yang dikenakan saat berlibur di Kebun Teh Gunung mas :
+Tiket Umum Rp. 15.000
+Parkir Motor Rp. 2.500
+Parkir Mobil Rp. 7.500
+Parkir Bus Rp. 10.000
+Jam Operasional
+Kebun Teh Gunung Mas buka 24 jam setiap hari
+Article Tags: Cisarua
+Article Categories: Agrowisata · Alam · Kebun Teh · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kebun-teh-gunung-mas/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/gunung-mas-250x250.jpg', null, 24, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (176, 'Rumah Sutera Alam', 'Seni Budaya', 'Seni Budaya', 'Rumah Sutera Alam Ciapus adalah sebuah wisata edukasi di kabupaten Bogor. Di tempat ini kita diajak untuk menyaksikan proses pembuatan kain sutra. dari pemeliharaan ulat hingga menjadi kain sutra siap pakai.
+Sumber Gambar: google map/rahdian saepuloh
+Berbagai macam tempat tempat disini untuk belajar bagaimana cara membuat kain sutera, dan akan dipandu oleh petugas tour dan dijelaskan sejarah dan cara pengerjaannya.
+Kebun Murbei
+Kebun ini terdapat tumbuhan berkayu berwarna hijau setinggi pinggang orang dewasa.
+Adapula empat jenis pohon murbei, seperti Lembang, Multricaulis, Canva dan Katayana yang tiap jenisnya terdapat perbedaan bentuk pada daunnya. makanan ulat sutra adalah daun murbei muda dan biasanya ulat sutra tidak menyukai daun yang lebih tua.
+Pohon Murbei ini memiliki kandungan vitamin dan zat yang kaya akan manfaat, bahkan daunnya bisa dibuat menjadi teh dan buahnya dapat dimakan.
+Sumber Gambar: google map/rahdian saepuloh
+Rumah Ulat Sutra
+Ulat Sutra dari jenis Bombyx mori diletakkan di sebuah ruangan tertutup dan steril karena ia sangat sensitif dan mudah mati. maka, jangan sampai pintu ruangan dibiarkan terbuka. rumah ulat juga harus selalu bersih dan disemprot dengan desinfektan.
+Setelah telur menetas, ulat sutra kecil diberi pakan daun murbei 4 kali sehari dengan waktu yang teratur yaitu pada pukul 7, 11,15, dan 16. lalu setelah satu bulan, ulat akan mulai membuat kepompong atau cocon. ada 3 ciri yaitu, jika ulat sudah tidak mau makan, ia akan mencari tempat meditasi menjadi cocon, kemudian akan keluar serat dari mulut ulat, jika dilihat dengan sinar blitz, ulat sudah tembus pandang.
+Ulat yang akan menjadi kepompong akan mengalami metamorfose menjadi pupa dan kemudian akan menjadi kupu-kupu. cocon yang sudah berbentuk oval putih, tandanya siap dipanen dengan kurun waktu setelah satu minggu. cocon yang siap panen dibersihkan terlebih dahulu dengan satu per satu. jika ada yang rusak, cocon tersebut dipinggirkan dulu, kemudian dijadikan sebagai gantungan kunci setelah pupa dikeluarkan.
+Sumber Gambar: google map/rahdian saepuloh
+Ruang Tenun Kain Sutra
+Di sinilah tempat terakhir dari proses menjadi kain sutra. pengunjung akan melihat proses menenun yang dilakukan oleh pegawai di sini. di rumah tenun ini tidak menggunakan mesin, namun alat tenun tradisional atau gedogan. prosesnya bisa dibilang memerlukan waktu yang tidak sebentar dan tidak mudah.
+Sumber Gambar: google map/rumah sutera alam
+Rumah Sutera Alam Ciapus juga memiliki galeri yang mana merupakan produk akhir sutra dan dijual di galeri tersebut. pengunjung bisa melihat-lihat saja atau bisa juga membeli kain sutra polos warna warni atau yang sudah dibatik. bentuknya pun bermaca-macam, seperti sarung, syal, blus dan kebaya.
+Sumber Video: youtube/monda siregar
+tempat wisata edukasi alam yang bagus untuk menambah ilmu pengetahuan dan berkumpul menikmati hari libur
+Lokasi
+JL. Ciapus Raya, No. 100, Km 8, Tamansari, Kec. Tamansari, Kabupaten Bogor, Jawa Barat 16611, Indonesia
+Fasilitas
+Kamar Mandi
+Taman untuk bersantai dan foto foto
+Toko Souvenir
+Harga
+Paket Tour saja Rp. 20.000
+Paket Tour + Snack Rp. 45.000
+Paket Tour + Makan Siang Rp. 75.000
+Benang Sutra Rp. 1jt – 1,2jt/kg
+Jam Operasional
+Senin-Jumat: 08.00–16.00
+Sabtu: 08.00–12.30
+Minggu: Tutup
+Kontak
+No Telp: 0251-838-8281
+Social Media
+Instagram
+Facebook
+Sumber
+https://www.mondasiregar.com/rumah-sutera-alam-ciapus-bogor/
+https://www.tribunnewswiki.com/2021/08/22/rumah-sutera-alam-ciapus
+Article Tags: Tamansari
+Article Categories: Rekreasi · Seni Budaya', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/rumah-sutera-alam/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/google-map_mohamad-choliq-1-250x250.jpg', null, 18, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (177, 'Kampung Adat Urug', 'Seni Budaya', 'Seni Budaya', 'Kampung Adat Urug adalah salah satu desa yang memiliki sejarah yang panjang dengan tradisi adat yang yang luhur. Keberadaan kampung ini ditandai adanya mandala dengan masyarakat yang berpegang teguh pada tradisi dan keteladanan sunda.
+https://indonesiabagus.id/kampung-urug-penjaga-cerita-keturunan-prabu-siliwangi/
+https://bogor.hallo.id/tatar-sunda/pr-111891571/Kampung-Urug-Desa-Damai-Peninggalan-Prabu-Siliwangi
+Bukan sekedar kampung biasa
+Masyarakat Kampung Adat Urug menggap bahwa dirinya sebagai keturunan raja prabu Siliwangi. Bukti dari anggapan tersebut yaitu para ilmuan yang meneliti bangunan tersebut menemukan sambungan kayu yang sama seperti bangunan yang terdapat di cirebon tidak lain merupakan sisa sisa kerajaan Pajajaran.
+Kampung adat urug diresmikan oleh pemerintah pada tahun 2010. Saat berkunjung ke Kampung Adat Urug, Kita sangat mudah menemui bangunan-bangunan tradisional yang masih sangat kokoh berdiri sampai saat ini.Ciri khas khas Kampung Adat Urug yaitu rumah panggung bergaya tradisional dan pola hidup yang sangat kental dengan kebudayaan Sunda.
+Lokasi
+Kampung Urug, Desa. Kiarapendak, Kecamatan. Sukajaya, Kabupaten Bogor
+Tiket Masuk
+Untuk masuk dan berkunjung ke Kampung Adat Urug tidak dikenakan biaya
+Jam Oprasional
+Kampung Adat Urug buka 24 jam setiap hari
+Sumber
+https://bogor.hallo.id/tatar-sunda/pr-111891571/Kampung-Urug-Desa-Damai-Peninggalan-Prabu-Siliwangi?page=3
+Article Tags: Sukajaya
+Article Categories: Kampung Budaya · Seni Budaya', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kampung-adat-urug/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/whatsapp-image-2020-03-04-at-12-36-47-pm-5e5f453ed541df5bf639a302-250x250.jpeg', null, 20, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (178, 'Makam Buyut Masan', 'Seni Budaya', 'Seni Budaya', 'Situs ini berada di Panggur, Kecamatan Jasinga, Kabupaten Bogor. Menurut petugas kebersihan Makam Buyut Masan, makam ini dahulunya adalah lokasi pemakaman penduduk kampung Panyaeun.
+Makam ini dijadikan tempat ziarah sejak tahun 1990-an, bermula dari mimpi salah seorang warga, dimana di dalam mimpinya, warga tersebut kedatangan seseorang yang diminta dipelihara kuburannya, yang terletak di bawah pohon Areng sekitar pemakaman kampung Panyaeun.
+Setelah melihat ke lokasi merupakan makam yang sekarang dijadikan sebakai Makam Buyut Masan. Oleh penduduk sekitar makam ini dijadikan sebagai tempat “permintaan berkah” sebelum menanam padi di sawah.
+Sumber : Google.com/Maps (aluk pahrudin)
+Selain Makam Buyut Masan, di belakang makam tersebut terdapat Makam Raden Bagdad dan Nyi Rambet, yang terletak satu hamparan dengan makam lainnya.
+Lokasi Makam Buyut Masan
+Pangaur, Kec. Jasinga, Kabupaten Bogor, Jawa Barat 16670.
+Fasilitas Makam Buyut Masan
+Padepokan
+Tempat Parkir
+Tiket Masuk Makam Buyut Masan
+Tiket Masuk : Gratis
+Jam Operasional Makam Buyut Masan
+Setiap hari
+Sumber
+https://beritabogor.com/situs-budaya-kph-bogor/
+Article Tags: Jasinga
+Article Categories: Seni Budaya · Wisata Religi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/makam-buyut-masan/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/Makam-Buyut-Masam-250x250.jpg', null, 20, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (179, 'Vihara Sian Jin Ku Poh', 'Seni Budaya', 'Seni Budaya', 'Salah satu tempat ibadah agama budha di Kabupaten Bogor.
+Vihara ini memiliki nilai sejarah dan nilai keagamaan yang tinggi. Pengujung bisa berwisata sambil belajar mengenai sejarah vihara ini. Tempat ini juga memiliki peralatan peribadatan agama Buddha yang lengkap.
+Lokasi
+Jl.PWRI KM 36 Rt.02/06 Jati, Tonjong, Tajur Halang, Bogor, Jawa Barat 16320
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Tiket Masuk
+Gratis.
+Jam Operasional
+Setiap Hari.
+Kontak
+Tidak Tersedia.
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Tajurhalang
+Article Categories: Seni Budaya · Wisata Religi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/vihara-sian-jin-ku-poh/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/vihara-1-250x250.png', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (180, 'Makam Giritama', 'Seni Budaya', 'Seni Budaya', 'Taman Pemakaman Bukan Umum (TPBU) Giri Tama menjadi tempat peristirahatan terakhir beberapa tokoh penting Indonesia.
+Makam yang berada di Desa Tonjong, Kecamatan Kemang, Kabupaten Bogor, Jawa Barat ini memiliki luas sekitar 8 hektar dengan jumlah 7000 makam.
+Makam yang terletak di Jalan PWRI Tonjong, Kemang Bogor memiliki beberapa kavling yaitu Bougenville, Gardenia, Matahari, Anyelir, Anggrek, dan lain-lain.
+Lokasi
+Jl. PWRI, Tonjong, Kec. Kemang, Bogor, Jawa Barat 16320
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Tiket Masuk
+Gratis
+Jam Operasional
+Setiap hari.
+Kontak
+website: http://makamgiritama.com/
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Kemang
+Article Categories: Seni Budaya · Wisata Religi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/makam-giritama/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/giritama-250x174.jpg', null, 16, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (181, 'Vihara Budha Dharma 8 Po Sat', 'Seni Budaya', 'Seni Budaya', 'Salah satu tempat ibadah agama budha yang megah.
+Patung Buddha Tidur menjadi salah satu ikon di Thailand. Tak perlu jauh ke Negeri Gajah Putih, karena Bogor juga punya. Di Bogor terdapat salah satu destinasi wisata religi sekaligus sebagai wisata edukasi yaitu Vihara Buddha Dharma & 8 Pho Sat. Dijamin akan memberikan pengalaman berwisata yang berbeda kepada setiap traveler yang datang.
+Agama Buddha adalah salah satu agama tertua di Indonesia. Jejak agama yang ini telah menyebar ke seluruh penjuru nusantara. Salah satu buktinya ada di Vihara Buddha Dharma & 8 Pho Sat di Kampung Jati, Desa Tonjong, Kecamatan Tajur Halang, Kabupaten Bogor, Jawa Barat.
+Vihara Buddha Dharma & 8 Pho Sat merupakan salah satu obyek wisata religi di Bogor. Patung Buddha tidur ini memiliki panjang 18 meter dan tinggi 5 meter, sehingga menjadi daya tarik wisatawan untuk berkunjung.
+Lokasi
+Jalan PWRI Kampung Jati, Jalan Raya Parung RT. 02 / RW. 06, Tonjong, Tajur Halang, Tonjong, Tajur Halang, Bogor, Jawa Barat 16320
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Tiket Masuk
+Gratis.
+Jam Operasional
+Setiap Hari.
+Kontak
+[ data kontak pengelola ]
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Tajurhalang
+Article Categories: Seni Budaya · Wisata Religi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/vihara-budha-dharma-8-po-sat/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/vihara-posat-250x250.jpg', null, 18, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (182, 'Situs Prasejarah Arca Domas', 'Seni Budaya', 'Seni Budaya', 'Tempat yang dipercaya oleh Urang Kanekes sebagai tempat penciptaan bumi
+Arca Domas, Sasaka Pusaka Buana, atau Mandala Parahiyang adalah tempat yang dipercaya oleh Urang Kanekes sebagai tempat penciptaan Bumi. Dewa utama dalam kepercayaan orang Kanekes, Batara Tunggal, diyakini merupakan nenek moyang mereka yang turun ke Bumi di Arca Domas. Arca Domas tidak sama dengan Sasaka Domas yang merupakan tempat berkumpulnya roh-roh orang mati yang kemudian bersatu dengan Batara Tunggal.
+Sejumlah peneliti Eropa (seperti Blume, Koolhoven, dan Koorders) mengklaim bahwa mereka pernah mengunjungi Arca Domas. Konon tempat ini terletak di sebuah bukit berteras di hulu Sungai Ciujung, Taman Nasional Gunung Halimun Salak. Namun, keterangan mengenai Arca Domas yang dituliskan oleh para peneliti ini berbeda-beda. Selain itu, mengingat Arca Domas dianggap keramat dan tidak boleh dikunjungi sembarang orang, antropolog Robert Wessing dan Bart Barendregt berpendapat bahwa klaim yang meragukan keabsahan dari keterangan peneliti-peneliti Eropa ini perlu dipertimbangkan secara serius
+Lokasi
+Situs Prasejarah Arca Domas berada di Tapos I, Tenjolaya, Bogor, Jawa Barat 16370
+Fasilitas
+Beberapa fasilitas yang ada di sekitar Situs Prasejarah Arca Domas yaitu :
+Area Parkir
+Shelter
+Toilet
+Tiket Masuk
+Sampai saat ini untuk masuk ke Situs Prasejarah Arca Domas masih tidak dipungut biaya
+Jam Operasional
+Situs Prasejarah Arca Domas buka setiap hari pada pukul 08.00 – 17.00 WIB
+Article Tags: Tenjolaya
+Article Categories: Cagar Budaya · Seni Budaya · Wisata Religi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/arca-domas/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/Arca-Domas-250x250.jpg', null, 23, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (183, 'Pura Parahyangan Agung Jagatkarta', 'Seni Budaya', 'Seni Budaya', 'Bewisata dengan nuansa bali dengan view gunung yang indah di Kecamatan Tamansari
+Pura Parahyangan Agung Jagatkarta (“alam dewata suci sempurna”) atau sering disebut hanya Pura Jagatkarta adalah pura agama Hindu Nusantara yang terletak di Ciapus Kab. Bogor, Jawa Barat, Indonesia. Setelah dibangun, Pura Jagatkarta adalah pura terbesar di Jawa Barat dan terbesar ke-2 di Indonesia setelah Pura Besakih di Bali, dianggap sebagai tempat persemayaman dan pemujaan terhadap Prabu Siliwangi dan para hyang (leluhur) dari Pakuan Pajajaran yang pernah berdiri di wilayahParahyangan.
+
+Pembangunan Pura Jagatkarta dirintis pada tahun 1995 dan adalah dari hasil kerja gotong royong umat Hindu Nusantara. Pura Jagatkarta secara resmi belum selesai dibangun, namun bangunan pura utama seperti bagian Pura Padmesana, Balai Pasamuan Agung dan Mandala Utama telah selesai
+
+Di area Pura Jagatkarta juga terdapat Pura Melanting dan Pura Pasar Agung yang digunakan khusus untuk bersembahyang memohon penglaris untuk usaha. Pengunjung dan wisatawan umumnya dilarang masuk ke pura utama, kecuali bagi yang hendak melakukan ritual bersembahyang, pengunjung yang datang untuk sekedar melihat dan berfoto hanya hingga pelataran luar pura.
+Lokasi
+Pura Parahyangan Agung Jagatkarta berlokasi di Jl. Gn. Malang, Sukajadi, Tamansari, Bogor, Jawa Barat 16610
+Fasilitas
+Fasilitas yang ada di sekitar Pura Parahyangan Agung Jagatkarta diantaranya :
+Aula
+Area Parkir
+Kamar Mandi
+Tempat Istirahat
+Warung makan
+Tiket Masuk
+Untuk masuk ke dalam Pura Parahyangan Agung Jagatkarta tidak dikenakan biaya
+Jam Operasional
+Pura Parahyangan Agung Jagatkarta buka 24 jam
+Article Tags: Tamansari
+Article Categories: Cagar Budaya · Seni Budaya · Wisata Religi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/pura-parahyangan-agung-jagatkarta/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/PuraParahyangan-250x250.png', null, 16, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (184, 'Prasasti Batu Tulis Ciaruteun', 'Seni Budaya', 'Seni Budaya', 'Liburan sambil berlajar sejarah di salah satu peninggalan kerajaan Tarumanegara
+Batu Tulis Ciaruteun (Prasati Ciaruteun) terletak di Desa Ciaruteun Ilir, kecamatan Cibungbulang, Kabupaten Bogor. Prasasti Ciaruteun atau prasasti Ciampea ditemukan di tepi sungai Ciaruteun, tidak jauh dari sungai Ci Sadane, Bogor. Prasasti tersebut merupakan peninggalan kerajaan Tarumanagara. Prasasti Ciaruteun dilaporkan oleh pemimpin Bataaviasch Genootschap van Kunsten en Wetenschappen (sekarang Museum Nasional) pada tahun 1863.
+Prasasti Ciaruteun bertuliskan aksara Pallawa yang disusun dalam bentuk seloka bahasa Sanskerta dengan metrum Anustubh yang terdiri dari empat baris dan pada bagian atas tulisan terdapat pahatan sepasang telapak kaki. adapun tulisannya adalah “vikkrantasyavanipat eh, srimatah purnnavarmmanah, tarumanagarendrasya, visnoriva padadvayam” yang berarti “Inilah (tanda) sepasang telapak kaki yang seperti kaki Dewa Wisnu (pemelihara) ialah telapak yang mulia sang Purnnawarmman, raja di negri Taruma, raja yang gagah berani di dunia”.
+Lokasi
+Prasasti Batu Tulis Ciaruteun berada di Jl. Ciaruteun Ilir No.3, Ciaruteun Ilir, Kec. Cibungbulang, Bogor, Jawa Barat 16630
+Fasilitas
+Untuk memudahkan pengunjung saat mengunjungi Prasasti Batu Tulis Ciaruteun, pengelola menyediakan Area Parkir di sekitar lokasi
+Tiket Masuk
+Saat ini untuk masuk ke Situs Prasasti Batu Tulis Ciaruteun masih gratis atau tidak dipungut biaya
+Jam Operational
+Prasasti Batu Tulis Ciaruteun buka setiap hari pada pukul 08.00 – 16.00
+Article Tags: Ciampea
+Article Categories: Cagar Budaya · Seni Budaya', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/prasasti-batu-tulis-ciaruteun/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/salah-satu-batu-prasasti-Ciaruteun-250x250.jpg', null, 18, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (185, 'Leuweung Larangan ( Makam Syekh Yusuf )', 'Seni Budaya', 'Seni Budaya', 'Salah satu makam keramat yang ada di Ciawi
+Menurut Mbah Wirya yang menjadi penjaga tempat suci ini, adalah dilarang bagi siapa saja untuk mengambil foto atau menulis tentang tempat ini, dan karena izin-Nya kami dapat menulis dokumentasi tentang tempat ini dan mengambil beberapa foto.
+Menurut kebanyakan orang penziarah  , tempat ini diangap  tempat suci karena adanya kuburan keramat. Salah satu kuburan yang diangap keramat milik seorang tokoh penyebar Islam dan memiliki hubungan dengan Cikundul pemakaman (makam Arya Wiratama, Cianjur) dan makam Mbah Arya Pasir Angin di Kecamatan Megamendung. Mbah Wirya menyebutkan beberapa nama seperti 1. Syech Wali Mama Haji Yusuf, 2. Syarifah binti Ainoloh, 3. Amah binti Hasanah sebagai tokoh-tokoh yang dimakamkan di tempat suci ini.
+Lokasi
+Leuweung Larangan berada di Jl. Tapos Lbc No.3, Pancawati, Kec. Ciawi, Bogor, Jawa Barat 16720
+Fasilitas
+Untuk memudahkan pengunjung atau peziarah Leuweung Larangan memiliki Area Parkir dan warung di sekitarnya
+Jam Operasional
+Leuweung Larangan buka 24 jam setiap hari
+Article Tags: Ciawi
+Article Categories: Seni Budaya · Wisata Religi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/makam-mbah-anu/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/leuweung-larangan-250x250.png', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (186, 'Kampung Budaya Sindang Barang', 'Seni Budaya', 'Seni Budaya', 'Salah satu kampung adat dari 20 kampung adat yang ada di Jawa Barat
+Kampung Budaya Sindang Barang adalah suatu kampung adat Sunda yang terletak di Desa Pasir Eurih Kecamatan Taman Sari Kabupaten Bogor. Menurut sejarahnya Kampung Sindang Barang sudah ada sejak abad ke XII dan terpapar dalam abad Pajajaran dan tertulis juga dalam pantun Bogor. Kebudayaan Sunda yang masih kental tercermin dalam perilaku kehidupan masyarakatnya sehari-hari terutama direfleksikan dalam pelaksanaan acara Serentaun yang rutin dilaksanakan di Kampung Sindang Barang. Menurut penjelasan Prasetyo (2011) Kampung Budaya Sindang Barang adalah salah satu kampung adat dari 20 kampung adat yang ada di Jawa Barat. Kampung Budaya Sindang Barang adalah salah satu komunitas yang hingga kini mempertahankan aspek kebudayaan lokal kerajaan Pajajaran, dimana terdapat 78 lokasi situs sejarah Pakuan Sindangbarang, upacara tradisional (upacara adat Serentaun, upacara adat Neteupken, upacara adat Pabeasan, dan berbagai upacara adat lainnya), dan berbagai kesenian tradisional Sunda. Salah satu ritual tradisi Sunda yang menjadi ciri khas Kampung Budaya Sindang Barang adalah Serentaun
+Serentaun merupakan suatu bentuk penjelmaan rasa syukur warga atas rezeki hasil panen mereka. Serentaun telah ada pada zaman Kerajaan Pajajaran pada abad ke 16 dan masih berlangsung hingga sekarang. Serentaun dilaksanakan tiap tahun dan dipimpin oleh ketua adat, namun sebagai catatan pada tahun 1971 setelah ketua adat terakhir Etong Sumawijaya wafat dan tidak ada regenerasi, maka gelaran Serentaun tidak dilaksanakan secara akbar dan terpusat, namun diadakan sendiri-sendiri oleh masyarkat yang masih mempercayainya. Kemudian pada tahun 2006 Serentaun kembali dilaksanakan terpusat setelah adanya pengakuan kembali ketua adat karena inisiatif beberapa kelompok adat yang ingin melestarikan budaya Sunda di Sindang Barang yang tergabung dalam Padepokan Giri Sunda Pura Sindang Barang. Pelaksanaan Serentaun pada waktu itu mendapat respon positif dari masyarakat (walau sempat ada penolakan terutama dari kalangan Islam yang tidak pro tradisi). Kesuksesan pelaksanaan Serentaun itu juga menarik perhatian pemernitah karena berkaitan dengan perhatian pada pelestarian budaya Sunda. Dengan dukungan pemerintah provinsi dan kabupaten dan masyarakat kawasan Sindang Barang, mereka dapat membuat suatu kawasan budaya Kampung Budaya Sindang Barang .
+Lokasi
+Kampung Budaya Sindang Barang berada di Jl. Endang Sumawijaya, RT. 02 / RW. 08, Sindang Barang, Dukuh Menteng, Desa Pasir Eurih, Kecamatan Tamansari, Pasireurih, Bogor, Jawa Barat 16631
+Fasilitas
+Beberapa fasilitas yang ada di Kampung Budaya Sindang Barang yaitu :
+Area Parkir
+Mushola
+Toilet
+Aula Pertemuan
+Penginapan
+Tiket Masuk
+Harga Tiket masuk ke Kampung Budaya Sindang Barang :
+Weekday Rp. 25.000
+Weekend Rp. 35.000
+Jam Operasional
+Kampung Budaya Sindang Barang buka setiap hari pukul 09.00 – 17.00
+Article Tags: Tamansari
+Article Categories: Kampung Budaya · Seni Budaya', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kampung-budaya-sindang-barang/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/kampungbudaya-sindangbarang-250x250.jpg', null, 14, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (187, 'Durian Vivian Bogor', 'Belanja', 'Belanja', 'Sumber Gambar: google map/durian vivian
+Durian vivian adalah toko grosir yang menyediakan oleh oleh frozen food berupa olahan durian, dan bapau untuk di hangatkan dirumah.
+Sumber Gambar: google map/crazyametung
+Tidak hanya olahan durian, toko ini juga menjual barang lainnya seperti daging slice dan iga sapi mentah dengan harga grosir.
+Sumber Gambar: google map/durian vivian
+Sumber Gambar: google map/durian vivian
+Sumber Gambar: google map/durian vivian
+Sumber Gambar: google map/durian vivian
+Sumber Gambar: google map/durian vivian
+Sumber Gambar: google map/durian vivian
+Harga nya murah2, produk makanan beku nya banyak pilihan. Mantab lah
+Lokasi
+Jalan Anggrek I Kavling No.12A, Sukarapih, Kec. Ciomas, Kabupaten Bogor, Jawa Barat 16610
+Jam Operasional
+Setiap Hari: 09.00 – 21.00
+Produk Ter Populer
+Durian Kupas Medan 1kg Rp. 45.000
+Bawang Goreng Brebes Rp. 15.000
+Kentang My Dibel 1kg Rp. 35.000
+Paru Sapi 1kg Rp. 77.000
+Pancake Durian Isi 8 Rp. 7.000
+Hati Sapi 1kg Rp. 50.000
+Dimsum Siomay Ayam Mame Isi 15pcs Rp. 16.500
+Tulang Iga Gondrong 1kg Rp. 32.000
+Kontak
+No Telp: 0898 2721 865
+Social Media
+Instagram
+Facebook
+Sumber
+https://shopee.co.id/durianvivianbogor1
+Article Tags: Ciomas
+Article Categories: Belanja · Oleh-Oleh', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/durian-vivian-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/google-map_yoga-pratama-min-2-250x250.jpg', null, 813, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (188, 'Miras Lokal', 'Belanja', 'Belanja', 'Salam kecut sobat miras
+Miras yang dimaksud ini adalah “Minuman Peras” dibuat dari perasan asli buah lemon lokal yang khusus diracik untuk menyegarkan dahaga. Tentunya minuman ini tidak hanya menyegarkan tapi menyehatkan dan juga halal karena tidak mengandung alkohol meskipun nama minumannya Miras Lokal.
+Instagram : @miras.lokal
+Miras Lokal ini memiliki beberapa varian rasa yaitu miras premium dan miras rendah gula. Miras Lokal dapat dinikmati oleh semua orang dengan datang langsung ke Kedai Miras atau dapat juga memesan melalui aplikasi online seperti : GrabFood, ShopeeFood, Gojek dan Tokopedia.
+Jam Operasional Toko
+Rabu-senin : 16:00wib
+Selasa libur
+Harga
+Miras Premium Rp.25.000,- (250ml) Rp.100.000.- (1 liter)
+Miras Rendah Gula Rp.25.000,- (250ml) Rp.100.000.- (1 liter)
+Lokasi
+Jalan Raya Alfalah Cikaret, RT.01 RW.05 no.3 dan 4, Harapan Jaya, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16914.
+Instagram
+@miras.lokal
+Article Tags: Cibinong
+Article Categories: Belanja · Kuliner · Produk Olahan', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/miras-lokal/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/277392154_1248485765679829_4740211887849995935_n-250x250.jpg', null, 808, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (189, 'Craft Sebelas Kopi', 'Belanja', 'Belanja', 'Kerajinan Koran Bekas, Pengrajian Kerajinan Koran Brian Wiryawan mengungkapkan, terbentuknya galeri seni ini berawal saat dirinya ingin menjadikan sampah kertas koran menjadi sebuah produk yang mempunyai nilai ekonomi.
+Kertas koran jika sudah tidak digunakan lagi selain jadi sampah, pada umumnya hanya menjadi bahan pembungkus makanan, bahan packing barang-barang yang akan dikirim atau pun juga alas duduk. Namun di Kabupaten Bogor, tepatnya di Kampung Kebon Kopi, kertas koran menjadi sebuah produk ekonomi bernilai tinggi. Craft Sebelas Kopi memanfaatkan limbah kertas koran tersebut dalam bisnis kerajinan tangan.
+Berawal dari Bank Sampah yang ada di RW 11 Kampung Kebon Kopi, Kelurahan Pabuaran Cibinong, Kabupaten Bogor pada 2016, bisnis Craft Sebelas Kopi terus berkembang. Seperti diambil dari Rilis Diskominfo Kabupaten Bogor (25/2/2019), nilai bisnis kerajinan ini mencapai omzet Rp15 juta per bulan.
+Ada 30 macam produk yang dibuat Galeri Craft Sebelas Kopi, diantaranya yaitu vas bunga, tas, tempat tisu, tempat Koran atau majalah, tempat jarum pentul sampai dengan souvenir pernikahan. Semuanya dibuat dari bahan dasar kertas koran.
+Total warga yang diberdayakan ada 27 ibu-ibu. Pendapatan yang mereka peroleh bisa mencapai Rp75.000 per hari, tergantung pemesanan. Dengan omzet per bulan dari Craft Sebelas Kopi paling tinggi bisa mencapai Rp15 juta dan paling rendah Rp6 juta per bulan.
+Contact
+instagram : @craft_sebelaskopi
+No. Telp : 081333037776
+Lokasi
+RW 11 Kampung Kebon Kopi, Kelurahan Pabuaran Cibinong, Kabupaten Bogor 
+Article Tags: Cibinong
+Article Categories: Belanja · Kerajinan Tangan', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/craft-sebelas-kopi/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/Kerajinan_Koran_Bekas_Craft_Sebelas_Kopi_3.width-800-250x250.jpg', null, 800, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (190, 'Lapis Bogor Sangkuriang, Cibinong', 'Belanja', 'Belanja', 'Selain dikenal karena roti unyil, laksa, bir pletok, asinan, Bogor juga memiliki kue yang begitu terkenal yaitu lapis Bogor Sangkuriang. 
+Sejak populernya lapis talas ala Lapis Bogor Sangkuriang, di Bogor mulai bermunculan beragam produk lapis talas. Hanya saja kepopuleran Lapis Bogor Sangkuriang sebagai peolopor kehadiran lapis talas bisa dikata tidak tergoyahkan. Liputan berbagai media pada saat kelahiran lapis talas membuat Lapis Bogor atau Lapis Talas Sangkuriang tetap menempati urutan pertama ketika orang mencari oleh-oleh khas dari Bogor. Ketika frase lapis talas disebutkan orang akan selalu mengasosiasikan dengan merek Lapis Bogor Sangkuriang.
+Jam Operasional
+Setiap Hari : 08.00 – 20.00
+Contact
+Customer Services : 1500262 | Whats app : 0811-1500-262 | Line ID : @lapisbogor
+customer.service@lapisbogor.co.id
+Lokasi
+Ruko Galaxy, Jl. Raya Jakarta-Bogor No.2B, Pakansari, Cibinong, Bogor, Jawa Barat 16915
+Article Tags: Cibinong
+Article Categories: Belanja · Oleh-Oleh', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/lapis-bogor-sangkuriang-cibinong/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/maxresdefault-250x250.jpg', null, 23, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (191, 'Waroeng Licious Bogor', 'Belanja', 'Belanja', 'salah satu pusat oleh – oleh yang terkenal di Kabupaten Bogor
+Waroeng Licious menyediakan beragam oleh-oleh khas Bogor yang populer seperti asinan, roti unyil, lapis bogor, bika mini talubi, serta aneka macam makanan ringan khas Bogor lainnya.
+Jam Operasional
+Setiap Hari : 08.00 – 18.00
+Contact
+No. Telp : +62 812-9051-2115
+Lokasi
+Ruko Pasar Bersih, Blok I No. 10 Sentul City, Citaringgul, Babakan Madang, Bogor, Jawa Barat 16810, Indonesia
+Article Tags: Babakan Madang
+Article Categories: Belanja · Oleh-Oleh', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/waroeng-licious-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/Waroeng-Licious-Bogor-@permanapechler-250x250.jpg', null, 24, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (192, 'Sentra Tas Ciawi', 'Belanja', 'Belanja', 'Salah satu sentra tas yang menjual tas produksi lokal dengan harga murah namun kualitas dilirik dunia
+Sentra Tas Ciawi adalah tempat belanja tas murah di Bogor. Toko tas ini terbilang besar sehingga dapat memuaskan hasrat kita dalam berbelanja tas murah dan berkualitas. Bagi pelanggan yang membeli dalam jumlah besar disediakan potongan harga atau diskon. Besarannya berkisar mulai dari 5% hingga 20%. Contohnya bila membeli 10 tas yang harga satuannya Rp 150.000, bisa mendapatkan potongan harga sampai sekitar Rp 400.000.
+Yang menarik semua tas dari sentra tas tajur ini dibuat langsung oleh pengrajin tas asal Indonesia.
+Lokasi
+Ciawi, Kec. Ciawi, Bogor, Jawa Barat 16720
+Harga
+Produk tas di tempat ini dibanderol mulai dari Rp 45.000 hingga Rp 800.000 per tas
+Jam Operasional
+Sentra Tas Ciawi buka setiap hari mulai dari pukul 08.00 WIB sampai 18.00 WIB
+Article Tags: Ciawi
+Article Categories: Belanja · Kerajinan Tas', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/sentra-tas-tajur/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/pusat-tas-tajur-250x250.jpg', null, 28, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (193, 'Miniatur Pesawat (Harto Alkarim)', 'Belanja', 'Belanja', 'Miniatur Pesawat dari Bogor yang terbang hingga ke Eropa
+Miniatur pesawat produksi Kampung Cangkrang, Desa Cikarawang, Kecamatan Dramaga, Kabupaten Bogor telah terbang hingga menembus pasar dunia. Mulai dari pesawat komersial, pesawat luar angkasa, dan helikopter diproduksi Ozi Aircraft milik Harto Alkarim. Miniatur pesawat tersebut biasanya dipesan sebagai cinderamata dan pajangan maskapai penerbangan di sejumlah negara.
+Miniatur Helikopter TNI AD
+Miniatur Pesawat Garuda Indonesia
+Tak hanya maskapai Indonesia seperti Garuda atau Sriwijaya saja yang menjadi langganan, namun hingga pasar Internasional seperti Amerika Serikat, Afrika, Singapura, dan Malaysia.
+Miniatur pesawat di sini terdiri dari berbagai ukuran, mulai dari 15 centimeter hingga 2,5 meter. Bahan baku yang digunakan untuk membuat miniatur ini adalah fiber plastik cair yang dicetak dengan cetakan miniatur badan, sayap, dan mesin pesawat.
+Harga
+Kalian bisa membeli miniatur pesawat ini dengan harga mulai Rp. 125.000 hingga Rp. 35.000.000
+Lokasi
+Kampung Cangkrang, Desa Cikarawang, Kecamatan Dramaga, Kabupaten Bogor
+Article Tags: Dramaga
+Article Categories: Belanja · Kerajinan Tangan', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kerajinan-miniatur-pesawat/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/miniatur-pesawat-250x250.jpg', null, 96, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (194, 'Koveksi Tas Bojongrangkas', 'Belanja', 'Belanja', 'Konveksi pembuatan tas custom dengan bahan premium di Ciampea
+Konveksi tas dan koper bojong rangkas merupakan pusat produksi tas promosi, event, gathering, dan travel. Jika kalian ingin membuat brand sendiri, inilah tempat yang cocok bagi kalian. Produk di Konveksi Tas Bojongrangkas ini bisa di custom sesuai dengan keinginan kita
+Produk
+Beberapa contoh produk yang telah di buat di Konveksi Tas Bojongrangkas diantaranya
+Cover Buku
+Dompet
+Tas Fashion Custom
+Tas Fashion
+Tas Phone Bag
+Waist Bag
+Lokasi
+Jl. Bojong Rangkas – Cicadas, Bojong Rangkas, Kec. Ciampea, Bogor, Jawa Barat 16620
+Jam Operasional
+Konveksi Tas Bojongrangkas buka 24 jam setiap hari
+Profil
+Website : https://konveksitasdankoperbojongrangkas.business.site
+Article Tags: Ciampea
+Article Categories: Belanja · Kerajinan Tas', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/pusat-ukm-tas-ciampea/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/produsen-tas-bojongrangkas-250x250.jpg', null, 39, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (195, 'Pusat Ikan Hias Parung', 'Belanja', 'Belanja', 'Pusat Ikan yang memiliki banyak jenis ikan hias
+Pasar Parung Bogor merupakan salah satu pasar ikan hias terbesar di Indonesia. Pasar Parung Bogor menjadi salah satu pemasok ikan hias se-Jabodetabek. Bahkan pasar ini dikunjungi oleh pembeli dari berbagai kota di Indonesia.
+Pasar Parung Bogor tak serta merta hadir begitu saja, awalnya di 2005 pedagang pasar ikan hias di Parung ini berdagang di pinggir jalan tanpa lapak dan hanya menggunakan tikar sebagai alas. Sebelum Pasar Parung Bogor hadir, para pedagang ikan hias berjualan di pinggir jalan Desa Waru.
+Hingga akhirnya pada April 2010, salah satu pendiri dan pengelola pasar ikan hias di Parung yang bernama H. Darmo mendirikan Pasar Parung Bogor. Setelah melalui tahun demi tahun dengan promosi besar-besaran, akhirnya jumlah pedagang pun bertambah
+Keistimewaan Pasar Parung Bogor dari pasar ikan hias lainnya adalah kelengkapan jenis ikan yang dijual. Tersedia berbagai macam jenis ikan yang dijual di Pasar Parung Bogor. Mulai dari ikan Arwana, Koki, Koi, Guppy, Cupang, dan berbagai ikan hias lainnya
+Tak hanya ikan hias, di Pasar Parung Bogor juga menjual jenis hewan air laut dan tawar lainnya seperti kura-kura mini dan berbagai aksesoris akuarium. Berbagai jenis makanan ikan hingga bibit lele juga dijual di Pasar Parung Bogor.
+Lokasi
+Pusat Ikan Hias Parung ini berada di Jl.Ps.parung Blok B no 1-20,waru Kecamatan Parung. Kabupaten Bogor Jawa Barat 16330 Indonesia
+Jam Operasional
+Rata rata pedagang ikan hias disana buka pada :
+Senin, Pukul 08.00 – 17.00
+Kamis, Pukul 08.00 – 17.00
+Sabtu, Pukul 08.00 – 17.00
+Menawarkan Ragam Jenis Ikan Hias
+Article Tags: Parung
+Article Categories: Belanja · Oleh-Oleh', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/oleh-oleh-khas-rancabungur/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/pusat-ikan-hias-250x250.png', null, 37, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (196, 'Pusat Sepatu Ciomas', 'Belanja', 'Belanja', 'Produk sepatu lokal yang yang melanglangbuana ke seluruh dunia
+Bogor merupakan salah satu kota yang tidak pernah luput dari para wisatawan, khususnya wisatawan domestik. Bogor juga merupakan salah satu kota penghasil sepatu yang sudah dikenal di penjuru nusantara. Banyak pengusaha yang terpesona dengan produk sepatu lokal di kota ini yang dihasilkan oleh pengrajin sepatu berpengalaman di Bogor. Tidak hanya dipasarkan di sekitar Bogor, bahkan sepatu Bogor sudah sampai ke mancanegara
+Pelanggan biasanya datang dari berbagai kota, tidak hanya dari Jabodetabek saja tapi dari Sumatera, Kalimantan, Sulawesi, Maluku, Jawa Tengah, Jawa Timur, bahkan sampai Papua. Tak heran setiap hari tempat itu selalu ramai aktifitas mobil ekspedisi yang siap mengantarkan pesanan ke berbagai pelosok negeri. Hampir semua sepatu dan sandal yang dipasarkan di Pasar ini adalah buah karya pengrajin sepatu dari Kecamatan Ciomas, Bogor. Dari sinilah tangan-tangan terampil itu menghasilkan karya seni berupa sepatu-sepatu wanita yang cantik dan kekinian.
+Harga sepatu per kodi di bengkel Ciomas bisa jadi lebih mahal dibandingkan dengan yang kita temui di pasar yang tadi kami sebutkan. Hal ini karena para pengrajin ingin membuat sepatu yang kita pesan memiliki kualitas yang jauh lebih baik dibandingkan yang ada di pasar. Material yang digunakan juga berbeda, bahkan tak jarang mereka memesannya dari luar kota untuk menjamin kepuasan pelanggan. Para pengrajin sepatu di Ciomas Bogor sudah terbiasa mengerjakan merk-merk sepatu ternama yang biasa kita jumpai di supermarket atau di mall-mall di seluruh Indonesia. Mungkin diantara kalian ada yang tidak sadar sedang memakai sepatu bikinan mereka.
+Harga setiap jenis sepatu tentunya juga berbeda. Misal untuk sepatu balet biasanya lebih murah harga per kodinya karena mereka tidak memerlukan material yang terlalu banyak, dan pengerjaannya pun lebih mudah. Sementara sepatu jenis high heel biasanya akan lebih mahal harga per kodinya karena akan ada beberapa material tambahan dan pengerjaannya pun biasanya lebih lama.
+Lokasi
+Vila ciomas indah Bogor, Ciomas Rahayu, Ciomas, Bogor, Jawa Barat 16610
+Profil
+Website : https://grosirsepatu.business.site/
+Article Tags: Ciomas
+Article Categories: Belanja · Sepatu & Sandal', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/ukm-sepatu-sandal-ciomas/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/pusat-sepatu-ciomas-250x250.jpeg', null, 36, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (197, 'Macaroni Panggang Bogor', 'Kuliner', 'Kuliner', 'Meski kental akan pengaruh budaya barat, makaroni panggang sudah menjadi bagian dari kuliner khas Bogor. Tidak mengherankan jika banyak pelancong yang menjadikan makaroni panggang sebagai oleh-oleh jika mereka berkunjung ke Bogor.
+Makaroni schotel adalah sebuah hidangan makaroni yang terbuat dari pasta (makaroni), keju, susu, mentega, daging (terutama daging sapi atau ayam), sosis, tuna, telur, bawang bombay, jamur dan terkadang kentang. Asal hidangan tersebut adalah Eropa.
+Lokasi
+Jika anda ingin mencoba macaroni panggang bisa datang ke:
+ Jl. Perum Ciriung Cemerlang No.7, Ciriung, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16918
+Jalan Kenari Raya No.11 blok 3D no 12, Puspasari, Kec. Citeureup, Kabupaten Bogor, Jawa Barat 16810
+Griya Alam Sentul Jl. Griya Alam Sentul IV Blok C5 No 46 Citaringgul, Sentul, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810
+Jl. Permata Utama No.2, Ciriung, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16918
+Harga Rata-rata Macaroni Panggang
+Rp.30.000-Rp.150.000
+Article Tags: Kabupaten Bogor
+Article Categories: Kuliner · Makanan Khas · Produk Olahan', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-32/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/06/15-250x250.jpg', null, 896, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (198, 'Comro Bogor', 'Kuliner', 'Kuliner', 'Comro adalah cemilan  khas Bogor. Comro terbuat dari parutan singkong yang dibentuk bulat atau lonjong dan diisi dengan sambal oncom dan cabai lalu digoreng
+Harga Comro Rata-rata
+Rp.1.000-Rp.5.000
+Lokasi
+Jika ingin mencoba comro kalian bisa mengunjungi alamat dibawah ini:
+FRX5+4GP, Jl. Raya Karadenan, Sukahati, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16913
+Jl. Kp. Padurenan No.48, Pabuaran, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16916
+Jl. Puri Nirwana 3 No.3, Karadenan, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16913
+HPFG+H7H, Jl. H. Mawi, Waru, Kec. Parung, Kabupaten Bogor, Jawa Barat 16330
+Article Tags: Kabupaten Bogor
+Article Categories: Kuliner · Makanan Khas', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-28/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/06/2-1-250x250.jpg', null, 831, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (199, 'Bajigur Bogor', 'Kuliner', 'Kuliner', 'Bajigur adalah minuman tradisional khas masyarakat Sunda. Minuman khas Sunda yang satu ini memang sangat mudah ditemukan di Bogor. Bahan utamanya adalah gula aren dan santan. Untuk menambah kenikmatan dicampurkan pula sedikit jahe dan garam. Biasanya bajigur jadi incaran di kala udara sedang dingin.
+Lokasi bajigur bogor
+Jika ingin membeli bajigur dapat mengunjungi alamat di bawah ini:
+Cimanggis, Kecamatan Bojonggede, Kabupaten Bogor, Jawa Barat 16310
+Harga bajigur
+Rp.10.000 an saja
+Jam operasional
+Senin 12.00–17.00
+Selasa 13.00–17.00
+Rabu 13.00–17.00
+Kamis 13.00–17.00
+Jumat 13.45–17.00
+Sabtu 08.00–17.00
+Minggu 08.00–17.00
+Telepon 0858-1762-6629  
+Article Tags: Kabupaten Bogor
+Article Categories: Kuliner · Makanan Khas', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-27/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/06/1-1-250x250.jpg', null, 823, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (200, 'Es Pala Bogor', 'Kuliner', 'Kuliner', 'Mungkin namanya jarang terdengar, namun es pala juga menjadi kuliner Bogor yang bertahan hingga saat ini. Kuliner segar ini memiliki keunikan rasa yang terbuat dari asam khas pala, manis dari gula dan segar dari es yang ditambahkan di dalamnya.
+Lokasi es pala
+Jika ingin membeli  es pala silahkan mengunjungi alamat dibawah ini:
+Jl. Raya Sirkuit Sentul No.Samping, RT.02/RW01, alfamart, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810
+Harga es pala
+Rp.5.000-10.000
+Jam buka
+Rabu 09.00–18.00
+Kamis 09.00–18.00
+Jumat 09.00–18.00
+Sabtu 08.00–19.00
+Minggu 08.00–18.00
+Senin 09.00–18.00
+Selasa 09.00–18.00
+
+Telepon 0896-0518-7472
+Article Tags: Kabupaten Bogor
+Article Categories: Kuliner · Makanan Khas', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-26/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/06/12-250x250.jpg', null, 27, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (201, 'Kopi Tubing Cafe and Resto', 'Kuliner', 'Kuliner', 'Kopi Tubing merupakan cafe tempat nongkrong asyik berbasis wisata alam. Tak hanya menyajikan kuliner dan spot ngopi saja, tempat ini juga menyuguhkan wisata sungai dan persawahan yang indah menawan sangat cocok buat poto-poto.
+@kopitubing
+@kopitubing
+Cafe ini juga telah memiliki beragam menu malai dari makanan berat, camilan, serta berbagai minuman telah tersedia untuk memenuhi keinginan para wisatawan yang berkunjung. Dan tentu saja dengan harga menunya yang sangatlah terjangkau.
+Gambar Menu
+@kopitubing
+@kopitubing
+@kopitubing
+@kopitubing
+Lokasi
+Jl. Gn. Menir, Ciasihan, Kec. Pamijahan, Kabupaten Bogor, Jawa Barat 16810
+Fasilitas
+Akses Wifi
+Area Indoor & Outdoor
+Toilet
+Area Parkir
+jam Operasional
+09:00-21:00
+Media Sosial
+Instagram
+Article Tags: Pamijahan
+Article Categories: Cafe & Resto · Kuliner', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kopi-tubing-cafe-and-resto/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/c5b01d05-122a-4735-87f3-7871d6812a8d-250x250.jpg', null, 29, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (202, 'Make it Happen Panorama', 'Kuliner', 'Kuliner', 'Lagi lagi Bogor kembali menghadirkan sebuah tempat nongkrong yang kece dan kekinian. Namanya adalah Make It Happen Coffee. Merupakan sebuah cafe yang berada di kawasan objek wisata Pabangbon, Bogor.
+@MakeitHappenindonesia
+@MakeitHappenindonesia
+Untuk menu yang ada disini didominasi oleh menu minuman. Berupa olahan kopi dan menu minuman signature lainnya. Yang paling diminati pengunjung disini adalah Gula Aren dan Make It Happen Spirit. Juga masih terdapat banyak menu lainnya.
+Lokasi
+Pabangbon, Kec. Leuwiliang, Kabupaten Bogor, Jawa Barat 16640
+jam Operasional
+10:00-19:00
+Media Sosial
+Instagram
+Sumber
+https://liburanyuk.co.id/make-it-happen-coffee-bogor/
+Article Tags: Leuwiliang
+Article Categories: Cafe & Resto · Kuliner', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/make-it-happen-panorama/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/2021-11-02-min-250x250.jpg', null, 24, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (203, 'Sudut Lenggah Coffee & Eatery Puncak', 'Kuliner', 'Kuliner', 'Sudut Lenggah Coffee & Eatery merupakan sebuah obyek wisata terbaru berupa sajian kuliner dengan tempat nongkrong atau cafe yang memiliki konsep nature dengan view hijau hjiau dari pohon pinus di Bogor. Daya tarik utamanya ini tempat nongkrong yang nyaman dan instagramble dengan view asri di kelilingi pohon pinus yang asri. Tempat ini memiliki area yang luas dengan berbagai area seating yang bisa kalian pilih dan jangan takut tidak kebagian tempat duduk. 
+@sudutlenggah.puncak
+Area outdoor ini memiliki beragam tempat duduk ada lesehan bean bag, kursi hingga ada tempat duduk berupa tribun. Selain itu area indoor juga tak kalah menarik yang cocok buat work from cafe dengan tempatnya yang asri. Suasananya yang adem, sejuk dan tenang bisa menjadi alternatif liburan sambil kulineran di Puncak. Menjadi Hidden Gem terbarunya di Puncak.
+@sudutlenggah.puncak
+@sudutlenggah.puncak
+@sudutlenggah.puncak
+Gambar Menu
+Lokasi
+Jl.Pakancilan Rt 04 Rw 05 Desa kuta Komplek Villa Lody Kec Megamendung, Bogor, Indonesia, 16770
+jam Operasional
+09:00-21:00
+Media Sosial
+Instagram
+Sumber
+https://www.jajandolan.com/2022/08/sudut-lenggah-coffee-eatery-puncak.html
+Article Tags: Megamendung
+Article Categories: Cafe & Resto · Kuliner', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/sudut-lenggah-coffee-eatery-puncak/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/7c5454b0-d856-49cc-b355-9b3bea62da20-250x250.jpg', null, 27, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (204, 'Bavarian Haus Puncak', 'Kuliner', 'Kuliner', 'Dinamakan Bavarian Haus, restoran Jerman ini merupakan restoran Jerman-Bavarian pertama yang dibuka di Indonesia. Owner-nya sendiri, Bapak Bambang Sutantio, sebetulnya dulu sekolah dan tinggal di Jerman jadi paham banget gimana restoran Jerman-Bavarian yang sesungguhnya. Jadi, Bavarian Haus, Puncak, sendiri dibikin semirip barangkali bersama dengan yang di Jerman.
+Sumber Gambar: google map/hammy gotama
+Selain itu, Restoran Jerman-Bavarian ini nih, mempunyai banyak sekali spot yang instagrammable. Memiliki area yang begitu luas, nyaris di tiap sudutnya sesuai banget bikin foto-foto ala instagram. Bahkan, dari luar resto aja anda tentu udah kepingin selfie deh!
+Sumber Gambar: google map/mutyara mardiana
+Memiliki butchery sendiri atau tempat pengolahan daging sendiri, semua hidangan berbahan basic daging dan dijamin halal, berkualitas, dan tentu saja terjamin. Berada di dalam resto sendiri, para pengunjung pun mampu menyaksikan langsung sistem pengolahan daging di resto ala Jerman yang dijamin higienis!
+Sumber Gambar: google map/michael dihardja
+Servicenya ramah, banyak spot foto yg instagramable.
+Sumber Video: youtube/bobo cantik
+Lokasi
+Jl. Raya Puncak – Cianjur No.48, Cipayung Datar, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770
+Fasilitas
+Takeaway
+Tempat Duduk
+Akses Kursi Roda
+Menyajikan Alkohol
+Pelayanan di Meja
+Menu
+Bavarian Haus Puncak Menu from DetraisMC
+Sumber Menu: https://pergikuliner.com/restaurants/bavarian-haus-bratwurst-dan-grill-puncak/menus
+Kontak
+No Telp: (0251) 8259805
+Jam Operasional
+Setiap Hari: 10:00 – 21:00
+Sosial Media
+Instagram
+Twitter
+Facebook
+Sumber
+https://pergikuliner.com/restaurants/bogor/bavarian-haus-bratwurst-dan-grill-puncak
+https://www.tripadvisor.co.id/Restaurant_Review-g844506-d12212128-Reviews-Bavarian_Haus-Puncak_West_Java_Java.html
+https://liburanyuk.co.id/bavarian-haus-puncak-bogor/
+Article Tags: Megamendung
+Article Categories: Cafe & Resto · Kuliner', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/bavarian-haus-puncak/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/google-map_tri-adinugroho-250x250.jpg', null, 23, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (205, 'Talaga Sampireun Bogor', 'Kuliner', 'Kuliner', 'Talaga Sampireun adalah rumah makan tradisional sunda dengan skala besar yang memberikan sensasi kuliner yang eksotis. Tiap hidangannya diolah dengan cara tradisional dengan peralatan modern. Disempurnakan dengan keramahtamahan pelayanan khas sunda dan suasana pedesaan yang alami dan asri.
+Sumber Gambar: google map/mulya di
+Anda bisa undang semua keluarga atau semua rekan kerja untuk makan bareng disini, cocok sekali untuk makan besar bersama banyak orang.
+Sumber Gambar: google map/nikolai sikorvsky
+Bagus view nya, dan komplek vimalanya pun keren taman bunganya
+Sumber Video: youtube/keluarga tukang jalan
+Menu
+talaga sampireun bogor menu.ppt from DetraisMC
+Sumber Daftar Menu: https://pergikuliner.com/restaurants/talaga-sampireun-puncak-2/menus
+Fasilitas
+Taman
+Papan Catur Raksaksa
+Air Mancur
+Kamar Mandi
+Musholla
+Alamat
+Sukamahi, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770
+Kontak
+No Telp: (0251) 8292999
+Reservasi Via WA: https://www.talagasampireun.com/reservasi
+Jam Operasional
+Setiap Hari: 10.00–21.00
+Social Media
+Instagram
+Facebook
+Twitter
+Source
+https://pergikuliner.com/restaurants/talaga-sampireun-puncak-2/menus
+Article Tags: Megamendung
+Article Categories: Cafe & Resto · Kuliner', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/telaga-sampireun-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/google-map_P-S-D-250x250.jpg', null, 20, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (206, 'Pinggir Kali Coffee', 'Kuliner', 'Kuliner', 'Bogor kini menawarkan kembali sebuah cafe cantik yang dikelilingi oleh sawah dan pepohonan hijau yang indah dan asri, tak hanya itu saja, cafe ini juga dilewati oleh aliran sungai yang tenang. Bernama Pinggir Kali Coffee, cafe berkonsep dengan tema menyatu dengan alam karena dikelilingi oleh alam sekitarnya yang cantik.
+@pinggirkali.coffee
+@pinggirkali.coffee
+Harga makanan dan minuman yang ditawarkan pun masih terbilang terjangkau jika melihat dari view cantik yang ditawarkan tempat ini. Menu-menu yang disajikan pun beragam, mulai dari menu nusantara hingga menu western / barat tersedia disini. 
+https://www.youtube.com/watch?v=hJnxM_nMo_I
+Gambar Menu
+flipsnack.com
+flipsnack.com
+flipsnack.com
+flipsnack.com
+Lokasi
+Jl. Raya Sukaraja No.88, Gadog, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770
+Fasilitas
+Akses Wifi
+Area Indoor & Outdoor
+Toilet
+Area Parkir
+jam Operasional
+09:00-21:00
+Media Sosial
+Instagram
+Sumber
+https://www.flipsnack.com/A7EFB8BBDC9/pinggir-kali-menu-1klgi3mxu3.html
+https://wisatamilenial.com/pinggir-kali-coffee-brunch-bogor-lokasi-harga-menu-terbaru/
+Article Tags: Megamendung
+Article Categories: Cafe & Resto · Kuliner', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/pinggir-kali-coffee/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/7cf55a11-f9f1-410c-b328-8b016dbe9f8f-1-250x250.jpg', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (207, 'Kedai Kita', 'Kuliner', 'Kuliner', 'Kedai Kita merupakan restoran dengan konsep yang mewah dan tentunya memiliki harga yang terjangkau. Selain itu, Kedai Kita juga memiliki tempat yang strategis karena lokasinya tepat berada di depan pintu masuk Taman Budaya Sentul City. Sehingga para wisatawan yang hadir ke Taman Budaya Sentul City, pasti dapat melihat restoran Kedai Kita ini.
+Instagram : @kedaikitatamanbudaya
+Lokasi
+Jl. Siliwangi, Sumur Batu, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810
+jam Operasional
+Senin – Minggu : 08.00 – 21.00
+Media Sosial
+Instagram
+Article Tags: Babakan Madang
+Article Categories: Cafe & Resto · Kuliner', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kedai-kita/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/131327991_410248130019690_2022678031393822072_n-250x250.jpg', null, 16, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (208, 'Bakso Mie Ayam Mang Entis', 'Kuliner', 'Kuliner', 'Sumber Gambar: google map/sutisna sutisna
+Bagi penggemar bakso harus coba makan bakso disini. Selain menunya banyak tersedia berbagai jenis bakso. Mulai dari yang kecil sampai yang jumbo. Mulai dari yang biasa, sampai bakso urat, bakso daging dan lain lain.
+Sumber Gambar: google map/jojoo oane
+Selain Bakso juga, anda bisa memesan mie ayam yang tidak kalah enaknya dan juga anda bisa memesan tulang iga sapi yang banyak lemaknya.
+Sumber Gambar: google map/dian pujiati
+Puasss bgt dan baso nya bener2 jumboo dan sedaaaaap kuah nya.. always recommend
+Alamat
+9QX5+M8R, Jl. Darul Ihya, Padasuka, Kec. Ciomas, Kabupaten Bogor, Jawa Barat 16610
+Menu Rekomendasi
+Bakso Full Daging Rp. 42.000
+Mie Ayam Biasa Rp. 13.000
+Bakso Urat Jumbo Rp. 42.000
+Bakso Telor Daging Rp. 25.000
+Mie Ayam Bakso Pangsit Rp. 18.000
+Bakso Daging 1/2 Porsi Rp. 18.000
+Bakso Kecil Rp. 14.000
+Tulang Iga Sapi Rp. 20.000
+Jika penasaran menu lainnya, bisa dicek langsung di tempatnya!
+Jam Operasional
+Setiap Hari: 09.30 – 21.00
+Kontak
+No Telp: 0856 9445 3002
+Social Media
+Facebook
+Sumber
+https://gofood.co.id/jakarta/restaurant/bakso-bang-entis-ciomas-fde6e726-6655-4032-91a9-c764fe7866f8
+Article Tags: Ciomas
+Article Categories: Cafe & Resto · Kuliner', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/bakso-mie-ayam-mang-entis/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/google-map_dwi-ok-250x250.jpg', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (209, 'Kokoka Kafe', 'Kuliner', 'Kuliner', 'Sebuah kafe yang mempunyai makanan yang enak enak dan dengan tempat untuk bersantai, sangat cocok untuk mengerjakan tugas atau beristirahat dari kerja yang melelahkan.
+Sumber Gambar: instagram/kokoka.cafe.bogor
+Cafe menawarkan konsep outdoor dan indoor cocok untuk suasana serius dan santai
+Anda bisa bersantai di taman ini dengan dikelilingi oleh pepohonan dan tumbuh tumbuhan yang membuat sejuk suasana. dengan secangkir kopi dan cemilan, membuat hari hari mu menjadi santai.
+Sumber Gambar: google map/anastasia
+Sumber Gambar: instagram/kokoka.cafe.bogor
+Tidak hanya bersantai saja, anda juga bisa menikmati rabbokki. yaitu sebuah pengalaman dengan memasak masakan sendiri dengan kompor dan wajan yang disediakan. membuat pengalamanmu dengan teman teman menjadi sangat seru.
+Sumber Gambar: google map/mellisa asrani
+Alamat
+Jl. Villa Ciomas No.46, RT.02/RW.009, Kp. Sariinten, Kec. Ciomas, Kabupaten Bogor, Jawa Barat 16610
+Fasilitas
+Meja Makan Outdoor
+Parkiran
+Taman dengan banyak tanaman
+Menu Rekomendasi
+Singkong Keju Rp.15.625
+Chicken Rice Bowl Sambal Matah Rp.25.000
+Spaghetti Rp.25.000
+Dori Sambal Matah Rp.31.250
+Chicken Cordon Blue With Fries Rp.48.125
+Jika penasaran menu lainnya, bisa dicek langsung di tempatnya!
+Jam Operasional
+Setiap Hari: 13.00 – 22.00
+Kontak
+No Telp: 02517588394
+Social Media
+Instagram
+Facebook
+Sumber
+https://gofood.co.id/jakarta/restaurant/kokoka-cafe-villa-ciomas-indah-0b11ff1d-04cc-4056-a60b-39d9230d9900
+Article Tags: Ciomas
+Article Categories: Cafe & Resto · Kuliner · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kokoka-kafe/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/kokoka-kako-250x250.jpg', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (210, 'Langit Teduh Resto & Resort', 'Kuliner', 'Kuliner', 'Sumber Gambar: https://langitteduh.com/
+Langit Teduh merupakan restoran yang menyuguhkan menu masakan khas nusantara. Namun tidak hanya restoran, langit teduh juga menyediakan penginapan dengan konsep madani. Selain itu Langit Teduh tersedia Roti Bakar Eddy yang legendaris dan di suguhkan dengan suasana sejuk serta pemandangan Gunung Salak dan Kota Bogor.
+Sumber Video: https://langitteduh.com/
+Pemandangan yg indah, cocok untuk family time
+Langit Teduh ini cukup luas tempatnya, terbagi dua bagian yaitu yang di bawah dan di atas. Semua semi dan full outdoor. Bagian atas tentu jadi highlight tempat ini karena viewnya dari kaki Gunung Salak yang indah sekali saat pagi hari.
+Sumber Gambar: https://pergikuliner.com/restaurants/bogor/langit-teduh-resto-dan-resort-tamansari
+Harga makanan dan minumannya yang lumayan dan sesuai dengan rasanya yang enak porsinya yang ngenyangin. Ditambah dengan pelayannya yang ramah bisa membuat hati tenang.
+Sumber Gambar: https://langitteduh.com/
+Pada malam hari, anda bisa melihat pemandangan dari atas yang sangat indah, banyak cahaya cahaya dari lampu kota yang menyinari gelapnya malam ditambah suasana yang sejuk yang membuatmu ingin sekali memesan kopi atau coklat panas.
+Lokasi
+Jl. Gn. Malang Kp. Loa, RT.01/RW.09, Tamansari, Kec. Tamansari, Bogor Selatan, Jawa Barat 16610, Indonesia
+Fasilitas
+Resort (10 Kamar)
+Restoran
+Skylongue
+Free Wifi
+Meja Outdoor
+Jam Operasional
+Weekday 08.00 – 21.00 WIB
+Weekend 08.00 – 22.00 WIB
+Harga Kamar
+Weekday Rp.750.000/Hari
+Weekend Rp.850.000/Hari
+Fasilitas Kamar
+Kolam Renang
+Water Heater
+AC
+TV
+Free Wifi
+Menu Restoran
+MENU-LT-NEW_compressed.pptx from DetraisMC
+Sumber Menu: https://langitteduh.com/
+Kontak
+Whatsapp: 0811 109 7080
+Social Media
+Facebook
+Instagram
+TikTok
+Sumber
+https://pergikuliner.com/restaurants/bogor/langit-teduh-resto-dan-resort-tamansari
+https://langitteduh.com/
+Article Tags: Tamansari
+Article Categories: Cafe & Resto · Hotel & Villa · Kuliner · Rekreasi · Uncategorized', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/langit-teduh-resto-resort/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/facebook1-250x250.jpg', null, 23, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (211, 'Warung SaeNur, Resto Unik di Tengah Sawah', 'Kuliner', 'Kuliner', 'Di mana lagi kulineran sambil wisata alam selain di Bogor? Rupanya Bogor selalu menyajikan tempat-tempat yang tidak terduga. Saat ini deretan tempat wisata di Bogor selalu menarik perhatian para wisatawan luar bahkan sampai warga negara asing. Bogor tidak pernah sepi peminat akan tempat makan dan tempat wisatanya. Bahkan di sana kita bisa kulineran sekaligus wisata alam dalam satu tempat.
+Karena dikenal dengan daerah yang memiliki berbagai kekayaan alam mulai dari perbukitan, air terjun, pegunungan, sampai ke sungai dan hutannya yang bisa kita temukan di Bogor yang menjadi daya tariknya tersendiri. Di Bogor kita akan mendengar sebuah rumah makan yang memiliki fasilitas menarik. Rumah makan ini dikenal dengan nama Waroeng Saenur. Di tempat tersebut selain mengenyangkan perut, kita juga bisa mengenyangkan kepuasan akan keseruan yang bisa dilakukan di dalam sana.
+Suasana di Waroeng Saenur
+Awalnya Waroeng Saenur ini hanyalah tempat kopi yang berada di tengah-tengah persawahan. Biasanya orang-orang yang datang juga hanya sebatas mampir secara tidak disengaja. Namun karena tempatnya berada di lokasi yang sangat strategis dengan menampilkan pemandangan alam yang memukau, tempat kopi tersebut menjadi sorotan. Beralih tidak hanya menyediakan menu kopinya saja, resto ini sekarang menjadi tempat nongkrong dan kumpul bersama keluarga atau teman yang tentunya sangat menarik.
+Datang ke Waroeng Saenur seolah keberuntungan. Di sana kita bisa menikmati beberapa fasilitasnya yang tak kalah menarik. Berbeda dengan konsep tempat makan pada umumnya, Waroeng Saenur ini anti-mainstream. Di dalam sana disediakan kolam renang dengan airnya yang sangat jernih. Untuk berenang di kolam tersebut kita tidak akan dikenakan biaya apapun alias gratis.
+Fasilitas Waroeng Saenur
+Selain itu beberapa fasilitas menarik lainnya juga bisa kita coba sesuaka hati mulai dari berkuda, bermain flying fox, atau trekking di air terjun yang lokasinya tidak jauh dari sana. Untuk fasilitas berkuda ini kita akan dikenakan tarif sebesar Rp40.000 untuk orang dewasa dan Rp30.000 untuk anak-anak. Hamparan persawahan yang hijau layaknya karpet yang sedang digelar selalu dijadikan spot foto andalan. Apalagi di sana juga disediakan beberapa area foto yang bisa kita coba seperti ayunan, bangunan yang menyerupai kastil, dan sebagainya.
+Biasanya para wisatawan datang pada saat menjelang malam. Selain nuansa tempatnya yang terkesan romantis, melihat matahari tenggelam di tengah-tengah sawah ditemani suara aliran air sungai tentunya menciptakan kesan yang menenangkan.
+Aneka Menu
+Beberapa menu makanan yang juga tidak boleh kita lewatkan ketika datang ke sana yaitu Sop Iga Saenur, Pecak Ikan Muzair, Loo atau yang kita kenal dengan tahu gejrot, dan masih banyak lagi menu-menu yang tentunya meningkatkan selera makan. Salah satu menu yang wajib banget kita pesan yaitu Sop Iga Saenur. Kuah kaldunya yang begitu sedap dengan iga yang lembut tentu menjadi daya pikatnya tersendiri. Apalagi disajikan dengan nasi putih yang masih panas di tengah-tengah persawahan, tentunya akan semakin nikmat.
+Ada juga menu minuman yang tak kalah enak seperti wedang, kopi, susu, teh, minuman buah, dan masih banyak lagi. Untuk harga menu makanan yang ada di Waroeng Saenur ini dibanderol mulai dari Rp2.000 sampai dengan Rp40.000. Rumah makan ini tergolong murah meriah dengan rasa masakannya yang sangat mewah.
+Lokasi dan Jam Buka
+Bagi wisatawan yang ingin merasakan sensasi kulineran ditambah wisata alam dan acara-acara outbond yang menarik, kita bisa datang ke Waroeng Saenur yang terletak di Jalan Cibadak, Kp. Loji, Cibadak, Sukamakmur, Bogor, Jawa Barat. Jika datang dari pusat Kota Bogor jaraknya sekitar 33 km atau bisa ditempuh dengan waktu sekitar 1 jam perjalanan. Resto ini beroperasi di akhir pekan, hari sabtu mulai pukul 08.00 sampai dengan pukul 21.00 WIB dan hari minggu mulai pukul 07.00 sampai dengan pukul 18.00 WIB. Untuk perubahan jam operasional bisa dilihat di akun instagramnya dengan nama @waroengsaenur.
+Wisatawan dari Bogor, Jakarta, Sukabumi dan sekitarnya wajib banget mengunjungi Waroeng Saenur ini bersama keluarga maupun teman-teman.
+Sumber
+https://kawanus.com/waroeng-saenur-kulineran-maknyus-di-tepi-sawah/
+https://www.radarbogor.id/2021/04/07/warung-saenur-resto-unik-di-tengah-sawah/
+https://www.instagram.com/waroengsaenur/
+Article Tags: Sukamakmur
+Article Categories: Cafe & Resto · Kuliner', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/warung-saenur-resto-unik-di-tengah-sawah/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/WhatsApp-Image-2021-04-04-at-14.11.13-250x250.jpeg', null, 20, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (212, 'Ngopi di Sawah Gadog Bogor', 'Kuliner', 'Kuliner', 'Bicara tentang Kota Bogor memang selalu terbesit aneka destinasi wisata yang sayang untuk dilewatkan, mulai dari puncak yang indah, beragam wisata alam dan tak ketinggalan destinasi wisat kulinernya, salah satunya adalah Ngopi di Sawah Gadog Bogor.
+Destinasi yang memiliki konsep pedesaan ini menawarkan suasana yang sejuk khas pedesaan dipadukan dengan hamparan sawah yang mengelilingi tempat ini sehingga membuat pengunjung semakin nyaman untuk duduk santai sambil menikmati aneka hidangan yang disediakan.
+Terdapat 2 pilihan area untuk bersantai di Ngopi di Sawah bogor ini yaitu outdoor dan indoor.
+Pada area outdoor pengunjung akan diberikan pilihan untuk bersantai di gazebo yang telah disediakan atau bisa juga duduk lesehan dengan menggunakan bean bag.
+Area outdoor ini juga memiliki sudut-sudut yang indah untuk dijadikan latar berfoto, dikarenakan area outdoor tentu saja pemandangan sawah disekitar menjadi bonus yang sayang untuk dilewatkan.
+Memasuki area kedua yaitu area indoor dimana pengunjung akan disuguhkan dengan bangunan joglo tradisional yang khas dengan nuansa pedesaan.
+Lokasi Ngopi di Sawah Gadog Bogor
+Ngopi di sawah Bogor beralamatkan di Jalan Puri Cemara no 90 Gadog, Kec Megamendung Bogor Jawa Barat 16770. Kira-kira 20 menit perjalanan atau berjarak 13 km dari Kota Bogor. Tempat ini mudah dijangkau dengan kendaraan pribadi baik motor maupun mobil.
+Jam Buka Ngopi di Sawah
+Untuk jam buka Ngopi di Sawah Bogor ini mulai pukul 11.00 – 21.00 WIB (senin-jum’at) dan 09.00 – 21.00 WIB (sabtu-minggu).
+Harga Menu Ngopi di Sawah Bogor
+Selain tempat ngopi ternyata destinasi ini juga menyuguhkan aneka kuliner yang siap memanjakan lidah pengunjung dengan harga yang tentunya ramah kantong.
+Harga menu Ngopi di Sawah Gadog  Bogor ini mulai dari Rp5.000,00-73.000,00 saja.
+Selain aneka menu kuliner dan pemandangan alam yang indah Ngopi di Sawah Bogor juga memiliki fasilitas yang cukup lengkap diantaranya :
+Area parkir
+Toliet
+Mushola
+Ruangan AC
+Akses wifi
+Stop kontak
+Smoking area
+Gazebo serta spot foto dan masih banyak lagi fasilitas pendukung lainnya
+Tertarik untuk berkunjung? pastikan saat berkunjung kalian mentaati protokol kesehatan ya dengan mencucui tangan, memakai masker dan juga menjaga jarak.
+Sumber
+https://www.piknikdong.com/ngopi-di-sawah-gadog-bogor.html
+https://www.instagram.com/ngopidi.sawah/?hl=en
+Article Tags: Megamendung
+Article Categories: Cafe & Resto · Kuliner · Makanan Khas · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/ngopi-di-sawah-gadog-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/3033409985-250x250.jpg', null, 21, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (213, 'Taman Buah Mekarsari', 'Kuliner', 'Kuliner', 'Taman Buah Mekarsari merupakan suatu tempat wisata yang sangat ikonik bagi sebagian masyarakat yang tinggal di Jabodetabek. Mungkin bagi sebagian masyarakat yang tinggal didaerah khususnya Bogor Timur pasti pernah mencicipi buah segar yang dipanen dari Taman Buah Mekarsari ini.
+Foto Instagram :@mekarsari_fruitgarden
+Sejarah Taman Buah Mekarsari
+Taman Buah Mekarsari digagas oleh almarhum Ibu Tien Soeharto yang dibangun pada tahun 1990 dan diresmikan pada tahun 1995 awalnya bernama Taman Wisata Mekarsari. Tujuan beliau membangun taman Buah Mekarsari adalah untuk meningkatkan kualitas dan popularitas buah-buahan di Indonesia agar dapat bersaing dipasar nasional maupun internasional.
+Taman Buah Mekarsari berperan sebagai kebun percontohan tanaman hortikultura dan buah-buahan tropis Indonesia, sebagai pusat penelitian dan pendidikan bagi masyarakat luas dan sebagai sarana lapangan kerja bagi masyarakat serta menjadi tujuan wisata pertanian yang menarik.
+Foto Instagram : @mekarsari_fruitgarden
+Jenis Tanaman Taman Buah Mekarsari
+Taman Wisata Mekarsari memiliki 1.470 varietas tanaman buah dan 100.000 pohon, termasuk diantara nya tanaman rempah, tanaman biofarma, tanaman pangan, tanaman hias, tanaman sayur, tanaman industri, dan tanaman pelindung. Disini terdapat laboratorium untuk menyilangkan beberapa varietas tumbuhan yang menghasilkan Barbados cherry, jambu air irung petruk, jambu air cengkih, nanas arnis, jambu air toon klow, serta persilangan buah cempedak dan nangka yang dinamakan pedakka, cempeka, dan nangkadak. Selain itu di Taman Buah Mekarsari jugadapat menjumpai tanaman langka seperti salak, nangka, jeruk, rambutan, belimbing, melon, dan masih banyak lagi.
+halokakros.com
+Foto Instagram : @mekarsari_fruitgarden
+Sarana Wisata
+Atraksi Wisata Paket Wisata
+Flying Fox Kids Farm
+Atv Fun Days
+Banana Boat Back To Green World
+Giant Bubble Come Out And Play
+Kereta Wisata Tropical Camp
+Mini GoKart Paddy Legend
+Jam Operasional
+Senin-Jumat 10.00-16.30 WIB
+Sabtu-Minggu 09.00-16.30 WIB
+Harga Tiket Masuk
+Senin-Jumat Rp.25.000,- (Dewasa dan Anak)
+Sabtu-Minggu Rp.25.000,- (Dewasa dan Anak)
+Menariknya disini menggunakan sistem Top Up, yaitu pengisian saldo agar dapat menggunakan wahana sehingga tidak perlu antri. Tiket masuk sebesar Rp.25.000,- berisikan Rp.15.000,- untuk tiket masuk, Rp.10.000,- untuk gelang RFID. Jika sudah selesai gelang ini dapat ditukarkan dengan uang yang ada disisa saldo.
+Alamat
+Jl. Raya Cileungsi – Jonggol KM. 3, Cileungsi, Bogor, Jawa Barat.
+Transportasi Umum :
+1. Dari Kp.Rambutan
+Menggunakan angkutan kota Kowanbisata jurusan Bogor – Jonggol dan turun tepat di depan gerbang Taman Wisata Mekarsari.
+2. Dari Kota Bekasi
+Menggunakan bus Kowanbisata jurusan Bekasi – Jonggol, dan turun di depan Taman Wisata Mekarsari.
+Article Tags: Cileungsi
+Article Categories: Agrowisata · Buah-Buahan · Kuliner · Produk Olahan · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/taman-buah-mekarsari/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/tbm-250x250.jpg', null, 33, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (214, 'Angkringan Teras A5, Bojong Gede', 'Kuliner', 'Kuliner', 'Angkringan Teras A5, Bojonggede merupakan tempat yang menyajikan berbagai jajanan dan minuman yang harganya sangat terjangkau di kantong anda. Ditempat ini kalian bisa asyik nongkrong sambil jajan bareng kawan, keluarga bahkan bareng pasangan. Dengan tempat makan dan lahan parkir yang luas, tentunya tidak membuat kita takut kehabisan tempat.
+Instagram : @angkringanteras_a5
+Di tempat ini banyak beragam jajanan mulai dari minuman, nasi dan macam-macam sate juga ada disana. Jajanan angkringan tersebut dapat dinikmati langsung di angkringan atau bisa dipesan melalui aplikasi online seperti : Gofood.
+Jam Operasional
+17.00 – Selesai
+Lokasi
+Jl. Pabuaran Ds. Rawapanjang Rt. 03/01 Kec. Bojonggede Kab. Bogor
+Instagram
+@angkringanteras_a5
+Article Tags: Bojonggede
+Article Categories: Kuliner · Makanan Khas', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/angkringan-teras-a5-bojong-gede/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/239184422_585912436121147_2828123835016665424_n-250x250.jpg', null, 19, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (215, 'Potamus Cafe', 'Kuliner', 'Kuliner', 'Sekilas Tentang Potamus Cafe
+Potamus Cafe Bogor adalah sebuah cafe yang terletak di Kota Bogor yang baru hits dan viral di berbagai media sosial. Cafe ini memiliki konsep yang kekinian dan asthetic digunakan untuk berfoto. Suasana yang segar dan menyejukan membuat siapa saja betah di cafe ini.
+Memiliki pelayanan dan fasilitas yang terbaik serta memadai, membuat cafe ini cocok untuk digunakan sebagai tempat nongkrong bersama teman atau pasangan. Ditambah tempat yang cukup luas dan juga nyaman membuat kesan tersendiri bagi para pengunjungnya.
+Berikut informasi tentang daya tarik, fasilitas lengkap, daftar menu, jam operasional dan lokasi Potamus Cafe Bogor.
+Sumber : @Arum Dahlia
+Daya Tarik Potamus Cafe
+Daya Tarik utama Potamus Cafe Bogor yaitu ada pada desain bangunannya. Hadir dengan konsep ala Santorini di Yunani, membuat siapa saja ingin datang untuk duduk dan menikmati suasana yang sejuk serta menyegarkan di cafe ini.
+Bangunan di cafe ini didominasi oleh warna putih dan biru cerah yang menambah keindahan tempat nongkrong ini. Desain bangunan yang terbilang instagramable dan kekinian ini tentu sangat recomended untuk kalian yang suka hunting foto. Menu di cafe ini juga terbilang sangat lengkap dan memiliki harga yang sangat terjangkau bagi semua kalangan.
+Potamus Cafe Bogor memiliki 2 area, yaitu area indoor dan outdoor. Untuk area indoor, kalian akan menempati bangunan yang sudah disediakan tempat duduk serta bangunan yang memiliki warna putih dan biru cerah yang tampak indah dan begitu nyaman. Sedangkan untuk area outdoornya berada di halaman yang cukup luas dan juga disediakan tempat duduk yang terdapat payung jeraminya. 
+Sumber : @Arum Dahlia
+Fasilitas Potamus Cafe
+Potamus Cafe Bogor juga memiliki fasilitas yang memadai untuk memberikan kesan yang nyaman untuk para pengunjungnya. Fasilitas tempat ini diantaranya :
+Area Indoor dan Outdoor
+Area Parkir
+Ruangan AC
+Mushola
+Toilet
+Spot Foto Instagramable
+Akses Wi-Fi
+Stop Kontak
+Fasilitas Protokol Kesehatan
+dan lainnya
+Daftar Menu Potamus Cafe
+Menu yang tersedia di Potamus Cafe Bogor cukup lengkap dan juga memiliki harga yang terjangkau bagi semua kalangan. Kalian bisa bebas pilih sesuka hati.menu yang tersedia di cafe ini. Berikut daftar Menu dan Harga di Potamus Cafe Bogor :
+Sumber : IG @potamuscafe
+COFFEE
+Coffee Latte Hot 27K
+Coffee Latte Ice 29K
+Cappucino Hot 27K
+Cappucino Ice 29K
+Es Kopi Susu Gula Aren 29K
+Caramel Latte Ice/Hot 29K
+Hazelnut Latte Ice/Hot 29K
+Vanilla Latte Ice/Hot 29K
+Americano 24K
+Kopi Susu Gula Aren 500 ml 55K
+Kopi Susu Gula Aren 1000 ml 100K
+Moccacino Ice/Hot 29K/27K
+Single Espresso 15K
+Double Espresso 18K
+Long Black 25K
+NON COFFEE
+Greantea Hot 27K
+Greentea Ice 29K
+Red Velvet Hot 27K
+Red Velvet Ice 29K
+Chocolate Hot 27K
+Chocolate Ice 29K
+Chocolate Milkshake 29K
+Strawberry Smoothies 32K
+Orea Milkshake 30K
+Vanilla Milkshake 29K
+Banana Smoothies 32K
+SIGNATURE COFFEE
+Citrus Coffee 35K
+Cinnamon Bitter Coffee 35K
+Peach Moctail Coffee 35K
+MANUAL BREW
+Vietnam Drip Ice/Hot 21K
+V60 Ice/Hot 27K
+Aeropress 27K
+SPECIAL DRINK
+Pincapple Blue Sky 28K
+Red Summer 27K
+Strawberry Cream 29K
+Mango Sour Yoghurt 32K
+Blue Sweety 28K
+Tropical Blue Mango 28K
+DUTCH PANCAKE
+Apple Cinnamon Pancake 40K
+Nutella Strawberry Pancake 40K
+Blueberry Pancake 50K
+Peanut Butter Pancake 50K
+Hawaiian Coconut Pancake 50K
+Triple Cheese Pancake 50K
+Alfredo Chicken Pancake 50K
+Buffalo Chicken Pancake 50K
+Spaghetti Carbonara Pancake 55K
+Spaghetti Bolognese Pancake 55K
+Spaghetti Sapi Pedas 60K
+Spaghetti Sambal Matah Pancake 55K
+WESTERN FOOD
+Beef Steak Rosti 110K
+Chicken Steak Rosti 70K
+Chicken Cordon Bleu Rosti 60K
+Sausage and Egg Rosti 50K
+Toast Original 30K
+Burger Beef Steak 50K
+Burger Spicy Chicken 45K
+RICE BOWL
+Ricebowl Ayam Pedas 35K
+Ricebowl Sambal Matah 35K
+Ricebowl Original 32K
+APPETIZER
+Potamus Sampler 45K
+Nacos With Sauce Avocado 30K
+Load Potato Bolognese 35K
+DESSERT
+Sweet Jelly Marshmallow 35K
+Sweet Jelly With Dragon 35K
+Red Bowl Potamus 45K
+Jelly Dessert Potamus 28K
+Lokasi Potamus Cafe
+Potamus Cafe Bogor beralamat di daerah Jl. Raya Kp. Kaum Pandak No.36, Karadenan, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16710. Untuk akses menuju cafe ini sangat mudah karena hanya berjarak 10 km dari pusat kota Bogor.
+Jam Operasional Potamus Cafe
+Mengenai informasi jam operasional, Potamus Cafe Bogor melayani pengunjung mulai pukul 10.00 – 23.00 WIB setiap harinya.
+Sumber
+https://www.marisarapan.com/2022/06/lokasi-dan-harga-menu-potamus-cafe.html
+https://www.instagram.com/potamuscafe/?hl=en
+Article Tags: Cibinong · Kabupaten Bogor
+Article Categories: Cafe & Resto · Kuliner · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/potamus-cafe/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/IMG_20220615_130112-250x250.jpg', null, 16, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (216, 'Saung Lebah Madu Paseban', 'Kuliner', 'Kuliner', 'Saung lebah Madu Paseban merupakan eduwisata lebah madu yang memiliki program dapat berinteraksi secara langsung, program ini memberikan pembelajaran atas budidaya madu dan pengetahuan tentang produk lebah budidaya. Kegiatan eduwisata meliputi proses panen madu, pengenalan ekosistem lebah madu, terapi sengat lebah dan lain lain. Pelanggan tidak sebatas datang lalu membeli sebotol madu, di Saung Lebah Madu Paseban ini pengunjung dapat merasakan manisnya madu secara langsung dari sarangnya (Honeycomb) atau menikmati Raw Honey.
+Sumber : Paseban.co.id/wisata-minat-khusus/eduwisata/lebah-madu/
+Produk Saung Lebah Madu Paseban
+Madu murni
+HB Honey
+Honeycomb nectar Kaliandra
+Sumber : Googlemaps.com (Produk Lebah Madu Paseban)
+Lokasi Saung Lebah Madu Paseban
+ Jl. Tegal Luhur, Megamendung, Kp Paseban, Desa Megamendung, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770
+Harga Madu Paseban
+Varian Olahan Madu Ukuran Harga
+Madu Murni Kaliandra 250 ml Rp. 50.000
+Madu Murni Kaliandra 500 ml Rp. 90.000
+Sarang Madu Asli Kaliandra 150 gram Rp. 60.000
+Sarang Madu Asli Kaliandra 250 gram Rp. 90.000
+Sarang Madu Asli Kaliandra 500 gram Rp. 150.000
+Jam Operasional
+Hari Jam Operasional
+Sabtu – Kamis 07.00 – 17.00 WIB
+Jum’At 08.00 – 17.00 WIB
+Media Sosial
+Nomor Telpon : 0858-8823-8364
+Website : https://saung-lebah-madu-paseban.business.site
+Article Tags: Megamendung
+Article Categories: Agrowisata · Kuliner · Produk Olahan · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/saung-lebah-madu-paseban/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/madu-paseban-megamendung-7-250x250.jpg', null, 20, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (217, 'AyaMie', 'Kuliner', 'Kuliner', 'AyaMie merupakan suatu panganan yang cukup unik dengan memadukan pewarna alami yang terbuat dari buah dan sayur.
+AyaMie adalah hidangan khas indonesia yang terbuat dari mie gandum kuning yang dibumbui dengan daging Ayam yang biasanya di potong dadu. AyaMie memiliki keunikan tersendiri dan cita rasa yang berbeda dari mie ayam pada umum nya.
+AyaMie ini memiliki kandungan vitamin yang lebih banyak dari pada MieAyam pada umumnya karena di buat menggunakan bahan organik dan daging ayam yang berkualitas. Keunikan dari AyaMie ini yaitu rasa dan warna yang di buat dari berbagai macam buah dan sayur, AyaMie ini memiliki berbagai varian warna dan rasa seperti seperti Mie berwarna merah yang di buat menggunakan tepung gandum dan warna merah yang muncul di buat dengan sari buah naga sedangkan yang hijau dan yang kuning di buat menggunakan wortel dan daun sawi.
+AyaMie bisa dinikmati oleh semua orang dengan memesan melalui beberapa aplikasi online seperti, GoFood, Grab Food, Shopee Food, Traveloka Eats.
+Lokasi
+Jl.Raya Ciapus, Gg Raden Padmo Soedarmo Rt 02/13, Desa Pasireurih, Kec. Tamansari, Kabupaten Bogor, Jawa Barat 16610
+Fasilitas :
+Toilet
+Tempat Makan Yang Nyaman
+Harga :
+Harga AyaMie/Porsi Rp.10.000,-
+Jam Operasional :
+Kamis – Minggu 12.00 – 08.00 WIB
+Hari jumat tutup
+Kontak :
+Wa : +6285695008768
+Article Tags: Tamansari
+Article Categories: Kuliner · Produk Olahan', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/ayammie/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/WhatsApp-Image-2022-09-08-at-21.09.24-250x250.jpeg', null, 19, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (218, 'Kampung Kecil Vivo Mall', 'Kuliner', 'Kuliner', 'Rasanya nge-raja, Harganya nge-rakyat
+Pada saat ini restoran bukan hanya sekedar tempat makan biasa, tetapi juga bisa digunakan untuk menghilangkan penat atau refreshing. Hal ini karena bisnis di bidang kuliner memiliki banyak persaingan sehingga para owner menghadirkan restoran dengan konsep yang aesthetic dan instagramable.
+Salah satu restoran yang memiliki konsep aesthetic dan layak untuk dikunjungi bersama keluarga, teman-teman atau pun pasangan adalah restoran kampung kecil vivo mall sentul. Lokasinya berada di kawasan Kecamatan Sukaraja, Bogor Jawa Barat.
+Sumber : Persuratan dan Kearsipan BIG
+Restoran Kampung Kecil Vivo Mall Sentul bukan hanya rumah makan biasa, bangunan yang dihadirkan terlihat aestethic sehingga mampu menarik perhatian ribuan pasang mata. Tidak heran jika tempat makan ini selalu ramai dipenuhi pengunjung dari berbagai wilayah khususnya Bogor.
+Restoran sunda yang satu ini terus melakukan ekspansi dengan membuka cabang baru. Di tahun 2022 ini saja sudah ada beberapa cabang baru yang sudah beroperasi, diantaranya Kampung Kecil Kedoya, Kampung Kecil Kosambi, Kampung Kecil Simpang Depok, Kampung Kecil Panam (Pekanbaru) dan cabang lainnya yang akan segera dibuka.
+Daya Tarik Restoran Kampung Kecil Vivo Mall Sentul Bogor
+Restoran atau rumah makan Kampung Kecil di kawasan Vivo Mall Sentul ini baru dibuka pada 23 Maret 2022 kemarin sehingga tergolong masih baru. Daya tarik yang ditawarkan ada banyak sekali diantaranya yaitu menyuguhkan konsep bangunan yang aesthetic yang mana secara desain mirip dengan cabang yang lain.
+Area yang dimiliki juga sangat luas sekali sehingga pengunjung yang datang tidak perlu khawatir berdesakan. Di dalamnya juga seperti cabang yang lain yaitu memiliki puluhan saung. Kemudian yang menjadi ciri khas kampung kecil ini yaitu bangunan utama yang menyerupai jamur raksasa.
+Sumber : Persuratan dan Kearsipan BIG
+Juga tidak jauh berbeda dengan cabang yang lain, kampung kecil kawasan vivo mall ini juga memiliki kolam renang yang jernih sehingga tampak semakin syahdu sekali. Ketika sore hari suasananya tampak semakin romantis hal ini karena adanya pancaran lampu hias di beberapa titik.
+Daftar Harga Menu Resto Kampung Kecil Sentul
+Sumber : IG @kampungkecil_official
+Sumber : IG @kampungkecil_official
+Lokasi Resto Kampung Kecil Vivo Mall Sentul Bogor
+Jl. Raya Jakarta-bogor km. 50, Kel. Cimandala Sentul, kec. Sukaraja, Bogor, jawabarat-16710
+(BELAKANG VIVO MALL SENTUL BOGOR)
+Buka setiap hari dari pukul 10.00 hingga 22.00
+Delivery Order :
+0878-7070-6060(wa)
+0811-102-7060
+Sumber
+https://www.nesapedia.com/2022/04/kampung-kecil-vivo-mall-sentul-harga-menu-lokasi.html
+https://www.instagram.com/kampungkecil_official/?hl=en
+Article Tags: Cibinong · Kabupaten Bogor
+Article Categories: Cafe & Resto · Kuliner', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kampung-kecil-vivo-mall/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/IMG_20220522_123251-2-250x250.jpg', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (219, 'Lapis Talas', 'Kuliner', 'Kuliner', 'Kuliner kue lapis Bogor yang berasal dari bahan dasar tepung talas ini cukup dikenal para pecinta kuliner.
+Dari informasi yang diterima Direktori Wisata dilokasi, bahwa tepung talas yang dipergunakan untuk membuat kue lapis Bogor ini memiliki banyak manfaat untuk kesehatan tubuh, selain sebagai penambah energi talas pun bermanfaat untuk pencernaan, kesehatan jantung, menstabilkan tekanan pada darah, meningkatkan imun pada pada tubuh kita, mengatasi kelelahan, dan juga sebagai ati anging yaitu dapat membuang radikal bebas dan regenerasi sel pada tubuh.
+Selain banyak manfaat untuk kesehatan tubuh, kue lapis talas Bogor ini pun dikembangkan lebih bervariasi mengenai cita rasa yang ditampilkan, dari rasa full talas, green tea, original keju, tiramisu, blubarry, durian, brownies, dan rasa terbarunya strawbarry. Hasil produksi kuliner keu lapis talas Bogor merupakan bagian dari pengembangan kuliner Indonesia.
+Harga
+Harga Lapis Talas kisaran Rp. 45.000
+Article Tags: Kabupaten Bogor
+Article Categories: Kuliner · Produk Olahan', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/lapis-talas/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/l-250x250.jpg', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (220, 'Kripik Talas', 'Kuliner', 'Kuliner', 'Kripik has Bogor terbuat dari talas yang diiris tipis-tipis kemudian digoreng hingga kering. Kripik talas memiliki tekstur yang renyah. Rasa gurih dari kripik talas sangat cocok untuk menemani waktu bersantai keluarga.
+Kripik talas pedas manis salah satu olahan makanan ringan dari umbi talas atau sebutan lainnya keladi, kimpul, mbothe dll. Jenis umbi ini memiliki kandungan karbohidrat yang tinggi hampir setara dengan beras, beberapa kelompok masyarakat di Indonesia ada yang menggunakan umbi talas sebagai makanan pokok, adapun selain dari kandungan karbohirat yang baik sebagai pengganti beras kelebihan lain yang terkandung adalah serat yang tidak didapat pada beras, protein yang lebih tinggi dibanding ubi singkong dan ubi jalar manis, serta rendah lemak. 
+Bogor dikenal sebagai tempat pembudidayaan umbi talas yang cukup sukses, beberapa varian umbi talas unggulan bisa didapati disini diantaranya talas sutera yang memiliki ciri pada daun terdapat bulu halus sehingga menyerupai tekstur kain, talas bentul adalah varian yang memiliki bentuk umbi lebih besar dan warna batang ungu, talas ketan dengan warna pelepah agak kemerahan serta ketika direbus tekstur umbinya menjadi agak lengket seperti ketan, talas mentega memiliki warna tanaman ungu gelap dan jenis ini cocok untuk diolah menjadi keripik talas karena rasa yang enak dan lebih pulen ketika sudah matang.
+Harga
+Harga kripik cukup terjangkau. Keripik Talas dibandrol dengan harga Rp. 30.000 tiap bungkusnya. Kripik Talas di bungkus dalam kemasan 1 kg.
+Lokasi
+Ruko Galaxy, Jl. Raya Jakarta-Bogor No.2B, Pakansari, Cibinong, Bogor, Jawa Barat 16915
+Jl. Raya Mayor Oking Jaya Atmaja No.100, Citeureup, Cibinong, Bogor, Jawa Barat 16810
+Puspasari, Kec. Citeureup, Bogor, Jawa Barat 16810
+Article Tags: Kabupaten Bogor
+Article Categories: Kuliner · Produk Olahan', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kripik-talas/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/Keripik-Talas-Bogor-@eshoppe.st_-250x250.gif', null, 11, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (221, 'Seafood Angin Seroja', 'Kuliner', 'Kuliner', 'Ikan Bakar Seafood Angin Seroja di Jalan Raya Sadeng, Kecamatan Leuwiliang, Kabupaten Bogor, sudah cukup dikenal masyarakat di kawasan Bogor Barat. ketika menginjakkan kaki direstoran tersebut, dari kejauhan sudah terlihat kepulan asap dengan wangi khas penganan ikan laut. Ditambah lagi, tempatnya yang hanya berupa lesehan dilengkapi meja-meja panjang sudah dipenuhi pengunjung. Sebagiannya menikmati menu, sebagian lagi masih duduk menunggu pesanan. Sementara itu, di bagian depan ada wadah-wadah berisi ikan segar. Jumlahnya bisa mencapai 12 jenis ikan, tergantung stok yang tersedia. Sementara di bagian lain, ada tempat untuk membakar dan lesehan untuk makan pula.
+SeaFood Angin Seroja luar Biasa Ramai. Terletak di jalan raya Sadeng Leuwiliang yang menyajikan berbagai seofood yang bervariatif. Dari ikan kui, baranang, kepiting, kerang bambu, kerang dara, udang, cumi dan lainnya.
+Wisata menarik yang instagramable.
+Meskipun harus antre dan menahan dari kepulan asap, pengunjung tampak santai menunggu pesanannya datang. Sesekali di antara pengunjung ada yang berjalan ke arah jalan, karena restoran ini berada tepat di pinggir jalan, untuk melihat pemandangan gunung Pongkor. Atau ke arah minimarket, yang berada tak jauh dari lokasi tersebut. Beragam jenis ikan tersedia, mulai dari ikan gurame, kakap merah, tenggiri, kerapu, salmon, kuwe, ayam-ayam, bawal, udang, cumi, kerang dara, kepiting, dan lobster.
+Lokasi
+Jl. Raya Sadeng No.31, Sadeng, Leuwisadeng, Bogor, Jawa Barat 16640
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Harga
+Harganya bervariasi, kisaran Rp8.000 hingga Rp15.000 per ons atau Rp25.000 hingga Rp70.000. Harga lobster misalnya, Rp 15.000 per ons, kepiting Rp 10.000 per ons, sedangkan ikan mulai Rp 5.000 sampai Rp 7000 per ons. Sementara untuk kerang, udang, dan cumi dijual per porsi dengan harga Rp 25.000 per porsi.
+Jam Operasional
+Senin – Minggu 09.30 – 21.00 WIB
+Kontak
+Tlp : +6281313565195
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Leuwisadeng
+Article Categories: Cafe & Resto · Kuliner · Produk Olahan · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/seafood-angin-seroja/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/seroja-250x250.jpeg', null, 17, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (222, 'Bolu Pisang', 'Kuliner', 'Kuliner', 'Bolu pisang adalah kue basah khas Indonesia, salah satunya di Kabupaten Bogor bolu pisang sangat terkenal dengan rasanya yang khas.
+Bolu pisang adalah kue bolu yang dibuat dengan menggunakan pisang sebagai bahan utama dan bahan kue khas. Ini dapat disiapkan dengan berbagai cara, termasuk sebagai kue lapis, sebagai muffin, dan sebagai kue mangkuk. Kue pisang kukus ditemukan dalam masakan Cina, Indonesia, dan Vietnam. 
+Harga
+Harga bolu pisang di Kabupaten Bogor, sebagai berikut:
+Bolu pisang mini : Rp. 17.000,-
+Bolu pisang sedang : Rp. 25.000,-
+Bolu pisang besar : Rp. 35.000,-
+Lokasi
+Lokasi toko bolu pisang di Kabupaten Bogor:
+Jl. Guru Suma No.354, RT.05/RW.01, Cibinong, Bogor, Jawa Barat 16911
+Jalan Ciriung, Cirimekar, Cibinong, Bogor, Jawa Barat 16918
+Jl. Pembangunan II, Cicadas, Kec. Gn. Putri, Bogor, Jawa Barat 16964
+Raya Kecamatan Citeureup, Jl. Mayor Oking Ciriung Cibinong No.194, Citeureup, Kec. Citeureup, Bogor, Jawa Barat 16810
+Article Tags: Kabupaten Bogor
+Article Categories: Kuliner · Produk Olahan', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/bolu-pisang/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/010025400_1626237982-shutterstock_115913455-250x250.webp', null, 10, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (223, 'Doclang Bogor', 'Kuliner', 'Kuliner', 'Doclang merupakan makanan khas tradisional Bogor yang terbuat dari lontong dengan siraman bumbu kacang kental.
+Doclang merupakan makanan khas tradisional Bogor yang terbuat dari lontong dengan siraman bumbu kacang kental.Di Bogor sendiri makanan ini semakin sulit ditemui. Makanan ini biasanya dijajakan berkeliling dari satu daerah ke daerah lainnya dengan cara dipikul.
+
+Doclang sendiri termasuk makanan yang sederhana. Makanan yang umumnya disantap pada saat sarapan ini terdiri atas irisan lontong ukuran besar yang dibungkus daun patat, kentang, tahu, kerupuk, dan telur rebus. Berbagai bahan ini kemudian disiram bumbu kacang yang dicampur aneka macam rempah. Kemudian, bahan-bahan tersebut ditambah kecap secukupnya, dan sambal bagi yang suka pedas.
+
+Pada saat ini umumnya penjual Doclang dapat ditemui dari pagi sampai siang hari di daerah-daerah perumahan atau perkampungan warga. Namun terdapat juga beberapa penjual Doclang yang menajajakannya dengan gerobak yang tersedia dari pagi bahkan sampai sore atau malam hari di kawasan Jembatan Merah Bogor.
+Harga
+Harga : Mulai dari 8,000 IDR hingga 10,000 IDR
+Lokasi
+Jl. Raya Kalisuren, pasar modern, Kalisuren, Tajur Halang, Bogor, Jawa Barat 16320
+Jl. Raya Letnan Sukarna No.22, Bojong Rangkas, Kec. Ciampea, Bogor, Jawa Barat 16620
+Jl. Kapten Dasuki Bakri, Cibatok 1, Kec. Cibungbulang, Bogor, Jawa Barat 16630
+Article Tags: Kabupaten Bogor
+Article Categories: Kuliner · Makanan Khas', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/doclang-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/doclang-250x250.jpg', null, 10, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (224, 'Toge Goreng', 'Kuliner', 'Kuliner', 'Toge Goreng adalah salah satu kuliner khas Bogor dibuat dari paduan tauge rebus, mie kuning dan tahu yang enak disiram dengan bumbu tauco
+Tauge goreng adalah hidangan vegetarian Indonesia yang bercitarasa gurih yang dibuat dengan cara menumis tauge dengan sedikit air panas, ditambah irisan tahu, ketupat atau lontong serta mi kuning, disirami saus atau kuah kental gurih yang terbuat dari oncom. 
+Harga
+Seporsi toge goreng dibandrol dengan harga Rp 15.000 sampai dengan Rp. 25.000.
+Lokasi
+Jl. Baru Puspa Negara, Puspanegara, Kec. Citeureup, Bogor, Jawa Barat 16810
+Jl. Raya Jakarta-Bogor No.Km 43, Nanggewer Mekar, Cibinong, Kota Bogor, Jawa Barat 16912
+Article Tags: Kabupaten Bogor
+Article Categories: Kuliner · Makanan Khas', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/toge-goreng/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/1645596togeee780x390-250x250.jpg', null, 12, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (225, 'Taman Fathan Hambalang', 'Kuliner', 'Kuliner', 'Taman Fathan Hambalang merupakan wisata kuliner yang memiliki keindahan panorama alam terbuka dari ketinggian yang dihias dengan latar pegunungan
+Taman Fathan Hambalang tidak hanya memiliki wisata kulinernya saja yang tersedia, Taman Fathan Hambalang juga menawarkan keindahan panorama alam yang di hias Gunung Gede, Gunung Pangrango, Gunung Pancar. Tempat wisata ini berada dekat dengan Kantor Desa Hambalang, yang terletak di Citeureup Bogor.
+Pengunjung juga dapat menikmati panorama matahari terbenam yang memesona pada sore hari. Malamnya, gemerlap lampu akan membuat suasana kian romantis.
+Fasilitas Tersedia
+Mushola
+Kamar mandi
+Toilet
+Spot Foto
+Area Parkir
+Harga Menu
+Harga menu makanan dan minuman mulai dari Rp 5.000 hingga Rp 20.000
+Harga Parkir
+Motor : Rp 5.000
+Mobil : Rp 10.000
+Jam Operasional
+Senin-Jum’at : 11.00-20.00 WIB
+Sabtu-Minggu : 09.00-21.00 WIB
+Lokasi
+Alamat : Hambalang, Kec. Citeureup, Bogor, Jawa Barat 16810
+
+
+Article Tags: Citeureup
+Article Categories: Cafe & Resto · Kuliner · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/taman-fathan-hambalang/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/taman-fathan-hambalang-250x250.jpg', null, 14, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (226, 'Soto Mie Bogor', 'Kuliner', 'Kuliner', 'Soto Mie Bogor merupakan salah satu kuliner khas Nusantara yang terbilang soto lengkap karena terdapat banyak bahan-bahan yang disajikan dalam satu mangkoknya.
+Soto mie, Soto mi, adalah hidangan mi berkuah kaldu berbumbu yang lazim ditemukan di Indonesia lebih tepatnya di Sunda, Bogor, Jawa Barat. Masakan Khas Sunda ini kini tidak hanya terdapat di Indonesia, Namun hidangan ini kini juga dikenal di Malaysia dan Singapura.
+Harga
+Harga Soto Mie Bogor mulai dari Rp. 15.000 – Rp. 35.000
+Lokasi
+Jalan Raya Cikaret Rt 03 Rw 11 Pabuaran Cibinong, Pabuaran, Cibinong, Bogor, Jawa Barat 16914
+Ruko LMC No 71, Jalan Raya Cikaret Pabuaran Cibinong, Bogor, Pabuaran, Cibinong, Bogor, Jawa Barat 16914
+Jl. Kapling No.416, Cijujung, Kec. Sukaraja, Bogor, Jawa Barat 16710
+Jl. Raya Sukahati, Kp. Parung Jambu, Sukahati, Cibinong, Bogor, Jawa Barat 16913
+Jl. Pahlawan, Karang Asem Tim., Kec. Citeureup, Bogor, Jawa Barat 16810
+Jalan Mayor Oking Rt 01 Rw 02 Ciriung Cibinong, Ciriung, Cibinong, Bogor, Jawa Barat 16918
+Article Tags: Kabupaten Bogor
+Article Categories: Kuliner · Makanan Khas', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/soto-mie-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/soto-250x250.jpg', null, 12, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (227, 'Manggis Bogor', 'Kuliner', 'Kuliner', 'Manggis (Garcinia mangostana L.) adalah sejenis pohon hijau abadi dari daerah tropika yang diyakini berasal dari Semenanjung Malaya dan menyebar ke Kepulauan Nusantara.
+Manggis hingga mencapai 7 sampai 25 meter. Buahnya juga disebut manggis, berwarna merah keunguan ketika matang, meskipun ada pula varian yang kulitnya berwarna merah. Buah manggis dalam perdagangan dikenal sebagai “ratu buah”, sebagai pasangan durian, si “raja buah”. Buah ini mengandung mempunyai aktivitas antiinflamasi dan antioksidan. Sehingga di luar negeri buah manggis dikenal sebagai buah yang memiliki kadar antioksidan tertinggi di dunia.
+Manggis berkerabat dengan kokam, asam kandis dan asam gelugur, rempah bumbu dapur dari tradisi boga India dan Sumatra.
+Olahan
+Produk olahan dari buah manggis, seperti:
+Tepung kulit buah
+Pewarna
+Jus
+Sirup
+Kapsul ekstrak herbal kulit manggis
+Harga
+Pada kondisi normal harga manggis ini hanya berada di kisaran Rp 25.000 per kg sampai Rp 35.000 per kg
+Sedangkan untuk harga bibit manggis berkisar antara Rp. 16.000 – Rp. 80.000
+Lokasi
+Pangradin, Jasinga, Bogor, Jawa Barat 16670
+Sibanteng, Leuwisadeng, Bogor, Jawa Barat 16640
+Kampung Cengal, Desa Karacak, Kecamatan Leuwiliang
+Sukajaya, Bogor, Jawa Barat 16660
+Sukaluyu nanggung bogor
+Jl. Raya Baru Jonggol Jl. Cariu, Jonggol, Kec. Jonggol, Bogor, Jawa Barat 16830
+Article Tags: Kabupaten Bogor
+Article Categories: Buah-Buahan · Kuliner', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/manggis-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/190304131932-453-250x250.jpg', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (228, 'Cempedak Bogor', 'Kuliner', 'Kuliner', 'Cempedak memiliki nama latin Artocarpus integer (Thunb.) Merr. juga merupakan tumbuhan buah dari family moraceae . 
+Buah Cempedak berbentuk bulat panjang , berwarna kehijauan , kekuningan hingga kecoklatan. kulit cempedak tidak setebal kulit nangka, namun buah ini memiliki tekstur yang kasar tetapi tidak sekasar buah nangka. Daging buahnya tipis dan lebih berserat dibandingkan buah nangka warnanya daging buahnya lebih kuning pekat. sama seperti buah nangka, biji cempedak juga bisa dimakan setelah direbus.
+Olahan
+Buah cempedak bisa dijadikan olahan sebagai berikut:
+Cempedak Goreng
+Gulai Cempedak
+Biji Cempedak Goreng
+Mandai
+Cake Cempedak
+Harga
+Harga buah cempedak 1 kg : Rp. 15.000 – Rp. 25.000
+Harga buah cempedak ukuran exstra XL : Rp. 65.000
+Harga buah cempedak ukuran M : Rp. 40.000
+Bibit Buah Cempedak < 40cm : Rp. 40.000 – Rp. 80.000
+Bibit Buah Cempedak > 40cm : Rp. 90.000 – Rp. 150.000
+Lokasi
+Toko Cempedak di Kabupaten Bogor:
+Halte SBJ 01, Jl. KH. R. Abdullah Bin Nuh, RT.04/RW.08, Bubulak, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16115
+Pasar dayeuh, Singasari, Kec. Jonggol, Bogor, Jawa Barat 16830
+Jl. Ciomas Cikoneng Raya No. 1, RT 05 RW 03, Pagelaran, Ciomas Ciomas, Kabupaten Bogor, Jawa Barat, Indonesia. Belanja
+Article Tags: Kabupaten Bogor
+Article Categories: Buah-Buahan · Kuliner', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/cempedak-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/cempedak-250x250.jpg', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (229, 'Laksa Bogor', 'Kuliner', 'Kuliner', 'Hidangan klasik yang hingga kini masih eksis
+Laksa adalah hidangan yang terbuat dari paduan ketupat, bihun, tauge dan guyuran kuah kental, namun di Bogor ada laksa khas yang disajikan dengan campuran oncom merah. Hidangan laksa biasa tersaji sebagai menu sarapan atau makanan selingan. Sejak tahun 1960-an, laksa kerap dijajakan keliling kampung menggunakan pikulan
+Laksa Bogor bisa dengan mudah dibedakan setelah melihat oncom di dalam campurannya. Oncom merah menjadi ciri khas laksa Bogor yang membuat rasanya lebih nikmat.
+Disebut oncom merah karena yang digunakan hanyalah oncom segar dengan serabut jamur warna putih dan oranye. Terkadang saking oranye warna oncom ini sekilas tampak agak kemerahan.
+Oncom yang dijadikan campuran dalam laksa ini dibiarkan mentah alias tidak diolah. Saat penyajian, oncom dipotong kecil-kecil lalu diguyurkan kuah laksa yang panas. Oncom akan matang setelah diguyur kuah panas berkali-kali.
+Harga
+Rata rata penjual laksa di bogor menawarkan harga yang sangat murah yaitu mulai dari Rp. 20.000
+Lokasi
+Jika kamu ingin mencoba Laksa yang legendaris kamu bisa mengunjungi Laksa Cibinong yang beralamat di Jl. Raya Bogor No 36, Cibinong, Pabuaran, Bogor
+Article Tags: Kabupaten Bogor
+Article Categories: Kuliner · Makanan Khas', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/laksa-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/laksa-250x250.jpeg', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (230, 'Manisan Pala', 'Kuliner', 'Kuliner', 'Cemilan khas Bogor yang memiliki citarasa manis
+Manisan Pala adalah makanan khas Bogor yang sudah terkenal sejak dulu. Dibuat dari buah pilihan dengan cita rasa yang khas dan menyegarkan. Biasanya tersedia berbagai macam warna dan rasa seperti original, hijau, dan pink.
+Buah yang biasanya dijadikan manisan di Bogor ini adalah buah pala, mangga, salak, kedondong, cabai dlsb. Hal ini dikarenakan, buah-buat tersebut merupakan buah yang banyak ditanam dan tumbuh di kota Bogor.
+Buah Pala ternyata banyak memilki manfaat bagi kesehatan, selain bijinya yang berguna sebagai obat-obatan dan juga rempah-rempah. Kegunaan lainnya, Anda bisa cari di kotak pencari laman ini. Manfaat lain dari buah pala, antara lain :
+Stomakik yaitu mampu memperlancar pencernaaan dan menambah selera makan
+Karminatif yaitu memperlancar buang angin
+Antiemetik yaitu meredakan pegal linu,nyeri haid dan rematik dan juga masuk angin.
+Harga
+Harga kisaran Manisan Pala Rp. 30.000 – Rp. 120.000
+Lokasi
+Jika ingin mencoba Manisan Pala kalian bisa datang ke Manisan Pala H.Suryadi, Cimande Hilir, Caringin, Bogor, Jawa Barat 16730
+Article Tags: Caringin
+Article Categories: Kuliner · Produk Olahan', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/manisan-pala/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/manisan-pala-250x250.jpg', null, 21, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (231, 'Talas Bogor', 'Kuliner', 'Kuliner', 'Umbi umbian yang memiliki rasa lezat dan manfaat yang melimpah bagi kesehatan
+Talas bogor, atau orang lokal menyebutnya taleus bogor sudah menjadi oleh oleh-oleh khas ketika wisatawan berkunjung ke kawasan Kota Hujan ini. Seperti di kawasan Puncak Bogor, talas Bogor dijajakan oleh hampir setiap pedagang di sepanjang jalur Puncak
+Yang membedakan talas bogor dengan yang lainya yaitu ukuran talas lebih besar tak hanya itu jika dihaluskan talas bogor juga bisa menjadi tepung serta jika dijadikan bolu makan kualitasnya akan lebih baik dari talas daerah lain.
+Olahan
+Talas dapat diolah menjadi berbagai macam jenis makanan diantaranya yaitu :
+Bolu Talas
+Stik talas
+Es krim talas
+Talas goreng
+Puding talas
+Donat talas
+Kolak talas
+Harga
+Harga satu ikat talas ketan dibanderol Rp 75.000, sementara talas mentega Rp 65.000
+Lokasi
+Untuk kalian yang ingin membeli Talas Bogor kalian bisa datang ke area puncak dimana sepanjang jalannya banyak menjual Talas Bogor atau berlokasi di Jl. Nasional 11, Tugu Sel., Kec. Cisarua, Bogor, Jawa Barat 16750
+Article Tags: Kabupaten Bogor
+Article Categories: Buah-Buahan · Kuliner', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/talas-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/talas-bogor-250x250.jpg', null, 18, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (232, 'Asinan Bogor', 'Kuliner', 'Kuliner', 'Makanan khas Bogor yang memiliki citarasa asin, asam dan segar.
+Makanan khas Bogor ini, memiliki tiga macam, yakni; Asinan Buah, Asinan Sayur, dan Asinan Campur dengan kuah asinan yang segar dan tidak bisa didapatkan di tempat lain selain Bogor.
+Asinan Bogor, Asinan buah-buahan dari kota Bogor, Jawa Barat. Berbagai jenis buah-buahan tropis yang diasinkan atau diacar seperti mangga muda, jambu air, pepaya, kedondong, bengkoang, pala dan nanas disajikan dalam kuah cuka yang asam, manis dan pedas, ditaburi dengan kacang goreng.
+Asinan sangat mirip dengan rujak, perbedaan utamanya antara lain, bahwa bahan rujak disajikan segar, sedangkan bahan asinan disajikan dalam keadaan diasinkan atau diacar. Terdapat banyak jenis asinan, akan tetapi yang paling terkenal adalah Asinan Betawi dan Asinan Bogor
+Harga
+Harga kiasaran untuk asinan Rp. 35.000
+Lokasi
+Jika ingin mencoba Asinan Bogor kalian bisa datang ke :
+Pasar Ah Poong Jalan MH Thamrin Kav 8 Sentul City Babakan Madang, Cipambuan, Kec. Babakan Madang, Bogor, Jawa Barat 16810
+JL. Jakarta – Cibadak, Cadas Ngampar, Kec. Sukaraja, Bogor, Jawa Barat 16710
+Citaringgul, Kec. Babakan Madang, Bogor, Jawa Barat 16810
+Jl. Pahlawan No.474, Sentul, Kec. Citeureup, Bogor, Jawa Barat 16810
+Article Tags: Kabupaten Bogor
+Article Categories: Kuliner · Makanan Khas', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/asinan-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/Asinan-Sayur-Bogor-250x250.jpg', null, 8, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (233, 'Durian Warso', 'Kuliner', 'Kuliner', 'Warso Farm atau yang dikenal juga dengan sebutan Kebun Durian Warso Merupakan tempat wisata dibogor yang wajib dikunjungi bagi para pencinta durian.
+Warso Farm atau Kebun Durian Warso ini memiliki berbagai macam buah durian seperti durian rancamaya khas cijeruk, petruk, chanee, montong, dan musang king. Wisatawan tidak hanya bisa melihat saja tetapi wisatawan juga bisa memetik buah durian dan langsung bisa mencicipi kenikmatan buah durian secara langsung dan kalian juga bisa mencicipi berbagai macam olahan makanan dari durian seperti Serabi, es krim, hingga pancake. Tidak hanya kebun durian saja yang ada disini wisatawan juga bisa mengunjungi kebun buah naga, nangka, jambu monyet dan lainnya. Tersedia juga fasilitas outbond dan playground yang cocok dikunjungi anak-anak.
+Jam Operasional
+Buka Setiap Hari : 07.00-19.00 WIB
+Harga
+Untuk masuk ke kebun durian warso farm tidak dikenakan biaya atau gratis, hanya saja wisatawan harus mengeluarkan uang ketika akan mencicipi buah durian di sini. baik durian lokal maupun luar diberi harga sekitar Rp 50.000-Rp 60.000 per buah
+Lokasi
+Alamat : Jl. K.H Halimi, Cipelang, Kec. Cijeruk, Bogor, Jawa Barat 16740, Bogor
+Article Tags: Cijeruk
+Article Categories: Buah-Buahan · Kuliner', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/durian-warso/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/warso-farm-250x250.jpg', null, 24, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (234, 'Dodol Tenjo', 'Kuliner', 'Kuliner', 'Dodol Tenjo merupakan dodol dengan bahan dasar gula aren yang berasal dari daerah tenjo
+Dodol khas Tenjo sudah beroperasi sejak bertahun-tahun yang lalu. Gula aren sebagai bahan dasar serta wijen tabur menjadi suatu khas yang membedakan dodol Tenjo dengan dodol lainnya. Apabila dodol Garut yang khas dengan warna-warni yang mencolok, dodol Tenjo didominasi dengan warna gelap dari gula aren dan taburan wijen yang berwarna kuning.
+Harga
+Untuk harga dodol tenjo perkilonya dikenakan biaya Rp 35.000 hingga Rp 50.000 tergantung varian rasa dan jenis packaging-nya.
+Lokasi
+Alamat : Kp. blok mesjid RT.02/01, Tenjo, Kec. Tenjo, Bogor, Jawa Barat 16370
+Article Tags: Tenjo
+Article Categories: Kuliner · Makanan Khas', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/dodol-tenjo/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/deckytri_dodol2-250x250.jpg', null, 27, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (235, 'Ecoart Park Sentul City', 'Rekreasi', 'Rekreasi', 'Perumahan Sentul City sendiri merupakan perumahan yang mengusung  konsep ramah lingkungan. Oleh karena itu, wajar jika membuat sebuah taman terbuka hijau. Sebagai wujud nyata dari konsep tersebut, maka terciptalah Eco Art Park Sentul.
+Eco Art Park Sentul berdiri di tanah dengan luas 500 meter persegi. Tidak terlalu besar memang, namun keberadaannya cukup dapat menyegarkan hati dan fikiran. Apalagi, lokasinya berada di pinggir aliran sungai Cikeas.
+Tentu alam di sekitarnya masih terasa sejuk. Ditambah lagi, taman dilengkapi juga dengan spot – spot foto yang unik. Membuat siapapun tidak akan tahan untuk tidak mengeluarkan kameranya.
+Jika diterjemahkan, Eco Art Park berarti Taman Seni dan Ekologi. Ekologi dihubungkan dengan konsepnya yang ramah lingkungan. Sementara “Art” yang berarti seni, diwujudkan dengan patung serta spot unik di dalamnya.
+Taman Patung Dengan Bentuk Unik
+Ketika berada di Eco Art Park, pengunjung akan mendapati pemandangan berbagai patung. Ada patung robot Transformer yang terbuat dari mobil bekas. Patungnya benar – benar dibuat seperti robot khas di film Transformer.
+Patung robot ini berwarna hitam, tinggi menjulang kurang lebih 5 meter. Banyak pengunjung yang senang berfoto di sini. Apalagi, bagi mereka penggemar film Transformer, tentu tidak akan menyia – nyiakan waktu.
+Ada juga patung manusia gemuk yang seolah sedang memberi makan kuda. Mencerminkan sikap menyayangi binatang. Selain manusia gemuk, ada lagi patung manusia lainnya.
+Kabarnya, patung – patung tersebut dibuat oleh seniman dari beberapa negara. Seperti Salvador Dali dari Spanyol dan Botaro dari Korea.
+Jembatan Yang Artistik
+Eco Art Park dekat dengan Taman Sains. Untuk menuju Taman Sains, pengunjung dapat menaiki jembatan yang penuh kelok.
+Jembatan ini memiliki atap sehingga di bawahnya sangat teduh. Lantainya terbuat dari kayu, sehingga lebih terlihat artistik. Ditambah, kanan kiri jembatan merupakan besi pelindung supaya pengunjung yang melintas tidak jatuh.
+Pemandangan di bawah jembatan sungguh indah. Dari atas jembatan, pengunjung dapat melihat hamparan pepohonan hijau. Pohon – pohon seolah menari karena tertiup angin, membawa kesejukan di sekitarnya.
+Di Taman Sains, terdapat parabola warna – warni. Di parabola ini, mencerminkan bagian parabola aktif.
+Lokasi
+Taman ini berada tidak jauh dari pusat kuliner Pasar Ah Poong. Tepatnya di Desa Cipambuan, Kecamatan Babakan Madang, Kabupaten Bogor.
+Fasilitas
+Tempat parkir yang luas
+Spot foto
+Tempat duduk
+Warung  makan
+Wahana permainan
+Harga
+Gratis
+Jam operasional
+Selasa-jumat 10:00-22:00
+Sabtu-minggu  08:00-22:00
+Sumber
+https://travelspromo.com/htm-wisata/eco-art-park-sentul/
+Article Tags: Babakan Madang · Kabupaten Bogor
+Article Categories: Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-38/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/06/llll-250x250.jpg', null, 30, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (236, 'Angkringan Podo Seneng', 'Rekreasi', 'Rekreasi', 'Angkringan Podo Seneng merupakan angkringan berkonsep industrial yang menawarkan berbagai kreasi sate serta cemilan yang lezat dan nikmat.
+    Dilengkapi dengan desain yang nyaman dan berbagai fasilitas hiburan, Angkringan Podo Seneng hadir demi mengakomodasi besarnya minat kawula muda dalam melepas penat dan mencari sensasi nongkrong yang unik sekaligus memanjakan lidah dengan berbagai produk olahan sate dan cemilan yang beragam, berkualitas dan bercita rasa tinggi.
+Menu makan
+Sate-satean, sosis bakar, rolade, nasi bungkus seperti sego kucing. Kemudian ada nasi bakarsambal korek, sambalado, sambal kentang, sambal mangga, sambal terasi, dan sambal-sambal lainnya.  serta beraneka macam minuman
+Alamat
+Jl. Alternatif GOR Pemda No.140, Nanggewer, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16912
+Fasilitas
+Area parkir yang luas
+Kursi yang banyak
+Area indoor
+Area outdoor
+Harga
+2.000 – 40.000
+Jam
+Selasa 15.00–22.30
+Rabu 15.00–22.30
+Kamis 15.00–22.30
+Jumat 15.00–23.30
+Sabtu 15.00–23.30
+Minggu 15.00–23.30
+Senin 15.00–22.30
+Opsi layanan
+Makan di tempat · Bawa pulang
+Sumber
+https://bogorreview.com/tempat-makan/angkringan-podo-seneng-cibinong
+Article Tags: Cibinong · Kabupaten Bogor
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/__trashed-11/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2023/05/3-1-250x250.jpg', null, 25, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (237, 'Aranya Coffee And Forest', 'Rekreasi', 'Rekreasi', 'Aranya Coffee And Forest merupakan cafe yang memiliki konsep indoor dan outdoor dengan menyuguhkan pesona alam yang menawan, memiliki tempat yang cukup luas, nyaman dan juga fasilitas cukup memadai. Tak heran jika cafe ini menjadi salah satu tempat kumpul andalan yang hits bagi kalangan para remaja maupun orang tua.
+Instagram : @aranya.id
+Tempat yang satu ini memiliki daya tarik outdoornya yang menampilkan banyak pepohonan rindang dengan udara yang sejuk dan pemandangan alam. Anda juga akan melihat gemerlap lampu yang indah dikala sore hingga malam hari yang terpasang rapi pada area outdoor. Untuk indoornya memiliki desain bangunan yang menarik dengan gaya minimalis modern cocok untuk foto-foto selfie ala instagramable. Dengn ukuran yang cukup luas, tersedia banyak tempat duduk dengan colokan stop kontak.
+Lokasi
+Jl. Tapos Lbc, Pancawati, Kec. Caringin, Bogor, Jawa Barat 16730
+Fasilitas
+Area Parkir
+Toilet
+Mushola
+Akses Wifi
+Stop Kontak
+Gazebo
+Fasilitas Protokol Kesehatan
+dan lainnya
+Jam Operasional
+Senin – Minggu : 10.00 – 21.00 WIB
+Media Sosial
+Instagram
+WhatsApp
+Article Tags: Caringin
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/aranya-coffee-and-forest/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/Aranya1-250x250.jpg', null, 24, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (238, 'Kopi Klotok Cibanteng Bogor', 'Rekreasi', 'Rekreasi', 'Kedai KOPI KLOTOK yang terletak di Jalan Dramaga, Cibanteng – BOGOR ini adalah tempat tongkrongan baru kaum millenial, memiliki konsep yang sangat unik menyajikan konsep perpaduan etnik dan klasik vintage.
+Sumber Gambar: google map/wiryadi kwok
+Menu kopi dan makanannya cukup beragam, dan yang pasti tidak perih di kantong buat para remaja dan mahasiswa. Dan yang terpenting, tempat ini amat Instagramable.
+Sumber Gambar: google map/lutfiah marwa
+Sumber Gambar: google map/dhea mirandha
+Tempat yg sangat bagus untuk bersantai dgn kopi klotok yg nikmat
+Sumber Video: youtube/official dendyrofan
+Lokasi
+Jl. Raya Cibanteng, Cihideung Ilir, Kec. Ciampea, Kabupaten Bogor, Jawa Barat 16620
+Menu
+Sumber Gambar: google map/john ryan murphy
+Fasilitas
+Tempat Duduk
+Tempat Piknik
+Kamar Mandi
+Musholla
+Tempat Parkir
+Taman Outdoor
+Kontak
+No Telp: 0853-2406-2570
+Jam Operasional
+Setiap Hari: 10.00 – 24.00
+Sosial Media
+Twitter
+Sumber
+https://www.youtube.com/watch?v=SCHSwrU61io
+Article Categories: Cafe & Resto', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kopi-klotok-cibanteng-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/google-map_trias-suciaty-250x250.jpg', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (239, 'Zads House', 'Rekreasi', 'Rekreasi', 'Zads House adalah tempat nongkrong yang memiliki konsep unik, karena tempat ini adalah rumah pemiliknya sendiri yang halamannya dijadikan cafe tempat nyantai untuk minum kopi.
+Sumber Gambar: instagram/zads.house
+Ajak teman teman dan keluargamu kesini bersantai bersama dengan segelas kopi yang segar dan nikmat. anda bisa memilih berbagai macam kopi dari iced black cofee, iced latte, hingga iced hazelnut latte!
+Sumber Gambar: instagram/zads.house
+Tidak hanya kopi saja, disini juga ada snack makanan dan minuman non kopi untuk membuat hari hari santaimu menjadi lebih lama.
+Sumber Gambar: instagram/zads.house
+Sumber Gambar: instagram/zads.house
+Sumber Gambar: instagram/zads.house
+Sumber Gambar: instagram/zads.house
+Sumber Gambar: instagram/zads.house
+Sumber Gambar: instagram/zads.house
+tempat nya enak jauh dari keramaian, cocok buat nugas
+Lokasi
+8WW3+5PR, Kopo, Kec. Cisarua, Kabupaten Bogor, Jawa Barat 16750
+Fasilitas
+Meja Indoor
+Meja Outdoor
+Kamar Mandi
+Harga
+Berbagai Macam Kopi Rp. 21.000 – Rp. 27.000
+Minuman Non Kopi Rp. 18.500 – Rp. 22.500
+Snack Rp. 12.500 – Rp. 37.000
+Kontak
+No Telp: 0812-9597-1297
+Jam Operasional
+Senin Sampai Rabu: 15.00 – 22.00
+Jumat Sampai Sabtu: 15.00 – 23.00
+Minggu: 15.00 – 22.00
+Sosial Media
+Instagram
+Source
+https://www.instagram.com/zads.house/
+https://food.grab.com/id/id/restaurant/zads-house-coffe-and-eatery-cisarua-delivery/6-C24FME42TUEWAT
+Article Tags: Cisarua
+Article Categories: Cafe & Resto', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/zads-house/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/Snapinsta.app_1080_165528907_735088020535419_2329780659803764665_n-250x250.jpg', null, 20, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (240, 'The Ranch Cisarua Puncak', 'Rekreasi', 'Rekreasi', 'Kabupaten Bogor Menyimpan banyak sekali tempat wisata khususnya dikawasan jalan Puncak Bogor, The Ranch merupakan tempat wisata yang menawarkan keindahan alam yang sama seperti di benua amerika. Wisata ini juga menyajikan aneka wahana menarik, mulai dari aneka kuliner, aneka satwa,  juga spot kekinian seperti rumah Hobbit, dan lain-lain
+Suasana Sore Hari
+Berkuda
+Pasar Alkisah
+Sumber : Instagram theranchpuncakbogor
+Berkuda dan memanah juga menjadi aktivitas yang sangat favorit di sana. Tersedia area berkuda seluas 6,5 hektar, jadi pengunjung dapat berkeliling dengan menaiki kuda sembari menikmati pemandangan alam sekitar yang menawan. Wisata ini masih dalam tahap pembangunan, jadi wajar bila kamu menjumpai masih ada bangunan yang belum jadi sepenuhnya.
+Buat kamu yang hobi berburu kuliner khas Bandung, maka cocok sekali, karena disana tersedia resto yang menyajikan aneka masakan khas Bandung seperti; Oseng Sambal Ijo, Soto Bandung, Tumis Buncis Daging Cincang, dan lain sebagainya.
+Lokasi
+Jl. Raya Puncak Gadog No.KM, RW.5, Kopo, Kec. Cisarua, Kabupaten Bogor, Jawa Barat 16750
+Fasilitas
+The Ranch Puncak ini juga menyediakan berbagai fasilitas umum demi menunjang kenyamanan wisatawan dalam berkunjung ke The Ranch Puncak seperti:
+Area Parkir
+Fasilitas Ramah Difabel (Kursi Roda)
+Toilet Umum
+Tempat Duduk
+Spot Foto
+Cafe dan Resto
+Jam Operasional
+Hari Jam
+Senin – Jum’at 09.00 – 21.00 WIB
+Sabtu – Minggu 08.00 – 21.00 WIB
+Tiket Masuk
+Tiket Harga
+Tiket Masuk Rp. 20.000 /Orang
+Makanan & Minuman Rp. 25.000 – Rp. 50.000
+Wahana Rp. 25.000 /Wahana
+Media Sosial
+Instagram
+WhatsApp
+YouTube
+Facebook
+TikTok
+Article Categories: Agrowisata · Cafe & Resto · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/the-ranch-cisarua-puncak/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/theranch-Google-Maps_Faustine-Marceline-250x250.jpg', null, 20, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (241, 'D’Agape Meeting & Conference', 'Rekreasi', 'Rekreasi', 'D’Agape adalah hotel santai yang berada di properti rindang dengan panorama gunung ini berjarak 8 km dari Lulu Trick Eye Museum dan 10 km dari taman hiburan Taman Wisata Matahari. Hotel ini berjarak 2 km dari Jalan Nasional Rute 11.
+Sumber Gambar: google map/hotels.com
+
+D’Agape mempunyai kamar kasual dilengkapi dengan Wi-Fi gratis, TV layar datar, balkon, AC, serta alat pembuat kopi dan teh.
+Sumber Gambar: google map/hendrik dogmatic
+Ada juga restoran yang terang, dan ruang permainan dengan bar dan meja biliar. Fasilitas lainnya meliputi area bermain anak-anak, lapangan tenis dan basket, serta kolam renang outdoor. Tersedia ruang pertemuan.
+Sumber Video: youtube/go kene
+Kamar bersih dan rapi. Fasilitas untuk kegiatan outdoor sangat memadai. Makanan juga enak.
+Lokasi
+Jalan Cikopo Selatan No.KM 2.5, Gadog, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770
+Fasilitas
+Restoran
+Kolam Renang
+Tempat Parkir
+Free Wifi
+Harga
+Kontak
+No Telp: (0251) 8241428 / 8242399 / 8246010
+Email: marketing@agaperesidence.com
+Jam Operasional
+Waktu check in: 14.00
+Waktu check out: 12.00
+Social Media
+Instagram
+Facebook
+Twitter
+Source
+https://www.traveloka.com/id-id/hotel/indonesia/dagape-meeting–conference-3000010001783
+Article Tags: Megamendung
+Article Categories: Hotel & Villa', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/dagape-meeting-conference/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/11/google-map_zenhotels-250x250.jpeg', null, 16, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (242, 'Saung Hijau Ciomas', 'Rekreasi', 'Rekreasi', 'Pertanian terpadu adalah suatu sistem yang memadukan kegiatan pertanian, kehutanan, peternakan, perikanan dan ilmu yang terkait. Salah satu yang bisa dijadikan contoh pertanian terpadu di Tanah Air adalah Saung Hijau.
+Sumber Gambar: google map/dr. sri wahyuni se. mp
+Saung Hijau bisa menjadi salah satu alternatif lokasi pembelajaran model pertanian terpadu bagi masyarakat yang hanya sekedar ingin mengetahui, maupun mereka yang ingin serius menjalankan aktivitas tersebut.
+Berlokasi di Ciomas Kabupaten Bogor, hanya berjarak sekitar 40 km dari Jakarta tentu akan menarik bagi masyarakat di Jakarta dan sekitarnya, apalagi ditambah fasilitas-fasilitas yang ada di dalamnya.
+Sumber Gambar: google map/dr. sri wahyuni se. mp
+Saung Hijau ini berada satu kompleks dan kepemilikan dengan PT SWEN yang bergerak di biogas.
+Berada di Jalan Cikoneng Pagelaran Ciomas Kabupaten Bogor membuat lokasi ini mudah ditemukan dan dikenali dengan warna hijau khas bangunannya. Areal parkir yang cukup luas dan toko suvenir bisa ditemukan di lantai 1.
+Pada lantai 2 terdapat ruang pertemuan dengan kapasitas sekitar 30 orang (in door) dan 20 orang (outdoor). Tempat sholat bagi pengunjung juga tersedia di lantai ini. Pengunjung sudah bisa melihat beraneka macam tanaman hydroponic di area ini.
+Sumber Gambar: google map/dr. sri wahyuni se. mp
+Tempat yang asyik buat belajar, kami disambut dengan ramah dan ibu reni sangat informatif. Terima kasih banyak
+Fasilitas
+Toko Souvenir
+Bisa Beli bibit tanaman dan pupuk olahan sendiri
+Area tanaman hydroponic luas
+Jam Operasional
+Setiap Hari: 09.00 – 17.00
+Lokasi
+Jl. Cikoneng II No.26, RT.5/RW.3, Pagelaran, Kec. Ciomas, Kabupaten Bogor, Jawa Barat 16610
+Social Media
+Facebook
+Source
+https://yoursay.suara.com/ulasan/2021/08/30/153716/saung-hijau-contoh-keberhasilan-pertanian-terpadu
+https://mediatani.co/saung-hijau-di-kabupaten-bogor-bukti-nyata-pertanian-terpadu/
+Article Tags: Ciomas
+Article Categories: Agrowisata · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/saung-hijau-ciomas/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/10/google-map_tinton-dwi-putera-250x250.jpg', null, 20, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (243, 'The Upper Clift Resort & Cafe Sentul', 'Rekreasi', 'Rekreasi', 'Kawasan di Bogor memang memiliki daya tarik dengan keindahan dari kesejukan alam dan udaranya. Menikmati liburan tanpa staycation di Bogor terasa kurang lengkap kalau hanya sehari saja.
+Rekomendasi kali ini sebuah tempat staycation baru yang sedang hits dan happening, tempat pilihan alternatif yang pas untuk staycation. Tempat bernama The Upper Clift Resort & Cafe, sebuah tempat penginapan dan tempat nongkrong yang kekinian dengan view alamnya yang indah yang cocok sebagai destinasi liburan bersama keluarga.
+The Upper Clift ini merupakan sebuah obyek wisata terbaru berupa resort dan cafe yang menyajikan konsep menarik dan kekinian dengan view yang indah di Sentul Bogor. Tempat staycation yang hanya 1,5 jam dari Jakarta ini tergolong baru karena baru grand opening pada 17 Agustus 2022 lalu.
+The Upper Clift Resort & Cafe Sentul ini menawarkan penginapan dan juga tempat nongkrong dengan view yang bagus dan mempesona. Lokasinya yang strategis dan tempatnya yang sangat luas. Terdapat resto dengan konsep open space dan juga penginapan untuk staycation berupa Pakis Villa Suite dan Pinus Villa Delux.
+Daya Tarik The Upper Clift Resort & Cafe Sentul Babakan Madang Bogor
+Tempat staycation baru ini berlokasi di kawasan Jalan Raya Bojong Koneng, Sentul, Kec. Babakan Madang, Kabupaten Bogor yang memiliki view dengan pemandangan indah. Selain bisa staycation menginap di Villanya kalian juga bisa nongkrong di cafenya yang kekinian dan viewnya instagramable. Jadi kalau kalian hanya ingin nongkrong di cafenya tanpa menginap juga bisa.
+Daya tarik utamanya tempat staycation dengan view yang sangat indah dan mempesona yang lengkap dengan resto atau cafenya. Memiliki tempat yang luas dengan berbagai fasilitas yang menarik di dalamnya seperti kolam renang hingga spot foto berupa bromelia deck berbentuk segitiga yang pembatasnya berupa kaca.
+Lokasi dari villa ini berada di belakang cafenya. Di The Upper Clift Resort dan Cafe Sentul ini memiliki empat tipe kamar yakni Pakis Suite, Pakis Raja, Pinus Villa, Cocoa yang di lengkapi dengan berbagai fasilitas menarik dan cukup lengkap dengan suguhan pemandangan alam dan juga ada yang perkotaan. Untuk saat ini karena baru grand opening baru ada dua tipe yang bisa kalian sewa yakni Pakis Suite dan Pinus Villa.
+Selain itu juga The Upper Clift Resort & Cafe ini memiliki tempat nongkrong dengan konsep open space yang di manjakan dengan view alam perbukitan hingga pegunungan. Bangunan cafenya yang modern ini memiliki dua lantai dimana lantai atasnya ini berupa rooftop. Areanya pun terbagi antara area indoor dan semi outdoor. Namun untuk lantai duanya atau rofftop untuk saat ini belum ada tempat duduknya karena belum jadi. Pas jadi pastinya nanti akan instagramable untuk foto foto yang dimanjakan view perbukitan dan Gunung Pancar.
+Fasilitas The Upper Clift Resort & Cafe Sentul Bogor
+Demi kenyamanan para pengunjungnya, The Upper Clift Resort & Cafe menyediakan berbagai fasilitas yang cukup lengkap dan memadai, diantaranya :
+Area Parkir
+Wifi
+Spot foto
+Toilet
+Mushola
+Kolam Renang
+Bromelia Deck
+Villa
+Cafe & Resto
+Difable Friendly
+Tanah Lapang
+dan lain lain
+Harga Sewa Villa The Upper Clift Resort & Cafe Sentul
+Untuk kalian yang ingin staycation di villanya The Upper Clift ini, kalian bisa menyewa Villanya. Saat ini karena baru soft opening baru ada dua jenis Villa yang di sewakan, Pakis Villa Suite dan Pinus Villa Delux. Dilengkapi dengan berbagai fasilitas yang cukup lengkap dan menarik di dalamnya.
+Berikut informasi harga sewa dari Villa The Upper Clift Resort & Cafe Sentul
+Pakis Villa Suite    Rp. 2.300.000/ Malam
+Fasilitas :
+Tempat penyimpanan ( hanger, slipper, safe deosite box )/ Lemari
+Smart TV
+Mini Chiller
+King Size Bed
+AC
+Wifi
+Free Compliment ( 2 botol air mineral, teh, gula, kopi dan teko kopi listrik )
+Kursi Santai
+Kamar mandi ( water heater, hair dryer, amenitis, handuk )
+Balkon view perbukitan dan Gunung Pancar
+Pinus Villa Deluxe    Rp. 1.800.000/ Malam
+Fasilitas :
+Twin Bed Size
+Balkon view perkotaan
+Tempat penyimpanan ( hanger, slipper, safe deosite box )/ Lemari
+Smart TV
+Mini Chiller
+AC
+Wifi
+Free Compliment ( 2 botol air mineral, teh, gula, kopi dan teko kopi listrik )
+Kursi Santai
+Kamar mandi ( water heater, hair dryer, amenitis, handuk )
+Untuk informasi selengkapnya bisa menghubungi WA 081297362022 atau Instagram @theupperclift. Dan cek selalu perkembangan dan info menarik selanjutnya di akun Instagramnya.
+Harga Menu The Upper Clift Resort & Cafe Sentul
+ Harga menu di Cafe The Upper Clift Resort & Cafe Sentul berkisar antara 25K hingga 140K. Variasi menunya berupa makanan utama, dessert, coffee, mocktail, juice, traditional, tea dan non-coffee.
+Jam Buka The Upper Clift Resort  & Cafe Sentul Bogor Babakan Madang
+Berikut mengenai  jam bukanya The Upper Clift Resort & Cafe
+Villa
+Check In    jam 2 siang
+Check Out    Jam 12 Siang
+Jam Buka Cafe
+Senin – Jumat    10.00 – 19.00
+Sabtu 09.00 – 21.00
+Minggu 08.00 – 20.00
+Lokasi The Upper Clift Resort & Cafe Sentul Bogor
+Dari Jakarta 1,5 Jam perjalanan, dan dari pusat kota Bogor membutuhkan waktu tempuh 36 menit perjalanan dengan jarak tempuh 19,1 Km.
+Lokasi The Upper Clift Resort & Cafe ini berada di Jalan Raya Bojong Koneng, Sentul, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810.
+Demikian ulasan informasi mengenai The Upper Clift Resort & Cafe, tempat baru stayction yang cocok untuk mengisi liburan kalian di Bogor. Terimakasih telah mengunjungi artikel ini, semoga bermanfaat dan menjadi referensi tempat staycation baru di Bogor.
+Sumber
+https://www.jajandolan.com/2022/07/the-upper-clift-resort-cafe-sentul.html
+https://www.instagram.com/theupperclift/
+Article Tags: Babakan Madang · Kabupaten Bogor
+Article Categories: Cafe & Resto · Hotel & Villa', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/the-upper-clift-resort-cafe-sentul/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/WhatsApp-Image-2022-07-29-at-10.45.35-1-250x250.jpeg', null, 25, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (244, 'Villa dan Cafe Air Luwihaja Hill Bogor', 'Rekreasi', 'Rekreasi', 'Menikmati liburan di Kota Bogor mungkin telah menjadi salah satu alternatif yang biasa bagi para warga Jabodetabek lakukan untuk berlibur singkat dan melepaskan penat. Selain memiliki banyak wisata menarik, kota ini juga memiliki penginapan dengan konsep unik yang tentunya dapat menjadi salah satu destinasi untuk menikmati staycation.
+Salah satu penginapan yang mencuri cukup banyak perhatian adalah Villa dan Cafe Air Luwihaja Hill. Berada di pinggir sungai dan dikelilingi hutan yang rimbun membuat villa ini dapat menjadi salah satu pilihan ketika ingin berlibur bersama pasangan maupun keluarga tanpa pergi jauh. Harga sewa villa ini juga masih cukup terjangkau.
+Review Daya Tarik Villa dan Cafe Air Luwihaja Hill
+Villa dan Cafe Air Luwihaja Hill adalah salah satu penginapan dengan konsep menarik karena berlokasi di tengah hutan dan di pinggir sungai. Pengunjung dapat merasakan sejuknya udara khas hutan yang asri dan segar. Suara gemericik air di sungai juga akan menambah perasaan nyaman saat menginap disini. Tanpa harus pergi jauh, Anda dapat menikmati keindahan alam sekitar penginapan dari depan kamar saja.
+Sumber : IG @villadancafeair
+Pemandangan menuju ke villa juga sangatlah indah. Karena berlokasi di dataran yang sedikit tinggi, maka pengunjung akan melihat keindahan alam lebih luas dari atas. Sebelum sampai di villa, pengunjung juga akan melewati tempat wisata yang juga sangatlah cantik & indah, yaitu Curug Cibulao & Camping Ground Bukit Paseban. Jadi jika Anda telah melewati curug ini, artinya jarak untuk sampai ke villa sudahlah dekat.
+Untuk Anda yang datang dan tak ingin menginap, tempat ini juga dapat dikunjungi meskipun Anda tidak booking untuk menginap. Anda dapat duduk nongkrong di area cafe-nya yang berada di tengah hutan, sehingga tentu Anda akan merasakan pengalaman nongkrong yang cukup berbeda dengan cafe-cafe lainnya. Anda hanya perlu membayar tiket masuknya saja sebesar Rp. 15.000,-/orang di loket tiket. Sedangkan bagi Anda yang akan menginap, Anda harus pergi ke area office / kantor untuk melakukan check in dan pengambilan kunci ke petugas.
+Sumber : wisatamilenial.com
+Bagi pengunjung yang akan menuju kesini, pastikan mengecek kondisi dari kendaraan yang akan digunakan. Pastikan kondisi kendaraan dalam keadaan prima karena akses untuk menuju ke villa termasuk cukup ekstrim dengan melewati beberapa tanjakan curam, jalanan berbatu & berlubang. Untuk Anda yang membawa kendaraan roda empat, Anda dapat memarkirkan kendaraan di area parkir Camping Ground Bukit Paseban karena akses mobil hanya sampai disini saja. Selanjutnya jalan akan semakin menyempit dan hanya bisa dilalui kendaraan roda dua / motor dan pejalan kaki saja. Sedangkan untuk pengendara kendaraan roda dua / motor dapat memarkirkan sampai di area parker Villa dan Cafe Air Luwihaja Hill.
+Para pengunjung akan merasakan sensasi tracking ke dalam hutan saat memasuki area villa dengan pemandangan cantik dan udara yang segar sepanjang perjalanan. Sehingga pastikan membawa barang tidak terlalu banyak agar beban Anda saat menuju ke villa tidak begitu berat.
+Saat sampai di kamar villa, suasana yang terasa cukup hangat karena interior material yang digunakan di dominasi adalah kayu dan berwarna coklat. Di dalam kamar fasilitas yang tersedia juga cukup lengkap, seperti kasur, stop kontak, teko listrik, cangkir (lengkap dengan kopi, teh & gula), air mineral, dan lain-lain. Tetapi untuk kamar mandi berada di luar kamar atau berada tepat di samping kamar, sehingga pengunjung akan tetap merasa nyaman saat ke kamar mandi karena cukup bersih & jaraknya juga tidak jauh.
+Fasilitas Villa dan Cafe Air Luwihaja Hill
+Fasilitas yang ada di villa ini termasuk cukup lengkap, pengunjung dapat merasa nyaman saat menginap ataupun hanya sekedar berkunjung kesini. Berikut adalah beberapa fasilitas yang tersedia di Villa dan Cafe Air Luwihaja Hill:
+Area parker kendaraan roda 2 (kendaraan roda 4 parkir di Camping Ground Bukit Paseban)
+Mushola
+Toilet
+Area api unggun
+Gazebo
+Area pemandian di sungai
+Cafe
+Akses wifi
+Villa
+Lokasi Villa dan Cafe Air Luwihaja Hill
+Berikut adalah alamat dari Villa dan Cafe Air Luwihaja Hill:
+Jl. Tegal Luhur, Paseban, Kec. Megamendung, Kabupaten Bogor, Jawa Barat
+Jam Buka Villa dan Cafe Air Luwihaja Hill
+Bagi Anda yang datang untuk berkunjung dan nongkrong di area cafe saja, area ini dibuka mulai pukul 08.00 – 17.00 WIB. Sedangkan bagi Anda yang akan menginap, waktu untuk check in mulai dari pukul 14.00 WIB dan untuk maksimal check out di jam 12.00 WIB.
+Tipe Kamar & Tarif Menginap Villa dan Cafe Air Luwihaja Hill
+Vila ini memiliki 3 tipe kamar yang berbeda dengan tarif menginap yang berbeda juga, berikut adalah tipe-tipe kamar beserta tarif menginap di Villa dan Cafe Air Luwihaja Hill:
+Sumber : wisatamilenial.com
+Queen Bed
+Tarif menginap weekday Rp. 539.773,- dan untuk weekend Rp. 593.750,-
+Fasilitas yang tersedia di tipe Queen Bed yaitu:
+Luas kamar 15 meter persegi, dengan kapasitas 2 orang dewasa & 1 orang anak-anak
+Tempat tidur queen size
+Welcome drink untuk 2 orang
+View langsung sungai dan bisa mandi di sungai
+Free akses wifi
+Gratis kopi, teh dan air mineral
+Teko listrik
+Handuk & sandal hotel
+2. Twin Bed
+Tarif menginap weekday Rp. 539.773,- dan untuk weekend Rp. 593.750,-
+Fasilitas yang tersedia di tipe Twin Bed yaitu:
+Luas kamar 15 meter persegi, dengan kapasitas 2 orang dewasa
+2 Buah tempat tidur twin size
+Welcome drink untuk 2 orang
+View langsung sungai dan bisa mandi di sungai
+Free akses wifi
+Teko listrik
+Gratis kopi, teh dan air mineral
+Handuk dan sandal hotel
+3. Deluxe Bed
+Tarif menginap weekday Rp. 593.750,- dan untuk weekend Rp. 647.728,-
+Fasilitas yang tersedia di tipe Deluxe Bed yaitu:
+2 Ruangan kamar dengan luas 18 meter persegi, dengan kapasitas 2 orang dewasa & 1 orang anak-anak
+1 Tempat tidur king size
+Welcome drink untuk 2 orang
+View langsung sungai dan bisa mandi di sungai
+Free akses wifi
+Teko listrik
+Gratis kopi, teh dan air mineral
+Handuk dan sandal hotel
+Note: untuk tarif diatas dapat berubah sewaktu-waktu sesuai dengan kebijakan pengelola Villa dan Cafe Air Luwihaja Hill.
+Sumber
+https://wisatamilenial.com/villa-dan-cafe-air-luwihaja-hill-bogor/
+https://www.instagram.com/villadancafeair/
+Article Tags: Megamendung
+Article Categories: Hotel & Villa', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/villa-dan-cafe-air-luwihaja-hill-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/Review-Villa-Air-Dan-Cafe-Luwihaja-Hill-Image-From-@hadjukemal-250x250.jpg', null, 19, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (245, 'BREE Coffee and Kitchen Bogor', 'Rekreasi', 'Rekreasi', 'Tempat nongkrong di kawasan Bogor tentunya tidak pernah berenti dihadirkan, kali ini terdapat tempat nongkrong seru dikawasan tersebut yang wajib banget untuk dikunjungi saat berada di kawasan Kota Bogor. Dengan konsep yang menarik ditambah suasana yang sejuk khas kawasan Bogor tentunya dapat membayangkan betapa serunya berada di tempat nongkrong kekinian tersebut.
+Tempat tersebut bernama BREE Coffee and Kitchen Bogor yaitu merupakan cafe atau tempat nongkrong di kawasan Cijeruk, Bogor yang ramai dikunjungi dan diperbincangkan, tidak hanya itu untuk tempat nongkrong hits ini juga lokasinya tentunya sangat mudah untuk dijangkau dan tentunya dilengkapi juga dengan menu dengan harga makanan yang bersabat tentunya para pengujung yang datang akan semakin betah berlama – lama di tempat tersebut.
+Sumber : @Arum Dahlia
+Karena BREE Coffee And Kitchen Bogor ini memiliki konsep yang unik dan menarik, oleh karena itu berikut beberapa hal penting yang perlu diketahui saat ingin berkunjung ke cafe kece bogor tersebut. Yang pertama daya tarik yang dimilikinya, menu yang ditawarkan, jam buka, fasilitas hingga lokasi tempat tersebut, berikut ini informasi pertama tentang daya tariknya.
+Daya Tarik BREE Coffee and Kitchen
+Daya tarik yang dimiliki BREE Coffee And Kitchen Bogor yang pertama tempat tersebut memiliki tempat yang terlihat begitu unik dan memiliki area yang begitu luas terdapat banyak area bermain. Jadi ketika berkunjung ke tempat ini tentunya akan menikmati banyak outdoor experience yang beragam apalagi berkunjung ke tempat ini bersama Anak tentunya akan semakin seru. Di Resto Bree Bogor ini terdapat berbagai kegiatan seperti kolam ikan koi, air terjun mini, dapat bermain – main bersama merpati, kelinci, tidak ketinggalan juga ada domba – domba disini.
+Sumber : @Arum Dahlia
+BREE Coffee And Kitchen Bogor ini mempunyai lokasi di kawasan Kecamatan Cijeruk tentunya saat berada disini akan merasakan kesejukkan khas Bogor. Tidak hanya memiliki area outdoor yang luas akan tetapi juga memiliki area indoor yang cukup luas tentunya dengan konsep atau desain yang kekinian menjadikan tempat ini sangat nyaman untuk dikunjungi, bersama teman – teman, keluarga maupun pasangan. Pelayanan yang diberikan juga sangat baik dan memiliki fasilitas yang cukup lengkap, tentunya akan mendapatkan pengalaman seru saat berkunjung ke tempat tersebut.
+Pastinya tempat nongkrong populer di Bogor ini memiliki pemandangan alam dan suasana yang menyegarkan, untuk yang bosan dengan suasana perkotaan tentunya dapat mampir disini. Untuk menu yang ditawarkan BREE Coffee and Kitchen Bogor, tentunya memiliki harga yang terjangkau sehingga menjadi daya tarik tersendiri untuk para pengujung Cafe Bree Bogor tersebut, berikut ini informasinya menunya.
+Menu BREE Coffee and Kitchen
+Daftar Menu yang ditawarkan BREE Coffee and Kitchen Bogor ini tentunya enak dan memiliki rasa menu yang wajib untuk dicoba ketika sedang berada di kawasan Bogor. Menu yang ditawarkan juga beragam, serta tidak lupa juga dengan konsep tempat dan memiliki suasana yang menarik semakin menambah betah berlama – lama di tempat nongkrong kekinian di Bogor tersebut. Untuk makanan BREE Coffee and Kitchen Bogor menyediakan berbagai menu dessert, pasta, rice bowl, masakan khas Indonesia dan menu pendamping lainnya. Untuk minuman terdapat berbagai juice, mocktail, coffee, non-coffee dan minuman signature. Menu yang ditawarkan dengan kisaran harga Rp 15.000 sampai dengan Rp 90.000.
+Sumber : IG @bree_cijeruk
+Selanjutnya pada artikel tempat nongkrong hits di kawasan Cijeruk, Bogor ini kami akan informasikan mengenai fasilitas umum, jam buka & lokasi tempat nongkrong hits di Bogor tersebut yang membuat para pengujung betah berlama – lama berada di tempat nongkrong tersebut, berikut penjelasannya.
+Jam Buka BREE Coffee and Kitchen
+Untuk jam buka atau jam operasional BREE Coffee and Kitchen Bogor ini mulai buka pada pukul 10.00 dan tutup pada pukul 21.00 WIB setiap hari.
+Fasilitas BREE Coffee and Kitchen
+Tentunya tempat nongkrong kekinian di Bogor seperti ini mempunyai fasilitas yang cukup lengkap, BREE Coffee and Kitchen Bogor Sudah mempersiapakan fasilitas yang terbilang cukup lengkap sehingga pengunjung akan nyaman berada di sini. Mulai dari Area parkir yang cukup luas hingga terdapat Toilet yang bersih. Berikut ini deretan Fasilitas yang tersedia:
+Area Parkir
+Mushola
+Toilet
+Spot Foto
+Akses Wifi
+Stop Kontak
+Live Music
+Outdoor Experience
+Indoor And Outdoor Area
+Fasilitas Protokol Kesehatan
+Dan masih banyak lagi lainnya.
+Sumber : @Arum Dahlia
+Lokasi BREE Coffee and Kitchen Bogor
+Untuk lokasi BREE Coffee and Kitchen Bogor ini berlokasi di Jl. Raya Cihideung No.36, Cipelang, Kec. Cijeruk, Bogor, Jawa Barat 16740. Jika dari arah pusat Kota Bogor Anda berjarak sekitar 12,9 km dan membutuhkan waktu kurang lebih sekitar 40 menitan untuk sampai di tempat nongkrong kekinian di Cijeruk, Bogor tersebut.
+Sumber
+https://suwatu.com/bree-coffee-and-kitchen-bogor.html
+https://www.instagram.com/bree_cijeruk/?hl=en
+Article Tags: Cijeruk
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/bree-coffee-and-kitchen-bogor/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/IMG_20211212_173646-250x250.jpg', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (246, 'Bukit Nurmala Cafe', 'Rekreasi', 'Rekreasi', 'Bukit Nurmala Cafe merupakan tempat kuliner yang bernuansa alam, kafe ini masih sedikit orang yang mengetahuinya dan sangat cocok untuk menikmati momen spesial bersama keluarga, teman serta pasangan. Tempat ini memiliki pemandangan yang indah dengan dikelilingi oleh pepohonan yang rindang (Pohon Pinus) membuat suasana menjadi sejuk bahkan saat siang hari. Bukit Nurmala Cafe menawarkan pemandangan Gunung Salak dari kejauhan.
+Instagram: @bogorcoffeeplace
+Kafe ini memiliki area Outdoor dan Indoor yang nyaman. Desain Interior maupun ekstorior kafe tampak sangat modern dan elegan, sehingga pengunjung merasa puas dalam menikmati minuman dan makanan saat berada di Bukit Nurmala Cafe.
+Instagram: @bogorcoffeeplace
+Lokasi Bukit Nurmala Cafe
+Gn. Sari, Kec. Pamijahan, Kabupaten Bogor, Jawa Barat 16810
+Fasilitas Bukit Nurmala Cafe
+Area Parkir
+Mushola
+Toilet
+Smoking Area
+Spot Foto
+Bean Bag
+Karaoke
+Kolam Renang
+Live Music Weekend
+Gardu Pandang
+Teras untuk Bersantai
+Jam Operasional Bukit Nurmala Cafe
+Setiap Hari : 11.00 – 21.00 WIB
+Media Sosial Bukit Nurmala Cafe
+Instagram : @bukitnurmalacafe
+Article Tags: Pamijahan
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/bukit-nurmala-cafe/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/Bukit-Nurmala-Cafe-250x250.jpg', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (247, 'Cafe Sukahati', 'Rekreasi', 'Rekreasi', 'Sukahati Cafe adalah tempat yang sangat nyaman untuk menhabiskan waktu luang dengan spot yang menarik, Sukahati Cafe ini cocok dijadikan sebagai tempat berkumpul yang sangat nyaman. Sukahati Cafe memiliki konsep teduh dari depan pintu masuk kita bisa melihat beberapa pohon rindang berdiri sehingga udaranya terasa sangat segar.
+Foto via Google Maps/Sukahati Cafe
+Lokasi :
+Jl. Raya Sukahati No.41, Sukahati, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16913
+Jam Operasional :
+Hari Biasa : 10.00 – 22.00 WIB
+Hari Libur  : 10.00 – 23.00 WIB
+Harga :
+Untuk harga mulai dari Rp.36.000 – Rp.100.000
+Article Tags: Cibinong
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/cafe-sukahati/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/20180113_130048-250x250.jpg', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (248, 'Kafe.in Ciapus', 'Rekreasi', 'Rekreasi', 'Merupakan tempat nongkrong asyik yang terbuka dan dikelilingi banyak tanaman dan pohon tentunya membuat hati merasa nyaman. Nongkrong di tempat seperti ini akan memberikan suasana baru yang tenang dan bisa dijadikan sebagai salah satu cara untuk menenangkan pikiran.
+instagram : @kafe.in.ciapus
+Kafe.in merupakan salah satu obyek wisata kuliner berupa Coffee Shop di Bogor yang baru hits dan ramai dikunjungi. Tempat nongkrong hits di Bogor ini memang terbilang masih sangat baru, karena baru opening pada bulan Desember 2021 lalu.
+instagram : @kafe.in.ciapus
+Kafe.in Bogor ini hadir menawarkan sebuah coffee shop atau cafe berkonsep kekinian dengan desain yang instagramable. Tempat nongkrong ini memiliki ruang yang cukup luas, nyaman dan fasilitasnya juga terbilang cukup memadai.
+Kopi Membuat Hidup Kita Lebih Baik
+Lokasi
+Jl.Kapten Yusuf No.188C,Desa Kota Batu, Kec.Ciomas,Kabupaten Bogor,Jawa Barat 16610
+Fasilitas :
+Ruangan Tertutup Dan Terbuka
+Toilet
+Ruang Estetika
+Area Parkir
+Sarana Protokol Kesehatan
+Live Music
+Akses Wifi
+Mushola
+Dan Beberapa Fasilitas Lainnya
+Jam Operasional
+Senin – Minggu : 11.00 – 23.00 WIB
+Sumber
+https://www.wisatainfo.com/2022/03/lokasi-dan-harga-menu-kafein-ciapus.html
+Instagram
+@kafe.in.ciapus
+Article Tags: Ciomas
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kafe-in-ciapus/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/IMG_20220907_135504-250x250.jpg', null, 29, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (249, 'Richie Garden Resto & Villa', 'Rekreasi', 'Rekreasi', 'Cocok untuk liburan bersama keluarga, teman bahkan mengadakan berbagai acara seperti rapat, acara ulang tahun, dan resepsi pernikahan.
+Richie Garden merupakan sebuah tempat penginapan serta restoran yang terdapat di wilayah Cijayanti, Kabupaten Bogor. Tempat ini menawarkan pemandangan alam yang hijau menyegarkan serta terdapat pemandangan Gunung Salak dan Gunung Gede dari kejahuan yang dapat memanjakan mata.
+Penginapan Richie Garden memiliki desain villa yang tematik serta moderen pada bangunannya. Melansir dari media sosial (Instagram) Richie Garden menawarkan 6 rumah (villa) dan menawarkan 3 aula untuk mengadakan berbagai macam acara.
+Instagram:@richiegarden
+Selain penginapan, pengunjung juga bisa datang kesini untuk sekedar berlibur. Richie Garden memiliki Richie Garden Resto yang siap melayani pengunjung dengan berbagai macam menu makanan dan minuman.
+Instagram:@richiegarden
+Lokasi Richie Garden Resto & Villa
+Cijayanti, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810
+Fasilitas Richie Garden Resto & Villa
+Kolam renang
+Restoran dan kafe
+Tempat bermain anak
+Lapangan sepak bola
+Mushola
+Toilet
+Area tempat duduk
+Area parkir
+Jam Operasional Richie Garden Resto & Villa
+Jam Survei Villa : 08.00 – 16.00 WIB (Selama villa dalam kondisi kosong)
+Jam Buka Richie Garden Resto:
+Senin – Kamis       : 07.00-17.00 WIB
+Jumat – Minggu   : 07.00-21.00 WIB
+Tiket Masuk Richie Garden Resto & Villa
+Tiket Masuk
+Tiket Masuk      : Gratis
+Harga Penginapan
+Richie House 3 : Rp 4.000.000
+The Paviliun  : Rp 3.000.000
+Richie House 5  : Rp 2.750.000
+Richie House 2  : Rp 5.000.000
+Richie House 4  : Rp 2.000.000
+Media Sosial Garden Resto & Villa
+Instagram                  : @richiegarden
+Nomor Whatsapp       : 0812-8500-8286 ( Jam Operasional Admin : 08.00 – 16.00 WIB )
+Email                           : rtfsentul@gmail.com
+Article Tags: Babakan Madang
+Article Categories: Cafe & Resto · Hotel & Villa · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/richie-garden-resto-villa/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/richie-garden-2-1-e1662519629428-250x250.jpg', null, 19, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (250, 'Alasse Coffee', 'Rekreasi', 'Rekreasi', 'Alasse Coffee merupakan salah satu cafe yang berada di daerah Gadog, tepatnya di Pasir Angin. Tempat ini sangat cocok untuk bersantai bahkan menenangkan diri sekalipun, karena tempatnya yang berada tidak dekat dengan jalan membuat suasana disana menjadi tenang, jauh dari kebisingan dan sejuk meskipun pada siang hari. Di tempat ini tersedia area indoor dan outdoor yang pastinya nyaman untuk menjadi tempat nongkrong kalian.
+Instagram : @alassecoffee
+Ngopi sambil ditemani suasana yang tenang dengan banyak pepohonan
+Lokasi
+ Jl. Raya Pasir Angin No.124, Cipayung Datar, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770.
+Fasilitas
+Tempat Parkir
+Toilet
+Area Indoor
+Area Outdoor dan lainnya.
+Jam Operasional
+Senin -Jumat      : 09.00 – 22.00 WIB
+Sabtu – Minggu  : 08.00 – 22.00 WIB
+Instagram
+@alassecoffee
+Article Tags: Megamendung
+Article Categories: Cafe & Resto', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/alasse-coffee/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/250388920_6584594994914084_5719916073317195899_n-250x250.jpg', null, 11, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (251, 'Kopi Nako Kebon Jati', 'Rekreasi', 'Rekreasi', 'Kopi Nako Kebon Jati merupakan salah satu objek wisata kuliner di Bogor yang baru dan viral diberbagai media sosial. Tempat nongkrong hits di Bogor ini memang terbilang masih sangat baru, karena baru saja dibuka pada tanggal 15 Juni 2022 lalu.
+       Selain pesona alam yang indah, Kopi Nako Kebon Jati Bogor mengusung konsep yang sedikit berbeda dengan outlet lainnya. Kali ini outlet Kopi Nako Kebon Jati mengusung konsep coffee shop kekinian yang dipadukan dengan gaya tradisional.
+Instagram : @kopinako.kebonjati
+Untuk desain bangunan utamanya tak jauh berbeda dengan desain Kopi Nako lainnya, yakni  berbentuk segitiga yang di dominasi oleh interior kaca. Namun di Kopi Nako Kebon Jati Pasir Angin ini memiliki bangunan tambahan berupa rumah joglo yang bernama Warung Djati dan beberapa bangunan lain yang bisa kalian explore.
+Sedangkan untuk area outdoornya tentu akan menjadi spot favorit para pengunjung. Dimana kalian akan menempati area deck yang cukup luas didepan bangunan indoor dan menghadap langsung dengan pemandangan yang indah. Di area outdoor terdapat banyak tempat duduk dan spot lesehan yang dilengkapi dengan bantal bean bag.
+Lokasi
+Jl. Repormasi Kp.Legok Gadog No.Rt.09/06, Pasir Angin, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770
+Fasilitas
+Area Parkir
+Toilet
+Mushola
+Akses Wi-Fi
+Stop Kontak
+Warung Djati
+Warung Bakso
+Daur Baur
+Area Senja / Area Deck
+Bean Bag
+Gazebo
+Pendopo dan masih banyak lainnya.
+Menu Kopi Nako Kebun Jati
+https://kopinakokebondjati.carrd.co/
+Jam Operasional
+Senin – Jum’at : 08.00- 22.00
+Sabtu : 08.00 – 23.00
+Minggu : 08.00 – 22.00
+Sumber
+https://www.wisatainfo.com/2022/06/lokasi-harga-menu-kopi-nako-kebon-jati.html
+Instagram
+@kopinako.kebonjati
+Article Tags: Megamendung
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kopi-nako-kebon-jati/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/Untitled-250x250.png', null, 7, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (252, 'Nirvana Valley Resort', 'Rekreasi', 'Rekreasi', 'Nirvana Valley adalah wahana wisata dan resorts seluas 3 hektar yang berlokasi di kawasan wisata Puncak Dua, Bogor, Jawa Barat. Nirvana Valley memiliki pemandangan alam yang luas, dengan view pegunungan yang indah dan suasana yang sejuk, tempat wisata ini sering kali ditutupi dengan kabut yang membuat pengunjung serasa berada di atas awan.
+https://nirvanavalleyresorts.com/
+Lokasi : Jl. Puncak Dua, Wargajaya, Kec. Sukamakmur, Kabupaten Bogor, Jawa Barat 16830
+Fasilitas :
+Aula Serba Guna
+Mountain View
+Kids Play Ground
+Infinity Pool
+Free Wifi
+Camping Ground
+Water Heater
+Taman Bunga & Area Pembibitan
+Kandang Domba
+Danau Nirvana Valley
+Tiket Masuk :
+Tiket Masuk :   RP.35.000 Per PAX (Hari Biasa – Hari Libur)
+Parkir             :  RP.10.000 Per Mobil
+                           RP.5.000 Per Motor
+Daftar Harga Penginapan :
+Villa Segitiga
+( https://nirvanavalleyresorts.com/akomodasi/ )
+Hari Biasa : RP. 1.250.000,-  /MALAM (4PAX)
+Hari Libur   : RP. 1.500.000,- /MALAM (4PAX)
+Fasilitas :
+Teko Listrik
+Water Heater
+LED TV
+Dapur
+Peralatan Masak
+Handuk
+Pasta Gigi
+Wifi
+Air Mineral Botol
+Meja Makan Lesehan
+Bangku Santai Teras
+Rak Sepatu
+Jemuran
+
+Villa Kaca
+( https://nirvanavalleyresorts.com/akomodasi/ )
+Hari Biasa : RP.1.500.000,- /MALAM (4 PAX)
+Hari Libur   : RP.1.750.000,-/MALAM  (4 PAX)
+Fasilitas :
+Water Heater
+LED TV
+Dapur
+Handuk
+Pasta Gigi Set
+Kulkas
+Peralatan Masak
+WIFI
+Air Mineral Botol
+Sofa Bed
+Bangku Santai Teras
+Rak Sepatu
+Jemuran
+
+
+Villa Jagung
+( https://nirvanavalleyresorts.com/akomodasi/ )
+Hari Biasa : RP.700.000,- MALAM (2PAX)
+Hari Libur   : RP.800.000,- MALAM (2PAX)
+Fasilitas :
+Water Heater
+Teko Listrik
+Handuk
+Pasta Gigi Set
+Air Minum Botol
+WIFI
+Extra Van
+Rak Sepatu
+Jemuran
+
+Bubble Glamping
+( https://nirvanavalleyresorts.com/akomodasi/ )
+Hari Biasa : RP.600.000,- /MALAM (2PAX)
+Hari Libur   : RP.700.000,- /MALAM (2PAX)
+Fasilitas :
+Teko Listrik
+Kipas Angin Kecil
+Handuk
+Pasta Gigi Set
+Air Mineral Botol
+Wifi
+Rak Sepatu
+
+Sewa Tenda
+( https://nirvanavalleyresorts.com/akomodasi/ )
+Hari Biasa : RP.350.000,- /MALAM (2PAX)
+Hari Libur   : RP.450.000,- /MALAM (2PAX)
+Fasilitas :
+Bed
+Bantal
+Matras
+Lampu
+Listrik
+Kontak :
+Reservasi Penginapan : 62812 1841 9082
+Reservasi Grup            : 62823 1010 7058
+Article Tags: Sukamakmur
+Article Categories: Hotel & Villa · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/nirvana-valley-resort/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/3159163402-250x250.jpg', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (253, 'Taman Wisata Matahari', 'Rekreasi', 'Rekreasi', 'Taman Wisata Matahari ini memiliki banyak Wahana wisata air yang akan memanjakan para wisatawan, Wahana yang berkonsep “Learn and play Waterpark” dengan aneka macam atraksi yang menegangkan dan menyenangkan,Taman Wisata Matahari juga selain memiliki kolam renang yang luas Taman wisata ini memiliki banyak Wahana bermain yang menyenangkan.Taman Wisata Matahari Siap untuk menemani liburan keluarga anda.
+Siapkan kondisi tubuh yang sehat.Karena untuk bermain di taman wisata yang begitu luas memerlukan tenaga yang kuat, bawa bekal dari rumah untuk mengisi daya tahan tubuh agar tidak sakit, dan tetap patuhi protocol Kesehatan ,memakai masker, menjaga jarak dan selalu gunakan hand sanitizer.
+LOKASI
+ tepi jalan raya Puncak KM 77 Cilember, Cisarua, Bogor
+FASILITAS
+Beberapa Fasilitas yang tersedia :
+TWIN RACE SLIDE
+TOT’S POOL
+SPA POOL
+FOOD COURT DAN GAZEBO
+KULINER
+LAPANGAN
+AKOMODASI
+TIKET MASUK
+Pengunjung Domestik – RP.60.000
+Wisata Asing – RP.150.000
+JAM OPERASIONAL
+Senin – Minggu 08.00 – 16.00 WIB
+KONTAK
+0251-8252587
+0813 8892 2449 (Tim Marketing)
+0815 4604 6561 (Tim Marketing)
+SUMBER GAMBAR
+gambar pertama : ( https://www.inews.id/travel/destinasi/taman-wisata-matahari )
+gambar kedua : ( https://www.tamanwisatamatahari.id )
+Article Tags: Cisarua
+Article Categories: Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/taman-wisata-matahari/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/taman-wisata-matahari-2-1-250x250.webp', null, 11, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (254, 'Sawah Segar Resto & Nursery', 'Rekreasi', 'Rekreasi', '“Terdapat Persawahan serta taman-tanaman hijau di sekelilingnya.”
+Sawah Segar Sentul merupakan sebuah objek wisata kuliner yang menyuguhkan sebuah nuansa alam persawahan serta melihatkan lampu gemerlap yang dipasang di joglo dan gazebo yang membuat suasana menenangkan. Di Sawah Segar juga tersedia sebuah taman yang terdapat hewan peliharaan seperti kambing dan burung macaw serta terdapat fasilitas berupa spot foto bersama burung macaw.
+Instagram : @sawahsegarsentul
+Lokasi Sawah Segar Resto & Nursery
+Bojong Koneng, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810
+Fasilitas Sawah Resto & Nursery
+Sawah Segar menawarkan sejumlah fasilitas demi kenyamanan para pengunjung, berikut beberapa fasilitas yang tersedia di Sawah Segar :
+Area parkir
+Toilet
+Mushola
+Akses Wifi
+Spot foto
+Gazebo
+Taman bermain
+Jam Operasional Sawah Segar Resto & Nursery
+(Senin Tutup)
+Selasa – Jum’at : 09.00-18.00 WIB
+Sabtu – Minggu : 08.00-18.00 WIB
+Tiket Masuk Sawah Segar Resto & Nursery
+Tiket masuk lokasi : free (Gratis)
+Parkir : Rp. 5.000
+Media Sosial Sawah Segar Resto & Nursery
+Instagram : @sawahsegarsentul
+Nomor Whastapp: 082261613432
+Email : restosawahsegar@gmail.com
+Sumber Foto
+@dicky_kw
+Article Tags: Babakan Madang
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/sawah-segar-resto-nursery/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2022/09/sawah-segar-sentul-bogor-jawa-barat-250x250.jpg', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (255, 'Cimory Dairyland Bogor', 'Rekreasi', 'Rekreasi', 'Merasakan serunya berpetualang sebagai seorang Farmer
+Cimory Dairyland merupakan salah satu wisata rekreasi yang berada di puncak bogor. Di tempat ini pengujung dapat melihat mini zoo yang di dominasi oleh hewan perternakan seperti sapi, domba, kambing dan kuda. Selain itu ada onta, beraneka ragam unggas, kelinci. Selain itu  pengujung dapat melakukan aktivitas lainnya seperti berfoto dengan hewan-hewan, memberi makanan ke hewan, menunggangi kuda besar dan kuda poni. Selain itu terdapat magic village dimana terdpat installasi beberapa installasi rumah mini didalamnya. Pada saat ini Cimory DairyLand masih dalam tahap perluasan wilayah.  Tempat ini cocok untuk keluarga dan ramah untuk anak-anak
+Harga Tiket
+Hari Kerja 
+Dairyland Rp. 30.000
+Magic Village Rp. 20.000
+Combo Package (All attractions) Rp. 45.000
+Hari Libur
+Dairyland Rp.40.000
+Magic Village Rp. 30.000
+Combo Package (All attractions) Rp. 65.000
+Jam Operasional
+08.00 WIB – 17.00 WIB
+Lokasi
+Jl. Raya Puncak – Cianjur No.307, Cipayung Girang, Kec. Megamendung, Bogor, Jawa Barat 16770
+Fasilitas
+Tempat parkir
+Toilet
+Mushola
+Tempat Oleh-oleh
+Restoran
+Stand Makanan
+Spot Foto
+Sumber
+https://cimory.com/hospitality.php
+Article Tags: Megamendung
+Article Categories: Cafe & Resto · Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/cimory-dairyland/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/filename_DDHrnj1631004051-250x250.jpg', null, 8, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (256, 'Angkringan Sendok Melintir', 'Rekreasi', 'Rekreasi', 'Nongkrong bareng sobi sambil menikmati live music dan memanjakan perut
+Angkringan Sendok Melintir salah satu pilihan kaula muda untuk hangout. Angkringan ini menyediakan sate baso, otak-otak, sosis dan lain-lain selain itu ada juga nasi kucing dan nasi bakar dengan aneka lauk didalamnya, untuk menikamti sate-satean ada berbagai macam saus dan sambal. Minuman yang disediakan beraneka macam mulai dari kopi, teh, wedang uwuh dan minuman lainnya.
+Harga
+Makanan kisaran harga Rp. 3.000 sampai Rp. 10.000
+Minuman kisaran harga Rp. 4.000 sampai Rp. 20.000
+Jam Operasional
+Pukul 18.00 WIB – 00.00 WIB
+Lokasi
+Jl. GOR Pemda Cibinong No.179, Pakansari, Cibinong, Bogor, Jawa Barat 16915
+Sumber :
+https://liburanyuk.co.id/angkringan-sendok-melintir-bogor/
+https://www.instagram.com/angkringan_sendokmelintir/channel/
+Article Tags: Cibinong
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/angkringan-sendok-melintir/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/angkringan-sendok-melintir-250x250.png', null, 9, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (257, 'Anthology Cafe Sentul', 'Rekreasi', 'Rekreasi', 'Menikmati semilir angin danau sentul sambil menikmati hangatnya kopi dan manisnya kue
+Cafe yang mengusung konsep modern minimalis ini menjadi tempat favorite, bagi pengunjung yang ingin menikmati danau sentul. Kopi, teh dan berbagai macam kue yang menjadi teman bagi pengunjung pada saat menikmati suasana pinggir danau sentul. Area outdoor sering kali menjadi pilihan para pengunjung sebagai tempat untung mengambil foto
+Jam Operasional
+Jam 08.00 WIB – 20.00 WIB
+Harga
+Kisaran harga sekitar Rp. 10.000 – Rp. 55.000
+Lokasi
+Komplek Danau Teratai, Jl. MH. Thamrin, RT.03/RW.08, Cijayanti, Kec. Babakan Madang, Bogor, Jawa Barat 16810
+Sumber :
+https://food.detik.com/resto-dan-kafe/d-4013176/anthology-coffee–santai-sore-ditemani-kopi-sunda-arumanis-dan-banana-loaf-di-pinggir-danau
+Article Tags: Babakan Madang
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/anthology-cafe-sentul/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/antholigy-250x250.jpeg', null, 10, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (258, 'Novotel Bogor Golf Resort & Convention Center', 'Rekreasi', 'Rekreasi', 'Novotel Bogor Hotel, merupakan destinasi wisata yang terletak di kaki gunung dengan udara segar khas pegunungan, membuat hotel ini menjadi salah satu Hotel yang paling populer untuk liburan di Bogor
+Novotel Bogor Hotel, merupakan alternatif destinasi wisata dari pusat kota Jakarta dan mudah dijangkau hanya 50 menit dari kota. Terletak di kaki gunung dengan udara segar khas pegunungan, membuat hotel ini menjadi salah satu Hotel yang paling populer untuk liburan di Bogor, Indonesia. Lokasi Novotel Bogor Hotel pun hanya 30 menit ke daerah Puncak.
+Novotel Bogor Hotel dikelilingi oleh 5 hektar taman tropis, terletak di Bogor Raya Golf Estate dan berdekatan dengan lapangan golf 18-hole yang paling bergengsi di Bogor.
+Jam Operasional
+Buka 24 Jam
+RESTORAN VERANDAH
+Jenis masakan: Internasional Verandah restoran dirancang dengan udara terbuka dan dikelilingi lingkungan taman yang indah. Verandah memberikan pengalaman bersantap dengan konsep alami. Nikmati berbagai makan malam buffet tematik dari International, Indonesia, Cina dan Asia.
+Sarapan : 06:00-10:00 (hari kerja); 06:00-11:00 (akhir pekan)
+Makan siang : 12:00-14:30
+Makan malam : 18:00-21:30
+Musik live setiap akhir pekan dari 19:00-21:00
+CAPRICCIO
+Jenis masakan: Casual Italian Capriccio merupakan pilihan tepat untuk makan siang bisnis, makan malam dan makan malam romantis baik di dalam atau di area terbuka dengan citarasa Italia. Anda dapat menikmati pizza Italia dibuat dengan tungku oven kayu bakar. Nikmati pengalaman bersantap yang unik di Capriccio!
+Jam buka:
+Makan Siang : 12:00  – 16:00 WIB
+Makan Malam : 18:00 – 22:00 WIB
+Fasilitas
+Restaurants & Bar
+Meeting Room
+Golf Course
+Kolam Renang
+Health Club
+Lokasi
+Alamat : Jl. Golf Estate Bogor Raya, Sukaraja, Kec. Sukaraja, Bogor, Jawa Barat 16710
+Article Tags: Sukaraja
+Article Categories: Hotel & Villa · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/novotel-bogor-golf-resort-convention-center/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/hotel-novotel-bogor-250x250.jpeg', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (259, 'Villa Dan Resto Aman Disini', 'Rekreasi', 'Rekreasi', 'Villa aman disini merupakan tempat wisata yang memiliki villa dan resto yang memberikan pemandangan keindahan gunung-gunung di sekitar
+Villa Aman Disini yang terletak di Sentul Selatan ini hanya dapat ditempuh dengan waktu 1 jam saja dari Jakarta, dibangun di atas lahan seluas 11.000 M2 dengan pemandangan keindahan pegunungan Gunung Pancar, Gunung Salak, air terjun Curug Bidadari, dan city light kota Bogor hingga Jakarta. Selain, pengunjung yang menginap divilla sini pengunjung yang hanya ke restaurant saja pun juga bisa menikmati keindahan alam gunung pancar dan gunung salak.
+Jam Operasional
+Weekday
+Senin-Jum’at : 9:00-19:00 WIB
+Weekend
+Sabtu-Minggu : 10:00-19:00 WIB
+Fasilitas
+Penginapan
+Restaurant
+Toilet
+AC
+TV
+Bedroom
+Tiket Masuk
+Tiket Masuk Rp 50.000,- (Kecuali tamu yang menginap)
+Tiket/Voucher masuk dapat digunakan untuk mengurangi harga makanan tertentu atau dapat ditukarkan dengan pilihan minuman.
+Tiket Parkir
+Motor : Rp 5.000,-
+Mobil : Rp 10.000,-
+Harga Makanan dan Minuman
+Harga makanan dan minuman mulai daari Rp 35.000 – Rp 100.000,-
+Lokasi
+Alamat : Bojong Koneng, Kec. Babakan Madang, Bogor, Jawa Barat 16810
+Article Tags: Babakan Madang
+Article Categories: Hotel & Villa · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/villa-dan-resto-aman-disini/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/villa-aman-disini-250x137.jpg', null, 10, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (260, 'Pasar Ah Poong', 'Rekreasi', 'Rekreasi', 'Pasar Ah Poong merupakan wisata kuliner yang berada ditepi sungai
+Pasar Ah Poong adalah salah satu tempat wisata kuliner yang bisa dinikmati semua kalangan, tempat ini memiliki konsep food court berbagai macam aneka kuliner jajan-jajanan mulai dari makanan ringan/cemilan sampai makan berat/nasi . Selain tempat kuliner wisatawan juga bisa mencoba wahana perahu dialiran sungai.
+Jam Operasional
+Senin-Jum’at : 10.00-22.00 WIB
+Sabtu-Minggu : 07.00-22.00 WIB
+Harga Menu
+Harga menu makanan dan minuman disini bermacam-macam mulai dari Rp 15.000 – Rp 40.000
+Fasilitas
+Mushola
+Toilet
+Spot Foto
+Area Parking
+Penyewaan Perahu
+Bumber boat
+Tempat memancing ikan
+Bola air
+Komidi putar
+Pasir kinetik
+Mobil rides
+Kuda poni
+Air soft gun
+Memanah
+Lokasi
+Alamat : Jl. MH. Thamrin No.Kav.8, Cipambuan, Kec. Sukaraja, Bogor, Jawa Barat 16710
+Article Tags: Sukaraja
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/pasar-ah-poong/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/20141217-pasar-ah-poong-250x250.jpg', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (261, 'Pancar Garden Cafe', 'Rekreasi', 'Rekreasi', 'Pancar Garden Cafe merupakan tempat wisata kuliner dengan konsep yang mempesona dan sangat indah terdapat pemandangan alam kawasan Sentul
+Pancar Garden Cafe mempunyai 2 area indoor dan outdoor tempat ini mempunyai konsep open space sehingga menjadi tempat nongkrong yang kekinian yang sangat mengasikkan untuk berlama – lama di tempat ini. Dengan pemandangan yang sangat indah dihiasi pegunungan dan bukit-bukit yang indah. Tempat ini sangat cocok untuk nongkrong dan berkumpul bersama pasangan, teman dan keluarga. Selain kalian menikmati makanan dan minuman yang ada dicafe ini kalian juga bisa berfoto-foto.
+Outdoor
+Indoor
+Jam Operasional
+Senin-Jum’at : 10.00-20.00 WIB
+Sabtu-Minggu : 09.00-20.00 WIB
+Harga Menu
+Harga menu makanan dan minuman ini mulai dari Rp 20.000 – Rp 80.000
+Fasilitas
+Area Parkir
+Mushola
+Toilet
+Spot Foto
+Akses Wifi
+Stop Kontak
+Rooftop
+Indoor & Outdoor Area
+Lokasi
+Jl. Raya Bojong Koneng, Bojong Koneng, Kec. Babakan Madang, Bogor, Jawa Barat 16810
+Article Tags: Babakan Madang
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/pancar-garden-cafe/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/pancar-garden-cafe-sentul-bogor-250x250.jpg', null, 10, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (262, 'Saung Berkah', 'Rekreasi', 'Rekreasi', 'Saung Berkah merupakan salah satu wisata kuliner dengan konsep tepi danau yang cukup populer di Cibinong
+Saung Berkah sendiri mengusung konsep tempat makan bernuansa sunda dengan desain saung-saung yang berada diatas air danau menambah suasana menjadi nikmat dan saung berkah juga memiliki konsep tepi danau dengan dihiasi pohon-pohon kelapa ditepi danau. Tempat ini cocok banget buat kalian berkumpul bersama teman, keluarga dan lainnya.
+Harga Menu
+Menu Makanan :
+Gurame Goreng Terbang 102k
+Gurame Crispy Asam Manis 108k
+Gurame Crispy Saung Berkah 108k
+Gurame Pecak 108k
+Gurame Masak Tahu 103k
+Gurame Mangut 108
+Gurame Saus Singapore 105k
+Bawal Lahut Goreng 95k
+Bawal Laut Bakar Kecap 97k
+Bawal Laut Bakar 97k
+Patin Bakar Saung Berkah 77k
+Pating Bakar Kecap 73k
+Nila Merah Goreng 98k
+Rica Rica 55k
+Kerang Dara Saos Lada Hitam 39k
+Sumi Saus Mentega 53k
+Cumi Saus Tiram 53k
+dan lainnya
+Menu Minuman :
+Cappucino Es / Panas 25k
+Mocca Es / Panas 25k
+Chocolate Es / Panas 25k
+Hazelnut latte Es / Panas 25k
+Milk Shake 20k
+Wedang Uwuh 30k
+Asem Gula 20k
+Susu Jahe 20k
+Teh Tubruk Gula Batu 15k
+Vietnam Drip 20k
+Americano 18k
+dan lainnya
+Jam Operasional
+Buka Setiap Hari : 10.00-22.00 WIB
+Fasilitas
+Area Parkir
+Toilet
+Mushola
+Akses Wifi
+Saung dan Gazebo
+Kolam Ikan
+Live Music
+Lokasi
+Alamat : Jl. Raya Mayor Oking Jaya Atmaja Jl. HR. Lukman No.2, Cirimekar, Cibinong, Bogor, Jawa Barat 16917. 
+Article Tags: Cibinong
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/saung-berkah/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/saung-berkah-cibinong-250x250.jpg', null, 11, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (263, 'Cimory Mountain View', 'Rekreasi', 'Rekreasi', 'Menikmati hidangan dengan pemandangan alam perbukitan sekaligus rekereasi keluarga
+Merupakan salah satu destinasi favorit bagi wisatawan di kawasan Puncak, mempunyai layout yang dirancang sedemikian rupa agar pengunjung dapat menikmati hidangan sambil melihat pemandangan alam perbukitan. Selain menikmati hidangan pengunjung juga disediakan tempat bermain untuk anak-anak, area berbelanja dan rekreasi keluarga.
+Lokasi
+Jl. Raya Puncak No.KM.77 No.435, Leuwimalang, Kec. Cisarua, Bogor, Jawa Barat 16750
+Fasilitas
+Area parkir
+Mushola
+Toilet
+Area berbelanja
+Berbagai macam pilihan rekreasi/wisata
+Harga
+Harga menu makanan dan minuman mulai dari Rp 10.000 – Rp 100.000
+*harga dapat berubah sewaktu-waktu
+Jam Operasional
+Senin – Minggu 09.00 – 20.00 WIB
+Kontak
+Whatsapp : 081525988565
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Cisarua
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/cimory-mountain-view/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/1-mountain-view-250x250.jpg', null, 11, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (264, 'De Boekit Coffee', 'Rekreasi', 'Rekreasi', 'De Boekit Coffee Bogor merupakan sebuah tempat nongkrong dengan konsep “The Sky is The Limit”
+De Boekit Coffee Bogor merupakan sebuah tempat nongkrong asik dan kekinian buat para milenial tempat ini baru saja di buka berlokasi di Bukit Hambalang de boekit coffee juga memiliki tempat indor dan outdor.
+Cafe ini sendiri mengusung konsep “The Sky is The Limit” yang mana kamu akan disuguhi dengan pemandangan hijau luas yang menakjubkan dari atas ketinggian. Selain tempat nongkrong De Boekit Coffee juga memiliki spot foto buat para wisatawan yang berkunjung ke tempat ini.
+Selain tempat nongkrong De Boekit Coffee juga memiliki spot foto buat para wisatawan yang berkunjung ke tempat ini.
+Harga Menu
+Harga menu makanan dan minuman mulai dari Rp 29.000 – Rp 105.000.
+Jam Operasioanal
+Senin-Kamis : 11.00-19.00
+Jum’at-Minggu : 10.00-19.00
+Fasilitas
+Area Parkir
+Mushola
+Toilet
+Smoking Area
+Spot Foto
+Smoking Area
+Stop Kontak
+High Chair
+Bean Bag
+Lokasi
+Alamat : De Boekit Coffee RT.05/RW.02, Hambalang, Kec. Citeureup, Bogor, Jawa Barat 16810.
+Article Tags: Citeureup
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/de-boekit-coffee/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/de-boekit-250x250.jpg', null, 17, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (265, 'The Asmara Coffee & Eatery Cibinong', 'Rekreasi', 'Rekreasi', 'Tempat yang memberikan suasana damai melalui aroma hangatnya kopi dan rimbunyya pepohononan.
+The Asmara Coffe & Eatery Cibinong menyajikan berbagai macam makan dan minuman, cocok untuk berkumpul dengan teman menjadi tempat berdiskusi. Tempatnya yang terletak ditengah pepohonan memberikan kesan sejuk. Untuk makananya sendiri ada berbagai macam jenis makanan dari cemilan untuk menemani ngopi-ngopi cantik sampai makanan berat. Selain itu desain tempat yang bertemakan amerika classic memiliki keindahan tersendiri bagi pengunjung yang hobi berburu foto . Terdapat 2 (dua) The Asmara Coffee & Eatery Cibinong.
+Harga
+Kisaran harga makan dan minuman Rp. 20.000 s/d Rp 50.000
+Menu
+Kopi
+Pasta
+Nasi Goreng
+Sandwich
+Jam Operasional
+11.00 WIB – 21.00 WIB
+Lokasi
+Jl. Tegar Beriman No.50, Tengah, Cibinong, Bogor, Jawa Barat 16914
+Jl. Pangrango I, Sukahati, Cibinong, Bogor, Jawa Barat 16913
+Article Tags: Cibinong
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/the-asmara-coffee-eatery-cibinong/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/181998145_948477045724472_1502318949587400950_n-250x250.jpg', null, 8, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (266, 'Cimory Riverside', 'Rekreasi', 'Rekreasi', 'Menikmati makanan di pinggir sungai sekaligus wisata keluarga
+Cimory Riverside merupakan salah satu destinasi paling populer yang berada di kawasan Puncak. Menyediakan kesempatan untuk menikmati hidangan di pinggir sungai dengan pemandagan alam yang indah. Selain menikmati hidangan pengunjung juga disediakan area berbelanja berbagai produk makanan dan minuman premium dari PT Cisarua Mountain Dairy. Lokasi wisata ini juga menyediakan berbagai macam pilihan rekreasi untuk keluarga.
+Lokasi
+Jl. Raya Puncak Km 77, Ds. Cipayung, Megamendung, Bogor, Jawa Barat, Indonesia, 16750
+Fasilitas
+Area parkir
+Mushola
+Toilet
+Area berbelanja
+Berbagai macam pilihan rekreasi/wisata
+Harga
+Harga menu makanan dan minuman mulai dari Rp 10.000 – Rp 100.000
+*harga dapat berubah sewaktu-waktu
+Jam Operasional
+Senin – Minggu 08.00 – 21.00 WIB
+Kontak
+Whatsapp : 081525988565
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Megamendung
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/cimory-riverside/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/cimory-riverside-250x250.png', null, 8, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (267, 'Wisata Rangoon Hills', 'Rekreasi', 'Rekreasi', 'Wisata menarik yang instagramable.
+Taman rekreasi ini menawarkan keindahan alam yang berpadu dengan spot-spot foto unik. Area perbukitan hijau yang didesain dengan cantik untuk mendapatkan spot foto terbaik. Selain areanya yang masih hijau asri di kawasan Gunung Salak.
+Lokasi
+Gunung Picung, Pamijahan, Bogor
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Tiket Masuk
+Tiket masuk lokasi : Rp. 15.000,-
+Parkir Roda Dua : Rp. 5.000,-
+Parkir Roda Empat : Rp. 10.000,-
+Jam Operasional
+Ranggon Hills buka setiap hari.
+Weekday 09.00 – 17.00 WIB
+Weekend 08.00 – 18.00 WIB
+Kontak
+Tidak tersedia.
+Tips
+Disarankan untuk datang sekitar pukul 8 – 9 pagi untuk menghindari hujan yang bisa sewaktu-waktu turun mendadak di siang hari. Waktu terbaik untuk mengambil foto adalah sebelum pukul 10 pagi dan setelah pukul 4 sore. Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Pamijahan
+Article Categories: Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/wisata-rangoon-hills/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/rangoonhills-250x250.png', null, 9, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (268, 'Cafe Pendopo Ciherang', 'Rekreasi', 'Rekreasi', 'Tempat staycation keluarga yang nyaman dan cozy.
+Pendopo Ciherang memiliki konsep bangunan yang berbeda-beda dengan harga yang berbeda pula. beberapa tipe banguannya, yaitu tipe minimalis, tipe joglo, tipe adat Minang dengan bentuk rumah panggung juga ada disini.
+Yang unik dari konsep bangunan disini adalah warna bangunan yang dibuat semirip mungkin dengan warna kayu sehingga vibes menyatu dengan alam sangat terasa saat kita tinggal ditempat ini.
+Selain memberikan penginapan dengan nuansa alami, pemandangan di sekitar juga sangat mendukung. Tempat ini menawarkan pemandangan pepohonan hijau yang menghasilkan suasana sejuk, damai dan tenang bagi yang merasakannya.
+Lokasi
+Jl. wangun desa karang tengah, Babakan Madang, Bogor 16810
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Tiket Masuk
+Tiket masuk lokasi : Rp. 25.000,- (anak-anak)
+Tiket masuk lokasi : Rp. 30.000,- (dewasa)
+Tiket berenang : Rp. 55.000,- (anak-anak)
+Tiket berenang : Rp. 60.000,- (dewasa)
+Parkir Roda Dua : Rp. 5.000,-
+Parkir Roda Empat : Rp. 10.000,-
+Jam Operasional
+Buka setiap hari jam 9.00 s.d 17.00
+Kontak
+Tidak tersedia.
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Babakan Madang
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/cafe-pendopo-ciherang/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/pendopo-ciherang-bogor-250x250.jpg', null, 11, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (269, 'Puncak Mustika Manik', 'Rekreasi', 'Rekreasi', 'Wisata spot ekstrem menarik yang instagramable.
+Puncak Mustika Manik menawarkan pemandangan dari atas bukit yang menawan. Berlokasi persis di ujung tebing, menjadikan pemandangannya sangat leluasa dilihat. Dengan beberapa wahana spot, hasil fotopun menjadi jauh lebih cantik bahkan bisa terlihat ekstrem jika dengan pengambilan sudut yang tepat. Berada di ketinggian 897 mdpl, pemandangan yang disajikan didominasi alam perbukitan hijau.
+Lokasi
+Desa Gunung Sari, Kecamatan Pamijahan, Kabupaten Bogor, 16810
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Tiket Masuk
+Tiket masuk lokasi : Rp. 15.000,-
+Parkir Roda Dua : Rp. 5.000,-
+Parkir Roda Empat : Rp. 10.000,-
+Jam Operasional
+Setiap hari, Jam : 08.00 – 17.00 WIB
+Kontak
+Tidak tersedia.
+Tips
+Siapkan kondisi fisik yang prima, karena untuk menuju lokasi ini anda harus treking dengan menaiki tanjakan terjal. Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Pamijahan
+Article Categories: Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/puncak-mustika-manik/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/puncak-mustika-manik-250x250.jpg', null, 9, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (270, 'Leuweung Gledegan', 'Rekreasi', 'Rekreasi', 'Leuweung Geledegan sebuah resort dengan model glamping yang menawarkan panorama alam yang sangat indah serta didukung dengan beragam fasilitas menarik yang tentunya asik untuk dinikmati. 
+Kamar dengan model tenda. Malam dingin banget. Siang agak panas. Viewnya bagus, terutama area kolam renang. Kalau kesini harus punya kendaraan sendiri.
+Wisata menarik yang instagramable.
+Leuweung Geledegan Terletak di kaki Gunung Salak yang indah dan sejuk dengan pemandangan gunung. Tempat yang tenang dan nyaman untuk liburan dan rapat kerja. Leuweung Geledegan Ecolodge menghadirkan nuansa berbeda untuk masa menginap Anda. Dilengkapi dengan fasilitas hotel berbintang untuk mendukung kegiatan pengunjung. Leuweung Geledegan Ecolodge juga sangat cocok untuk berlibur bersama keluarga tercinta
+Hanya berjarak 7,6 Km atau sekitar 37 menit dari pusat kota Kota Bogor, Leuweung Geledegan Ecolodge menghadirkan akomodasi dengan konsep ramah lingkungan, dengan latar belakang hutan yang indah dan terletak di kaki Gunung Salak yang merupakan area Taman Nasional Gunung Halimun di Jawa Barat, itu membuat Leuweung Geledegan Ecolodge berpartisipasi dalam melestarikan hutan yang hampir semua wilayah diciptakan sebagai pendidikan alam.
+Lokasi
+Tamansari, Kec. Tamansari, BLokasi resort ini terletak di Tamansari, Kecamatan Tamansari, Bogor, Jawa Barat. Lokasinya hanya berjarak 10 km dari Stasiun Bogor, perkiraan waktu perjalanan cuma setengah jam.
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Kolam renang
+Perahu
+Nonton Film Layar Lebar
+Menikmati Menu Kuliner khas Sunda
+Outbond
+Edukasi Seputar Tanaman
+Ngopi di Leuweung Kopi
+Harga Sewa
+Harga glamping di Leuweung Geledegan:
+• Eksekutif lodge Rp 1.200.000 (kapasitas 2 orang)
+• Lodge A Rp 1.400.000 (kapasitas 3 orang)
+• Lodge B Rp 1.600.000 (kapasitas 5 orang)
+• Lodge C Rp 1.800.000 (kapasitas 6 orang)
+• Lodge D Rp 2.100.000 (kapasitas 7 orang)
+Catatan: Harga dapat berubah sewaktu-waktu
+Harga tersebut sudah termasuk breakfast, kolam renang dan permainan seperti; panahan, naik perahu, dan lain-lain. Setiap glamping dilengkapi fasilitas seperti; TV, AC, Kamar mandi, water heater, dan shower.
+Jam Operasional
+Senin – Minggu 24 Jam
+Kontak
+Phone 1 : (+62) 251-8480-777
+Whatsapp : (+62) 813-8026-3338
+Email : reservation@leuweunggeledegan.com
+Website : http://www.leuweunggeledegan.com/
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Tamansari
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/leuweung-gledegan/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/leuweung-250x250.jpg', null, 14, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (271, 'Lembah Cisadane', 'Rekreasi', 'Rekreasi', 'Agrowisata yang memiliki berbagai macam aktivitas seru
+Lembah Cisadane merupakan waterpark yang memiliki sensasi kesejukkan udara yang sesungguhnya dengan Lembah Cisadane adalah sebuah taman rekreasi terpadu, dimana terdapat didalamnya waterpark, agrowisata, pusat kuliner, dll. Dengan sensasi kesejukan udara yang menyegarkan serta pemandangan yang indah pengunjung dijamin bakal betah berlama-lama di sini.
+Lembah Cisadane sangat cocok untuk dijadikan tempat liburan bersama keluarga, sahabat, atau pasangan tercinta karena tempatnya family friendly. Terdapat beragam fasilitas penunjang dan wahana permainan yang bisa kamu coba
+Wahana dan Aktivitas
+Bermain di Waterpark
+Outbond
+Agrowisata
+Lokasi
+Putat Nutug, Ciseeng, Bogor, Jawa Barat 16120
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Area Parkir
+Mushola
+Toilet
+Kamar Ganti
+Taman
+Warung Makan
+Gazebo
+Tiket Masuk
+Harga tiket masuk yang dikenai yaitu Rp. 25.000
+Jam Operasional
+Buka setiap hari dari pukul 08.00 WIB hingga 16.00 WIB
+Kontak
+Telpon : 0878-6248-9934
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Ciseeng
+Article Categories: Agrowisata · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/lembah-cisadane/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/lembah-cisadae-250x250.jpg', null, 12, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (272, 'Garuda Park Waterland', 'Rekreasi', 'Rekreasi', 'Waterland yang mumpuni dan murah meriah
+Untuk warga Tajurhalang dan sekitarnya yang sedang bingung ingin mengajak keluarga berekreasi, di Tajurhalang mempunyai tempat Wisata Kolam Renang Garuda Waterland
+Kolam renang Garuda Waterland sudah di buka untuk umum. Menyediakan beragam atraksi menarik bertemakan kegiatan air. Banyak wahana seru yang bisa dicoba baik untuk anak-anak maupun dewasa.
+Lokasi
+Jl. Raya Kalisuren No.8000, Tajurhalang, Tajur Halang, Jawa Barat
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Gazebo
+Toilet
+Tiket Masuk
+Garuda Waterland menawarkan harga tiket masuk untuk hari kerja sebesar Rp30.000 dan untuk hari libur sebesar Rp 40.000 baik untuk dewasa maupun anak-anak.
+Jam Operasional
+Garuda Park Waterland buka setiap hari dari mulai pukul 08.00 WIB sampai 17.00 WIB
+Kontak
+Tidak Tersedia
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Tajurhalang
+Article Categories: Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/garuda-park-waterland/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/garuda-250x250.jpg', null, 12, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (273, 'Damar Langit Resort & Cafe', 'Rekreasi', 'Rekreasi', 'Bogor memang menjadi pilihan yang tepat untuk tempat liburan. Selain memiliki beragam tempat-tempat istimewa, kota ini juga menyuguhkan pesona alam yang menawan tentu membuat banyak wisatawan tertarik ingin kembali berkunjung.
+Damar langit resort & cafe yang memiliki konsep yang banyak disukai oleh semua kalangan karena keindahan panorama alam perbukitan
+tempat nongkrong baru di Bogor yang menarik untuk kalian kunjungi. Tempat ini bernama Damar Langit Resort, sebuah tempat nongkrong instagramable yang mengusung konsep unik dengan menawarkan pesona alam sekitar yang memanjakan.
+Sangat Cocok Untuk Melepas Penat
+Tempatnya memang cozy banget, para pengunjung bisa seharian menikmati liburan di tempat ini. Menginap di villa adalah pilihan yang menarik untuk memuaskan diri saat liburan. Ada fasilitas asyik seperti kolam renang yang siap mendukungmu untuk bersenang-senang.
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Tempat parkir
+Shuttle car
+Villa
+Kolam Renang
+Cafe dan resto
+Smoking area
+Musholla
+Gazebo
+Spot foto
+Glamping
+Ayunan
+Rumah pohon
+Toilet
+Tiket Masuk
+Untuk Harga Menu Damar Langit Resort mulai Rp. 35,000 hingga Rp. 100,000.
+Jam Operasional
+10.00 – 21.00 WIB (Weekday)
+10.00 – 22.00 WIB (Weekend)
+Kontak
+Tlp : +6285774223392
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Cisarua
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/damar-langit-resort-cafe/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/damarlangit-250x250.jpg', null, 10, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (274, 'Wisata Kampung Salaka', 'Rekreasi', 'Rekreasi', 'Kota Hujan, itulah sapaan hangat yang dimiliki oleh Bogor. Terkenal dengan kesejukan udaranya, Bogor kerap dijadikan sebagai salah satu pilihan destinasi wisata yang tepat untuk mengisi waktu libur akhir pekan. Kebanyakan orang mungkin hanya mengenal Puncak sebagai salah satu destinasi unggulan dan favorit yang ada di Bogor. Namun sebenarnya Kota Hujan ini masih punya tujuan wisata lain yang nggak kalah recommended untuk dikunjungi.
+Tiket murah.. Pemandangan indah. Hanya jalan ke lokasi penuh liku2…
+Wisata menarik yang instagramable.
+Salah satu wisata di Bogor yang saat ini banyak diserbu oleh wisatawan adalah Kampung Salaka. Sebuah destinasi wisata yang lokasinya tepat berada di kaki Gunung Salak, sehingga memungkinkan kamu dapat melihat panorama alam Kota Hujan dari atas ketinggian. Daya tarik utama dari Kampung Salaka adalah view Kota Bogor serta megahnya Gunung Salak serta deretan perbukitan yang dapat memanjakan matamu. Suhu udara yang dingin dan sejuk pun turut menjadi keistimewaan dari Kampung Salaka. Menariknya, untuk bisa menikmati panorama alam yang memukau ini kamu hanya perlu membayar tiket cukup terjangkau yaitu sebesar 10ribu saja per orangnya. Dengan budget 10ribu kamu bisa selfie sepuasnya di beberapa spot yang telah disediakan.
+Lokasi Kampung Salaka ini berada di Desa Sukajaya, Tamansari, Bogor. Untuk bisa menjangkau lokasi wisata ini kamu harus berkendara sejauh 14,5 kilometer atau setara dengan 54 menit perjalanan. Rute jalan menuju lokasi bisa ditempuh dengan melewati Jalan Raya Ciapus. Akses jalan menuju lokasi wisata sudah bagus dan mudah dilalui oleh kendaraan roda dua maupun empat. Jika ingin berkunjung ke Kampung Salaka maka kamu bisa datang mulai jam 7 pagi sampai 10 malam. Selain melalui Jalan Raya Upas, kamu pun bisa melewati Kebon Pedes untuk bisa sampai di lokasi wisata Kampung Salaka. Dari Kebun Pedes menuju ke Pajajaran lalu lanjutkan ke arah kawasan Sukasari.
+Setelah melewati Bogor Nirwana Residence dan Batu Tulis, kamu harus melanjutkan perjalanan menuju Pura Agung Parahyangan. Selain berada di bawah kaki Gunung Salak, Kampung Salaka juga berlokasi tidak jauh dari Parahyangan Agung Jagatkartta yang merupakan Pura Terbesar Kedua di Indonesia.Jarak Kampung Salaka dari Pura Agung Parahyangan kira-kira sekitar 400 meter. Jika masih kebingungan menemukan dimana lokasinya, kamu bisa akses rutenya melalui Google Maps diatas atau dapat juga memanfaatkan aplikasi petunjuk jalan sejenis Waze yang mungkin terpasang di smartphone-mu.
+Lokasi
+Tamansari, Kec. Tamansari, Bogor, Jawa Barat 16610
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Gazebo
+Tiket Masuk
+HTM: Rp.10.000
+Parkir Motor: Rp.2.000
+Parkir Mobil: Rp.5.000
+Jam Operasional
+Senin – Minggu 06.00-23.00 WIB
+Kontak
+Tlp : 081288901213
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Tamansari
+Article Categories: Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/wisata-kampung-salaka/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/kampung-salaca-250x250.jpg', null, 12, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (275, 'Wisata Bakukung Cianten', 'Rekreasi', 'Rekreasi', 'Wisata menarik yang instagramable.
+Cianten Bakukung, spot foto dan selfie di Bogor yang sejuk dan dijamin antigagal. Keunikan lanskapnya jadi destinasi terbaru kawula muda. Bagi yang hobi hunting spot foto baru atau hobi difoto, lokasi ini sangat memenuhi kriteria.
+Selain kebun teh berbentuk terowongan dan jajaran pinus, di Cianten Bakukung, terdapat spot foto gardu pandang dan sky tree dengan jembatan kayu. Kedua spot itu, jadi tempat ideal untuk menyaksikan pemandangan di sekitar secara lebih luas.
+Lokasi
+Purasari, Leuwiliang, Bogor, Jawa Barat 16640
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Tiket Masuk
+Tiket masuk lokasi : Rp. 10.000,-
+Parkir Roda Dua : Rp. 5.000,-
+Jam Operasional
+Setiap hari
+Kontak
+Tidak tersedia.
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Leuwiliang
+Article Categories: Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/wisata-bakukung-cianten/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/bakukung3-250x250.jpg', null, 10, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (276, 'Wisata Alam Candali', 'Rekreasi', 'Rekreasi', 'Wisata Alam Candali Bogor ini merupakan tempat wisata yang paling bagus dan sedang hits dikalangan wisatawan. Dari mulai wisata air terjun, kuliner yang enak, tempat nongkrong yang asik, bermain anak dan keluarga semua ada disini. Tak heran jika tempat wisata alam ini menjadi incaran wisatawan yang berkunjung. Tempat ini juga menawarkan penginapan dengan konsep pemandangan kebun teh yang sejuk sebagai latar belakangnya
+Di sini kita bisa renang dan menikmati area luas dan hijau. Bisa menginap juga loh disini karena ada penginapan yang siap di booking dengan sewa yg lumayan murah.
+Wisata menarik yang instagramable.
+Lokasi
+Kampung cioda, Candali, Kec. Ranca Bungur, Bogor, Jawa Barat 16310
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Kolam Renang
+Tiket Masuk
+Tiket masuk lokasi mulai dari Rp. 5,000 – 100,000
+Jam Operasional
+Setiap hari: 08.00 – 16.30 WIB
+Kontak
+Email : @wisataalamcandali
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Rancabungur
+Article Categories: Agrowisata · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/wisata-alam-candali/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/wisata-candali-250x250.png', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (277, 'Tirta Sanitra Hot Spring', 'Rekreasi', 'Rekreasi', 'Setelah lima sampai enam hari bekerja dalam satu minggu, badan tentu terasa lelah dan kaku. Belum lagi pikiran yang penat karena melihat kemacetan setiap hari. Kalau sudah begini, waktunya mencuri sedikit waktu libur untuk berendam air panas. Pemandian air panas Tirta Sanita Ciseeng atau Tirta Sayaga di Bogor bisa jadi lokasi yang tepat untuk menghilangkan lelah badan sekaligus pikiran.
+Hidden gem in the middle of Bogor Regency of West Java Island. You can experience dipping in a hot spring like infinity pool just like in Japan. No need to fly away to Japan for a nice hot relaxing bath, you can do that in Indonesia.
+Wisata Terbaik
+Pemandangan Indah Dan Nyaman
+Lokasi
+Jl. Raya Ciseeng, Bojong Indah, Kec. Parung, Bogor, Jawa Barat 16330
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Kios Makanan
+Wahana Permainan Outbound
+Tiket Masuk
+Tiket masuk lokasi : Rp. 12,000,- Rp. 15,000
+Jam Operasional
+Senin – Minggu 07.00 – 17.00 WIB
+Kontak
+–
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Ciseeng
+Article Categories: Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/tirta-sanitra-hot-spring/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/tirta-sanitra-250x250.png', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (278, 'Tepi Danau Cafe & Camp Resto', 'Rekreasi', 'Rekreasi', 'Warung Tepi Danau merupakan salah satu tempat wisata kuliner yang keren banget. Konsep cafe dan resto yang menjadi dasar hadirnya tempat nongkorng yang asyik di Bogor, tepatnya di kawasan Dramaga. Lokasinya pas berada di sekitar Danau Situ Burung atau tepat di belakang kampus IPB Dramaga Bogor.
+Tempatnya nyaman, menunya beragam sekali, harganya terjangkau, pemandangannya sangat cantik, dilengkapi live performance, pelayanannya sangat baik karena pelayan menyambut tamu ketika datang, dan membantu pemesanan. Penyajian makanannya cukup baik dan cepat.
+Wisata menarik yang instagramable.
+Saat ini, Cafe Tepi Danau ini sedang hits banget loh. Menawarkan suguhan yang berbeda dari cafe pada umumnya. Suasananya yang selalu ramai pengunjung menjadi sensasi tersendiri. Cafe Outdoor dengan penataan yang rapi dengan berbagai pernak-pernik atau hiasan yang kece misalnya seperti payung-payung dan lampu-lampu yang menghiasi cafe ini. Inilah yang menjadi daya tarik bagi para masyarakat, khususnya kalangan remaja yang hobi nongkorong.
+Lokasi
+Jl. Carang Pulang Jl. Alternatif IPB, setu Burung, Kec. Dramaga, Bogor, Jawa Barat 16680
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Gazebo
+Tempat Nongkrong
+Harga Menu
+Berikut Adalah Harga Menu Tepi Danau Bogor :
+Jam Operasional
+Senin : Tutup
+Selasa : 11.00–21.00 WIB
+Rabu : 11.00–21.00 WIB
+Kamis : 11.00–21.00 WIB
+Jum’at : 11.00–21.00 WIB
+Sabtu : 11.00–21.00 WIB
+Minggu : 11.00–21.00 WIB
+Kontak
+Tlp : +6281285038322
+Website : https://warung-tepi-danau.business.site
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Dramaga
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/tepi-danau-cafe-resto/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/warung-tepi-danau-bogor-250x250.jpg', null, 14, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (279, 'Pawaja (Panorama Wangun Jaya)', 'Rekreasi', 'Rekreasi', 'Wilayah Bogor Barat, Kabupaten Bogor, kaya akan destinasi wisata yang dapat memikat para pengunjung. Salah satunya keindahan Panorama Alam Wangun Jaya (Pawaja) di Gunung Wangun Jaya, Desa Wangunjaya, Kecamatan Leuwisadeng, Kabupaten Bogor. Memiliki potensi wisata, warga setempat pun melakulan penataan dengan cara swadaya yang menamakan diri wadah Laskar Hijau. Sistem penataan wisata juga berbasis konservasi.
+Tempat yang cocok buat pecinta alam, suasana dengan keindahann diatas bukit sejuk dan nyaman kampung sawah sadeng pasar bogor.
+Wisata menarik yang instagramable.
+Obyek wisata tersebut pada awal perayaan lebaran nanti akan di buka secara resmi dengan harga tiket sangat ekonomis. Menyajikan beberbagai fasilitas, seperti 35 rumah adat seIndonesia sehingga para pengunjung yang dari luar wilayah selain merasa memiliki, tentunya ada kebanggaan dengan rumah adatnya dilestarikan.
+Lokasi
+Kp.Curug Desa Wangunjaya, Pabangbon, Bogor Barat, Bogor, Jawa Barat 16640
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Gazebo
+Tempat Berswafoto
+Tiket Masuk
+Biaya Masuk Gratis
+Jam Operasional
+Senin – Minggu 08.00 – 17.00 WIB
+Kontak
+Tlp : +6281284365827
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Leuwisadeng
+Article Categories: Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/pawaja-panorama-wangun-jaya/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/pawaja-250x250.jpg', null, 10, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (280, 'Outbond Pelita Desa', 'Rekreasi', 'Rekreasi', 'Wisata Outbond yang memiliki suasana Desa masih sangat asri, dengan rindangnya pepohonan dan segarnya udara
+Saat ini banyak desa yang disulap menjadi objek wisata. Memanfaatkan potensi keindahan alam yang mempesona dan memadukannya dengan kegiatan menarik. Seperti Pelita Desa di Ciseeng Bogor, sebuah desa yang disulap menjadi wisata edukasi menyenangkan.
+Pelita Desa sudah ada sejak tahun 2002. Yang mana menjadi bagian dari Yayasan Pelita Ilmu yang memfokuskan kegiatannya di desa. Objek wisata ini memusatkan pada kegiatan outbound yang menyenangkan
+Outbond Anak Anak
+Outbond Remaja
+Lokasi
+Jl. H. Miing, RT. 01 / RW. 03, Putat Nutug, Ciseeng, Bogor, Jawa Barat, Indonesia, 16117
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Area Parkir
+Toilet
+Tiket Masuk
+Standar Edu 1 (Harga Belum Termasuk Pajak) Rp125.000
+Standar Edu 2 (Harga Belum Termasuk Pajak) Rp125.000
+Paket Menginap Standar (Harga Belum Termasuk Pajak) Rp250.000
+Jam Operasional
+Buka setiap hari mulai dari puku 08.00 WIB hingga 17.00 WIB untuk kegiatan outbond
+Kontak
+Tidak Tersedia
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Ciseeng
+Article Categories: Agrowisata · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/outbond-pelita-desa/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/pelita-desa-250x250.jpg', null, 14, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (281, 'Mandapa Kirana Resort', 'Rekreasi', 'Rekreasi', 'Resort Dengan Nuansa Bali & Eropa.
+Tempat yang nyaman untuk bersantai bersama keluarga dan kerabat dengan ditemani pemandangan alam yang luar biasa indah serta udara yang segar. Selain itu anda bisa menikmati fasilitas restoran yang menyediakan makanan dan minuman pastinya akan semakin melengkapi kebahagiaan anda.
+Lokasi
+Jl. Raya Bojong Koneng, Bojong Koneng, Kec. Babakan Madang, Bogor, Jawa Barat 16810
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Tiket Masuk
+Tiket masuk lokasi : Rp. 50.000,- (Termasuk Voucer Makan)
+Parkir Roda Dua : Rp. 5.000,-
+Parkir Roda Empat : Rp. 10.000,-
+Jam Operasional
+Weekday: 10.00 – 19.00
+Weekend: 08.00 – 20.00
+Kontak
+website: https://mandapakirana.com/
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Babakan Madang
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/mandapa-kirana-resort/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/mandapa-1-250x250.jpg', null, 9, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (282, 'Kawaci (Kawasan Wisata Cikaret)', 'Rekreasi', 'Rekreasi', 'Kawaci atau Kawasan Wisata Cikaret adalah salah satu destinasi wisata yang menjadi bagian dari Geopark Pongkor. Sepanjang perjalanan mata dimanjakan oleh pemandangan yang luar biasa indah. Kawaci dikelola oleh PT. Antam (Aneka Tambang).
+Kereen mantap ada Curug nya juga
+Wisata menarik yang instagramable.
+Tujuannya tak lain untuk meningkatkan perekonomian warga sekitar, yang selama ini bergantung terhadap aktivitas penambangan dan galian di Gunung Pongkor. “Terdapat lahan konservasi tanaman dan peternakan kambing. Menyusul area hiburan seperti outbond, flying fox, teater mini, campe area untuk jambore serta penambahan spot untuk berswafoto,”
+Meski demikian, Resna mengaku PT Antam masih sangat membutuhkan bantuan dari berbagai stakeholder untuk menyokong pendanaan infrastruktur agrowisata. “Soal pendanaan memang masih jadi kendala kami. Ini potensi yang baik untuk mengangkat lini pariwisata di Indonesia, khususnya di Bogor.
+Lokasi
+Bantar Karet, Nanggung, Bogor, Jawa Barat 16650
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Gazebo
+Area Swafoto
+Tiket Masuk
+HTM atau Harga Tiket Masuk nya adalah Rp. 5.000,-/orang dan parkirnya Rp. 5.000,-/mobil
+Jam Operasional
+Senin – Minggu 07.00 –17.00 WIB
+Kontak
+–
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Nanggung
+Article Categories: Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kawaci-kawasan-wisata-cikaret/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/lokasi-wisata-cikaret-bogor-250x250.jpg', null, 12, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (283, 'Jonggol Garden', 'Rekreasi', 'Rekreasi', 'Belakangan ini, banyak tempat wisata yang sengaja memberikan sentuhan artistik lebih pada lokasinya agar menarik perhatian para wisatawan penggemar selfie. Bahkan, ada tempat-tempat wisata yang sengaja dibuka sebagai sarana selfie. Salah satunya adalah Jonggol Garden.
+Tempat yang asri untuk merilexasikan pikiran. dan melepas kepenatan. semoga kedepanya akan ada kolam renang wahana air lainnya.
+Sangat Cocok Melepas Penat.
+Keindahan Yang Alami
+Destinasi wisata di Bogor yang populer dengan berbagai keunikan. Jonggol Garden menawarkan berbagai latar dan sarana untuk berfoto selfie bagi pengunjung.
+Pas kemarin kesana hijan deras jadi kurang bisa menikmati pemandangan, tempatnya luas enaklah buat nyantai..
+Mantab dan aduhai pemandangannya.
+Lokasi
+Jl. M. Bakri, Cibodas, Jonggol, Bogor, Jawa Barat, Indonesia, 16830
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Wahana Bermain
+Tempat Berswafoto
+ZioBike
+Tiket Masuk
+No Keterangan HTM
+1 Tiket Masuk Rp.15.000
+2 Flying Fox Rp.20.000
+3 ZioBike Rp.20.000
+4 Parkir Motor Rp.2.000
+5 Parkir Mobil Rp.5.000
+Jam Operasional
+Taman rekreasi selfie ini buka setiap hari. Pada hari libur, tempat wisata ini biasanya ramai oleh pengunjung dari luar kota.
+Jam Buka
+Setiap Hari 08.00 – 17.00 WIB
+Kontak
+–
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Jonggol
+Article Categories: Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/jonggol-garden/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/jonggol-garden-bogor-250x250.jpg', null, 12, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (284, 'Inagro', 'Rekreasi', 'Rekreasi', 'Berwisata Sambil Mencintai Alam di Inagro
+PT Intidaya Agrolestari (Inagro) yang berdiri di atas lahan seluas 76 hektar merupakan tempat rekreasi sekaligus melakukan pembelajaran tentang peternakan, tanaman, dan perkebunan.
+Kamu akan dibawa mengunjungi Kultur Jaringan untuk sejumlah tanaman unggulan seperti : Jati, Durian, Nanas Golden Honey, Talas Ketan, beberapa jenis pisang-pisangan (Pisang Udang, Abaka, Raja Bulu, Cavendish, Mas Apu, Uli, Kepok, dan sebagainya) ada juga bunga-bungaan hingga tanaman berkhasiat seperti tanaman Stevia. Dari daun tanaman Stevia mampu menghasilkan rasa manis alami 40 kali lipat lebih manis dari gula pasir dan gula tebu.
+Lokasi
+Jalan Raya Jampang KM. 7 Karihkil, Cibeuteung Udik, Kec. Ciseeng, Bogor, Jawa Barat 16330
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Rumah Bambu
+Tenda Penginapan
+Ruang Meeting
+Gedung Serbaguna
+Area Parkir
+Toilet
+Tiket Masuk
+Untuk biaya masuknya dikenakan tarif sebesar Rp50.000
+Jam Operasional
+Inagro buka dari hari Senin sampai Jumat mulai puku 08.00 WIB hingga 17.00 WIB
+Kontak
+Website : https://agro.inagro.co.id
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Ciseeng
+Article Categories: Agrowisata · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/inagro/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/inagro-250x250.jpg', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (285, 'Cafe De Sawah', 'Rekreasi', 'Rekreasi', 'Cafe tengah sawah yang cocok untuk tempat kuliner keluarga dan foto-foto instagramable.
+Cafe De Sawah adalah tempat wisata sekaligus restoran yang berdiri di bagain tengah hamparan sawah-sawah yang mempesona, dan juga memiliki tempat saung yang berada tepat di bagian tengah sawahnya.
+Dengan suasana pemandangan sawah yang mempesona yang sedang hijau cocok bagi para pemburu spot foto sambil bercengkrama dengan keluarga. Menjelang malam disekitar pematang sawah dibuat penerangan dari lampu LED yang semakin menambah foto malam yang menarik.
+Lokasi
+Jl. Cilubang Mekar 2, RT.03/RW.08, Situgede, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16680
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Tiket Masuk
+Tiket masuk lokasi : Gratis.
+Parkir Roda Dua : Rp. 5.000,-
+Parkir Roda Empat : Rp. 10.000,-
+Jam Operasional
+Buka Setiap Hari
+Jam 10.00 sampai dengan jam 21.00
+Kontak
+[ data kontak pengelola ]
+Tips
+Datanglah pada sore hari untuk mendapatkan pemandangan sunset dan spot foto malam hari yang lebih memukau. Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Dramaga
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/cafe-de-sawah/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/cafe-de-sawah-250x250.jpg', null, 8, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (286, 'Bukit Air Resto', 'Rekreasi', 'Rekreasi', 'Tak susah menemukan tempat cantik dengan pemandangan serba hijau di Bogor. Mau pohon pinus, pegunungan, atau hamparan sawah, kamu bisa dengan mudah melihatnya. Salah satunya dengan berkunjung ke Bukit Air Resto. Tempat makan ini berada di Jalan Babakan Encle, Desa Sukaharja Ciomas, Kabupaten Bogor. Konsep yang diusung berupa pondok atau saung yang langsung berhadapan dengan persawahan. Tak hanya hamparan padi, kamu bisa mendengar suara air mengalir yang yang menenangkan.
+“Tempatnya enak untuk bersantai dan makan siang melihat alam, sawah, suasana kampung dan desa, suara gemericik air pegunungan yg bersih “
+Wisata menarik yang instagramable.
+Sangat Cocok Untuk Berswafoto
+Bukan hanya soal pemandangan yang dijual, Bukit Air Resto juga menarik perhatian dengan aneka menu yang ditawarkan. Sebagian besar adalah makanan khas Sunda yang diracik dengan bumbu rempah khas Nusantara. Ada sayur asem, ikan gurami, ayam bakar, karedok, tutug oncom, hingga peda bakar. Untuk minumannya juga beragam. Ada es kalapa ting, es kalapa gelas, es kapuk, es jeruk, lemon tea hingga aneka jus. Semuanya enak, dengan harga yang cukup terjangkau.
+“Mantap tempatnya luas penuh hamparan sawah indah dech pokoknya Kuy gas keun”
+Review Terbaik
+Lokasi
+Jl. Babakan Encle, Sukaharja, Ciomas, Bogor, Jawa Barat 16610
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Area Parkir
+Restoran
+Pamondokan
+Outbound
+Camping
+Fasilitas Pernikahan
+Toilet
+Wifi
+Tiket Masuk
+Paket Nasi Tumpeng Rp. 950,000 / 25 Orang
+Paket Ngaliwet Rp. 675,000 / 8 Orang
+Paket Kastrol Senam Rp. 259,000 / 6 Orang
+Paket Kastrol Lumpat Rp. 175,000 / 4 Orang
+Jam Operasional
+ALL DAY 09.00 – 18.00 WIB
+Kontak
+Email : restobukitair@gmail.com
+Tlp : 082226000439
+Website: https://www.bukitairresto.com
+Facebook
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Ciomas
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/bukit-air-resto/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/bukitairresto-250x250.jpg', null, 10, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (287, 'Bukit Halimun', 'Rekreasi', 'Rekreasi', 'Wisata alam sengan udara yang segar & instagramable.
+Bukit Halimun merupakan sebuah bukit yang berada di Gunung Salak, tempat ini menyuhuhkan keindahan pemandangan alam yang masih alami. Udara sejuk serta pepohonan yang hijau membuat suasana nyaman dan tenang untuk bersantai. Tempat ini sangat cocok sekali untuk menyejukkan pikiran kalian selepas melakukan kesibukan aktivitas sehari-hari.
+Terdapat spot berupa jembatan gantung menghubungkan antara satu titik ke titik lainnya. Foto dihasilkan di jembatan gantung bukit Halimun sangat menawan instagramable.
+Tempat yang berada di atas bukit ini tentunya memang memiliki khas tersendiri selain udaranya yang sejuk juga dikelilingi oleh pepohonan yang hijau. Bukit Halimun memiliki berbagai spot foto selfie yang unik serta menarik di antaranya yaitu Jembatan Gantung tersebut. Jembatan Gantung Bukit Halimun inilah yang mengangkat nama bukit halimun menjadi terkenal.
+Lokasi
+Bukit Halimun Salak Bogor official account, Kawasan Taman Nasional Gunung Halimun Salak, Gunung Sari Kec. Pamijahan Kab. Bogor
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Parkir Roda Dua
+Parkir Roda Empat
+Mushola
+Toilet
+Tiket Masuk
+Tiket masuk lokasi : Rp. 10.000,-
+Parkir Roda Dua : Rp. 5.000,-
+Parkir Roda Empat : Rp. 10.000,-
+Jam Operasional
+Buka Setiap Hari Jam 9 pagi sampai dengan Jam 5 sore.
+Kontak
+instagram: https://www.instagram.com/bukithalimun/
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Pamijahan
+Article Categories: Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/bukit-halimun/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/bukit-halimun-1-250x250.jpg', null, 7, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (288, 'Aldepos Salaca Resort', 'Rekreasi', 'Rekreasi', 'Tempat wisata keluarga yang nyaman dan super-lengkap.
+Didukung dengan area yang luas, Aldepos Salaca Santri memiliki ragam fasilitas kegiatan outdoor. Tidak hanya untuk melengkapi liburan, ragam kegiatan yang ditawarkan juga selaras dengan konsep “Silent Kampoong”, dimana kegiatan tersebut membuat kita menyatu dengan alam dan merasakan keseruan di area perkampungan yang tenang, jauh dari riuh kehidupan tengah kota.
+Lokasi
+Jl. Raden Jl. Abdul Fatah No.24, Tapos II, Tenjolaya, Bogor, Jawa Barat 16620
+Fasilitas
+Beberapa fasilitas yang tersedia, diantaranya:
+Arena Bermain, Flying Fox, ATP, Fun Games, dll
+Parkir Roda Dua
+Parkir Roda Empat
+Masjid Besar
+Kolam Renang Mini
+Cafe / Resto
+Tiket Masuk
+Hubungi pengelola.
+Jam Operasional
+Setiap Hari
+Kontak
++62 858-1159-7799
++62 858-8183-6767
+http://salacasantri.com/
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Tenjolaya
+Article Categories: Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/aldepos-salaca-resort/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/aldepos-250x250.png', null, 11, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (289, 'Kopi Tubing', 'Rekreasi', 'Rekreasi', 'Kopi Tubing adalah Sebuah Cafe Yang Menawarkan Pemandangan Area Sawah dan di Tepi Sungai Cikuluwung Bogor Yang Sangat Indah
+KOPI TUBING menjadi magnet baru bagi pencinta wisata. Sebuah kafe yang terletak di Pamijahan, Bogor itu menawarkan suasana alami dengan penataan yang luar biasa indah. Tak sedikit pengunjung yang mengidentikkannya dengan kafe-kafe di Ubud atau di Pelataran, Borobudur.
+Kopi Tubing juga menawarkan suasana persawahan. Jalanan dari kayu dibangun di atas sawah-sawah itu dengan beberapa tempat duduk, ayunan, bagi yang ingin menikmati alam terbuka. Lebih dari itu, Kopi Tubing terletak di sisi sungai Cikuluwung. Sungai ini pun ditata sedemikian rupa sehingga memungkinkan untuk river tubing. Jalurnya sudah diatur khusus, meski secara jarak relatif pendek.
+Lokasi
+Jl. Gn. Menir, Ciasihan, Kec. Pamijahan, Bogor, Jawa Barat 16810
+Fasilitas
+area parkir luas (Rp 5.000/mobil dan Rp 3.000/motor)
+toilet bersih
+spot foto
+arung jeram
+tempat ibadah
+area outdoor
+Tarif
+untuk menunya cukup lengkap yang di bandrol dengan harga mulai dari Rp 7.000 sampai dengan Rp 75.000.
+Jam Operasional
+Weekday 09.00 – 20.00 WIB
+Weekend 09.00 – 21.00 WIB
+Kontak
+No. Telp 0811-1120-729
+Instagram @kopitubing
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Pamijahan
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kopi-tubing/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/kopi_tubing-250x250.png', null, 8, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (290, 'Kopi Daong', 'Rekreasi', 'Rekreasi', 'Kopi Daong Bogor telah menjadi salah satu tempat andalan yang hits di kalangan para penikmat kopi.
+Pemilik Kopi Daong Bogor ini merupakan seorang pengusaha sukses, bernama Alex Benyamin. Beliau merupakan owner Santa Monica Grup. Nama kedia kopi ‘Daong’ ini sebenarnya diambil dari kata ‘Daun’. Daong diambil dari bahasa Manado, karena Alex sendiri merupakan keturunan dari Manado.
+Kopi Daong dibuka resmi pada tanggal 10 April 2019. Konsep outdoor di kawasan hutan pinus ini menjadi sesuatu yang unik, dimana nuansa seperti di sini sangat sulit untuk dijumpai di kota besar seperti Jakarta. Ini menjadi sebuah keunikan tersendiri sekaligus keunggulan yang menjadi ciri khas dari Kopi Daong Pancawati.
+Lokasi
+Pancawati, Kec. Caringin, Bogor, Jawa Barat 16730
+Fasilitas
+Tempat parkir yang luas
+Wi-Fi di area caffee
+Toilet
+Tempat Ibadah
+Playgorund
+Wahana
+Skybike
+Permadani Terbang
+Spot Foto
+Tarif
+Untuk Harga Makanan di Kopi Daong terbaru dibanderol mulai dari Rp 25.000 hingga Rp 100.000, sedangkan Harga Minuman di Kopi Daong mulai dari Rp 10.000 hingga Rp 40.000.
+Jam Operasional
+Weekday 09.00-20.00 WIB
+Weekend 08.00-21.00 WIB
+Kontak
+(0251) 8292636
+Tips
+Tetap patuhi protokol kesehatan dengan menerapkan pola hidup sehat, memakai masker, menjaga Jarak dan mencuci tangan.
+Article Tags: Caringin
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/kopi-daong/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/kopi-daong-250x250.png', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (291, 'Suaka Elang Loji', 'Rekreasi', 'Rekreasi', 'Salah satu suaka yang mengusung konsep edukasi
+Suaka Elang Loji merupakan salah satu tempat wisata Bogor yang mengusung konsep edukasi. Bukan hanya memberikan pengalaman belajar, tempat wisata ini juga menyuguhkan panorama alam hutan yang sangat menakjubkan. Di dalam hutan ini, kamu bisa menyaksikan langsung binatang langka yang dilindungi.
+Tempat wisata ini sangat cocok sebagai tempat berlibur untuk keluarga. Kamu bisa mengajak anak-anak untuk mengenalkan dengan baik bagaimana kehidupan di alam yang penuh dengan hal-hal yang menarik untuk diketahui.
+Panorama alam Suaka Elang Loji masih sangat alami, dengan pepohonan rindang dan udara sejuk yang berhembusan.Sehingga, sangat nyaman untuk bersantai dan berkumpul bersama keluarga. Tak hanya itu, ada juga aneka burung yang dapat ditemui di sana, seperti burung Elang dan jenis burung Alap-alap.
+Lokasi
+Suaka Elang Loji berada di Desa Ciburayut, Kecamatan Cigombong, Bogor, Jawa Barat
+Fasilitas
+Fasilitas yang ada di sekitar Suaka Elang Loji diantaranya :
+Jembatan
+Area Parkir
+Toilet
+Mushola
+Kantin
+Tiket Masuk
+Biaya yang dipungut ketika berkunjung ke Suaka Elang Loji yaitu :
+Tiket masuk Rp. 20.000
+Parkir Rp. 30.000
+Jam Operasional
+Suaka Elang Loji buka pada pukul 08.00 – 20.00
+Article Tags: Cigombong
+Article Categories: Rekreasi · Suaka Marga Satwa', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/suaka-elang-loji/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/Suaka-ELang-250x250.png', null, 13, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (292, 'Villa Khayangan', 'Rekreasi', 'Rekreasi', 'Salah satu taman bermain yang menawarkan panorama pegunungan
+Sebenarnya Villa satu ini sudah ada sejak lama, hanya saja para pengelolanya baru saja menambahkan beberapa hal yang membuatnya makin cantik. Hal inilah yang kemudian menarik perhatian banyak wisatawan untuk mengunjungi villa satu ini. Selain sebagai penginapan villa ini juga jadi destinasi pariwisata karena memiliki pemandangan yang sangat cantik. Berlatar belakang pegunungan dari ketinggian menjadi daya tarik utamanya.
+Mengingat saat ini banyak yang tertarik dengan lokasi yang memiliki pemandangan alam dan juga spot foto, inilah yang membuat penginapan satu ini naik daun. Ada banyak sekali spot foto dengan latar belakang keindahan pemandangannya. Membuat foto yang diambil memang tampak estetik dan cantik. Seperti misalnya spot foto berbentuk perahu yang dibuat dari bambu kemudian diletakkan di bibir jurang yang jadi favorit.
+Lokasi
+Villa Khayangan berlokasi di Jl. Puncak Dua, Wargajaya, Kec. Sukamakmur, Bogor
+Fasilitas
+Beberapa fasilitas yang ada di sekitar Villa Khayangan yaitu :
+Area Parkir
+Spot Foto
+Toilet
+Gazebo
+Penginapan
+Tiket Masuk
+Harga tiket berkisar antara Rp. 15.000 Hingga Rp.35.000
+Jam Operasional
+Villa Khayangan buka 24 jam setiap hari
+Article Tags: Sukamakmur
+Article Categories: Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/villa-khayangan/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/image_2021-11-10_142459-250x250.png', null, 12, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (293, 'Cibinong Situ Plaza', 'Rekreasi', 'Rekreasi', 'Taman bermain yang sangat cocok untuk bersantai di Cibinong
+Cibinong Situ Plaza memiliki lokasi yang sangat strategis karena berada di pusat kota dan letaknya bersebelahan dengan kantor Pemerintah Daerah Bogor (Pemda). Dinamakan demikian, karena memang yang menjadi ikon atau pusat perhatian pada Cibinong Situ Plaza ini sendiri terletak pada keberadaan “situ-nya”. Dalam bahasa Sunda sendiri, “situ” sering diartikan sebagai telaga atau danau. Jumlah situ atau danau yang ada di Kota Bogor mencapai angka 94 titik situ, sedangkan pada Kecamatan Cibinong sendiri terdapat sekitar 17 situ.
+Area di sekitar Cibinong Situ Plaza ini terdiri dari area jogging dan tempat duduk santai berupa anak tangga yang berbentuk setengah lingkaran mengelilingi bagian depan dari danau. Danau di Cibinong Situ Plaza ini juga menyediakan perahu karet sebagai wahana bagi pengunjung yang datang dan ingin mengitari sekeliling danau. Sebagai ruang terbuka hijau milik Pemerintah Kabupaten Bogor, Cibinong Situ Plaza tentu saja ditanami oleh banyak tanaman rindang yang pastinya membuat suasana di sekitar tempat menjadi sejuk
+Lokasi
+Cibinong Situ Plaza berada di JL Raya Tegar Beriman, Pakan Sari, 16915, Tengah, Cibinong, Bogor, Jawa Barat 16914
+Fasilitas
+Fasilitas yang ada di Cibinong Situ Plaza yaitu tempat duduk untuk bersantai
+Tiket Masuk
+Sampai saat ini Cibinong Situ Plaza untuk masuknya tidak dikenakan biaya pungut
+Jam Operasional
+Cibinong Situ Plaza buka 24 jam setiap hari
+Article Tags: Cibinong
+Article Categories: Rekreasi · Taman Bermain', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/cibinong-situ-plasa/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/situplaza-250x250.jpg', null, 9, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (294, 'Chevilly Resort & Camp', 'Rekreasi', 'Rekreasi', 'Salah satu resort yang instagramable di daerah Ciawi
+Chevilly Resort & Camp dapat menjadi wisata singkat di dekat ibukota. Di sini, wisatawan dapat menikmati keseruan bermain dan menginap di resort. Udara di Bogor yang segar dapat sangat terasa di sini. Ditambah dengan pemandangan modern dan asri yang meliputi objek wisata ini.
+Menikmati indahnya pemandangan taman-taman alam buatan resort. Hijaunya rerumputan dan pohon membuat siapapun nyaman memandangnya. Ada juga kolam-kolam buatan yang di sekitaran taman. Memang sangat menyejukkan mata.
+Bangunan penginapan di sini juga tampak instagramable. Wisatawan dapat menjadikan bangunan resort sebagai objek foto yang menarik. Tak hanya itu, spot foto buatan lain juga hadir sebagai suguhan bagi wisatawan untuk mengabadikan gambar. Seperti gapura bergaya Cina, pagoda, payung yang digantung, dan lainnya.
+Lokasi
+Chevilly Resort berlokasi di Jalan Raya Veteran III Banjasari, RT.001/RW.004, Ciawi, Bogor, Jawa Barat, Indonesia, 16760
+Fasilitas
+Fasilitas yang ada di sekitar Chevilly Resort & Camp yaitu
+Kolam Renang
+Area Parkir
+Wifi
+Mushola
+Harga Penginapan
+Harga untuk penginapan yang ditawarkan oleh Chevilly Resort & Camp berkisar antara Rp. 275.00 per malam hingga Rp. 1.000.000 per malam
+Article Tags: Ciawi
+Article Categories: Hotel & Villa · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/checilly-resort-and-camp/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/Chevilly-Resort-And-Camp-250x250.jpg', null, 18, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (295, 'Taman Safari Bogor', 'Rekreasi', 'Rekreasi', 'Tempat wisata keluarga berwawasan lingkungan yang berorientasi pada habitat satwa di alam bebas
+Taman Safari Bogor adalah tempat yang recommended. Di sini keluarga dapat mengamati berbagai jenis hewan. Bahkan jumlahnya lebih dari 2000 jenis. Di Indonesia itu merupakan jumlah yang cukup fantastis untuk seukuran taman safari
+Sehingga Anda dan keluarga dapat berfoto dengan berbagai jenis hewan. Pengunjung juga diperkenankan untuk membantu memberi makan satwa yang ada di sana. Tidak heran Taman Safari yang satu ini dikatakan sebagai kebun binatang terbaik di Indonesia
+Lokasi
+Taman Safari Bogor berada di Cibeureum, Cisarua, Bogor, Jawa Barat 16750
+Fasilitas
+Beberapa fasilitas yang ada di Taman Safari Bogor :
+Area Parkir
+Restoran
+Tempat Ibadah
+Toilet
+Tiket Masuk
+Biaya yang dikenakan ketika berkunjung ke Taman Safari Bogor :
+Weekday
+Wisatawan domestik: Rp 210 ribu (usia di atas 6 tahun) dan Rp 180 ribu (usia di bawah 5 tahun).
+Wisatawan mancanegara: Rp 400 ribu (usia di atas 6 tahun) dan Rp 350 ribu (usia di bawah 5 tahun)
+Weekend & Holiday
+Wisatawan domestik: Rp 250 ribu (usia di atas 6 tahun) dan Rp 220 ribu (usia di bawah 5 tahun)
+Wisatawan mancanegara: Rp 400 ribu (usia di atas 6 tahun) dan Rp 350 ribu (usia di bawah 5 tahun)
+Safari Malam
+Safari siang
+Article Tags: Cisarua
+Article Categories: Rekreasi · Suaka Marga Satwa', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/taman-safari/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/tamansafari1-250x250.jpg', null, 15, null, null);
+insert into public.places (id, nama, kategori, label, deskripsi, alamat, latitude, longitude, fasilitas, harga_tiket, jam_operasional, telepon, url, url_gambar, tags, likes, author, sumber) values (296, 'Edensor Resort & Cafe', 'Rekreasi', 'Rekreasi', 'Menikmati makanan yang fotogenik dengan suasana lingkungan yang hijau dan segar
+Edensor Hills cafe menyediakan pilihan menu yang variatif, dari masakan Indonesia seperti Ayam Betutu, Sop Iga, Nasgor, sampai menu western kaya pizza, pasta dan steak.
+Selain lokasinya di pegunungan dengan panorama perbukitan hijau, Edensor Hills Cafe juga sangat cerdas menata interior dan segala pernak perniknya yang membuat Trippers berasa lagi ga di Indonesia..nuansa Eropa-nya kenteeel banget.
+Sofa-sofa empuk ditata rapi bikin nyaman duduk berlama-lama disini. Penerangannya yang temaram namun ga terlalu gelap bukan cuma bikin suasana romantis, tapi juga membuat cafe ini kian fotogenik. Ditambah pernak perniknya yang unik dijamin engga cuma kenyang makan di sini tapi juga kenyang selfie
+Lokasi
+Edensor Resort & Cafe berada di Jl. Air Terjun No.11, Bojong Koneng, Babakan Madang, Sentul, Bogor
+Fasilitas
+Fasilitas yang ada di Edensor Resort & Cafe yaitu :
+Mushola
+Area Parkir
+Wifi
+Harga Makanan
+Harga yang ditawarkan untuk makanan dan minuman di Edensor Resort & Cafe berkisar antara Rp. 10.000 Hingga Rp. 300.000
+Jam Buka
+Edensor Resort & Cafe buka setiap hari pada pukul 10.00 WIB sampai 21.00 WIB
+Indoor Edensor Resort & Cafe
+Outdoor Edensor Resort & Cafe
+Article Tags: Babakan Madang
+Article Categories: Cafe & Resto · Rekreasi', null, null, null, null, null, null, null, 'https://sportandtourism.bogorkab.go.id/edensor-resort-and-cade/', 'https://sportandtourism.bogorkab.go.id/wp-content/uploads/2021/11/edenshor-250x250.jpg', null, 51, null, null);
+
+select setval(pg_get_serial_sequence('public.places', 'id'), (select max(id) from public.places));

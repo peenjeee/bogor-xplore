@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- Pin body with gradient -->
+  <defs>
+    <linearGradient id="pinGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981"/>
+      <stop offset="100%" style="stop-color:#059669"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Main pin shape -->
+  <path d="M24 4C15.716 4 9 10.716 9 19C9 30.25 24 44 24 44C24 44 39 30.25 39 19C39 10.716 32.284 4 24 4Z" 
+        fill="url(#pinGradient)"/>
+  
+  <!-- Inner circle (white) -->
+  <circle cx="24" cy="19" r="8" fill="white"/>
+  
+  <!-- Leaf inside -->
+  <path d="M24 13C21 16 21 21 24 24C27 21 27 16 24 13Z" 
+        fill="#10B981" 
+        stroke="#10B981" 
+        stroke-width="1"/>
+  <path d="M24 13C24 17 24 20 24 24" 
+        stroke="#059669" 
+        stroke-width="1.5" 
+        stroke-linecap="round"/>
+</svg>
