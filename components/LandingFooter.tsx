@@ -58,9 +58,9 @@ function VelocityText({
               "block select-none text-[clamp(2.6rem,15vw,9rem)] font-black uppercase tracking-normal sm:text-[clamp(3.5rem,10vw,9rem)]",
               tone === "black" && "text-[#111111]",
               tone === "cyan" &&
-                "text-[#00e5ff] [text-shadow:3px_3px_0_#111111] sm:[-webkit-text-stroke:4px_#111111] sm:[text-shadow:none]",
+                "text-[#00e5ff] [text-shadow:3px_3px_0_#111111]",
               tone === "pink" &&
-                "text-[#ff5caf] [text-shadow:3px_3px_0_#111111] sm:[-webkit-text-stroke:4px_#111111] sm:[text-shadow:none]",
+                "text-[#ff5caf] [text-shadow:3px_3px_0_#111111]",
             )}
             style={{ skewX: skew }}
           >
