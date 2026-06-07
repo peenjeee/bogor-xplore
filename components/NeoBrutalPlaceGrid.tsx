@@ -1,6 +1,6 @@
 import { ArrowUpRight, Heart } from "lucide-react";
-import Image from "next/image";
 import Link from "next/link";
+import { FallbackImage } from "@/components/FallbackImage";
 import { cn } from "@/lib/utils";
 import { truncateText } from "@/lib/text";
 
@@ -53,17 +53,13 @@ function Thumb({
 }) {
   return (
     <div className={cn("relative overflow-hidden border-4 border-[#111111] bg-[#ffcc00]", className)}>
-      {src ? (
-        <Image
-          fill
-          sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
-          src={src}
-          alt={title}
-          className="object-cover"
-        />
-      ) : (
-        <div className="h-full w-full bg-[linear-gradient(135deg,#00e5ff,#ff5caf,#ffcc00)]" />
-      )}
+      <FallbackImage
+        fill
+        sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
+        src={src}
+        alt={title}
+        className="object-cover"
+      />
     </div>
   );
 }

@@ -1,6 +1,6 @@
 import { ArrowUpRight, Heart, MapPinned } from "lucide-react";
-import Image from "next/image";
 import Link from "next/link";
+import { FallbackImage } from "@/components/FallbackImage";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardFooter } from "@/components/ui/card";
 import { truncateText } from "@/lib/text";
@@ -11,17 +11,13 @@ export function PlaceCard({ place }: { place: Place }) {
     <Card className="h-full overflow-hidden bg-white transition-all duration-200 hover:-translate-x-1 hover:-translate-y-1 hover:shadow-[12px_12px_0_#111111]">
       <Link href={`/places/${place.id}`} className="group flex h-full flex-col">
         <div className="relative aspect-[4/3] overflow-hidden border-b-4 border-[#111111] bg-[#ffcc00]">
-          {place.url_gambar ? (
-            <Image
-              fill
-              sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
-              className="object-cover transition-transform duration-500 group-hover:scale-105"
-              src={place.url_gambar}
-              alt={place.nama}
-            />
-          ) : (
-            <div className="h-full w-full bg-[#ff5caf]" />
-          )}
+          <FallbackImage
+            fill
+            sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
+            className="object-cover transition-transform duration-500 group-hover:scale-105"
+            src={place.url_gambar}
+            alt={place.nama}
+          />
           <Badge className="absolute left-3 top-3 gap-1 bg-[#00e5ff] text-[#111111]">
             <MapPinned className="size-3.5" />
             {place.kategori ?? "Wisata"}

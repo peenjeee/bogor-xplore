@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { ArrowLeft, ExternalLink, Heart, MapPinned, Tags } from "lucide-react";
-import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { FallbackImage } from "@/components/FallbackImage";
 import { NeoBrutalPlaceGrid, type NeoBrutalGridItem } from "@/components/NeoBrutalPlaceGrid";
 import { RecommendationRouteMap } from "@/components/RecommendationRouteMap";
 import { Badge } from "@/components/ui/badge";
@@ -105,16 +105,14 @@ export default async function PlaceDetailPage({ params }: { params: Promise<{ id
 
           <Card className="overflow-hidden bg-white">
             <div className="relative aspect-[4/3] bg-[#ffcc00]">
-              {place.url_gambar ? (
-                <Image
-                  src={place.url_gambar}
-                  alt={place.nama}
-                  fill
-                  priority
-                  sizes="(min-width: 1024px) 44vw, 100vw"
-                  className="object-cover"
-                />
-              ) : null}
+              <FallbackImage
+                src={place.url_gambar}
+                alt={place.nama}
+                fill
+                priority
+                sizes="(min-width: 1024px) 44vw, 100vw"
+                className="object-cover"
+              />
             </div>
           </Card>
         </div>

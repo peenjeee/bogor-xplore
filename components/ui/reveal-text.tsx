@@ -40,6 +40,7 @@ export function RevealText({
 }: RevealTextProps) {
   const [hoveredIndex, setHoveredIndex] = useState<number | null>(null);
   const [showOverlayText, setShowOverlayText] = useState(false);
+  const [loadedImages, setLoadedImages] = useState<Set<string>>(() => new Set());
 
   useEffect(() => {
     const lastLetterDelay = (text.length - 1) * letterDelay;
@@ -52,82 +53,111 @@ export function RevealText({
     return () => window.clearTimeout(timer);
   }, [text.length, letterDelay, springDuration]);
 
+  useEffect(() => {
+    let isMounted = true;
+    const uniqueImages = Array.from(new Set(letterImages.filter(Boolean)));
+
+    uniqueImages.forEach((src) => {
+      const image = new window.Image();
+      image.onload = () => {
+        if (!isMounted) return;
+        setLoadedImages((current) => {
+          const next = new Set(current);
+          next.add(src);
+          return next;
+        });
+      };
+      image.src = src;
+    });
+
+    return () => {
+      isMounted = false;
+    };
+  }, [letterImages]);
+
   return (
     <div className="relative flex items-center justify-center">
       <div className="flex flex-wrap justify-center pb-4">
-        {text.split("").map((letter, index) => (
-          <m.span
-            key={`${letter}-${index}`}
-            onMouseEnter={() => setHoveredIndex(index)}
-            onMouseLeave={() => setHoveredIndex(null)}
-            className={`${fontSize} relative cursor-pointer overflow-visible pb-[0.12em] font-black leading-[1.08] tracking-normal`}
-            initial={{
-              scale: 0.95,
-              opacity: 0,
-            }}
-            animate={{
-              scale: 1,
-              opacity: 1,
-            }}
-            transition={{
-              delay: index * letterDelay,
-              type: "spring",
-              damping: 8,
-              stiffness: 200,
-              mass: 0.8,
-            }}
-          >
-            <m.span
-              className={`absolute inset-0 ${textColor}`}
-              animate={{
-                opacity: hoveredIndex === index ? 0 : 1,
-              }}
-              transition={{ duration: 0.1 }}
-            >
-              {letter}
-            </m.span>
+        {text.split("").map((letter, index) => {
+          const imageSrc = letterImages[index % letterImages.length];
+          const hasLoadedImage = loadedImages.has(imageSrc);
+          const isHovered = hoveredIndex === index;
+          const showImageFill = isHovered && hasLoadedImage;
 
+          return (
             <m.span
-              className="bg-cover bg-clip-text bg-no-repeat text-transparent"
+              key={`${letter}-${index}`}
+              onMouseEnter={() => setHoveredIndex(index)}
+              onMouseLeave={() => setHoveredIndex(null)}
+              className={`${fontSize} relative cursor-pointer overflow-visible pb-[0.12em] font-black leading-[1.08] tracking-normal`}
+              initial={{
+                scale: 0.95,
+                opacity: 0,
+              }}
               animate={{
-                opacity: hoveredIndex === index ? 1 : 0,
-                backgroundPosition: hoveredIndex === index ? "10% center" : "0% center",
+                scale: 1,
+                opacity: 1,
               }}
               transition={{
-                opacity: { duration: 0.1 },
-                backgroundPosition: {
-                  duration: 3,
-                  ease: "easeInOut",
-                },
-              }}
-              style={{
-                backgroundImage: `url('${letterImages[index % letterImages.length]}')`,
-                WebkitBackgroundClip: "text",
-                WebkitTextFillColor: "transparent",
+                delay: index * letterDelay,
+                type: "spring",
+                damping: 8,
+                stiffness: 200,
+                mass: 0.8,
               }}
             >
-              {letter}
-            </m.span>
-
-            {showOverlayText && (
               <m.span
-                className={`pointer-events-none absolute inset-0 ${overlayColor}`}
-                initial={{ opacity: 0 }}
+                className={`absolute inset-0 ${isHovered && !hasLoadedImage ? overlayColor : textColor}`}
                 animate={{
-                  opacity: [0, 1, 1, 0],
+                  opacity: showImageFill ? 0 : 1,
+                }}
+                transition={{ duration: 0.1 }}
+              >
+                {letter}
+              </m.span>
+
+              <m.span
+                className="bg-cover bg-clip-text bg-no-repeat text-transparent"
+                animate={{
+                  opacity: showImageFill ? 1 : 0,
+                  backgroundPosition: showImageFill ? "10% center" : "0% center",
                 }}
                 transition={{
-                  delay: index * overlayDelay,
-                  duration: overlayDuration,
-                  times: [0, 0.1, 0.7, 1],
-                  ease: "easeInOut",
+                  opacity: { duration: 0.1 },
+                  backgroundPosition: {
+                    duration: 3,
+                    ease: "easeInOut",
+                  },
+                }}
+                style={{
+                  backgroundImage: showImageFill ? `url('${imageSrc}')` : undefined,
+                  WebkitBackgroundClip: "text",
+                  WebkitTextFillColor: "transparent",
                 }}
               >
                 {letter}
               </m.span>
-            )}
-          </m.span>
-        ))}
+
+              {showOverlayText && (
+                <m.span
+                  className={`pointer-events-none absolute inset-0 ${overlayColor}`}
+                  initial={{ opacity: 0 }}
+                  animate={{
+                    opacity: [0, 1, 1, 0],
+                  }}
+                  transition={{
+                    delay: index * overlayDelay,
+                    duration: overlayDuration,
+                    times: [0, 0.1, 0.7, 1],
+                    ease: "easeInOut",
+                  }}
+                >
+                  {letter}
+                </m.span>
+              )}
+            </m.span>
+          );
+        })}
       </div>
     </div>
   );
