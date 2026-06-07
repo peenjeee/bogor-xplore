@@ -5,7 +5,9 @@ import { getFeaturedPlaces } from "@/lib/places";
 import type { Place } from "@/lib/types";
 
 export const metadata: Metadata = {
-  title: "Beranda",
+  title: {
+    absolute: "Beranda | BogorXplore",
+  },
   description:
     "Cari rekomendasi wisata Bogor dengan tampilan neo brutalist untuk rute, kuliner, alam, dan rekreasi berikutnya.",
 };
