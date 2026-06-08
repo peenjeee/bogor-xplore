@@ -39,34 +39,6 @@ function paginatePlaces(places: Place[], page: number): PlaceListResult {
   };
 }
 
-function seededRandom(seed: number) {
-  return () => {
-    seed = (seed * 1664525 + 1013904223) >>> 0;
-    return seed / 4294967296;
-  };
-}
-
-function seedFromText(value: string) {
-  let hash = 2166136261;
-  for (let index = 0; index < value.length; index += 1) {
-    hash ^= value.charCodeAt(index);
-    hash = Math.imul(hash, 16777619);
-  }
-  return hash >>> 0;
-}
-
-function shufflePlaces(places: Place[], seedInput: string) {
-  const shuffled = [...places];
-  const random = seededRandom(seedFromText(seedInput));
-
-  for (let index = shuffled.length - 1; index > 0; index -= 1) {
-    const swapIndex = Math.floor(random() * (index + 1));
-    [shuffled[index], shuffled[swapIndex]] = [shuffled[swapIndex], shuffled[index]];
-  }
-
-  return shuffled;
-}
-
 async function getSemanticPlaces(search: string, category: string) {
   if (!flaskBaseUrl) return null;
 
@@ -187,15 +159,13 @@ export async function getPlaces(options: {
     );
   }
 
-  const { data, error } = await query.order("id", { ascending: true }).limit(1000);
+  const { data, error } = await query
+    .order("likes", { ascending: false, nullsFirst: false })
+    .order("id", { ascending: true })
+    .limit(1000);
 
   if (error) return emptyPlaceList(page);
-
-  const refreshSeed = Math.random().toString(36).slice(2);
-  return paginatePlaces(
-    shufflePlaces((data ?? []) as Place[], `${refreshSeed}:${search}:${category}`),
-    page,
-  );
+  return paginatePlaces((data ?? []) as Place[], page);
 }
 
 export async function getPlacesForMap(options: {
