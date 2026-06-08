@@ -53,23 +53,23 @@ export function ExpandingSearchDock({
         ) : (
           <m.form
             key="input"
-            initial={{ width: 56, opacity: 0 }}
-            animate={{ width: 420, opacity: 1 }}
-            exit={{ width: 56, opacity: 0 }}
+            initial={{ scaleX: 0.14, opacity: 0 }}
+            animate={{ scaleX: 1, opacity: 1 }}
+            exit={{ scaleX: 0.14, opacity: 0 }}
             transition={{
               type: "spring",
               stiffness: 300,
               damping: 30,
             }}
             onSubmit={handleSubmit}
-            className="relative max-w-[calc(100vw-2rem)]"
+            className="relative w-[calc(100vw-2rem)] max-w-[420px] origin-center"
           >
             <m.div
               initial={{ backdropFilter: "blur(0px)" }}
               animate={{ backdropFilter: "blur(8px)" }}
-              className="relative flex items-center gap-3 overflow-hidden rounded-none border-4 border-[#111111] bg-white shadow-[8px_8px_0_#111111]"
+              className="relative flex h-16 items-center gap-3 rounded-none border-4 border-[#111111] bg-white px-4 shadow-[8px_8px_0_#111111]"
             >
-              <div className="ml-5">
+              <div className="shrink-0">
                 <Search className="h-5 w-5 text-[#111111]" />
               </div>
               <input
@@ -78,7 +78,7 @@ export function ExpandingSearchDock({
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 placeholder={placeholder}
-                className="h-14 flex-1 bg-transparent pr-4 text-base font-black outline-none placeholder:text-[#3b3b3b]"
+                className="h-full min-w-0 flex-1 bg-transparent text-base font-black outline-none placeholder:text-[#3b3b3b]"
               />
               <m.button
                 type="button"
@@ -88,7 +88,7 @@ export function ExpandingSearchDock({
                 animate={{ scale: 1 }}
                 whileHover={{ scale: 1.1 }}
                 whileTap={{ scale: 0.9 }}
-                className="mr-3 flex h-9 w-9 items-center justify-center border-2 border-[#111111] bg-[#ffcc00] hover:bg-[#ff5caf]"
+                className="flex h-9 w-9 shrink-0 items-center justify-center border-2 border-[#111111] bg-[#ffcc00] hover:bg-[#ff5caf]"
               >
                 <X className="h-4 w-4" />
               </m.button>
