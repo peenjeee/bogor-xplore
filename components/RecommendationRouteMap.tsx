@@ -327,7 +327,7 @@ export function RecommendationRouteMap({
                   </div>
                 </MarkerContent>
                 <MarkerTooltip className="rounded-none border-[3px] border-[#111111] bg-white px-3 py-2 text-xs font-black uppercase text-[#111111] shadow-[4px_4px_0_#111111]">
-                  {index === 0 ? "Lokasi saat ini" : item.nama}
+                  {index === 0 ? "Destinasi dipilih" : item.nama}
                 </MarkerTooltip>
               </MapMarker>
             ))}

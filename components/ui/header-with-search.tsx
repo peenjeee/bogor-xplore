@@ -12,6 +12,10 @@ const links = [
     label: "Beranda",
     href: "/",
   },
+  {
+    label: "Rekomendasi",
+    href: "/recommendations",
+  },
 ];
 
 export function Header() {

@@ -9,7 +9,8 @@ import { SiteHeader } from "@/components/SiteHeader";
 export function SiteChrome({ children }: { children: ReactNode }) {
   const pathname = usePathname();
   const showLandingFooter = pathname === "/";
-  const showSiteFooter = pathname === "/places" || pathname.startsWith("/places/");
+  const showSiteFooter =
+    pathname === "/places" || pathname.startsWith("/places/") || pathname === "/recommendations";
 
   return (
     <div>

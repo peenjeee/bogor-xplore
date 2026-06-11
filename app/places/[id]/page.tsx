@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { ArrowLeft, ExternalLink, Heart, MapPinned, Tags } from "lucide-react";
+import { ArrowLeft, ExternalLink, Heart, LocateFixed, MapPinned, Tags } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { FallbackImage } from "@/components/FallbackImage";
@@ -181,6 +181,13 @@ export default async function PlaceDetailPage({ params }: { params: Promise<{ id
                   ))}
                 </CardContent>
               </Card>
+
+              <Button asChild variant="secondary" className="w-full">
+                <Link href={`/recommendations?placeId=${place.id}`}>
+                  Rekomendasi Terdekat
+                  <LocateFixed className="size-4" />
+                </Link>
+              </Button>
 
               {place.url ? (
                 <Button asChild variant="secondary" className="w-full">
