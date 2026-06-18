@@ -1,13 +1,13 @@
 import type { MetadataRoute } from "next";
+import { SITE_URL } from "@/lib/site";
 import { supabase, isSupabaseConfigured } from "@/lib/supabase";
 import type { Place } from "@/lib/types";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
   const routes: MetadataRoute.Sitemap = [
-    { url: baseUrl, lastModified: new Date() },
-    { url: `${baseUrl}/places`, lastModified: new Date() },
-    { url: `${baseUrl}/recommendations`, lastModified: new Date() },
+    { url: `${SITE_URL}/`, lastModified: new Date() },
+    { url: `${SITE_URL}/places`, lastModified: new Date() },
+    { url: `${SITE_URL}/recommendations`, lastModified: new Date() },
   ];
 
   if (!isSupabaseConfigured()) return routes;
@@ -17,7 +17,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   return routes.concat(
     places.map((place) => ({
-      url: `${baseUrl}/places/${place.id}`,
+      url: `${SITE_URL}/places/${place.id}`,
       lastModified: place.updated_at ? new Date(place.updated_at) : new Date(),
     })),
   );

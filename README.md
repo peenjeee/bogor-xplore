@@ -54,8 +54,6 @@ NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=your-supabase-publishable-key
 # Optional. Isi jika Flask API sudah tersedia.
 NEXT_PUBLIC_FLASK_API_URL=
 
-# Optional. Dipakai untuk metadata sitemap/base URL.
-NEXT_PUBLIC_SITE_URL=http://localhost:3000
 ```
 
 Jalankan development server:

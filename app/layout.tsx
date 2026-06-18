@@ -5,6 +5,7 @@ import { MotionProvider } from "@/components/MotionProvider";
 import { SiteChrome } from "@/components/SiteChrome";
 import { BackToTopButton } from "@/components/ui/back-to-top-button";
 import { StringCursor } from "@/components/ui/string-cursor";
+import { SITE_URL } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: {
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
   },
   description:
     "Jelajahi 296 destinasi wisata Bogor, dari wisata alam, rekreasi, kuliner, belanja, sampai seni budaya.",
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000"),
+  metadataBase: new URL(SITE_URL),
   icons: {
     icon: "/images/logo.svg",
     apple: "/images/logo.svg",
