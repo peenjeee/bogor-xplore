@@ -261,53 +261,6 @@ export function MapClusteredPlaces({ places }: { places: ClusteredMapPlace[] }) 
   useEffect(() => {
     if (!map || typeof map.getSource !== "function" || map.getSource(sourceId)) return;
 
-    map.addSource(sourceId, {
-      type: "geojson",
-      data,
-      cluster: true,
-      clusterMaxZoom: 14,
-      clusterRadius: 54,
-    });
-
-    map.addLayer({
-      id: clusterLayerId,
-      type: "circle",
-      source: sourceId,
-      filter: ["has", "point_count"],
-      paint: {
-        "circle-color": ["step", ["get", "point_count"], "#00e5ff", 30, "#ffcc00", 80, "#ff5caf"],
-        "circle-radius": ["step", ["get", "point_count"], 18, 30, 24, 80, 30],
-        "circle-stroke-color": "#111111",
-        "circle-stroke-width": 3,
-      },
-    });
-
-    map.addLayer({
-      id: clusterCountLayerId,
-      type: "symbol",
-      source: sourceId,
-      filter: ["has", "point_count"],
-      layout: {
-        "text-field": ["get", "point_count_abbreviated"],
-        "text-size": 13,
-        "text-font": ["Open Sans Bold", "Arial Unicode MS Bold"],
-      },
-      paint: { "text-color": "#111111" },
-    });
-
-    map.addLayer({
-      id: pointLayerId,
-      type: "circle",
-      source: sourceId,
-      filter: ["!", ["has", "point_count"]],
-      paint: {
-        "circle-color": "#00e5ff",
-        "circle-radius": 7,
-        "circle-stroke-color": "#111111",
-        "circle-stroke-width": 3,
-      },
-    });
-
     const handleClusterClick = async (event: maplibregl.MapLayerMouseEvent) => {
       const feature = map.queryRenderedFeatures(event.point, { layers: [clusterLayerId] })[0];
       const clusterId = feature?.properties?.cluster_id;
@@ -345,21 +298,71 @@ export function MapClusteredPlaces({ places }: { places: ClusteredMapPlace[] }) 
       map.getCanvas().style.cursor = "";
     };
 
-    map.on("click", clusterLayerId, handleClusterClick);
-    map.on("click", pointLayerId, handlePointClick);
-    map.on("mouseenter", clusterLayerId, setPointer);
-    map.on("mouseleave", clusterLayerId, clearPointer);
-    map.on("mouseenter", pointLayerId, setPointer);
-    map.on("mouseleave", pointLayerId, clearPointer);
+    try {
+      map.addSource(sourceId, {
+        type: "geojson",
+        data,
+        cluster: true,
+        clusterMaxZoom: 14,
+        clusterRadius: 54,
+      });
+
+      map.addLayer({
+        id: clusterLayerId,
+        type: "circle",
+        source: sourceId,
+        filter: ["has", "point_count"],
+        paint: {
+          "circle-color": ["step", ["get", "point_count"], "#00e5ff", 30, "#ffcc00", 80, "#ff5caf"],
+          "circle-radius": ["step", ["get", "point_count"], 18, 30, 24, 80, 30],
+          "circle-stroke-color": "#111111",
+          "circle-stroke-width": 3,
+        },
+      });
+
+      map.addLayer({
+        id: clusterCountLayerId,
+        type: "symbol",
+        source: sourceId,
+        filter: ["has", "point_count"],
+        layout: {
+          "text-field": ["get", "point_count_abbreviated"],
+          "text-size": 13,
+        },
+        paint: { "text-color": "#111111" },
+      });
+
+      map.addLayer({
+        id: pointLayerId,
+        type: "circle",
+        source: sourceId,
+        filter: ["!", ["has", "point_count"]],
+        paint: {
+          "circle-color": "#00e5ff",
+          "circle-radius": 7,
+          "circle-stroke-color": "#111111",
+          "circle-stroke-width": 3,
+        },
+      });
+
+      map.on("click", clusterLayerId, handleClusterClick);
+      map.on("click", pointLayerId, handlePointClick);
+      map.on("mouseenter", clusterLayerId, setPointer);
+      map.on("mouseleave", clusterLayerId, clearPointer);
+      map.on("mouseenter", pointLayerId, setPointer);
+      map.on("mouseleave", pointLayerId, clearPointer);
+    } catch {
+      return;
+    }
 
     return () => {
-      map.off("click", clusterLayerId, handleClusterClick);
-      map.off("click", pointLayerId, handlePointClick);
-      map.off("mouseenter", clusterLayerId, setPointer);
-      map.off("mouseleave", clusterLayerId, clearPointer);
-      map.off("mouseenter", pointLayerId, setPointer);
-      map.off("mouseleave", pointLayerId, clearPointer);
       try {
+        map.off("click", clusterLayerId, handleClusterClick);
+        map.off("click", pointLayerId, handlePointClick);
+        map.off("mouseenter", clusterLayerId, setPointer);
+        map.off("mouseleave", clusterLayerId, clearPointer);
+        map.off("mouseenter", pointLayerId, setPointer);
+        map.off("mouseleave", pointLayerId, clearPointer);
         if (map.getLayer(pointLayerId)) map.removeLayer(pointLayerId);
         if (map.getLayer(clusterCountLayerId)) map.removeLayer(clusterCountLayerId);
         if (map.getLayer(clusterLayerId)) map.removeLayer(clusterLayerId);
