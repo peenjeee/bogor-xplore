@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import type { Metadata } from "next";
 import { ArrowLeft, ExternalLink, Heart, LocateFixed, MapPinned, Tags } from "lucide-react";
 import Link from "next/link";
@@ -45,17 +46,102 @@ export async function generateMetadata({
   };
 }
 
-export default async function PlaceDetailPage({ params }: { params: Promise<{ id: string }> }) {
-  const { id } = await params;
-  const place = await getPlaceById(Number(id));
-  if (!place) notFound();
-
+/**
+ * Async component that fetches and renders recommendations.
+ * Wrapped in Suspense so the main page content streams to the client
+ * immediately without waiting for the Flask API / Supabase recommendations.
+ */
+async function RecommendationsSection({ place }: { place: Place }) {
   const [flaskRecommendations, fallbackRecommendations] = await Promise.all([
     getRecommendationsFromFlask(place, 6),
     getFallbackRecommendations(place, 6),
   ]);
 
   const recommendations = flaskRecommendations.length ? flaskRecommendations : fallbackRecommendations;
+
+  return (
+    <>
+      <div id="peta">
+        <RecommendationRouteMap place={place} recommendations={recommendations} />
+      </div>
+
+      <section className="border-t-4 border-[#111111] bg-white py-14 sm:py-16">
+        <div className="mx-auto flex w-full max-w-7xl justify-center px-4">
+          <div className="inline-flex border-4 border-[#111111] bg-[#111111] px-6 py-5 shadow-[8px_8px_0_#ff5caf] sm:px-8 sm:py-6">
+            <h2 className="text-2xl font-black uppercase leading-none text-white sm:text-4xl">
+              <span className="bg-[#00e5ff] text-[#111111]">Rekomendasi</span> Serupa
+            </h2>
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-[#ffcc00] pb-16 pt-12 sm:pb-20 sm:pt-14">
+        <div className="mx-auto w-full max-w-7xl px-4">
+          {recommendations.length ? (
+            <NeoBrutalPlaceGrid
+              items={recommendations.map(toGridItem)}
+            />
+          ) : (
+            <Card className="mt-8">
+              <CardContent className="p-10 text-center">
+                <h2 className="text-2xl font-black uppercase text-[#111111]">Belum ada rekomendasi</h2>
+                <p className="mt-2 font-semibold text-[#3b3b3b]">Rekomendasi akan tampil setelah data serupa tersedia.</p>
+              </CardContent>
+            </Card>
+          )}
+        </div>
+      </section>
+    </>
+  );
+}
+
+function RecommendationsSkeleton() {
+  return (
+    <>
+      <section className="border-y-4 border-[#111111] bg-[#B4FA28] py-16 sm:py-20">
+        <div className="mx-auto w-full max-w-6xl px-4">
+          <div className="mb-8 border-[4px] border-[#111111] bg-white px-5 py-4 shadow-[8px_8px_0_#111111] sm:px-7 sm:py-5">
+            <h2 className="text-3xl font-black uppercase leading-none text-[#111111] sm:text-5xl">
+              Route Peta Rekomendasi
+            </h2>
+          </div>
+          <div className="relative flex h-[72vh] min-h-[540px] items-center justify-center overflow-hidden border-[4px] border-[#111111] bg-[#f7f7ef] shadow-[12px_12px_0_#111111]">
+            <div className="flex flex-col items-center gap-4 text-[#111111]">
+              <div className="size-10 animate-spin border-4 border-[#111111] border-t-transparent" />
+              <span className="text-sm font-black uppercase">Memuat peta...</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="border-t-4 border-[#111111] bg-white py-14 sm:py-16">
+        <div className="mx-auto flex w-full max-w-7xl justify-center px-4">
+          <div className="inline-flex border-4 border-[#111111] bg-[#111111] px-6 py-5 shadow-[8px_8px_0_#ff5caf] sm:px-8 sm:py-6">
+            <h2 className="text-2xl font-black uppercase leading-none text-white sm:text-4xl">
+              <span className="bg-[#00e5ff] text-[#111111]">Rekomendasi</span> Serupa
+            </h2>
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-[#ffcc00] pb-16 pt-12 sm:pb-20 sm:pt-14">
+        <div className="mx-auto w-full max-w-7xl px-4">
+          <div className="grid grid-cols-1 gap-8 px-1 pb-5 pr-5 md:grid-cols-2 lg:grid-cols-3">
+            {Array.from({ length: 6 }).map((_, i) => (
+              <div key={i} className="h-96 animate-pulse border-4 border-[#111111] bg-white shadow-[8px_8px_0_#111111]" />
+            ))}
+          </div>
+        </div>
+      </section>
+    </>
+  );
+}
+
+export default async function PlaceDetailPage({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  const place = await getPlaceById(Number(id));
+  if (!place) notFound();
+
   const alamat = place.alamat ?? extractSection(place.deskripsi, "Alamat");
   const fasilitas = place.fasilitas ?? extractSection(place.deskripsi, "Fasilitas");
   const hargaTiket = place.harga_tiket ?? extractSection(place.deskripsi, "Harga Tiket");
@@ -202,36 +288,9 @@ export default async function PlaceDetailPage({ params }: { params: Promise<{ id
         </div>
       </section>
 
-      <div id="peta">
-        <RecommendationRouteMap place={place} recommendations={recommendations} />
-      </div>
-
-      <section className="border-t-4 border-[#111111] bg-white py-14 sm:py-16">
-        <div className="mx-auto flex w-full max-w-7xl justify-center px-4">
-          <div className="inline-flex border-4 border-[#111111] bg-[#111111] px-6 py-5 shadow-[8px_8px_0_#ff5caf] sm:px-8 sm:py-6">
-            <h2 className="text-2xl font-black uppercase leading-none text-white sm:text-4xl">
-              <span className="bg-[#00e5ff] text-[#111111]">Rekomendasi</span> Serupa
-            </h2>
-          </div>
-        </div>
-      </section>
-
-      <section className="bg-[#ffcc00] pb-16 pt-12 sm:pb-20 sm:pt-14">
-        <div className="mx-auto w-full max-w-7xl px-4">
-          {recommendations.length ? (
-            <NeoBrutalPlaceGrid
-              items={recommendations.map(toGridItem)}
-            />
-          ) : (
-            <Card className="mt-8">
-              <CardContent className="p-10 text-center">
-                <h2 className="text-2xl font-black uppercase text-[#111111]">Belum ada rekomendasi</h2>
-                <p className="mt-2 font-semibold text-[#3b3b3b]">Rekomendasi akan tampil setelah data serupa tersedia.</p>
-              </CardContent>
-            </Card>
-          )}
-        </div>
-      </section>
+      <Suspense fallback={<RecommendationsSkeleton />}>
+        <RecommendationsSection place={place} />
+      </Suspense>
     </main>
   );
 }
