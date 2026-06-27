@@ -359,10 +359,14 @@ export function MapClusteredPlaces({ places }: { places: ClusteredMapPlace[] }) 
       map.off("mouseleave", clusterLayerId, clearPointer);
       map.off("mouseenter", pointLayerId, setPointer);
       map.off("mouseleave", pointLayerId, clearPointer);
-      if (map.getLayer(pointLayerId)) map.removeLayer(pointLayerId);
-      if (map.getLayer(clusterCountLayerId)) map.removeLayer(clusterCountLayerId);
-      if (map.getLayer(clusterLayerId)) map.removeLayer(clusterLayerId);
-      if (map.getSource(sourceId)) map.removeSource(sourceId);
+      try {
+        if (map.getLayer(pointLayerId)) map.removeLayer(pointLayerId);
+        if (map.getLayer(clusterCountLayerId)) map.removeLayer(clusterCountLayerId);
+        if (map.getLayer(clusterLayerId)) map.removeLayer(clusterLayerId);
+        if (map.getSource(sourceId)) map.removeSource(sourceId);
+      } catch {
+        // MapLibre can throw while the map is already being removed.
+      }
     };
   }, [data, map]);
 

@@ -53,8 +53,8 @@ export async function generateMetadata({
  */
 async function RecommendationsSection({ place }: { place: Place }) {
   const [flaskRecommendations, fallbackRecommendations] = await Promise.all([
-    getRecommendationsFromFlask(place, 6),
-    getFallbackRecommendations(place, 6),
+    getRecommendationsFromFlask(place, 6).catch(() => []),
+    getFallbackRecommendations(place, 6).catch(() => []),
   ]);
 
   const recommendations = flaskRecommendations.length ? flaskRecommendations : fallbackRecommendations;
