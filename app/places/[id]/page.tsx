@@ -5,7 +5,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { FallbackImage } from "@/components/FallbackImage";
 import { NeoBrutalPlaceGrid, type NeoBrutalGridItem } from "@/components/NeoBrutalPlaceGrid";
-import { RecommendationRouteMap } from "@/components/RecommendationRouteMap";
+import { RecommendationRouteMapLazy } from "@/components/RecommendationRouteMapLazy";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
@@ -62,7 +62,7 @@ async function RecommendationsSection({ place }: { place: Place }) {
   return (
     <>
       <div id="peta">
-        <RecommendationRouteMap place={place} recommendations={recommendations} />
+        <RecommendationRouteMapLazy place={place} recommendations={recommendations} />
       </div>
 
       <section className="border-t-4 border-[#111111] bg-white py-14 sm:py-16">

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
-import { LocationRecommendations } from "@/components/LocationRecommendations";
+import { LocationRecommendationsLazy } from "@/components/LocationRecommendationsLazy";
 import { Button } from "@/components/ui/button";
 import { getPlacesForMap } from "@/lib/places";
 
@@ -46,7 +46,7 @@ export default async function RecommendationsPage({
         </div>
       </section>
 
-      <LocationRecommendations
+      <LocationRecommendationsLazy
         places={places}
         initialPlaceId={Number.isFinite(selectedPlaceId) ? selectedPlaceId : undefined}
       />

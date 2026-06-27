@@ -3,7 +3,7 @@ import { Filter, Search } from "lucide-react";
 import { CategorySelect } from "@/components/CategorySelect";
 import { NeoBrutalPlaceGrid, type NeoBrutalGridItem } from "@/components/NeoBrutalPlaceGrid";
 import { Pagination } from "@/components/Pagination";
-import { PlaceMap } from "@/components/PlaceMap";
+import { PlaceMapLazy } from "@/components/PlaceMapLazy";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
@@ -131,7 +131,7 @@ export default async function PlacesPage({
       </section>
 
       <div id="peta">
-        <PlaceMap
+        <PlaceMapLazy
           places={mapPlaces}
           title={search || category ? "Peta hasil pencarian" : "Peta semua destinasi"}
           description="Titik di peta mengikuti semua destinasi yang cocok dengan pencarian dan filter, bukan hanya kartu di halaman ini."
