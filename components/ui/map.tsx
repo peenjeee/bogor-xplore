@@ -209,6 +209,166 @@ export function MapControls({
   return null;
 }
 
+type ClusteredMapPlace = {
+  id: number | string;
+  nama: string;
+  longitude: number;
+  latitude: number;
+  alamat?: string | null;
+  kategori?: string | null;
+  likes?: number | null;
+};
+
+function escapeHtml(value: string) {
+  return value.replace(/[&<>"']/g, (char) => {
+    const entities: Record<string, string> = {
+      "&": "&amp;",
+      "<": "&lt;",
+      ">": "&gt;",
+      '"': "&quot;",
+      "'": "&#39;",
+    };
+    return entities[char] ?? char;
+  });
+}
+
+export function MapClusteredPlaces({ places }: { places: ClusteredMapPlace[] }) {
+  const { map } = use(MapContext);
+  const sourceId = "places-cluster-source";
+  const clusterLayerId = "places-clusters";
+  const clusterCountLayerId = "places-cluster-count";
+  const pointLayerId = "places-unclustered-point";
+  const data = useMemo(
+    () => ({
+      type: "FeatureCollection" as const,
+      features: places.map((place) => ({
+        type: "Feature" as const,
+        properties: {
+          id: String(place.id),
+          nama: place.nama,
+          alamat: place.alamat ?? place.kategori ?? "Bogor, Jawa Barat",
+          likes: Number(place.likes ?? 0),
+        },
+        geometry: {
+          type: "Point" as const,
+          coordinates: [place.longitude, place.latitude],
+        },
+      })),
+    }),
+    [places],
+  );
+
+  useEffect(() => {
+    if (!map || typeof map.getSource !== "function" || map.getSource(sourceId)) return;
+
+    map.addSource(sourceId, {
+      type: "geojson",
+      data,
+      cluster: true,
+      clusterMaxZoom: 14,
+      clusterRadius: 54,
+    });
+
+    map.addLayer({
+      id: clusterLayerId,
+      type: "circle",
+      source: sourceId,
+      filter: ["has", "point_count"],
+      paint: {
+        "circle-color": ["step", ["get", "point_count"], "#00e5ff", 30, "#ffcc00", 80, "#ff5caf"],
+        "circle-radius": ["step", ["get", "point_count"], 18, 30, 24, 80, 30],
+        "circle-stroke-color": "#111111",
+        "circle-stroke-width": 3,
+      },
+    });
+
+    map.addLayer({
+      id: clusterCountLayerId,
+      type: "symbol",
+      source: sourceId,
+      filter: ["has", "point_count"],
+      layout: {
+        "text-field": ["get", "point_count_abbreviated"],
+        "text-size": 13,
+        "text-font": ["Open Sans Bold", "Arial Unicode MS Bold"],
+      },
+      paint: { "text-color": "#111111" },
+    });
+
+    map.addLayer({
+      id: pointLayerId,
+      type: "circle",
+      source: sourceId,
+      filter: ["!", ["has", "point_count"]],
+      paint: {
+        "circle-color": "#00e5ff",
+        "circle-radius": 7,
+        "circle-stroke-color": "#111111",
+        "circle-stroke-width": 3,
+      },
+    });
+
+    const handleClusterClick = async (event: maplibregl.MapLayerMouseEvent) => {
+      const feature = map.queryRenderedFeatures(event.point, { layers: [clusterLayerId] })[0];
+      const clusterId = feature?.properties?.cluster_id;
+      const coordinates = (feature?.geometry as { coordinates?: [number, number] } | undefined)?.coordinates;
+      if (clusterId === undefined || !coordinates) return;
+
+      const source = map.getSource(sourceId) as maplibregl.GeoJSONSource;
+      const zoom = await source.getClusterExpansionZoom(clusterId);
+      map.easeTo({ center: coordinates, zoom });
+    };
+
+    const handlePointClick = (event: maplibregl.MapLayerMouseEvent) => {
+      const feature = event.features?.[0];
+      const coordinates = (feature?.geometry as { coordinates?: [number, number] } | undefined)?.coordinates;
+      const properties = feature?.properties as Record<string, string | number> | undefined;
+      if (!coordinates || !properties) return;
+
+      new maplibregl.Popup({ closeButton: true, closeOnClick: true, offset: 16, className: "bogor-map-popup" })
+        .setLngLat(coordinates)
+        .setHTML(
+          `<div class="w-56 max-w-[calc(100vw-48px)] bg-white p-3 text-[#111111]">
+            <p class="text-sm font-black uppercase text-[#111111]">${escapeHtml(String(properties.nama ?? ""))}</p>
+            <p class="mt-1 text-xs font-semibold text-[#3b3b3b]">${escapeHtml(String(properties.alamat ?? ""))}</p>
+            <p class="mt-3 text-xs font-semibold text-[#111111]">Suka: ${Number(properties.likes ?? 0).toLocaleString("id-ID")}</p>
+            <a class="bogor-map-detail-link mt-3 inline-flex w-full items-center justify-center border-[3px] border-[#111111] bg-[#ffcc00] px-3 py-2 text-xs font-black uppercase shadow-[4px_4px_0_#111111]" href="/places/${escapeHtml(String(properties.id ?? ""))}">Lihat detail</a>
+          </div>`,
+        )
+        .addTo(map);
+    };
+
+    const setPointer = () => {
+      map.getCanvas().style.cursor = "pointer";
+    };
+    const clearPointer = () => {
+      map.getCanvas().style.cursor = "";
+    };
+
+    map.on("click", clusterLayerId, handleClusterClick);
+    map.on("click", pointLayerId, handlePointClick);
+    map.on("mouseenter", clusterLayerId, setPointer);
+    map.on("mouseleave", clusterLayerId, clearPointer);
+    map.on("mouseenter", pointLayerId, setPointer);
+    map.on("mouseleave", pointLayerId, clearPointer);
+
+    return () => {
+      map.off("click", clusterLayerId, handleClusterClick);
+      map.off("click", pointLayerId, handlePointClick);
+      map.off("mouseenter", clusterLayerId, setPointer);
+      map.off("mouseleave", clusterLayerId, clearPointer);
+      map.off("mouseenter", pointLayerId, setPointer);
+      map.off("mouseleave", pointLayerId, clearPointer);
+      if (map.getLayer(pointLayerId)) map.removeLayer(pointLayerId);
+      if (map.getLayer(clusterCountLayerId)) map.removeLayer(clusterCountLayerId);
+      if (map.getLayer(clusterLayerId)) map.removeLayer(clusterLayerId);
+      if (map.getSource(sourceId)) map.removeSource(sourceId);
+    };
+  }, [data, map]);
+
+  return null;
+}
+
 function isMarkerPopup(child: ReactNode): child is ReactElement<{ children?: ReactNode; className?: string }> {
   return isValidElement(child) && child.type === MarkerPopup;
 }

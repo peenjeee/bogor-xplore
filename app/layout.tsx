@@ -4,7 +4,6 @@ import "./globals.css";
 import { MotionProvider } from "@/components/MotionProvider";
 import { SiteChrome } from "@/components/SiteChrome";
 import { BackToTopButton } from "@/components/ui/back-to-top-button";
-import { StringCursor } from "@/components/ui/string-cursor";
 import { SITE_URL } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -28,7 +27,6 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         <MotionProvider>
           <SiteChrome>{children}</SiteChrome>
           <BackToTopButton />
-          <StringCursor />
         </MotionProvider>
       </body>
     </html>
