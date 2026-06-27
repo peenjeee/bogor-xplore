@@ -234,6 +234,7 @@ function escapeHtml(value: string) {
 
 export function MapClusteredPlaces({ places }: { places: ClusteredMapPlace[] }) {
   const { map } = use(MapContext);
+  const initializedRef = useRef(false);
   const sourceId = "places-cluster-source";
   const clusterLayerId = "places-clusters";
   const clusterCountLayerId = "places-cluster-count";
@@ -259,7 +260,7 @@ export function MapClusteredPlaces({ places }: { places: ClusteredMapPlace[] }) 
   );
 
   useEffect(() => {
-    if (!map || typeof map.getSource !== "function" || map.getSource(sourceId)) return;
+    if (!map || typeof map.getSource !== "function") return;
 
     const handleClusterClick = async (event: maplibregl.MapLayerMouseEvent) => {
       const feature = map.queryRenderedFeatures(event.point, { layers: [clusterLayerId] })[0];
@@ -298,7 +299,9 @@ export function MapClusteredPlaces({ places }: { places: ClusteredMapPlace[] }) 
       map.getCanvas().style.cursor = "";
     };
 
-    try {
+    const setupLayers = () => {
+      if (initializedRef.current || map.getSource(sourceId)) return;
+
       map.addSource(sourceId, {
         type: "geojson",
         data,
@@ -351,12 +354,23 @@ export function MapClusteredPlaces({ places }: { places: ClusteredMapPlace[] }) 
       map.on("mouseleave", clusterLayerId, clearPointer);
       map.on("mouseenter", pointLayerId, setPointer);
       map.on("mouseleave", pointLayerId, clearPointer);
+
+      initializedRef.current = true;
+    };
+
+    try {
+      if (map.isStyleLoaded()) {
+        setupLayers();
+      } else {
+        map.once("load", setupLayers);
+      }
     } catch {
-      return;
+      initializedRef.current = false;
     }
 
     return () => {
       try {
+        map.off("load", setupLayers);
         map.off("click", clusterLayerId, handleClusterClick);
         map.off("click", pointLayerId, handlePointClick);
         map.off("mouseenter", clusterLayerId, setPointer);
@@ -369,8 +383,21 @@ export function MapClusteredPlaces({ places }: { places: ClusteredMapPlace[] }) 
         if (map.getSource(sourceId)) map.removeSource(sourceId);
       } catch {
         // MapLibre can throw while the map is already being removed.
+      } finally {
+        initializedRef.current = false;
       }
     };
+  }, [data, map]);
+
+  useEffect(() => {
+    if (!map || !initializedRef.current) return;
+
+    try {
+      const source = map.getSource(sourceId) as maplibregl.GeoJSONSource | undefined;
+      source?.setData(data);
+    } catch {
+      // Ignore transient MapLibre style resets during navigation.
+    }
   }, [data, map]);
 
   return null;

@@ -3,6 +3,7 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { MenuIcon, XIcon } from "lucide-react";
 import { Sheet, SheetContent, SheetTitle } from "@/components/ui/sheet";
 import { cn } from "@/lib/utils";
@@ -20,6 +21,8 @@ const links = [
 
 export function Header() {
   const [open, setOpen] = React.useState(false);
+  const pathname = usePathname();
+  const isPlacesPage = pathname === "/places";
 
   return (
     <header className="fixed left-0 right-0 top-4 z-50 bg-transparent px-4">
@@ -50,6 +53,9 @@ export function Header() {
           ))}
           <Link
             href="/places"
+            onClick={(event) => {
+              if (isPlacesPage) event.preventDefault();
+            }}
             className="rounded-full bg-[#b8ff28] px-6 py-2 text-sm font-black uppercase text-[#111111] transition-transform hover:-translate-y-0.5 hover:bg-[#111111] hover:!text-white focus-visible:bg-[#111111] focus-visible:!text-white"
           >
             Jelajahi
@@ -99,7 +105,10 @@ export function Header() {
               ))}
               <Link
                 href="/places"
-                onClick={() => setOpen(false)}
+                onClick={(event) => {
+                  if (isPlacesPage) event.preventDefault();
+                  setOpen(false);
+                }}
                 className="rounded-full border-4 border-[#111111] bg-[#b8ff28] px-6 py-4 text-base font-black uppercase text-[#111111] shadow-[5px_5px_0_#111111] hover:bg-[#111111] hover:!text-white"
               >
                 Jelajahi
