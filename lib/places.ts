@@ -47,9 +47,15 @@ async function getSemanticPlaces(search: string, category: string) {
       q: search,
       limit: "100",
     });
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 5000);
+
     const response = await fetch(`${flaskBaseUrl}/api/search?${params.toString()}`, {
       cache: "no-store",
+      signal: controller.signal,
     });
+
+    clearTimeout(timeoutId);
 
     if (!response.ok) return null;
 

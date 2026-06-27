@@ -11,6 +11,9 @@ export async function getRecommendationsFromFlask(place: Place, limit = 6) {
   if (!flaskBaseUrl) return [];
 
   try {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 5000);
+
     const response = await fetch(`${flaskBaseUrl}/api/recommendations`, {
       method: "POST",
       headers: {
@@ -22,7 +25,10 @@ export async function getRecommendationsFromFlask(place: Place, limit = 6) {
         top_n: limit,
       }),
       cache: "no-store",
+      signal: controller.signal,
     });
+
+    clearTimeout(timeoutId);
 
     if (!response.ok) return [];
 
