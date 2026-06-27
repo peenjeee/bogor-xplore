@@ -10,9 +10,10 @@ const flaskBaseUrl = process.env.NEXT_PUBLIC_FLASK_API_URL?.replace(/\/$/, "");
 export async function getRecommendationsFromFlask(place: Place, limit = 6) {
   if (!flaskBaseUrl) return [];
 
+  let timeoutId: NodeJS.Timeout | undefined;
   try {
     const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 5000);
+    timeoutId = setTimeout(() => controller.abort(), 5000);
 
     const response = await fetch(`${flaskBaseUrl}/api/recommendations`, {
       method: "POST",
@@ -28,8 +29,6 @@ export async function getRecommendationsFromFlask(place: Place, limit = 6) {
       signal: controller.signal,
     });
 
-    clearTimeout(timeoutId);
-
     if (!response.ok) return [];
 
     const payload = await response.json();
@@ -39,5 +38,7 @@ export async function getRecommendationsFromFlask(place: Place, limit = 6) {
     return getPlacesByNames(names).then((items) => items.slice(0, limit));
   } catch {
     return [];
+  } finally {
+    if (timeoutId) clearTimeout(timeoutId);
   }
 }
